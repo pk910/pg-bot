@@ -50,15 +50,7 @@ sigp/enr
 sigp/lighthouse
 status-im/nimbus-eth1
 status-im/nimbus-eth2
-ethpandaops/template-devnets
-ethpandaops/dora
-ethpandaops/tracoor
-ethpandaops/assertoor
-ethpandaops/xatu
-ethpandaops/pandafuzz
-ethpandaops/lab
-ethpandaops/contributoor
-ethpandaops/cartographoor
+ethpandaops
 NethermindEth/bflat-riscv64
 NethermindEth/gas-benchmarks
 NethermindEth/riscv-alpine-build
