@@ -13,6 +13,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
 * [Pull Request] []() - 2026-02-13
+
+[ethpandaops/benchmarkoor](https://github.com/ethpandaops/benchmarkoor)
+* [Pull Request] []() - 2026-02-26
 ## Q4 2025
 
 
