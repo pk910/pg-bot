@@ -16,6 +16,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/benchmarkoor](https://github.com/ethpandaops/benchmarkoor)
 * [Pull Request] []() - 2026-02-26
+
+[ethpandaops/ansible-collection-general](https://github.com/ethpandaops/ansible-collection-general)
+* [Pull Request] []() - 2026-02-27
 ## Q4 2025
 
 
