@@ -27,6 +27,7 @@ Team: Erigon
 * [Issue] [Merge: speed task list](https://github.com/erigontech/erigon/issues/19430) - 2026-02-23
 * [Issue] [TestShutterBlockBuilding: flaky](https://github.com/erigontech/erigon/issues/19444) - 2026-02-24
 * [Pull Request] []() - 2026-02-26
+* [Pull Request] []() - 2026-03-02
 ## Q4 2025
 
 

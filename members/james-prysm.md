@@ -29,6 +29,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Issue] [Validator client PTC signing and proposing](https://github.com/OffchainLabs/prysm/issues/16401) - 2026-02-25
 * [Issue] [ExecutionPayloadEnvelopesByRoot](https://github.com/OffchainLabs/prysm/issues/16400) - 2026-02-25
 * [Pull Request] []() - 2026-02-26
+* [Issue] [Gloas Sync Package changes](https://github.com/OffchainLabs/prysm/issues/16453) - 2026-03-02
 ## Q4 2025
 
 

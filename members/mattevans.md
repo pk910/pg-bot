@@ -40,6 +40,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/xatu-cbt](https://github.com/ethpandaops/xatu-cbt)
 * [Pull Request] []() - 2026-02-28
 * [Pull Request] []() - 2026-03-02
+
+[ethpandaops/lab-backend](https://github.com/ethpandaops/lab-backend)
+* [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
 

@@ -27,6 +27,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] []() - 2026-02-13
 * [Pull Request] []() - 2026-02-16
 * [Pull Request] []() - 2026-02-23
+
+[ethpandaops/rpc-snooper](https://github.com/ethpandaops/rpc-snooper)
+* [Pull Request] []() - 2026-03-02
 ## Q4 2025
 
 
