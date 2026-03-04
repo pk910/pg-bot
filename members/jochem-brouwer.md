@@ -19,6 +19,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-27
 
+* [Pull Request] []() - 2026-03-03
 [ethpandaops/spamoor](https://github.com/ethpandaops/spamoor)
 * [Pull Request] []() - 2026-02-28
 ## Q4 2025

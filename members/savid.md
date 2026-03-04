@@ -33,6 +33,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-05
 
+* [Pull Request] []() - 2026-03-03
 [ethpandaops/xcli](https://github.com/ethpandaops/xcli)
 * [Pull Request] []() - 2026-02-26
 
