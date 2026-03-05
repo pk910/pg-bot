@@ -20,6 +20,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] []() - 2026-02-27
 
 * [Pull Request] []() - 2026-03-03
+* [Pull Request] []() - 2026-03-05
+* [Issue] [Replace temporary gas-repricings specific benchmarks by more general ones](https://github.com/ethereum/execution-specs/issues/2411) - 2026-03-04
 [ethpandaops/spamoor](https://github.com/ethpandaops/spamoor)
 * [Pull Request] []() - 2026-02-28
 ## Q4 2025

@@ -21,6 +21,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [All Core Devs - Testing (ACDT) #72, March 2, 2026](https://github.com/ethereum/pm/issues/1948) - 2026-02-24
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] []() - 2026-01-28
+
+[ethpandaops/kurtosis-sync-test](https://github.com/ethpandaops/kurtosis-sync-test)
+* [Pull Request] []() - 2026-03-04
 ## Q4 2025
 
 
