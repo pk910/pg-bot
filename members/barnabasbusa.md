@@ -47,6 +47,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2026-03-04
+
+[ethpandaops/panda-pulse](https://github.com/ethpandaops/panda-pulse)
+* [Pull Request] []() - 2026-03-05
 ## Q4 2025
 
 

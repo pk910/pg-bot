@@ -24,6 +24,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/kurtosis-sync-test](https://github.com/ethpandaops/kurtosis-sync-test)
 * [Pull Request] []() - 2026-03-04
+
+[ethpandaops/mcp](https://github.com/ethpandaops/mcp)
+* [Pull Request] []() - 2026-03-05
 ## Q4 2025
 
 

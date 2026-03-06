@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2026-03-02
 * [Pull Request] []() - 2026-03-03
 * [Pull Request] []() - 2026-03-05
+* [Issue] [besu OOM when no peers, no syncing](https://github.com/hyperledger/besu/issues/9974) - 2026-03-05
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

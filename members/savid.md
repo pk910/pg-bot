@@ -39,6 +39,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu-cbt](https://github.com/ethpandaops/xatu-cbt)
 * [Pull Request] []() - 2026-02-27
+
+[ethpandaops/codex-agent-sdk-go](https://github.com/ethpandaops/codex-agent-sdk-go)
+* [Pull Request] []() - 2026-03-06
 ## Q4 2025
 
 
