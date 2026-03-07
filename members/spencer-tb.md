@@ -22,6 +22,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethpandaops/bal-devnets](https://github.com/ethpandaops/bal-devnets)
 * [Pull Request] []() - 2026-02-28
 * [Pull Request] []() - 2026-03-02
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-03-06
 ## Q4 2025
 
 

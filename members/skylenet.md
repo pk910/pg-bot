@@ -19,6 +19,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] []() - 2026-03-04
 * [Pull Request] []() - 2026-03-05
+* [Pull Request] []() - 2026-03-06
 [ethpandaops/ansible-collection-general](https://github.com/ethpandaops/ansible-collection-general)
 * [Pull Request] []() - 2026-02-27
 * [Pull Request] []() - 2026-03-03
