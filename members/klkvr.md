@@ -23,6 +23,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: decrease sparse trie task updates batch size](https://github.com/paradigmxyz/reth/pull/22917) - 2026-03-10
 * [Review] [Review on: perf(engine): replace moka with schnellru for precompile cache and add per-precompile sizing](https://github.com/paradigmxyz/reth/pull/22900#pullrequestreview-3925063932) - 2026-03-10
 * [Review] [Review on: chore: bump reth v1.11.2](https://github.com/paradigmxyz/reth/pull/22914#pullrequestreview-3922570101) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable fee charge for eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22959#pullrequestreview-3937799484) - 2026-03-12
+* [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935973101) - 2026-03-12
+* [Pull Request] [fix: don't deadlock on repeated payloads](https://github.com/paradigmxyz/reth/pull/22971) - 2026-03-11
+* [Commit] [fix: don't deadlock on repeated payloads (#22971)](https://github.com/paradigmxyz/reth/commit/ec59698ef63beabc5a27dd1d31eab50b81f61e6c) - 2026-03-11
+* [Commit] [fix: resolve exit future once engine exits (#22956)](https://github.com/paradigmxyz/reth/commit/ea12781417f6c1ea39d880c0ae8fbad18d1c48cd) - 2026-03-11
 ## Q4 2025
 
 

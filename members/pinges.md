@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 ## Contributions
 
+## Q1 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Do not log a warning when retrying](https://github.com/besu-eth/besu/pull/10023#pullrequestreview-3933373676) - 2026-03-12
 ## Q4 2025
 
 

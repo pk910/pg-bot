@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Implement EIP-8037](https://github.com/status-im/nimbus-eth1/issues/3984) - 2026-02-16
 * [Issue] [Implement EIP-7954](https://github.com/status-im/nimbus-eth1/issues/3983) - 2026-02-16
 * [Pull Request] [update to Nim v2.2.8](https://github.com/status-im/nimbus-eth1/pull/4006) - 2026-02-23
+* [Review] [Review on: remove `blk` from BlockRef](https://github.com/status-im/nimbus-eth1/pull/4014#pullrequestreview-3931186390) - 2026-03-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump nim-ssz-serialization to 7846bd523f135b9d94954fd084105bcd7f3755b2](https://github.com/status-im/nimbus-eth2/pull/7951) - 2026-02-10
 * [Pull Request] [fix 32-bit compilation errors in fork choice](https://github.com/status-im/nimbus-eth2/pull/7974) - 2026-02-13

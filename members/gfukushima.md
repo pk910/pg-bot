@@ -24,6 +24,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Change getPayload timeout to 2s](https://github.com/Consensys/teku/pull/10473#pullrequestreview-3926283500) - 2026-03-11
 * [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3919400844) - 2026-03-10
 * [Review] [Review on: Added deprecation warning for leveldb databases](https://github.com/Consensys/teku/pull/10468#pullrequestreview-3919350091) - 2026-03-10
+* [Review] [Review on: Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470#pullrequestreview-3933440722) - 2026-03-12
+* [Review] [Review on: removed unused classgraph module](https://github.com/Consensys/teku/pull/10479#pullrequestreview-3933142452) - 2026-03-11
 ## Q4 2025
 
 

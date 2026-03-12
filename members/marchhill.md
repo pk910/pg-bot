@@ -16,6 +16,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nethermind: fix config to remove mining](https://github.com/ethereum/hive/pull/1386) - 2026-02-08
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Rework engine API versioning](https://github.com/NethermindEth/nethermind/pull/10786#pullrequestreview-3931915571) - 2026-03-11
 ## Q4 2025
 
 

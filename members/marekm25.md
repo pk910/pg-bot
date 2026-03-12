@@ -21,6 +21,10 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [Implement EIP-7976](https://github.com/NethermindEth/nethermind/issues/10681) - 2026-03-01
 * [Issue] [Implement EIP-7981](https://github.com/NethermindEth/nethermind/issues/10680) - 2026-03-01
 * [Issue] [Investigate the precompile issue in ZISK](https://github.com/NethermindEth/nethermind/issues/10696) - 2026-03-02
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457) - 2026-03-11
+* [Commit] [Enforce GasCap across debug and trace RPC methods (#10457)](https://github.com/NethermindEth/nethermind/commit/68196cbc8081740b8ea7456a64477b688a0d05d8) - 2026-03-11
 ## Q4 2025
 
 

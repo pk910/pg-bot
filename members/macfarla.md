@@ -58,6 +58,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009#pullrequestreview-3920451581) - 2026-03-10
 * [Review] [Review on: disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005#pullrequestreview-3919342284) - 2026-03-10
 * [Review] [Review on: fix(metrics): prevent duplicate OTel callback registration (#9653)](https://github.com/besu-eth/besu/pull/9957#pullrequestreview-3919258015) - 2026-03-10
+* [Review] [Review on: fix: add missing return for failed future in TransactionPool SaveRest…](https://github.com/besu-eth/besu/pull/10020#pullrequestreview-3933267399) - 2026-03-12
+* [Review] [Review on: Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002#pullrequestreview-3932639971) - 2026-03-11
+* [Review] [Review on: Throw RLPException that is handled correctly instead of IllegalArgumentException](https://github.com/besu-eth/besu/pull/10025#pullrequestreview-3931721131) - 2026-03-11
+* [Review] [Review on: Remove Peer Task System feature toggle from DownloadBodiesStep](https://github.com/besu-eth/besu/pull/9952#pullrequestreview-3932677540) - 2026-03-11
+* [Review] [Review on: Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present](https://github.com/besu-eth/besu/pull/9955#pullrequestreview-3932630584) - 2026-03-11
+* [Review] [Review on: Add tests for parallel block processing (optimistic and BAL)](https://github.com/besu-eth/besu/pull/10010#pullrequestreview-3932761967) - 2026-03-11
+* [Issue] [snap - client disconnects server for NO_RESULTS_RETURNED when close to sync](https://github.com/besu-eth/besu/issues/10029) - 2026-03-12
+* [Issue] [snap - client disconnecting server for Invalid response RESULTS_DO_NOT_MATCH_QUERY](https://github.com/besu-eth/besu/issues/10027) - 2026-03-12
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

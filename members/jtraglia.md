@@ -39,6 +39,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Improve pytest performance](https://github.com/ethereum/consensus-specs/pull/4987) - 2026-03-06
 * [Pull Request] [Fix sampling config test](https://github.com/ethereum/consensus-specs/pull/4988) - 2026-03-07
 * [Pull Request] [Add support for python 3.14](https://github.com/ethereum/consensus-specs/pull/4995) - 2026-03-10
+* [Review] [Review on: Add executable gossip validation functions for phase0](https://github.com/ethereum/consensus-specs/pull/4902#pullrequestreview-3931686722) - 2026-03-11
+* [Pull Request] [Bump version to v1.7.0-alpha.3](https://github.com/ethereum/consensus-specs/pull/4999) - 2026-03-11
+* [Commit] [Bump version to v1.7.0-alpha.3 (#4999)](https://github.com/ethereum/consensus-specs/commit/d2cfa51cac8b5bb7344ebee7752b55a54a3edb61) - 2026-03-11
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

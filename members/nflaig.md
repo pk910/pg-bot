@@ -45,6 +45,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3921814713) - 2026-03-10
 * [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3921821026) - 2026-03-10
 * [Review] [Review on: chore(deps): bump the actions group with 13 updates](https://github.com/ChainSafe/lodestar/pull/9018#pullrequestreview-3923099381) - 2026-03-10
+* [Review] [Review on: feat: schedule Fulu fork for Chiado testnet](https://github.com/ChainSafe/lodestar/pull/9027#pullrequestreview-3938059381) - 2026-03-12
+* [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3932452400) - 2026-03-11
+* [Pull Request] [wip](https://github.com/ChainSafe/lodestar/pull/9026) - 2026-03-12
+* [Review] [Review on: feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992#pullrequestreview-3932903587) - 2026-03-11
 ## Q4 2025
 
 

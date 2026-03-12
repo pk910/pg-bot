@@ -40,6 +40,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964) - 2026-03-10
 * [Commit] [feat(test-consume): initial implementation of the enginex simulator (#1964)](https://github.com/ethereum/execution-specs/commit/212389ab07088d68556bc488a9d6b356b7c6a4cb) - 2026-03-10
 * [Review] [Review on: feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964#pullrequestreview-3923666913) - 2026-03-10
+* [Review] [Review on: feat(tests): port stChainId static tests and delete originals](https://github.com/ethereum/execution-specs/pull/2478#pullrequestreview-3932855620) - 2026-03-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
@@ -47,6 +48,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix: switch erigon dockerfiles from Alpine to Debian](https://github.com/ethereum/hive/pull/1390) - 2026-02-23
 
 * [Pull Request] [hivesim,libhive,simulators/ethereum/engine: apply gofmt; clean-up whitespace](https://github.com/ethereum/hive/pull/1401) - 2026-03-10
+* [Review] [Review on: libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402#pullrequestreview-3932574158) - 2026-03-11
+* [Pull Request] [simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403) - 2026-03-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 ## Q4 2025

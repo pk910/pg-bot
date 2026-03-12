@@ -48,6 +48,15 @@ Team: Reth
 * [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3922049763) - 2026-03-10
 * [Review] [Review on: refactor(engine): remove unused MultiProofMessage::EmptyProof variant](https://github.com/paradigmxyz/reth/pull/22909#pullrequestreview-3920895969) - 2026-03-10
 * [Review] [Review on: revert: use line-tables-only debug info for profiling profile](https://github.com/paradigmxyz/reth/pull/22907#pullrequestreview-3920902258) - 2026-03-10
+* [Review] [Review on: fix(bench): guard abba run steps on BENCH_ABBA flag](https://github.com/paradigmxyz/reth/pull/22981#pullrequestreview-3934950666) - 2026-03-12
+* [Review] [Review on: feat(bench): show baseline/feature CLI args in Slack notification](https://github.com/paradigmxyz/reth/pull/22997#pullrequestreview-3937568381) - 2026-03-12
+* [Review] [Review on: ci(docker): add disable_pgo input for workflow dispatch](https://github.com/paradigmxyz/reth/pull/22960#pullrequestreview-3932192433) - 2026-03-11
+* [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935981102) - 2026-03-12
+* [Review] [Review on: feat(payload): add resolve and job-creation latency histograms](https://github.com/paradigmxyz/reth/pull/22978#pullrequestreview-3934961070) - 2026-03-12
+* [Review] [Review on: fix(engine): only count precompile cache hit when gas is sufficient](https://github.com/paradigmxyz/reth/pull/22968#pullrequestreview-3935017371) - 2026-03-12
+* [Review] [Review on: refactor(payload): merge redundant impl blocks](https://github.com/paradigmxyz/reth/pull/22984#pullrequestreview-3934952456) - 2026-03-12
+* [Review] [Review on: feat(bench): add no-slack and abba args for exploratory benchmarks](https://github.com/paradigmxyz/reth/pull/22942#pullrequestreview-3932199647) - 2026-03-11
+* [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3932205203) - 2026-03-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -66,6 +75,12 @@ Team: Reth
 * [Commit] [chore(deps): breaking bumps (#123)](https://github.com/paradigmxyz/revmc/commit/08699c3af876a9bfc7484516c9ae9d3079740e54) - 2026-03-10
 * [Commit] [ci: update names (#112)](https://github.com/paradigmxyz/revmc/commit/c5b170830aad3a31705b2c590b43b9c33919760d) - 2026-03-10
 * [Commit] [feat: reduce memory usage further (#121)](https://github.com/paradigmxyz/revmc/commit/26a4c5f246b4b97067afd32df246ee8fe7e219e8) - 2026-03-10
+* [Pull Request] [feat: reuse dumped DOT file in CLI and open in GraphvizOnline](https://github.com/paradigmxyz/revmc/pull/127) - 2026-03-11
+* [Pull Request] [feat: add DOT CFG output and --dot CLI flag](https://github.com/paradigmxyz/revmc/pull/126) - 2026-03-11
+* [Pull Request] [feat: add IR-style Display format for Bytecode](https://github.com/paradigmxyz/revmc/pull/125) - 2026-03-11
+* [Commit] [feat: reuse dumped DOT file in CLI and open in GraphvizOnline (#127)](https://github.com/paradigmxyz/revmc/commit/341e366e26dadd7babc6aec9d093b66d9d06d8cb) - 2026-03-11
+* [Commit] [feat: add DOT CFG output and --dot CLI flag (#126)](https://github.com/paradigmxyz/revmc/commit/47ff27ccc7fbe577f77404f1c76f4217482943ea) - 2026-03-11
+* [Commit] [feat: add IR-style Display format for Bytecode (#125)](https://github.com/paradigmxyz/revmc/commit/e6e9cf2c79c18d253121aa1bbff28fce22357f46) - 2026-03-11
 ## Q4 2025
 
 

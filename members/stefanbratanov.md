@@ -30,6 +30,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [[Gloas] fCu and attestation index changes for devnet-0](https://github.com/Consensys/teku/pull/10445) - 2026-03-10
 * [Commit] [[Gloas] fCu and attestation index changes for devnet-0 (#10445)](https://github.com/Consensys/teku/commit/bfbc348300f1a72d569d71032001c5aa44ef003e) - 2026-03-10
+* [Pull Request] [[Gloas] Update head on imported execution payload](https://github.com/Consensys/teku/pull/10478) - 2026-03-11
 ## Q4 2025
 
 

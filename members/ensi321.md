@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [refactor: clone state in processExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9015) - 2026-03-10
+* [Issue] [Review validator monitor usage](https://github.com/ChainSafe/lodestar/issues/9024) - 2026-03-12
 ## Q4 2025
 
 

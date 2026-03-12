@@ -66,6 +66,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3919386456) - 2026-03-10
 * [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3919393837) - 2026-03-10
 * [Review] [Review on: Implement `GET` `exceution_payload_bid` ](https://github.com/Consensys/teku/pull/10463#pullrequestreview-3919156453) - 2026-03-10
+* [Review] [Review on: 10259 proposer preferences gossip](https://github.com/Consensys/teku/pull/10472#pullrequestreview-3932685191) - 2026-03-11
+* [Pull Request] [Added version field to gloas events](https://github.com/Consensys/teku/pull/10481) - 2026-03-12
+* [Pull Request] [Removed quartz scheduler by default](https://github.com/Consensys/teku/pull/10480) - 2026-03-12
+* [Pull Request] [removed unused classgraph module](https://github.com/Consensys/teku/pull/10479) - 2026-03-11
+* [Commit] [removed unused classgraph module (#10479)](https://github.com/Consensys/teku/commit/4499115f4ae7accf59b6f14528a3ea91d7e7ec90) - 2026-03-11
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

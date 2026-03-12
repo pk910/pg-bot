@@ -48,6 +48,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926256260) - 2026-03-11
 * [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926260432) - 2026-03-11
 * [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926269299) - 2026-03-11
+* [Review] [Review on: Update `/rewards` endpoints to match spec](https://github.com/sigp/lighthouse/pull/8967#pullrequestreview-3933224139) - 2026-03-12
+* [Review] [Review on: Fix proposer lookahead endpoint JSON return type](https://github.com/sigp/lighthouse/pull/8970#pullrequestreview-3933273362) - 2026-03-12
+* [Pull Request] [Update database and block replayer to handle payload envelopes](https://github.com/sigp/lighthouse/pull/8886) - 2026-03-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

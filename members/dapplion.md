@@ -33,6 +33,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
 * [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [feat: schedule Fulu fork for Chiado testnet](https://github.com/ChainSafe/lodestar/pull/9027) - 2026-03-12
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487) - 2026-03-12
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12
 ## Q4 2025
 
 

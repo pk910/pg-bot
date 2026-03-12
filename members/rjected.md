@@ -34,6 +34,9 @@ Team: Reth
 * [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3924651371) - 2026-03-10
 * [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3925470256) - 2026-03-10
 * [Review] [Review on: feat: add verisions to the reth download metadata](https://github.com/paradigmxyz/reth/pull/22921#pullrequestreview-3923344138) - 2026-03-10
+* [Pull Request] [feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970) - 2026-03-11
+* [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3931316984) - 2026-03-11
+* [Review] [Review on: feat(engine): add tx_index to execute tx span](https://github.com/paradigmxyz/reth/pull/22972#pullrequestreview-3933209212) - 2026-03-12
 ## Q4 2025
 
 

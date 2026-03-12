@@ -22,6 +22,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [fix(benchmarks): fix fill issues with mint/approve erc20 updates](https://github.com/ethereum/execution-specs/pull/2413) - 2026-03-05
 * [Issue] [Replace temporary gas-repricings specific benchmarks by more general ones](https://github.com/ethereum/execution-specs/issues/2411) - 2026-03-04
 * [Issue] [Existing contracts deployed via deterministic CREATE2 factory are still being deployed](https://github.com/ethereum/execution-specs/issues/2436) - 2026-03-06
+* [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3935195540) - 2026-03-12
 ## Q4 2025
 
 

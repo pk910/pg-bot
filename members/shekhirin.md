@@ -23,6 +23,10 @@ Team: Reth
 * [Review] [Review on: ci(bench): add metrics proxy with subnet binding and tracy upload](https://github.com/paradigmxyz/reth/pull/22752#pullrequestreview-3924097803) - 2026-03-10
 * [Review] [Review on: chore: rm thunderdome refs](https://github.com/paradigmxyz/reth/pull/22927#pullrequestreview-3924639209) - 2026-03-10
 * [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3921972122) - 2026-03-10
+* [Pull Request] [ci(bench): push OTLP traces and logs to VictoriaTraces/VictoriaLogs](https://github.com/paradigmxyz/reth/pull/22999) - 2026-03-12
+* [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935964632) - 2026-03-12
+* [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3931228692) - 2026-03-11
+* [Review] [Review on: feat(engine): add tx_index to execute tx span](https://github.com/paradigmxyz/reth/pull/22972#pullrequestreview-3933208184) - 2026-03-12
 ## Q4 2025
 
 

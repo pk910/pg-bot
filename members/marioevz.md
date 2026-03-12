@@ -46,6 +46,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): port codeCopyZero and delete stExtCodeHash static tests](https://github.com/ethereum/execution-specs/pull/2465#pullrequestreview-3924643633) - 2026-03-10
 * [Review] [Review on: feat(tests,spec-specs): code deposit ordering and regression tests](https://github.com/ethereum/execution-specs/pull/2468#pullrequestreview-3924757469) - 2026-03-10
 * [Review] [Review on: refactor(testing): rename empty_account() to nonexistent_account()](https://github.com/ethereum/execution-specs/pull/2462#pullrequestreview-3924268776) - 2026-03-10
+* [Pull Request] [feat(test-execute): Add execute remote unit tests](https://github.com/ethereum/execution-specs/pull/2485) - 2026-03-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

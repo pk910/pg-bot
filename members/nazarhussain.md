@@ -22,6 +22,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: chore: fix private imports](https://github.com/ChainSafe/lodestar/pull/8990#pullrequestreview-3922953406) - 2026-03-10
 * [Review] [Review on: feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992#pullrequestreview-3922930927) - 2026-03-10
+* [Pull Request] [feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992) - 2026-03-11
+* [Commit] [feat: use tsgo for build and type checks (#8992)](https://github.com/ChainSafe/lodestar/commit/f7a5f4ddda7cca154ef6b831610609f05a78f8d5) - 2026-03-11
 ## Q4 2025
 
 

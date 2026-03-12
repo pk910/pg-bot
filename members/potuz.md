@@ -42,6 +42,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460) - 2026-03-10
 * [Commit] [Use execution block hash as state access key post-Gloas (#16459)](https://github.com/OffchainLabs/prysm/commit/932e5eb7d8b0ed74aec37df6fc9a55a82c75f0ec) - 2026-03-10
 * [Commit] [Handle missing Payloads (#16460)](https://github.com/OffchainLabs/prysm/commit/e35f6c351a52c7c12a163bf006c5a5c0efe221fd) - 2026-03-10
+* [Review] [Review on: forkchoice: fix head change on every attestation tick pre gloas](https://github.com/OffchainLabs/prysm/pull/16508#pullrequestreview-3932639631) - 2026-03-11
 ## Q4 2025
 
 

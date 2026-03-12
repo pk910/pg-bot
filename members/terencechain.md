@@ -43,6 +43,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Use execution block hash as state access key post-Gloas](https://github.com/OffchainLabs/prysm/pull/16459#pullrequestreview-3923992219) - 2026-03-10
 * [Review] [Review on: Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460#pullrequestreview-3919309162) - 2026-03-10
 * [Review] [Review on: Fix nil deref introduced with ePBS](https://github.com/OffchainLabs/prysm/pull/16450#pullrequestreview-3922637390) - 2026-03-10
+* [Review] [Review on: sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515#pullrequestreview-3932502904) - 2026-03-11
+* [Pull Request] [metrics: add initial gloas metric](https://github.com/OffchainLabs/prysm/pull/16519) - 2026-03-12
+* [Review] [Review on: Fix replay blocks](https://github.com/OffchainLabs/prysm/pull/16482#pullrequestreview-3931224563) - 2026-03-11
+* [Issue] [Remove pre-Gloas epoch guard in FullHead after Gloas fork](https://github.com/OffchainLabs/prysm/issues/16516) - 2026-03-11
+* [Commit] [forkchoice: fix head change on every attestation tick pre gloas (#16508)](https://github.com/OffchainLabs/prysm/commit/0fbd643c02dd2634fe7d25848c5e41f3e8900767) - 2026-03-11
 ## Q4 2025
 
 

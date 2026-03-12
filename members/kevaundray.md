@@ -44,11 +44,22 @@ Team: Consensus R&D (EF)
 * [Issue] [Unused public key parameter in stateless code](https://github.com/ethereum/execution-specs/issues/2448) - 2026-03-09
 * [Pull Request] [chore(do not merge): evmification](https://github.com/ethereum/execution-specs/pull/2471) - 2026-03-10
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3923637143) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3937342785) - 2026-03-12
+* [Review] [Review on: chore(ci): reduce pypy test set](https://github.com/ethereum/execution-specs/pull/2482#pullrequestreview-3931444795) - 2026-03-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Consider testing stateless execution against EEST fixtures](https://github.com/NethermindEth/nethermind/issues/10749) - 2026-03-07
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807) - 2026-03-12
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3936922823) - 2026-03-12
+* [Pull Request] [fix(ssz): Uint128 decode method swapped upper and lower halves ](https://github.com/NethermindEth/nethermind/pull/10794) - 2026-03-12
+* [Pull Request] [fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin](https://github.com/NethermindEth/nethermind/pull/10795) - 2026-03-12
+* [Pull Request] [fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796) - 2026-03-12
+* [Pull Request] [fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797) - 2026-03-12
+* [Issue] [Tracking Issue for SSZ readiness](https://github.com/NethermindEth/nethermind/issues/10793) - 2026-03-12
 ## Q4 2025
 
 

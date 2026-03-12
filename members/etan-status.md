@@ -26,6 +26,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Track support from empty slots and from equivocating validators for FCR](https://github.com/status-im/nimbus-eth2/pull/8026) - 2026-02-24
 * [Pull Request] [Add get_current_target_score implementation for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8031) - 2026-03-03
 * [Pull Request] [Use [] on balances/validators instead of item](https://github.com/status-im/nimbus-eth2/pull/8014) - 2026-03-06
+* [Pull Request] [Restart confirmation chain as needed by fast confirmation conditions](https://github.com/status-im/nimbus-eth2/pull/8072) - 2026-03-11
+* [Pull Request] [Return read-only access to validators/balances data instead of HashList](https://github.com/status-im/nimbus-eth2/pull/8069) - 2026-03-11
+* [Pull Request] [Replace withValue use with find helper in proto array](https://github.com/status-im/nimbus-eth2/pull/8070) - 2026-03-11
 ## Q4 2025
 
 

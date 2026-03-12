@@ -19,6 +19,8 @@ Team: Geth
 * [Pull Request] [fix eip-7778 in the miner and BAL parallel state processor](https://github.com/ethereum/go-ethereum/pull/33761) - 2026-02-04
 * [Pull Request] [all: devnet 3](https://github.com/ethereum/go-ethereum/pull/33930) - 2026-03-02
 * [Pull Request] [core,miner: clean up miner and BAL config changes](https://github.com/ethereum/go-ethereum/pull/33983) - 2026-03-10
+* [Pull Request] [core/vm: pull in changes from 33648](https://github.com/ethereum/go-ethereum/pull/33991) - 2026-03-11
+* [Review] [Review on: all: devnet 3](https://github.com/ethereum/go-ethereum/pull/33930#pullrequestreview-3932459747) - 2026-03-11
 ## Q4 2025
 
 
