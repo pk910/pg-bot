@@ -27,6 +27,10 @@ Team: Reth
 * [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935964632) - 2026-03-12
 * [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3931228692) - 2026-03-11
 * [Review] [Review on: feat(engine): add tx_index to execute tx span](https://github.com/paradigmxyz/reth/pull/22972#pullrequestreview-3933208184) - 2026-03-12
+* [Review] [Review on: chore(bench): limit reth memory to 95% of available RAM](https://github.com/paradigmxyz/reth/pull/23005#pullrequestreview-3939238163) - 2026-03-12
+* [Review] [Review on: fix(provider): heal finalized/safe block numbers ahead of highest header](https://github.com/paradigmxyz/reth/pull/22998#pullrequestreview-3938617270) - 2026-03-12
+* [Review] [Review on: chore(docker): bump lighthouse to v8.1.2](https://github.com/paradigmxyz/reth/pull/23002#pullrequestreview-3938580149) - 2026-03-12
+* [Commit] [ci(bench): push OTLP traces and logs to VictoriaTraces/VictoriaLogs (#22999)](https://github.com/paradigmxyz/reth/commit/9060c5059e0ca15813ab97a72e33d04cd2e7d998) - 2026-03-12
 ## Q4 2025
 
 

@@ -57,6 +57,7 @@ Team: Reth
 * [Review] [Review on: refactor(payload): merge redundant impl blocks](https://github.com/paradigmxyz/reth/pull/22984#pullrequestreview-3934952456) - 2026-03-12
 * [Review] [Review on: feat(bench): add no-slack and abba args for exploratory benchmarks](https://github.com/paradigmxyz/reth/pull/22942#pullrequestreview-3932199647) - 2026-03-11
 * [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3932205203) - 2026-03-11
+* [Review] [Review on: fix(net): send disconnect on invalid inbound eth messages](https://github.com/paradigmxyz/reth/pull/22986#pullrequestreview-3940164956) - 2026-03-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25

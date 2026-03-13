@@ -49,6 +49,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3932452400) - 2026-03-11
 * [Pull Request] [wip](https://github.com/ChainSafe/lodestar/pull/9026) - 2026-03-12
 * [Review] [Review on: feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992#pullrequestreview-3932903587) - 2026-03-11
+* [Pull Request] [chore: fix seen block input cache metrics](https://github.com/ChainSafe/lodestar/pull/9020) - 2026-03-12
+* [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3935281841) - 2026-03-12
+* [Commit] [chore: fix seen block input cache metrics (#9020)](https://github.com/ChainSafe/lodestar/commit/85cdea6cc606897e3ff465cab0f0907d5c8acc33) - 2026-03-12
 ## Q4 2025
 
 

@@ -36,6 +36,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483) - 2026-03-12
 * [Review] [Review on: 10259 proposer preferences gossip](https://github.com/Consensys/teku/pull/10472#pullrequestreview-3935437845) - 2026-03-12
 * [Commit] [10259 proposer preferences gossip (#10472)](https://github.com/Consensys/teku/commit/a82a0eb314d596187c79d0548891719b24ac709b) - 2026-03-12
+* [Review] [Review on: Reqresp remove noncanonical sidecars](https://github.com/Consensys/teku/pull/10486#pullrequestreview-3938568727) - 2026-03-12
 ## Q4 2025
 
 

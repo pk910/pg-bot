@@ -40,6 +40,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Remove next epoch lookahead from PTC duties](https://github.com/OffchainLabs/prysm/pull/16517#pullrequestreview-3937931671) - 2026-03-12
 * [Review] [Review on: sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515#pullrequestreview-3931992963) - 2026-03-11
 * [Review] [Review on: adding grpc endpoints for attester, proposer, sync duties, and ptc duties](https://github.com/OffchainLabs/prysm/pull/16416#pullrequestreview-3937318318) - 2026-03-12
+* [Pull Request] [implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522) - 2026-03-12
+* [Pull Request] [changed /eth/v1/beacon/execution_payload_envelope/{block_root} to /eth/v1/beacon/execution_payload_envelope/{block_id} defined in beacon apis](https://github.com/OffchainLabs/prysm/pull/16521) - 2026-03-12
 ## Q4 2025
 
 

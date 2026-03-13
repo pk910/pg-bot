@@ -23,6 +23,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923681880) - 2026-03-10
 * [Review] [Review on: Restore Taiko FCU timestamp validation allowing equal timestamps](https://github.com/NethermindEth/nethermind/pull/10810#pullrequestreview-3937927182) - 2026-03-12
 * [Commit] [ci: Add Claude review (#10768)](https://github.com/NethermindEth/nethermind/commit/79eeddfd59ea6e1c9eb97872757b573d95179cfd) - 2026-03-12
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3938739679) - 2026-03-12
 ## Q3 2025
 
 

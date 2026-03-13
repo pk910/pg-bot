@@ -48,6 +48,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Fix replay blocks](https://github.com/OffchainLabs/prysm/pull/16482#pullrequestreview-3931224563) - 2026-03-11
 * [Issue] [Remove pre-Gloas epoch guard in FullHead after Gloas fork](https://github.com/OffchainLabs/prysm/issues/16516) - 2026-03-11
 * [Commit] [forkchoice: fix head change on every attestation tick pre gloas (#16508)](https://github.com/OffchainLabs/prysm/commit/0fbd643c02dd2634fe7d25848c5e41f3e8900767) - 2026-03-11
+* [Pull Request] [sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515) - 2026-03-12
+* [Pull Request] [forkchoice: fix forkchoice balance underflow when att slot change](https://github.com/OffchainLabs/prysm/pull/16520) - 2026-03-12
+* [Commit] [sync,verification: add Gloas data column gossip validation path (#16515)](https://github.com/OffchainLabs/prysm/commit/8d5d584cf81c8dd4512ea3e4972070b85d7faeaf) - 2026-03-12
 ## Q4 2025
 
 

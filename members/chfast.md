@@ -35,6 +35,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): port stChainId static tests and delete originals](https://github.com/ethereum/execution-specs/pull/2478) - 2026-03-11
 * [Commit] [feat(tests): port stZeroKnowledge ECADD static tests (#2477)](https://github.com/ethereum/execution-specs/commit/348a42393dda6ed761739f2f11803ecbfad7bb3c) - 2026-03-12
 * [Commit] [feat(tests): port stChainId static tests and delete originals (#2478)](https://github.com/ethereum/execution-specs/commit/227d12d3389279fafeb3735ade6fe022940217a7) - 2026-03-11
+* [Pull Request] [feat(tests): add state restoration tests for reverted sub-calls](https://github.com/ethereum/execution-specs/pull/2494) - 2026-03-12
+* [Commit] [feat(tests): port MCOPY_memory_hashFiller repeated copy test (#2490)](https://github.com/ethereum/execution-specs/commit/26c9d414b4198fa4d5d9a504917cb01df8570e9c) - 2026-03-12
+* [Commit] [feat(tests): port stSLoadTest static test and delete original (#2489)](https://github.com/ethereum/execution-specs/commit/cbcf700b7ab16d0a5e1a73d32935609675cc9495) - 2026-03-12
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [ci: Upgrade riscv toolchain and harden curl downloads](https://github.com/ipsilon/evmone/pull/1418) - 2026-01-06
 * [Pull Request] [test: Add modexp test vectors for even modulus and edge cases](https://github.com/ipsilon/evmone/pull/1421) - 2026-01-15

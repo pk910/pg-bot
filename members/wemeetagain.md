@@ -42,9 +42,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992#pullrequestreview-3932465212) - 2026-03-11
 * [Issue] [tracker for tsgo import-elison bug](https://github.com/ChainSafe/lodestar/issues/9022) - 2026-03-11
 
+* [Review] [Review on: chore: fix seen block input cache metrics](https://github.com/ChainSafe/lodestar/pull/9020#pullrequestreview-3938633836) - 2026-03-12
+* [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3936719158) - 2026-03-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
 * [Review] [Review on: chore(styleguide): stop suggesting camelCase for variable names; snake_case instead](https://github.com/ChainSafe/lodestar-z/pull/236#pullrequestreview-3932449991) - 2026-03-11
+* [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 ## Q4 2025
 
 

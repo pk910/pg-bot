@@ -27,6 +27,7 @@ Team: EthereumJS
 * [Pull Request] [Misc Amsterdam eip fixes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4251) - 2026-02-28
 * [Pull Request] []() - 2026-03-04
 * [Review] [Review on: evm: Improve Custom Precompiles API (PrefixedHexString support, getPrecompile, type exports)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4261#pullrequestreview-3933461722) - 2026-03-12
+* [Pull Request] [vm: externalize header field validation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4262) - 2026-03-12
 ## Q4 2025
 
 

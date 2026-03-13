@@ -52,6 +52,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Move eest downloads to stable location](https://github.com/NethermindEth/nethermind/pull/10725) - 2026-03-12
 * [Review] [Review on: Move eest downloads to stable location](https://github.com/NethermindEth/nethermind/pull/10725#pullrequestreview-3933134632) - 2026-03-11
 * [Commit] [Move eest downloads to stable location (#10725)](https://github.com/NethermindEth/nethermind/commit/0721826d977bc5aa06c90f965a6620cb95583929) - 2026-03-12
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3940403246) - 2026-03-12
 ## Q4 2025
 
 

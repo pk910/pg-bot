@@ -56,6 +56,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: test: Slight cleanup of TestBlockchain FromContainer structure](https://github.com/NethermindEth/nethermind/pull/10779#pullrequestreview-3933010182) - 2026-03-11
 * [Commit] [Fix flaky SyncDispatcher disposal race in CountdownEvent (#10804)](https://github.com/NethermindEth/nethermind/commit/2a1126b027cf61b9017406e134b55c63652d1344) - 2026-03-12
 * [Commit] [fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue() (#10799)](https://github.com/NethermindEth/nethermind/commit/4c6cea2460249707d674125e358e6218e3b87957) - 2026-03-12
+* [Pull Request] [refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815) - 2026-03-12
+* [Review] [Review on: Rework engine API versioning](https://github.com/NethermindEth/nethermind/pull/10786#pullrequestreview-3934745592) - 2026-03-12
+* [Pull Request] [Refactor EIP-7708 transfer logs to use generic TEip7708 flag](https://github.com/NethermindEth/nethermind/pull/10817) - 2026-03-13
 ## Q4 2025
 
 

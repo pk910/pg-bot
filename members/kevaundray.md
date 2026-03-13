@@ -46,6 +46,8 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3923637143) - 2026-03-10
 * [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3937342785) - 2026-03-12
 * [Review] [Review on: chore(ci): reduce pypy test set](https://github.com/ethereum/execution-specs/pull/2482#pullrequestreview-3931444795) - 2026-03-11
+* [Pull Request] [chore: Add back invalid blocks](https://github.com/ethereum/execution-specs/pull/2495) - 2026-03-13
+* [Review] [Review on: feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492#pullrequestreview-3938685367) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

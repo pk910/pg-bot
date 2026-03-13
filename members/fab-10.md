@@ -33,6 +33,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix: add missing return for failed future in TransactionPool SaveRest…](https://github.com/besu-eth/besu/pull/10020#pullrequestreview-3935520969) - 2026-03-12
 * [Pull Request] [Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034) - 2026-03-12
 * [Commit] [Implement `txpool_status` RPC method (#10002)](https://github.com/besu-eth/besu/commit/2e014849eaf90546e4354d148f14d7ae59167881) - 2026-03-12
+* [Pull Request] [Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks](https://github.com/besu-eth/besu/pull/10037) - 2026-03-12
+* [Review] [Review on: Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks](https://github.com/besu-eth/besu/pull/10037#pullrequestreview-3938597737) - 2026-03-12
+* [Pull Request] [Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036) - 2026-03-12
+* [Commit] [Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks (#10037)](https://github.com/besu-eth/besu/commit/cb6c76206d3ab2ac30e71acf7f82d6768fa23e8f) - 2026-03-12
 ## Q4 2025
 
 

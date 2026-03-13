@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Intrinsify byte-long conversion in UInt256](https://github.com/besu-eth/besu/pull/9976) - 2026-03-11
 * [Review] [Review on: Intrinsify byte-long conversion in UInt256](https://github.com/besu-eth/besu/pull/9976#pullrequestreview-3930967111) - 2026-03-11
 * [Commit] [Use VarHandle in UInt256::fromBytesBE and uInt256::toBytesBE (#9976)](https://github.com/besu-eth/besu/commit/5f36dca9f4b562caad1f78fc528f2f79b4091d47) - 2026-03-11
+* [Review] [Review on: Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3938700623) - 2026-03-12
 ## Q4 2025
 
 

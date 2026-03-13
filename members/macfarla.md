@@ -66,6 +66,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Add tests for parallel block processing (optimistic and BAL)](https://github.com/besu-eth/besu/pull/10010#pullrequestreview-3932761967) - 2026-03-11
 * [Issue] [snap - client disconnects server for NO_RESULTS_RETURNED when close to sync](https://github.com/besu-eth/besu/issues/10029) - 2026-03-12
 * [Issue] [snap - client disconnecting server for Invalid response RESULTS_DO_NOT_MATCH_QUERY](https://github.com/besu-eth/besu/issues/10027) - 2026-03-12
+* [Pull Request] [snap server - log enabled/disabled in config overview](https://github.com/besu-eth/besu/pull/10039) - 2026-03-13
+* [Pull Request] [snap - diagnostic logging for malformed RLP messages](https://github.com/besu-eth/besu/pull/10038) - 2026-03-12
+* [Review] [Review on: snap - diagnostic logging for malformed RLP messages](https://github.com/besu-eth/besu/pull/10038#pullrequestreview-3940842566) - 2026-03-13
+* [Review] [Review on: Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3940426333) - 2026-03-12
+* [Review] [Review on: Fix Hash.toHexString() compilation error in DebugTraceBlockStreamer](https://github.com/besu-eth/besu/pull/10032#pullrequestreview-3939967742) - 2026-03-12
+* [Review] [Review on: Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034#pullrequestreview-3939964179) - 2026-03-12
+* [Review] [Review on: Remove Clique block production and mining infrastructure (Phase 3)](https://github.com/besu-eth/besu/pull/10035#pullrequestreview-3939949980) - 2026-03-12
+* [Review] [Review on: Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks](https://github.com/besu-eth/besu/pull/10037#pullrequestreview-3939934663) - 2026-03-12
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

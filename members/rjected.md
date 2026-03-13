@@ -37,6 +37,9 @@ Team: Reth
 * [Pull Request] [feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970) - 2026-03-11
 * [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3931316984) - 2026-03-11
 * [Review] [Review on: feat(engine): add tx_index to execute tx span](https://github.com/paradigmxyz/reth/pull/22972#pullrequestreview-3933209212) - 2026-03-12
+* [Review] [Review on: chore(bench): limit reth memory to 95% of available RAM](https://github.com/paradigmxyz/reth/pull/23005#pullrequestreview-3939667385) - 2026-03-12
+* [Review] [Review on: fix(provider): heal finalized/safe block numbers ahead of highest header](https://github.com/paradigmxyz/reth/pull/22998#pullrequestreview-3938819980) - 2026-03-12
+* [Commit] [feat(node-builder): add with_rocksdb_provider to NodeBuilder (#22970)](https://github.com/paradigmxyz/reth/commit/b37b881074859f2b33cdfa9019f799e06dc421fa) - 2026-03-12
 ## Q4 2025
 
 

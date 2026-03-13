@@ -37,11 +37,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [feat: schedule Fulu fork for Chiado testnet](https://github.com/ChainSafe/lodestar/pull/9027) - 2026-03-12
 
+* [Commit] [feat: schedule Fulu fork for Chiado testnet (#9027)](https://github.com/ChainSafe/lodestar/commit/8578102bd2aca7ebdc2641000d690f4fcfacac49) - 2026-03-12
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487) - 2026-03-12
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12
+* [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8078) - 2026-03-12
 ## Q4 2025
 
 

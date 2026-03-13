@@ -24,3 +24,4 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): port EXTCODEHASH subcall CREATE2 OOG test](https://github.com/ethereum/execution-specs/pull/2458#pullrequestreview-3919513010) - 2026-03-10
 * [Pull Request] [fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487) - 2026-03-12
 * [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3935228816) - 2026-03-12
+* [Review] [Review on: refactor(test-benchmark): update account access benchmark](https://github.com/ethereum/execution-specs/pull/2493#pullrequestreview-3938291493) - 2026-03-12
