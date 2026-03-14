@@ -36,10 +36,14 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [[WIP] refactor: simplify BAL t8n by passing rlp bytes; JSON testing side](https://github.com/ethereum/execution-specs/pull/2486) - 2026-03-12
 * [Review] [Review on: refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473#pullrequestreview-3939839039) - 2026-03-12
 * [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3938205949) - 2026-03-12
+* [Pull Request] [chore(ci): update GitHub action shas](https://github.com/ethereum/execution-specs/pull/2503) - 2026-03-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03
 * [Pull Request] []() - 2026-02-12
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997) - 2026-03-13
 ## Q4 2025
 
 

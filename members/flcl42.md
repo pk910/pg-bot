@@ -30,6 +30,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796#pullrequestreview-3935153453) - 2026-03-12
 * [Review] [Review on: fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797#pullrequestreview-3935130536) - 2026-03-12
 * [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3939293091) - 2026-03-12
+* [Pull Request] [Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822) - 2026-03-13
+* [Review] [Review on: Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823#pullrequestreview-3944232241) - 2026-03-13
+* [Review] [Review on: chore: Clean up cspell dictionary with inline ignores and typo fixes](https://github.com/NethermindEth/nethermind/pull/10819#pullrequestreview-3943082232) - 2026-03-13
 ## Q4 2025
 
 

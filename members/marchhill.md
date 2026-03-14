@@ -19,6 +19,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Rework engine API versioning](https://github.com/NethermindEth/nethermind/pull/10786#pullrequestreview-3931915571) - 2026-03-11
+* [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3945065537) - 2026-03-13
+* [Pull Request] [Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697) - 2026-03-13
+* [Commit] [Bal devnet 3 (#10697)](https://github.com/NethermindEth/nethermind/commit/b2328a602e0ff06f965ec57d915b3d28e7843f06) - 2026-03-13
 ## Q4 2025
 
 

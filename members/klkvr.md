@@ -29,6 +29,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: don't deadlock on repeated payloads (#22971)](https://github.com/paradigmxyz/reth/commit/ec59698ef63beabc5a27dd1d31eab50b81f61e6c) - 2026-03-11
 * [Commit] [fix: resolve exit future once engine exits (#22956)](https://github.com/paradigmxyz/reth/commit/ea12781417f6c1ea39d880c0ae8fbad18d1c48cd) - 2026-03-11
 * [Review] [Review on: feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970#pullrequestreview-3938141237) - 2026-03-12
+* [Pull Request] [perf: compute account subtrie hashes in parallel with large storage roots](https://github.com/paradigmxyz/reth/pull/23023) - 2026-03-13
 ## Q4 2025
 
 

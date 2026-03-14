@@ -28,6 +28,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-8037: Add tests for three missing gas-validation and code-deposit edge cases](https://github.com/ethereum/execution-specs/issues/2426) - 2026-03-06
 
+* [Issue] [Missing test: SELFDESTRUCT-to-self no-op should not emit EIP-7708 log](https://github.com/ethereum/execution-specs/issues/2497) - 2026-03-13
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761) - 2026-03-10
 * [Pull Request] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754) - 2026-03-10
@@ -53,6 +54,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Move eest downloads to stable location](https://github.com/NethermindEth/nethermind/pull/10725#pullrequestreview-3933134632) - 2026-03-11
 * [Commit] [Move eest downloads to stable location (#10725)](https://github.com/NethermindEth/nethermind/commit/0721826d977bc5aa06c90f965a6620cb95583929) - 2026-03-12
 * [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3940403246) - 2026-03-12
+* [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3944899765) - 2026-03-13
+* [Review] [Review on: Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697#pullrequestreview-3942009134) - 2026-03-13
+* [Review] [Review on: Refactor EIP-7708 transfer logs to use generic TEip7708 flag](https://github.com/NethermindEth/nethermind/pull/10817#pullrequestreview-3942478043) - 2026-03-13
 ## Q4 2025
 
 

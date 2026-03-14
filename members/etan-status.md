@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Replace withValue use with find helper in proto array](https://github.com/status-im/nimbus-eth2/pull/8070) - 2026-03-11
 * [Pull Request] [Collect fast confirmation rule data for get_attestation_score](https://github.com/status-im/nimbus-eth2/pull/8082) - 2026-03-13
 * [Pull Request] [Actually track slashed validators in EpochRef](https://github.com/status-im/nimbus-eth2/pull/8079) - 2026-03-12
+* [Pull Request] [Track inactive validators for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8084) - 2026-03-13
 ## Q4 2025
 
 

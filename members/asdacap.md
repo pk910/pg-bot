@@ -36,6 +36,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor: introduce factory pattern for protocol handlers (#10781)](https://github.com/NethermindEth/nethermind/commit/74a0141f934698239e9db1442056f2a6542dddf9) - 2026-03-12
 * [Commit] [Flat/snap sync (#10426)](https://github.com/NethermindEth/nethermind/commit/8760f70bf3753ff24095bce97b4ccc92ff6bb413) - 2026-03-12
 * [Commit] [test: Slight cleanup of TestBlockchain FromContainer structure (#10779)](https://github.com/NethermindEth/nethermind/commit/8f4410297cf46c26e4558b1cfc06c46c97b696d2) - 2026-03-11
+* [Review] [Review on: feat: BenchmarkDotNet gas benchmarks using gas-benchmarks payloads](https://github.com/NethermindEth/nethermind/pull/10541#pullrequestreview-3947242938) - 2026-03-13
+* [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3947236195) - 2026-03-13
+* [Review] [Review on: fix: fix data race on _requestCount in MessageDictionary](https://github.com/NethermindEth/nethermind/pull/10813#pullrequestreview-3941661202) - 2026-03-13
 ## Q4 2025
 
 

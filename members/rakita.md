@@ -48,6 +48,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(revme): use transact state for debug State after output](https://github.com/bluealloy/revm/pull/3498) - 2026-03-12
 * [Pull Request] [chore: bump c-kzg from 2.1.6 to 2.1.7](https://github.com/bluealloy/revm/pull/3495) - 2026-03-11
 * [Commit] [chore: bump c-kzg from 2.1.6 to 2.1.7 (#3495)](https://github.com/bluealloy/revm/commit/e673e44350574993822683b4461a29be58a84f85) - 2026-03-11
+* [Review] [Review on: feat: add EIP-8037 / TIP-1016 state gas support](https://github.com/bluealloy/revm/pull/3406#pullrequestreview-3943729164) - 2026-03-13
+* [Pull Request] [feat: Amsterdam devnet3 EIP updates](https://github.com/bluealloy/revm/pull/3438) - 2026-03-13
+* [Commit] [fix(revme): use transact state for debug "State after" output (#3498)](https://github.com/bluealloy/revm/commit/57e1c0820878e185aa558c9899b3c82f79b73a4b) - 2026-03-13
+* [Commit] [feat: Part of amsterdam devnet3 EIP updates (#3438)](https://github.com/bluealloy/revm/commit/48b4ded0d17644cbf7fed499960722c88605b468) - 2026-03-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

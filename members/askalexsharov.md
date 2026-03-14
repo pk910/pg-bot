@@ -64,6 +64,9 @@ Team: Erigon
 * [Review] [Review on: ci: improve release workflow robustness and inline debian pkg build](https://github.com/erigontech/erigon/pull/19825#pullrequestreview-3933968710) - 2026-03-12
 * [Review] [Review on: claude: optimize erigon-ephemeral skill description for better triggering](https://github.com/erigontech/erigon/pull/19836#pullrequestreview-3933964367) - 2026-03-12
 * [Commit] [pagedWriter: one method to build page (#19841)](https://github.com/erigontech/erigon/commit/296df58a2acff54d9044d3581616d969c1c3635b) - 2026-03-12
+* [Review] [Review on: common/hexutil: deduplicate UnmarshalFixedText and UnmarshalFixedUnprefixedText](https://github.com/erigontech/erigon/pull/19790#pullrequestreview-3942494031) - 2026-03-13
+* [Review] [Review on: cmd/utils/app: retrofit tests for state snapshot integrity checks](https://github.com/erigontech/erigon/pull/19867#pullrequestreview-3941953078) - 2026-03-13
+* [Review] [Review on: db/kv/mdbx: fix deadlock in async tx channel on context cancellation](https://github.com/erigontech/erigon/pull/19856#pullrequestreview-3940926436) - 2026-03-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

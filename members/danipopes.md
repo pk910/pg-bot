@@ -58,6 +58,9 @@ Team: Reth
 * [Review] [Review on: feat(bench): add no-slack and abba args for exploratory benchmarks](https://github.com/paradigmxyz/reth/pull/22942#pullrequestreview-3932199647) - 2026-03-11
 * [Review] [Review on: chore: remove rocksdb and edge feature gates, default to storage v2](https://github.com/paradigmxyz/reth/pull/22954#pullrequestreview-3932205203) - 2026-03-11
 * [Review] [Review on: fix(net): send disconnect on invalid inbound eth messages](https://github.com/paradigmxyz/reth/pull/22986#pullrequestreview-3940164956) - 2026-03-12
+* [Review] [Review on: fix(rpc): eth_config returns wrong fork](https://github.com/paradigmxyz/reth/pull/23007#pullrequestreview-3942550686) - 2026-03-13
+* [Review] [Review on: ci: bump state tests runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23017#pullrequestreview-3942582099) - 2026-03-13
+* [Review] [Review on: ci: disable PGO by default, rename input to `pgo`](https://github.com/paradigmxyz/reth/pull/23016#pullrequestreview-3942528720) - 2026-03-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
