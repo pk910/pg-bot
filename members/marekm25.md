@@ -25,6 +25,10 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457) - 2026-03-11
 * [Commit] [Enforce GasCap across debug and trace RPC methods (#10457)](https://github.com/NethermindEth/nethermind/commit/68196cbc8081740b8ea7456a64477b688a0d05d8) - 2026-03-11
+* [Pull Request] [devops: extract code-formatting steps into shared scripts](https://github.com/NethermindEth/nethermind/pull/10831) - 2026-03-14
+* [Pull Request] [fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates](https://github.com/NethermindEth/nethermind/pull/10828) - 2026-03-14
+* [Issue] [Enforce coding style rules via static analysis in CI](https://github.com/NethermindEth/nethermind/issues/10830) - 2026-03-14
+* [Issue] [Add dotnet format step to CI pipeline](https://github.com/NethermindEth/nethermind/issues/10829) - 2026-03-14
 ## Q4 2025
 
 

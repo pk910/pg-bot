@@ -69,6 +69,7 @@ Team: Reth
 * [Pull Request] []() - 2026-02-05
 
 * [Pull Request] [chore(revme): use alloy-trie instead of triehash](https://github.com/bluealloy/revm/pull/3488) - 2026-03-09
+* [Review] [Review on: fix: make DummyHost return defaults instead of errors for storage ops](https://github.com/bluealloy/revm/pull/3503#pullrequestreview-3949304214) - 2026-03-14
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix: make state tests pass](https://github.com/paradigmxyz/revmc/pull/95) - 2026-03-05
 * [Pull Request] [fix: remove flaky builtin_symbols_exported test](https://github.com/paradigmxyz/revmc/pull/108) - 2026-03-07
@@ -85,6 +86,13 @@ Team: Reth
 * [Commit] [feat: reuse dumped DOT file in CLI and open in GraphvizOnline (#127)](https://github.com/paradigmxyz/revmc/commit/341e366e26dadd7babc6aec9d093b66d9d06d8cb) - 2026-03-11
 * [Commit] [feat: add DOT CFG output and --dot CLI flag (#126)](https://github.com/paradigmxyz/revmc/commit/47ff27ccc7fbe577f77404f1c76f4217482943ea) - 2026-03-11
 * [Commit] [feat: add IR-style Display format for Bytecode (#125)](https://github.com/paradigmxyz/revmc/commit/e6e9cf2c79c18d253121aa1bbff28fce22357f46) - 2026-03-11
+* [Pull Request] [perf: use local stack alloca to enable dead store elimination](https://github.com/paradigmxyz/revmc/pull/132) - 2026-03-15
+* [Pull Request] [feat: add compile-time benchmarks and switch to codspeed-criterion-compat](https://github.com/paradigmxyz/revmc/pull/130) - 2026-03-14
+* [Pull Request] [refactor: pass individual word pointers to builtins instead of stack slice](https://github.com/paradigmxyz/revmc/pull/131) - 2026-03-14
+* [Pull Request] [feat: add tracy](https://github.com/paradigmxyz/revmc/pull/129) - 2026-03-14
+* [Pull Request] [feat: add remarks.txt to compiler dump with phase timings](https://github.com/paradigmxyz/revmc/pull/128) - 2026-03-14
+* [Commit] [feat: add tracy (#129)](https://github.com/paradigmxyz/revmc/commit/9592ad7ba70bb77a96583988acbe7d33a19afa06) - 2026-03-14
+* [Commit] [feat: add remarks.txt to compiler dump with phase timings (#128)](https://github.com/paradigmxyz/revmc/commit/b8f827159953e49ae3d60a2e46518a05c816baef) - 2026-03-14
 ## Q4 2025
 
 

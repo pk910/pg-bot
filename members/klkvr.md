@@ -30,6 +30,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: resolve exit future once engine exits (#22956)](https://github.com/paradigmxyz/reth/commit/ea12781417f6c1ea39d880c0ae8fbad18d1c48cd) - 2026-03-11
 * [Review] [Review on: feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970#pullrequestreview-3938141237) - 2026-03-12
 * [Pull Request] [perf: compute account subtrie hashes in parallel with large storage roots](https://github.com/paradigmxyz/reth/pull/23023) - 2026-03-13
+* [Review] [Review on: fix(storage): preserve genesis history entries in RocksDB consistency check](https://github.com/paradigmxyz/reth/pull/23033#pullrequestreview-3947819124) - 2026-03-14
 ## Q4 2025
 
 
