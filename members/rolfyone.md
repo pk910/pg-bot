@@ -71,6 +71,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Removed quartz scheduler by default](https://github.com/Consensys/teku/pull/10480) - 2026-03-12
 * [Pull Request] [removed unused classgraph module](https://github.com/Consensys/teku/pull/10479) - 2026-03-11
 * [Commit] [removed unused classgraph module (#10479)](https://github.com/Consensys/teku/commit/4499115f4ae7accf59b6f14528a3ea91d7e7ec90) - 2026-03-11
+* [Review] [Review on: Fix flakness on possible race condition](https://github.com/Consensys/teku/pull/10490#pullrequestreview-3950998345) - 2026-03-16
+* [Review] [Review on: Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10491#pullrequestreview-3950994333) - 2026-03-16
+* [Review] [Review on: Add Missing Domains in specConfig API](https://github.com/Consensys/teku/pull/10488#pullrequestreview-3950990902) - 2026-03-16
+* [Review] [Review on: Javalin7](https://github.com/Consensys/teku/pull/10484#pullrequestreview-3950981342) - 2026-03-16
+* [Review] [Review on: [Gloas] Update head on imported execution payload](https://github.com/Consensys/teku/pull/10478#pullrequestreview-3950964721) - 2026-03-16
+* [Review] [Review on: Execution payload bid API](https://github.com/Consensys/teku/pull/10476#pullrequestreview-3950946934) - 2026-03-16
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3950812473) - 2026-03-15
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

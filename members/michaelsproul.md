@@ -51,6 +51,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Update `/rewards` endpoints to match spec](https://github.com/sigp/lighthouse/pull/8967#pullrequestreview-3933224139) - 2026-03-12
 * [Review] [Review on: Fix proposer lookahead endpoint JSON return type](https://github.com/sigp/lighthouse/pull/8970#pullrequestreview-3933273362) - 2026-03-12
 * [Pull Request] [Update database and block replayer to handle payload envelopes](https://github.com/sigp/lighthouse/pull/8886) - 2026-03-11
+* [Pull Request] [Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988) - 2026-03-16
+* [Review] [Review on: Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988#pullrequestreview-3950956084) - 2026-03-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
