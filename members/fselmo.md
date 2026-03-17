@@ -37,6 +37,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473#pullrequestreview-3939839039) - 2026-03-12
 * [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3938205949) - 2026-03-12
 * [Pull Request] [chore(ci): update GitHub action shas](https://github.com/ethereum/execution-specs/pull/2503) - 2026-03-13
+* [Review] [Review on: feat(planned-tests): Add EIP-7928 planned test cases](https://github.com/ethereum/execution-specs/pull/1903#pullrequestreview-3957401855) - 2026-03-16
+* [Commit] [chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions (#2503)](https://github.com/ethereum/execution-specs/commit/424c4f45ba190af73551804b73be027475f72084) - 2026-03-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03

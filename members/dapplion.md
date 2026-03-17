@@ -30,6 +30,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923997668) - 2026-03-10
 * [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923998477) - 2026-03-10
 * [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923999241) - 2026-03-10
+* [Review] [Review on: Gloas Forkchoice](https://github.com/sigp/lighthouse/pull/8906#pullrequestreview-3951559064) - 2026-03-16
+* [Review] [Review on: Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988#pullrequestreview-3951298168) - 2026-03-16
+* [Pull Request] [Add range sync tests](https://github.com/sigp/lighthouse/pull/8989) - 2026-03-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
 * [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08
@@ -41,6 +44,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487) - 2026-03-12
 
+* [Commit] [Schedule Fulu fork for Chiado testnet (#10487)](https://github.com/Consensys/teku/commit/e6dfe20e0a14efae112a3089952d1cb481708202) - 2026-03-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8078) - 2026-03-12

@@ -41,6 +41,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-consume): initial implementation of the enginex simulator (#1964)](https://github.com/ethereum/execution-specs/commit/212389ab07088d68556bc488a9d6b356b7c6a4cb) - 2026-03-10
 * [Review] [Review on: feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964#pullrequestreview-3923666913) - 2026-03-10
 * [Review] [Review on: feat(tests): port stChainId static tests and delete originals](https://github.com/ethereum/execution-specs/pull/2478#pullrequestreview-3932855620) - 2026-03-11
+* [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3953559848) - 2026-03-16
+* [Pull Request] [chore(ci): warn when local markdownlint-cli2 version diverges from CI](https://github.com/ethereum/execution-specs/pull/2513) - 2026-03-16
+* [Review] [Review on: chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions](https://github.com/ethereum/execution-specs/pull/2503#pullrequestreview-3952423920) - 2026-03-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
@@ -50,6 +53,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [hivesim,libhive,simulators/ethereum/engine: apply gofmt; clean-up whitespace](https://github.com/ethereum/hive/pull/1401) - 2026-03-10
 * [Review] [Review on: libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402#pullrequestreview-3932574158) - 2026-03-11
 * [Pull Request] [simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403) - 2026-03-11
+* [Pull Request] [internal/libhive: anchor `--sim` regex matching at end of simulator name](https://github.com/ethereum/hive/pull/1406) - 2026-03-16
+* [Commit] [internal/libhive: anchor `--sim` regex matching at end of simulator name (#1406)](https://github.com/ethereum/hive/commit/bca75d8080aabece27225b59f06feb9e739fcdcd) - 2026-03-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 ## Q4 2025

@@ -37,6 +37,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks](https://github.com/besu-eth/besu/pull/10037#pullrequestreview-3938597737) - 2026-03-12
 * [Pull Request] [Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036) - 2026-03-12
 * [Commit] [Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks (#10037)](https://github.com/besu-eth/besu/commit/cb6c76206d3ab2ac30e71acf7f82d6768fa23e8f) - 2026-03-12
+* [Review] [Review on: Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034#pullrequestreview-3952657241) - 2026-03-16
+* [Review] [Review on: fix: use block's own hash for balance lookup in eth_estimateGas](https://github.com/besu-eth/besu/pull/10042#pullrequestreview-3952734675) - 2026-03-16
+* [Commit] [Remove Clique block production and mining infrastructure (Phase 3) (#10035)](https://github.com/besu-eth/besu/commit/1c6f9904c58b4798052ff0ea047c8ab9f5fd8d1a) - 2026-03-16
 ## Q4 2025
 
 

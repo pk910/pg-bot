@@ -50,6 +50,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: removed unused classgraph module](https://github.com/Consensys/teku/pull/10479#pullrequestreview-3933124977) - 2026-03-11
 * [Pull Request] [Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10491) - 2026-03-16
 * [Pull Request] [Modify pull request option and report configurations (take 2)](https://github.com/Consensys/teku/pull/10489) - 2026-03-15
+* [Pull Request] [Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10493) - 2026-03-16
+* [Pull Request] [Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492) - 2026-03-16
+* [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3956947406) - 2026-03-16
 ## Q4 2025
 
 

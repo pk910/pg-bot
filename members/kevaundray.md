@@ -54,6 +54,8 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore(tests): Add test for exponent padding in modexp precompile](https://github.com/ethereum/execution-specs/pull/2508) - 2026-03-14
 * [Review] [Review on: chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2495#pullrequestreview-3948761838) - 2026-03-14
 * [Pull Request] [chore(do not merge): test max process capacity](https://github.com/ethereum/execution-specs/pull/2509) - 2026-03-15
+* [Review] [Review on: feat(zkevm): make execution witness bytecode assertions always strict](https://github.com/ethereum/execution-specs/pull/2518#pullrequestreview-3957127462) - 2026-03-16
+* [Commit] [chore(tests): Add test for exponent padding in modexp precompile (#2508)](https://github.com/ethereum/execution-specs/commit/6c68d09b2b7c1898e105fb3fdc9c4024da79faef) - 2026-03-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
@@ -73,6 +75,8 @@ Team: Consensus R&D (EF)
 * [Pull Request] [core: Make `ExecuteStateless` fully self-validating](https://github.com/ethereum/go-ethereum/pull/34007) - 2026-03-13
 * [Review] [Review on: core: Make `ExecuteStateless` fully self-validating](https://github.com/ethereum/go-ethereum/pull/34007#pullrequestreview-3946460312) - 2026-03-13
 * [Pull Request] [chore(do not merge): check zkevm test fixtures failures](https://github.com/ethereum/go-ethereum/pull/33996) - 2026-03-13
+* [Pull Request] [core: Check whether zero uncles check in verifyUncles is redundant](https://github.com/ethereum/go-ethereum/pull/34014) - 2026-03-16
+* [Review] [Review on: ethdb/pebble, cmd, node: add pebble v2 support](https://github.com/ethereum/go-ethereum/pull/34009#pullrequestreview-3953654233) - 2026-03-16
 ## Q4 2025
 
 

@@ -26,6 +26,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473#pullrequestreview-3940334891) - 2026-03-12
 * [Pull Request] [refactor(test-benchmark): update account access benchmark](https://github.com/ethereum/execution-specs/pull/2493) - 2026-03-12
 * [Commit] [refactor(test-benchmark): update account access benchmark (#2493)](https://github.com/ethereum/execution-specs/commit/8c50cf2dfcc71fea891ca4fcd25265a9ba418181) - 2026-03-12
+
+* [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3957545670) - 2026-03-17
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 ## Q4 2025
 
 
