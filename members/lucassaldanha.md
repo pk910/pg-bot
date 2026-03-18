@@ -53,6 +53,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10493) - 2026-03-16
 * [Pull Request] [Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492) - 2026-03-16
 * [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3956947406) - 2026-03-16
+* [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3957788873) - 2026-03-17
+* [Review] [Review on: created string and int body definitions for rest api](https://github.com/Consensys/teku/pull/10496#pullrequestreview-3957727779) - 2026-03-17
 ## Q4 2025
 
 

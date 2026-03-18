@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Remove Peer Task System feature toggle from DownloadBodiesStep (#9952)](https://github.com/besu-eth/besu/commit/2d7fae9929ef6cf871ddc09a9531853cba9cdffd) - 2026-03-12
 * [Commit] [Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present (#9955)](https://github.com/besu-eth/besu/commit/d049c4488133212d2c97bc59abe489b88afd4e22) - 2026-03-12
 * [Pull Request] [Distinguish between disc v4 and disc v5 CLI options](https://github.com/besu-eth/besu/pull/10054) - 2026-03-16
+* [Review] [Review on: PeerTaskValidationResponse - accept NO_RESULTS_RETURNED](https://github.com/besu-eth/besu/pull/10056#pullrequestreview-3957813240) - 2026-03-17
 ## Q4 2025
 
 
