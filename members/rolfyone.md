@@ -96,6 +96,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Implemented PostPtcDuties api endpoint (#10441)](https://github.com/Consensys/teku/commit/c815e3cc2def5a2d96b6279c36afa8cf1462a3cf) - 2026-03-17
 * [Commit] [created string and int body definitions for rest api (#10496)](https://github.com/Consensys/teku/commit/b8dbd1124903d22df7d628ae91740fedfa7d1c87) - 2026-03-17
 * [Commit] [Added version field to gloas events (#10481)](https://github.com/Consensys/teku/commit/6a0f928bda245033e86aeb51656ac2ae1db3303f) - 2026-03-17
+* [Review] [Review on: Migrate `EventChannel` to virtual threads (feature flag)](https://github.com/Consensys/teku/pull/10426#pullrequestreview-3971861498) - 2026-03-19
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3971806417) - 2026-03-19
+* [Review] [Review on: Safely deactivate deneb features in fulu](https://github.com/Consensys/teku/pull/10502#pullrequestreview-3965288948) - 2026-03-18
+* [Review] [Review on: updated constants for 1.7.0-alpha.3](https://github.com/Consensys/teku/pull/10500#pullrequestreview-3964501095) - 2026-03-18
+* [Commit] [updated constants for 1.7.0-alpha.3 (#10500)](https://github.com/Consensys/teku/commit/e42c209e4fe167e7497c5e9fc438bb0c1ceda20c) - 2026-03-18
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025
