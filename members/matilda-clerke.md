@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present (#9955)](https://github.com/besu-eth/besu/commit/d049c4488133212d2c97bc59abe489b88afd4e22) - 2026-03-12
 * [Pull Request] [Distinguish between disc v4 and disc v5 CLI options](https://github.com/besu-eth/besu/pull/10054) - 2026-03-16
 * [Review] [Review on: PeerTaskValidationResponse - accept NO_RESULTS_RETURNED](https://github.com/besu-eth/besu/pull/10056#pullrequestreview-3957813240) - 2026-03-17
+* [Pull Request] [Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070) - 2026-03-19
+* [Review] [Review on: Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058#pullrequestreview-3972275539) - 2026-03-19
 ## Q4 2025
 
 

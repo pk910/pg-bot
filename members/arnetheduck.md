@@ -28,6 +28,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [coredb: naming cleanups](https://github.com/status-im/nimbus-eth1/pull/4046) - 2026-03-18
 * [Issue] [(Small) performance regression due to BAL](https://github.com/status-im/nimbus-eth1/issues/4044) - 2026-03-18
 * [Commit] [coredb: naming cleanups (#4046)](https://github.com/status-im/nimbus-eth1/commit/6e3592034bee8ebf60b03c648fcd7e333075a49a) - 2026-03-18
+* [Pull Request] [Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050) - 2026-03-19
+* [Pull Request] [server_api: use core_apps directly instead of LedgerRef](https://github.com/status-im/nimbus-eth1/pull/4049) - 2026-03-19
+* [Review] [Review on: server_api: use core_apps directly instead of LedgerRef](https://github.com/status-im/nimbus-eth1/pull/4049#pullrequestreview-3973963547) - 2026-03-19
+* [Review] [Review on: Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048#pullrequestreview-3973039199) - 2026-03-19
 ## Q4 2025
 
 
