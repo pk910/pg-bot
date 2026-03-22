@@ -85,6 +85,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix forkchoice to update node weights on balance changes](https://github.com/OffchainLabs/prysm/pull/16560) - 2026-03-20
 * [Commit] [Fix forkchoice to update node weights on balance changes (#16560)](https://github.com/OffchainLabs/prysm/commit/fb9d9d93dee4d39375ee8c2725a0ac20bdfc6384) - 2026-03-20
 * [Commit] [ Fix forkchoice safe/finalized hash for reorged payloads (#16556)](https://github.com/OffchainLabs/prysm/commit/7781e40abf3a1043d15f509bf96c504b0c5581fc) - 2026-03-20
+* [Review] [Review on: Fix/invert execution payment validation](https://github.com/OffchainLabs/prysm/pull/16565#pullrequestreview-3986087739) - 2026-03-21
+* [Pull Request] [ Fix payload attributes to use expected withdrawals from state when empty](https://github.com/OffchainLabs/prysm/pull/16566) - 2026-03-21
 ## Q4 2025
 
 
