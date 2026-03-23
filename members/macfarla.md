@@ -141,6 +141,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079) - 2026-03-20
 * [Commit] [BlockchainUtilParameterizedTest - reduce key-pair generations (#10072)](https://github.com/besu-eth/besu/commit/955bf9e3beccbcf22e9c2c7b2ba85c68ad5b296e) - 2026-03-20
 * [Commit] [minimize setup for BesuCommandTest (#10074)](https://github.com/besu-eth/besu/commit/22bf440af89e1e86d32e564864618fab7fef3b54) - 2026-03-21
+* [Pull Request] [update trivy action to v0.35.0](https://github.com/besu-eth/besu/pull/10082) - 2026-03-22
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08
