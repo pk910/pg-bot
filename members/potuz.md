@@ -60,6 +60,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3981654439) - 2026-03-20
 * [Review] [Review on:  Fix forkchoice safe/finalized hash for reorged payloads](https://github.com/OffchainLabs/prysm/pull/16556#pullrequestreview-3978800598) - 2026-03-20
 * [Commit] [Record Payload ID in the cache on late blocks (#16563)](https://github.com/OffchainLabs/prysm/commit/8fb4d85bbd21b30ca4e35d6b1af0aa3884b769d8) - 2026-03-21
+* [Review] [Review on:  Fix payload attributes to use expected withdrawals from state when empty](https://github.com/OffchainLabs/prysm/pull/16566#pullrequestreview-3991575968) - 2026-03-23
 ## Q4 2025
 
 
