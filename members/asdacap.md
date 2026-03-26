@@ -53,6 +53,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Connection reset metric](https://github.com/NethermindEth/nethermind/pull/10935) - 2026-03-24
 * [Commit] [Connection reset metric (#10935)](https://github.com/NethermindEth/nethermind/commit/44f65f88cf83bf44bfeb83f7d893c6dffd9e460d) - 2026-03-24
 * [Commit] [fix(flat): periodically clear ReadOnlySnapshotBundle cache (#10922)](https://github.com/NethermindEth/nethermind/commit/5a6c77958fb3ccb95a649f2560f2da36afdfe1f9) - 2026-03-24
+* [Pull Request] [fix: TransientResource disposal leaks and missing pruning in PersistenceManager](https://github.com/NethermindEth/nethermind/pull/10952) - 2026-03-26
+* [Review] [Review on: perf: add fast MVCC snapshots for MemDb in FlatDb tests](https://github.com/NethermindEth/nethermind/pull/10792#pullrequestreview-4010585628) - 2026-03-25
+* [Pull Request] [perf: pooled RefCountingTrieNode for trie warmer](https://github.com/NethermindEth/nethermind/pull/10946) - 2026-03-25
+* [Review] [Review on: perf: pooled RefCountingTrieNode for trie warmer](https://github.com/NethermindEth/nethermind/pull/10946#pullrequestreview-4006803961) - 2026-03-25
+* [Pull Request] [[TESTING ONLY] Add trie warmer metrics](https://github.com/NethermindEth/nethermind/pull/10943) - 2026-03-25
+* [Review] [Review on: refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925#pullrequestreview-4004206747) - 2026-03-25
+* [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4004149135) - 2026-03-25
+* [Commit] [perf: add fast MVCC snapshots for MemDb in FlatDb tests (#10792)](https://github.com/NethermindEth/nethermind/commit/e14c4f76774b8950f7b8b597588b644bb22d6169) - 2026-03-26
+* [Commit] [Migrate TxGossipPolicy to DI using OrderedComponents (#10941)](https://github.com/NethermindEth/nethermind/commit/a429d12ad1f5f05b9718d38d7053c66dcc00f43f) - 2026-03-25
 ## Q4 2025
 
 

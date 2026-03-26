@@ -124,6 +124,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Fix swagger-ui failing to serve static files from JAR in Docker (#10520)](https://github.com/Consensys/teku/commit/5db7dc5c8f51ec027fdd865c8a73301557586750) - 2026-03-23
 * [Pull Request] [updated ptc duties description](https://github.com/Consensys/teku/pull/10525) - 2026-03-24
 * [Commit] [updated ptc duties description (#10525)](https://github.com/Consensys/teku/commit/cef08f2b8c86fcc707932baffc75941de23045dc) - 2026-03-24
+* [Review] [Review on: Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts](https://github.com/Consensys/teku/pull/10532#pullrequestreview-4010340564) - 2026-03-25
+* [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-4003351059) - 2026-03-25
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

@@ -187,6 +187,7 @@ Team: Erigon
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998425347) - 2026-03-24
 * [Pull Request] [[3.4] rpc-test: pick simulateV1 fixes from main](https://github.com/erigontech/erigon/pull/20117) - 2026-03-24
 * [Pull Request] [seg: more usage of bufio](https://github.com/erigontech/erigon/pull/20113) - 2026-03-24
+* [Review] [Review on: CI: update to new rpc version ](https://github.com/erigontech/erigon/pull/20141#pullrequestreview-4003336117) - 2026-03-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025
