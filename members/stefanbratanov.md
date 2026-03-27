@@ -38,6 +38,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [v1.7.0-alpha.3 Gloas changes (#10503)](https://github.com/Consensys/teku/commit/8d4552de2dbdcc1520ef752d53213e3a2a31f9cc) - 2026-03-18
 * [Review] [Review on: gloas DA checks](https://github.com/Consensys/teku/pull/10504#pullrequestreview-3973830911) - 2026-03-19
 * [Commit] [[Gloas] Update head on imported execution payload (#10478)](https://github.com/Consensys/teku/commit/c0bc03312ebb01497845297cbe3bfbc5eed7928a) - 2026-03-19
+* [Pull Request] [Create pending payload attestations pool](https://github.com/Consensys/teku/pull/10536) - 2026-03-26
+* [Review] [Review on: Create pending payload attestations pool](https://github.com/Consensys/teku/pull/10536#pullrequestreview-4016301663) - 2026-03-26
 ## Q4 2025
 
 
