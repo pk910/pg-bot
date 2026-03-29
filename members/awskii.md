@@ -70,6 +70,7 @@ Team: Erigon
 * [Review] [Review on: commitment: cancel stale DeleteUpdate on storage rewrite](https://github.com/erigontech/erigon/pull/19982#pullrequestreview-4021657040) - 2026-03-27
 * [Commit] [commitment: remove dead ctx field from ConcurrentPatriciaHashed, each subtrie gets own context from factory (#20203)](https://github.com/erigontech/erigon/commit/94a38e6d445437f79d77bfc9932e8490b716962e) - 2026-03-27
 * [Commit] [monitroing: per txn exec times dashboards (#20206)](https://github.com/erigontech/erigon/commit/de4f856617d1be6caf60f15a0d72c9fcfd0316e9) - 2026-03-27
+* [Review] [Review on: ci: remove gitbook-release workflow](https://github.com/erigontech/erigon/pull/20197#pullrequestreview-4024451526) - 2026-03-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

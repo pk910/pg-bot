@@ -194,6 +194,7 @@ Team: Erigon
 * [Review] [Review on: db/state: disable ReplaceKeysInValues during RebuildCommitmentFiles](https://github.com/erigontech/erigon/pull/20204#pullrequestreview-4024135039) - 2026-03-27
 * [Review] [Review on: commitment: add context cancellation and remove dead mountedTries field](https://github.com/erigontech/erigon/pull/20207#pullrequestreview-4024131689) - 2026-03-27
 * [Review] [Review on: commitment: move cleanup to Release() for safer sync.Pool reuse](https://github.com/erigontech/erigon/pull/20208#pullrequestreview-4024131060) - 2026-03-27
+* [Pull Request] [crypto: zero-alloc, syncpool-free method to hash `[]byte` type](https://github.com/erigontech/erigon/pull/20114) - 2026-03-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

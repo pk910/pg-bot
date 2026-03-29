@@ -76,6 +76,8 @@ Team: Reth
 * [Review] [Review on: feat: enable jemalloc `override_allocator_on_supported_platforms`](https://github.com/paradigmxyz/reth/pull/23214#pullrequestreview-4006145749) - 2026-03-25
 * [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 2 updates](https://github.com/paradigmxyz/reth/pull/23211#pullrequestreview-4006021773) - 2026-03-25
 * [Commit] [chore: make EvmConfig generic in examples (#23229)](https://github.com/paradigmxyz/reth/commit/d3c3466c44d46ecf485524ec21621b2c1847c103) - 2026-03-25
+* [Pull Request] [chore(docs): normalize Grafana dashboard JSON formatting and tags](https://github.com/paradigmxyz/reth/pull/23266) - 2026-03-28
+* [Pull Request] [perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265) - 2026-03-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -210,6 +212,9 @@ Team: Reth
 * [Commit] [feat: add nonlazybind attribute to skip PLT indirection (#175)](https://github.com/paradigmxyz/revmc/commit/7c549a22a33bca7811313bb5f05e2e58386eb106) - 2026-03-27
 * [Commit] [chore: suppress warnings from LLVM headers in C++ build (#173)](https://github.com/paradigmxyz/revmc/commit/825c6132c1e94e56e22c50fa8d00544d0c3e9723) - 2026-03-27
 * [Commit] [feat: emit uwtable attribute for .eh_frame in jitdump (#174)](https://github.com/paradigmxyz/revmc/commit/6b69f3de87fcca758670ecedc876e2900198f4a0) - 2026-03-27
+* [Pull Request] [feat: constant propagation via abstract stack interpretation](https://github.com/paradigmxyz/revmc/pull/185) - 2026-03-28
+* [Pull Request] [fix: register ORC JITLoaderPerf functions as absolute symbols](https://github.com/paradigmxyz/revmc/pull/184) - 2026-03-28
+* [Commit] [fix: register ORC JITLoaderPerf functions as absolute symbols (#184)](https://github.com/paradigmxyz/revmc/commit/3ad6c3de5161631a5c9b558429fd185ce9085527) - 2026-03-28
 ## Q4 2025
 
 

@@ -112,6 +112,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4021946844) - 2026-03-27
 * [Pull Request] [Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16596) - 2026-03-27
 * [Commit] [Fix empty blob KZG commitments in self-build execution payload bids (#16595)](https://github.com/OffchainLabs/prysm/commit/3c9eae60646beb906f7cda99263632e29c59c978) - 2026-03-27
+* [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4024640005) - 2026-03-28
 ## Q4 2025
 
 
