@@ -78,6 +78,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983) - 2026-03-28
 * [Pull Request] [FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10738) - 2026-03-28
 * [Commit] [FlatDB dictionary lookup optimization (#10738)](https://github.com/NethermindEth/nethermind/commit/31b5c2eedb27c463440114d85b4791b43392e86a) - 2026-03-28
+* [Pull Request] [Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989) - 2026-03-29
+* [Pull Request] [feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993) - 2026-03-30
+* [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4026397037) - 2026-03-29
 ## Q4 2025
 
 

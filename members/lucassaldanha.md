@@ -67,6 +67,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts (#10532)](https://github.com/Consensys/teku/commit/3ed652760430dbf61ec7fbb7597e991225155289) - 2026-03-25
 * [Pull Request] [Revert snappy-java back to 1.1.10.7](https://github.com/Consensys/teku/pull/10535) - 2026-03-26
 * [Commit] [Revert snappy-java back to 1.1.10.7 (#10535)](https://github.com/Consensys/teku/commit/c5add450714feaf941dc666ab7bb35ad544e56fd) - 2026-03-26
+* [Review] [Review on: defaulting of removed config items](https://github.com/Consensys/teku/pull/10539#pullrequestreview-4027320741) - 2026-03-29
 ## Q4 2025
 
 
