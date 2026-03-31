@@ -83,6 +83,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v8.1.3](https://github.com/sigp/lighthouse/commit/176cce585c1ba979a6210ed79b6b6528596cdb8c) - 2026-03-26
 * [Commit] [Bump c-kzg](https://github.com/sigp/lighthouse/commit/7ca91b8ef43311768241c4c4252e0eb9c1264de5) - 2026-03-26
 * [Commit] [Bump libp2p](https://github.com/sigp/lighthouse/commit/dfd715b65ee9ee30f73115ff1e24f4cfadef7aca) - 2026-03-26
+* [Pull Request] [Update to spec v1.7.0-alpha.4](https://github.com/sigp/lighthouse/pull/9046) - 2026-03-30
+* [Review] [Review on: Update to spec v1.7.0-alpha.4](https://github.com/sigp/lighthouse/pull/9046#pullrequestreview-4028414900) - 2026-03-30
+* [Review] [Review on: Fix local testnet Tempo and Prometheus/Grafana config](https://github.com/sigp/lighthouse/pull/9054#pullrequestreview-4033789167) - 2026-03-30
+* [Review] [Review on: Check `ChainSpec` consistency with upstream `config.yaml`](https://github.com/sigp/lighthouse/pull/9008#pullrequestreview-4028123617) - 2026-03-30
+* [Issue] [PTC code style](https://github.com/sigp/lighthouse/issues/9049) - 2026-03-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

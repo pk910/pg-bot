@@ -81,3 +81,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [ci: unshadow main branch README](https://github.com/erigontech/erigon/pull/20189) - 2026-03-27
 * [Pull Request] [docs: finalize CI guidelines](https://github.com/erigontech/erigon/pull/20188) - 2026-03-27
 * [Commit] [ci: unshadow main branch README (#20189)](https://github.com/erigontech/erigon/commit/ba3c8f833fc3ca7443213f77cb4799b38406600b) - 2026-03-27
+* [Commit] [ci: add cache warming workflow for main and performance branches (#20209)](https://github.com/erigontech/erigon/commit/804b7a124e70ecd55f7922366c91cf01a50efa73) - 2026-03-30

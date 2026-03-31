@@ -113,6 +113,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16596) - 2026-03-27
 * [Commit] [Fix empty blob KZG commitments in self-build execution payload bids (#16595)](https://github.com/OffchainLabs/prysm/commit/3c9eae60646beb906f7cda99263632e29c59c978) - 2026-03-27
 * [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4024640005) - 2026-03-28
+* [Review] [Review on: Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598#pullrequestreview-4030440609) - 2026-03-30
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4029200459) - 2026-03-30
 ## Q4 2025
 
 
