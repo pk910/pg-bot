@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4041074759) - 2026-04-01
 ## Q1 2026
 
 
@@ -39,6 +44,8 @@ Team: Geth
 * [Commit] [miner: set slot number when building test payload (#34094)](https://github.com/ethereum/go-ethereum/commit/acdd13971705c767330bdfbd4511b4d1e53580fd) - 2026-03-27
 * [Review] [Review on: miner,tests: test payload construction as part of executing the blockchain spec tests](https://github.com/ethereum/go-ethereum/pull/34089#pullrequestreview-4033769303) - 2026-03-30
 * [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4031772082) - 2026-03-30
+* [Review] [Review on: core: refactor IntrinsicGas function to accept rules parameter](https://github.com/ethereum/go-ethereum/pull/34627#pullrequestreview-4039571978) - 2026-03-31
+* [Review] [Review on: core/vm: optimize stack and memory copy paths](https://github.com/ethereum/go-ethereum/pull/34624#pullrequestreview-4039613423) - 2026-03-31
 ## Q4 2025
 
 

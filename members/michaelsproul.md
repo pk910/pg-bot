@@ -88,6 +88,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix local testnet Tempo and Prometheus/Grafana config](https://github.com/sigp/lighthouse/pull/9054#pullrequestreview-4033789167) - 2026-03-30
 * [Review] [Review on: Check `ChainSpec` consistency with upstream `config.yaml`](https://github.com/sigp/lighthouse/pull/9008#pullrequestreview-4028123617) - 2026-03-30
 * [Issue] [PTC code style](https://github.com/sigp/lighthouse/issues/9049) - 2026-03-30
+* [Review] [Review on: Update to spec v1.7.0-alpha.4](https://github.com/sigp/lighthouse/pull/9046#pullrequestreview-4034104367) - 2026-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

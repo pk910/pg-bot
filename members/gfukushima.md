@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/discovery/pull/202#pullrequestreview-4041112218) - 2026-04-01
 ## Q1 2026
 
 
@@ -47,6 +52,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Fix ipv6 discovery](https://github.com/Consensys/discovery/pull/202) - 2026-03-20
+* [Review] [Review on: fix: prevent pipeline errors from killing Reactor subscription](https://github.com/Consensys/discovery/pull/205#pullrequestreview-4040603114) - 2026-03-31
 ## Q4 2025
 
 
