@@ -13,6 +13,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [feat: schedule Fulu fork for Gnosis mainnet (#9074)](https://github.com/ChainSafe/lodestar/commit/4c65f9176f44079c49ee707ae4f3383d530e7466) - 2026-04-01
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Use spec constants for PTC thresholds in fork choice](https://github.com/sigp/lighthouse/pull/9088) - 2026-04-04
 ## Q1 2026
 
 
