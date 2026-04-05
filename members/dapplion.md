@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Use spec constants for PTC thresholds in fork choice](https://github.com/sigp/lighthouse/pull/9088) - 2026-04-04
+* [Pull Request] [Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090) - 2026-04-04
 ## Q1 2026
 
 
