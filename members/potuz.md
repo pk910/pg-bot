@@ -19,6 +19,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add beacon API endpoint to publish signed execution payload bids (#16612)](https://github.com/OffchainLabs/prysm/commit/68c4c36e65a3a418a15225224c162bfafb1ac590) - 2026-04-01
 * [Review] [Review on: Fix zero head block hash in FCU at gloas genesis](https://github.com/OffchainLabs/prysm/pull/16629#pullrequestreview-4051595233) - 2026-04-02
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4051008888) - 2026-04-02
+* [Pull Request] [Fix finalized and justified state endpoint to not advance the slot](https://github.com/OffchainLabs/prysm/pull/16635) - 2026-04-05
+* [Commit] [Fix finalized and justified state endpoint to not advance the slot (#16635)](https://github.com/OffchainLabs/prysm/commit/9d084bceb3aeac583a32f58761bbbfc91bce5bdb) - 2026-04-05
 ## Q1 2026
 
 
