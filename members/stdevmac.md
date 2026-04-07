@@ -11,6 +11,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4057039060) - 2026-04-03
+* [Review] [Review on: ci: add known failing snapsync hive test](https://github.com/NethermindEth/nethermind/pull/11037#pullrequestreview-4062018945) - 2026-04-06
 ## Q1 2026
 
 

@@ -20,6 +20,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: migrate to bubbles v2](https://github.com/erigontech/erigon/pull/20338#pullrequestreview-4059379604) - 2026-04-05
 * [Review] [Review on: db: unused code remove](https://github.com/erigontech/erigon/pull/20334#pullrequestreview-4059378346) - 2026-04-05
 * [Review] [Review on: logs: move some Info logs to Debug level (to simplify logs for Users)](https://github.com/erigontech/erigon/pull/20329#pullrequestreview-4059378156) - 2026-04-05
+* [Review] [Review on: cmd/rpctest: helpers for open files and fetching blocks](https://github.com/erigontech/erigon/pull/20339#pullrequestreview-4062195553) - 2026-04-06
+* [Review] [Review on: cp: skill erigon-cherry-pick (from release/3.4)](https://github.com/erigontech/erigon/pull/20350#pullrequestreview-4062184049) - 2026-04-06
+* [Review] [Review on: toml: migrate to toml lib v2](https://github.com/erigontech/erigon/pull/20342#pullrequestreview-4062187461) - 2026-04-06
+* [Review] [Review on: [r3.4] execution: EVM interpreter array-based stack (#20183)](https://github.com/erigontech/erigon/pull/20351#pullrequestreview-4062180835) - 2026-04-06
+* [Review] [Review on: nat stun: migrate to v3 lib](https://github.com/erigontech/erigon/pull/20341#pullrequestreview-4062189844) - 2026-04-06
+* [Review] [Review on: [wip] Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4062193599) - 2026-04-06
+* [Review] [Review on: debug_executionWitness: follow up](https://github.com/erigontech/erigon/pull/20345#pullrequestreview-4062185707) - 2026-04-06
 ## Q1 2026
 
 
