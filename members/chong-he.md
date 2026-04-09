@@ -15,6 +15,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: logging: return local timestamps to node operators](https://github.com/sigp/lighthouse/pull/9072#pullrequestreview-4053805822) - 2026-04-03
 * [Review] [Review on: feat(execution_layer): log more detail when JWT auth fails](https://github.com/sigp/lighthouse/pull/9051#pullrequestreview-4047927568) - 2026-04-02
 * [Review] [Review on: Refactor `timestamp_now`](https://github.com/sigp/lighthouse/pull/9094#pullrequestreview-4065280670) - 2026-04-07
+* [Review] [Review on: Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001#pullrequestreview-4073966242) - 2026-04-08
+* [Pull Request] [Shorter info log](https://github.com/sigp/lighthouse/pull/9108) - 2026-04-08
+* [Review] [Review on: Shorter info log](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4072583802) - 2026-04-08
 ## Q1 2026
 
 
