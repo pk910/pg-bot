@@ -126,6 +126,18 @@ Team: Erigon
 * [Commit] [up `kong` version (#20408)](https://github.com/erigontech/erigon/commit/d1da52f78735ae3ddc35437f479d8f2ce1096044) - 2026-04-08
 * [Commit] [deps: up bolt (#20402)](https://github.com/erigontech/erigon/commit/aaf72257991b222bb84eed4105958f4254cb9301) - 2026-04-08
 * [Commit] [drop `diag/ui` (#20404)](https://github.com/erigontech/erigon/commit/f37d92220f1383665fff6843eab63966310cdfa0) - 2026-04-08
+* [Review] [Review on: [r3.4] etl: munmap temp files in Dispose to prevent disk space leak](https://github.com/erigontech/erigon/pull/20440#pullrequestreview-4086269950) - 2026-04-10
+* [Review] [Review on: cmd/integration: show commitment domain progress(txnum) in print_stages](https://github.com/erigontech/erigon/pull/20443#pullrequestreview-4086271798) - 2026-04-10
+* [Review] [Review on: Revert remove state progress check r34](https://github.com/erigontech/erigon/pull/20437#pullrequestreview-4086267643) - 2026-04-10
+* [Review] [Review on: cmd: remove `state` binary](https://github.com/erigontech/erigon/pull/20420#pullrequestreview-4079306247) - 2026-04-09
+* [Review] [Review on: commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch](https://github.com/erigontech/erigon/pull/20306#pullrequestreview-4079397426) - 2026-04-09
+* [Pull Request] [remove `flush complete` log line ](https://github.com/erigontech/erigon/pull/20431) - 2026-04-09
+* [Review] [Review on: QA: disable temporary  3 failed integration tests.](https://github.com/erigontech/erigon/pull/20433#pullrequestreview-4080912500) - 2026-04-09
+* [Pull Request] [[wip] `main` ci is red](https://github.com/erigontech/erigon/pull/20430) - 2026-04-09
+* [Review] [Review on: [SharovBot] ci: filter release BINARIES by Makefile targets to fix mcp build failure on release branches](https://github.com/erigontech/erigon/pull/20167#pullrequestreview-4079341250) - 2026-04-09
+* [Review] [Review on: integration: add --reset flag to stage_bodies command](https://github.com/erigontech/erigon/pull/20084#pullrequestreview-4079333758) - 2026-04-09
+* [Review] [Review on: chore: weekly code cleanup consolidation](https://github.com/erigontech/erigon/pull/20083#pullrequestreview-4079330046) - 2026-04-09
+* [Commit] [nat stun: migrate to v3 lib (#20341)](https://github.com/erigontech/erigon/commit/464fb6e563104130d7c5210cf5cc6bf0ad3ffc5e) - 2026-04-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

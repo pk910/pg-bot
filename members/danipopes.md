@@ -163,6 +163,7 @@ Team: Reth
 * [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4068010583) - 2026-04-07
 * [Review] [Review on: ci: remove PGO from CI workflows](https://github.com/paradigmxyz/reth/pull/23405#pullrequestreview-4077107717) - 2026-04-08
 * [Review] [Review on: feat(docker): enable jemalloc-prof in nightly images](https://github.com/paradigmxyz/reth/pull/23396#pullrequestreview-4076223875) - 2026-04-08
+* [Pull Request] [fix: ignore SIGPIPE for graceful shutdown with piped output](https://github.com/paradigmxyz/reth/pull/23411) - 2026-04-09
 ## Q1 2026
 
 
