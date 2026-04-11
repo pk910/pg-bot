@@ -37,6 +37,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [refactor: move EIP-8037 gas cap validation into validate_initial_tx_gas (#3552)](https://github.com/bluealloy/revm/commit/16a5e26829311639d853ca36b4df49a15635c003) - 2026-04-10
 * [Commit] [feat: add EIP-8037 / TIP-1016 state gas support (#3406)](https://github.com/bluealloy/revm/commit/f15846473f22914049d90362623457e2d418ebc7) - 2026-04-10
 * [Commit] [refactor: deprecate set_spec and clean up deprecation attrs (#3550)](https://github.com/bluealloy/revm/commit/d060498853a31a2ad6e8d4c15e1db9b12100d4e9) - 2026-04-09
+* [Pull Request] [chore: v106 release prep](https://github.com/bluealloy/revm/pull/3554) - 2026-04-10
+* [Commit] [chore: v106 release prep (#3554)](https://github.com/bluealloy/revm/commit/31bee691659382520449de95a03ecd69abf71825) - 2026-04-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

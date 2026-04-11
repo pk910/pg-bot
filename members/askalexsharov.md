@@ -138,6 +138,35 @@ Team: Erigon
 * [Review] [Review on: integration: add --reset flag to stage_bodies command](https://github.com/erigontech/erigon/pull/20084#pullrequestreview-4079333758) - 2026-04-09
 * [Review] [Review on: chore: weekly code cleanup consolidation](https://github.com/erigontech/erigon/pull/20083#pullrequestreview-4079330046) - 2026-04-09
 * [Commit] [nat stun: migrate to v3 lib (#20341)](https://github.com/erigontech/erigon/commit/464fb6e563104130d7c5210cf5cc6bf0ad3ffc5e) - 2026-04-09
+* [Pull Request] [log: append-style formatter](https://github.com/erigontech/erigon/pull/20459) - 2026-04-10
+* [Review] [Review on: db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20483#pullrequestreview-4092983699) - 2026-04-11
+* [Review] [Review on: rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path](https://github.com/erigontech/erigon/pull/20485#pullrequestreview-4092981772) - 2026-04-11
+* [Pull Request] [[r3.4] logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20487) - 2026-04-11
+* [Review] [Review on: commitment: add TrieReader — stateless read-only Patricia trie navigation](https://github.com/erigontech/erigon/pull/20287#pullrequestreview-4092976322) - 2026-04-11
+* [Review] [Review on: db/state: use --experimental.concurrent-commitment flag for rebuild](https://github.com/erigontech/erigon/pull/20481#pullrequestreview-4090575408) - 2026-04-10
+* [Review] [Review on: qa-tests: add the RPC tests to the Sync-from-scratch test](https://github.com/erigontech/erigon/pull/20484#pullrequestreview-4090628782) - 2026-04-10
+* [Review] [Review on: cmd/utils/app: guard step-rebase against zero step size](https://github.com/erigontech/erigon/pull/20466#pullrequestreview-4089665767) - 2026-04-10
+* [Pull Request] [logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20454) - 2026-04-10
+* [Pull Request] [[wip] [r3.4] protocol, stagedsync: count EIP-7002/7251 finalize syscall gas in block gas](https://github.com/erigontech/erigon/pull/20458) - 2026-04-10
+* [Review] [Review on: db/state: skip DB entries within file range in debugIteratePrefixLatest](https://github.com/erigontech/erigon/pull/20444#pullrequestreview-4090646139) - 2026-04-10
+* [Pull Request] [attempt to drop `oldPrune` method](https://github.com/erigontech/erigon/pull/20469) - 2026-04-10
+* [Review] [Review on: db/state: fix domain collation/pruning race causing gas mismatches](https://github.com/erigontech/erigon/pull/20445#pullrequestreview-4088742490) - 2026-04-10
+* [Pull Request] [log: less allocs](https://github.com/erigontech/erigon/pull/20455) - 2026-04-10
+* [Review] [Review on: db/state: fix btree cursor leak in debugIteratePrefixLatest](https://github.com/erigontech/erigon/pull/20468#pullrequestreview-4089669513) - 2026-04-10
+* [Pull Request] [[r3.4] log: less allocs](https://github.com/erigontech/erigon/pull/20456) - 2026-04-10
+* [Pull Request] [up `x` deps](https://github.com/erigontech/erigon/pull/20457) - 2026-04-10
+* [Review] [Review on: node/app: add component framework](https://github.com/erigontech/erigon/pull/20450#pullrequestreview-4086928798) - 2026-04-10
+* [Pull Request] [[wip] agg: lock-free Begin()](https://github.com/erigontech/erigon/pull/20462) - 2026-04-10
+* [Review] [Review on: cl: replace Clique dev mode with embedded PoS consensus](https://github.com/erigontech/erigon/pull/20451#pullrequestreview-4088168518) - 2026-04-10
+* [Pull Request] [domain: idx readers leak fix](https://github.com/erigontech/erigon/pull/20460) - 2026-04-10
+* [Pull Request] [[r3.4] db/state: return DomainRoTx IndexReaders to sync.Pool on Close](https://github.com/erigontech/erigon/pull/20461) - 2026-04-10
+* [Pull Request] [cp: cherry-pick batch 2 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20405) - 2026-04-10
+* [Review] [Review on: build(deps): bump geekyeggo/delete-artifact from 5 to 6](https://github.com/erigontech/erigon/pull/20348#pullrequestreview-4086877762) - 2026-04-10
+* [Commit] [logger: avoid mutex contention (#20454)](https://github.com/erigontech/erigon/commit/02e843b7de469586427f273818b669b8a67dbd1b) - 2026-04-10
+* [Commit] [log: less allocs (#20455)](https://github.com/erigontech/erigon/commit/32705ea8faa9db4e91ae921a198ea97de9c1bf03) - 2026-04-10
+* [Commit] [domain: idx readers leak fix (#20460)](https://github.com/erigontech/erigon/commit/bd636b2acb6d1e84126b9a10654999033f688024) - 2026-04-10
+* [Commit] [deps: update fastkeccak (#20395)](https://github.com/erigontech/erigon/commit/b331d19afcc198ce38d83c2628aefd27259610a9) - 2026-04-10
+* [Commit] [cp: cherry-pick batch 2 from release/3.4 to main (#20405)](https://github.com/erigontech/erigon/commit/8ceaedc34b00ea15acf52073e376710117a4339b) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026
