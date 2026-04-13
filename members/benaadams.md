@@ -45,6 +45,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
 
 * [Pull Request] [Add EIP: Contract Payer Transaction](https://github.com/ethereum/EIPs/pull/11509) - 2026-04-11
+* [Pull Request] [Add EIP: Counterfactual Transaction](https://github.com/ethereum/EIPs/pull/11518) - 2026-04-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 ## Q1 2026
