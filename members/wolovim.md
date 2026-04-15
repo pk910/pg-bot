@@ -19,6 +19,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: permit processing meeting <10 min](https://github.com/ethereum/pm/commit/b65f5e54bc1370cf2d0f2c68cc3d2b95cf5266f9) - 2026-04-08
 * [Issue] [Native Account Abstraction #1, April 22, 2026](https://github.com/ethereum/pm/issues/2018) - 2026-04-13
 * [Commit] [acdbot: introduce native aa breakout](https://github.com/ethereum/pm/commit/6e572f832857171d4a34de23dbe3dc99bc40d368) - 2026-04-13
+* [Commit] [acdbot: fix shifting calendar event](https://github.com/ethereum/pm/commit/5b64b300b5831a5398634b050fa690a1550307bd) - 2026-04-14
 ## Q1 2026
 
 
