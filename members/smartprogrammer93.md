@@ -40,6 +40,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(test): replace TrieWarmer Task.Delay with polling](https://github.com/NethermindEth/nethermind/pull/11147#pullrequestreview-4113014576) - 2026-04-15
 * [Review] [Review on: Patch dependencies](https://github.com/NethermindEth/nethermind/pull/11149#pullrequestreview-4111860352) - 2026-04-15
 * [Issue] [Flaky test: Can_change_branch_on_invalid_block times out on CI](https://github.com/NethermindEth/nethermind/issues/11148) - 2026-04-15
+* [Pull Request] [fix: resolve flaky Can_change_branch_on_invalid_block test](https://github.com/NethermindEth/nethermind/pull/11162) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

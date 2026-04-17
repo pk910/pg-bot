@@ -28,6 +28,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4103680069) - 2026-04-14
 * [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `StatePayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4117655248) - 2026-04-16
 * [Review] [Review on: Make ExecutionHash not option in ForkChoiceParams](https://github.com/sigp/lighthouse/pull/8901#pullrequestreview-4110557485) - 2026-04-15
+* [Review] [Review on: Rust 1.95 lints](https://github.com/sigp/lighthouse/pull/9142#pullrequestreview-4124999671) - 2026-04-16
+* [Pull Request] [Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141) - 2026-04-16
+* [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4125029046) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
