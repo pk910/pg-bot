@@ -37,6 +37,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Gloas: `on_block` is ill-defined at fork boundary](https://github.com/ethereum/consensus-specs/issues/5096) - 2026-04-12
+* [Review] [Review on: Fix `test_builder_payment_after_missed_epochs`](https://github.com/ethereum/consensus-specs/pull/5120#pullrequestreview-4125536386) - 2026-04-17
 ## Q1 2026
 
 
