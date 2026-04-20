@@ -21,6 +21,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093467033) - 2026-04-11
 * [Review] [Review on: feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672#pullrequestreview-4104950828) - 2026-04-14
 * [Pull Request] [fix(benchmarks): fix `test_sload_bloated_prefetch_miss` and `test_sload_bloated_multi_contract` in execute remote filler](https://github.com/ethereum/execution-specs/pull/2688) - 2026-04-15
+* [Review] [Review on: feat(spec-specs, tests): EIP-8037 - zero execution state gas on top-level failure](https://github.com/ethereum/execution-specs/pull/2689#pullrequestreview-4136699256) - 2026-04-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 
