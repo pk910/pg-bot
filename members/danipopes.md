@@ -201,6 +201,9 @@ Team: Reth
 * [Commit] [refactor: simplify RawEvmCompilerFn signature (#306)](https://github.com/paradigmxyz/revmc/commit/4a98421083351277104c8d904cfe532ea4ae7e67) - 2026-04-19
 * [Commit] [chore(scripts): rewrite shell scripts as Python (#305)](https://github.com/paradigmxyz/revmc/commit/f19adcd8fc11bad9103478fe2583038767b3359e) - 2026-04-19
 * [Commit] [perf: simpler return builtins (#304)](https://github.com/paradigmxyz/revmc/commit/647076eabc66b75fb5020e0902605c47ec88226f) - 2026-04-19
+* [Pull Request] [feat: add burntpix benchmark and unify execution paths](https://github.com/paradigmxyz/revmc/pull/316) - 2026-04-20
+* [Pull Request] [perf: truncate to i64 before jumping to dynamic jump table](https://github.com/paradigmxyz/revmc/pull/317) - 2026-04-20
+* [Commit] [refactor: use EvmCompiler::new_llvm where backend is concrete (#315)](https://github.com/paradigmxyz/revmc/commit/24772e2997a69b3cf71222e12cd77eb3ef40a3f5) - 2026-04-20
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -219,6 +222,9 @@ Team: Reth
 * [Review] [Review on: refactor(provider): simplify get_overlay cache miss tracking](https://github.com/paradigmxyz/reth/pull/23584#pullrequestreview-4121659959) - 2026-04-16
 * [Review] [Review on: ci: use reth 2.0 banner image in release draft](https://github.com/paradigmxyz/reth/pull/23404#pullrequestreview-4129606329) - 2026-04-17
 * [Review] [Review on: refactor(tasks): make WorkerPool lazy by default](https://github.com/paradigmxyz/reth/pull/23627#pullrequestreview-4134899873) - 2026-04-18
+* [Review] [Review on: refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656#pullrequestreview-4141427241) - 2026-04-20
+* [Review] [Review on: chore(bench): add cli flag to fetch bal by default](https://github.com/paradigmxyz/reth/pull/23655#pullrequestreview-4141433327) - 2026-04-20
+* [Commit] [chore(docs): normalize Grafana dashboard JSON formatting and tags (#23266)](https://github.com/paradigmxyz/reth/commit/d58c6e3d0723a28f655e89da83c3738e47dcc364) - 2026-04-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
@@ -232,6 +238,7 @@ Team: Reth
 * [Issue] [Upgrade to edition 2024](https://github.com/bluealloy/revm/issues/3575) - 2026-04-15
 * [Commit] [refactor(interpreter): dedup account loading across host instructions (#3562)](https://github.com/bluealloy/revm/commit/11bd373376d285037b40ec154e28608642c0a766) - 2026-04-15
 * [Commit] [fix: opcode struct panics/safety (#3566)](https://github.com/bluealloy/revm/commit/df14277203f3b8c4a7b96dd8886ad8eeabb69f40) - 2026-04-15
+* [Commit] [perf(interpreter): separate instruction and gas tables (#3561)](https://github.com/bluealloy/revm/commit/d4b39c8532b7ea38193afd6b324ab9d8d8c51ad3) - 2026-04-20
 ## Q1 2026
 
 
