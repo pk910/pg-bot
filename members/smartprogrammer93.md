@@ -42,6 +42,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Flaky test: Can_change_branch_on_invalid_block times out on CI](https://github.com/NethermindEth/nethermind/issues/11148) - 2026-04-15
 * [Pull Request] [fix: resolve flaky Can_change_branch_on_invalid_block test](https://github.com/NethermindEth/nethermind/pull/11162) - 2026-04-16
 * [Review] [Review on: Remove Eip-7907](https://github.com/NethermindEth/nethermind/pull/11199#pullrequestreview-4127499473) - 2026-04-17
+* [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4148635936) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026
