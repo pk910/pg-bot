@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: feat: add transactionReceipts subscription support in eth_subscribe #…](https://github.com/besu-eth/besu/pull/10190#pullrequestreview-4087914192) - 2026-04-10
 * [Review] [Review on: Feat: [BESU-9984] Bonsai Archive: index infrastructure with seekForPrev fallback](https://github.com/besu-eth/besu/pull/10191#pullrequestreview-4086906133) - 2026-04-10
 * [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4145312825) - 2026-04-21
+* [Review] [Review on: Fix: QBFT produces blocks immediately when transactions arrive during empty block period](https://github.com/besu-eth/besu/pull/10153#pullrequestreview-4151776601) - 2026-04-22
+* [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4151816624) - 2026-04-22
 ## Q1 2026
 
 
