@@ -31,6 +31,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txpool: add GetBlobs to GrpcDisabled stub (#20723)](https://github.com/erigontech/erigon/commit/bdbb2caadace43f073fbe06d735073bcaa686238) - 2026-04-22
 * [Review] [Review on: p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673#pullrequestreview-4161147138) - 2026-04-23
 * [Review] [Review on: db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674#pullrequestreview-4159449176) - 2026-04-23
+* [Pull Request] [cl/services: relax epoch-mismatch guard to allow previous epoch](https://github.com/erigontech/erigon/pull/20780) - 2026-04-24
+* [Commit] [cl/services: relax epoch-mismatch guard to allow previous epoch (#20780)](https://github.com/erigontech/erigon/commit/809f091587809756f00b63ca20a386bb949f89f5) - 2026-04-24
+* [Commit] [cl/gossip: fix conditions forwarding, ENR lifecycle, and epoch-mismatch (#20772)](https://github.com/erigontech/erigon/commit/ca3b85eee017ff6faa0585867f124b61f3d92e60) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

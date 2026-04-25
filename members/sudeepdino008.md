@@ -108,6 +108,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: close leaked stream cursors in iterators](https://github.com/erigontech/erigon/pull/20750#pullrequestreview-4161032761) - 2026-04-23
 * [Review] [Review on: [r3.4] db/version: enforce upper-bound file version check](https://github.com/erigontech/erigon/pull/20739#pullrequestreview-4161006214) - 2026-04-23
 * [Commit] [add time budget for integrity checks (#20714)](https://github.com/erigontech/erigon/commit/868f5ebdc3ecf1833d45ed83dc32c5cb23ebc492) - 2026-04-23
+* [Review] [Review on: db/kv, db/state: use PutCurrent instead of DeleteCurrent+Put in domain flush](https://github.com/erigontech/erigon/pull/20769#pullrequestreview-4169526682) - 2026-04-24
+* [Review] [Review on: follow-up: broken fuse](https://github.com/erigontech/erigon/pull/20767#pullrequestreview-4169520450) - 2026-04-24
+* [Review] [Review on: [r3.4] `SpawnStageHistoryDownload`: didn't support graceful restart](https://github.com/erigontech/erigon/pull/20766#pullrequestreview-4169528420) - 2026-04-24
+* [Review] [Review on: domain.collate: remove double buffering](https://github.com/erigontech/erigon/pull/20742#pullrequestreview-4169517453) - 2026-04-24
+* [Commit] [seg: add rm-blocks command to remove latest block snapshot files (#20554)](https://github.com/erigontech/erigon/commit/fe1b92d78a719c3000eb9581812a4f0eec3364d6) - 2026-04-24
 ## Q1 2026
 
 

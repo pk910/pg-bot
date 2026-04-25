@@ -114,6 +114,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose (#11270)](https://github.com/NethermindEth/nethermind/commit/658c75a5c17c5e25af313cc5daa24a2cfd6d57ed) - 2026-04-22
 * [Review] [Review on: Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317#pullrequestreview-4161963811) - 2026-04-23
 * [Review] [Review on: feat: add `StateComposition` plugin — real-time state metrics with incremental tracking](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4166828534) - 2026-04-23
+* [Pull Request] [sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash](https://github.com/NethermindEth/nethermind/pull/11339) - 2026-04-24
+* [Pull Request] [analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337) - 2026-04-24
+* [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4167401102) - 2026-04-24
+* [Review] [Review on: `eth_getRawTransactionByHash` fix](https://github.com/NethermindEth/nethermind/pull/11336#pullrequestreview-4168787780) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026
