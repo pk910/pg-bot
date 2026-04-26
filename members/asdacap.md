@@ -118,6 +118,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337) - 2026-04-24
 * [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4167401102) - 2026-04-24
 * [Review] [Review on: `eth_getRawTransactionByHash` fix](https://github.com/NethermindEth/nethermind/pull/11336#pullrequestreview-4168787780) - 2026-04-24
+* [Review] [Review on: perf: eliminate redundant storage tree commits in FlatWorldStateScope](https://github.com/NethermindEth/nethermind/pull/11349#pullrequestreview-4174420684) - 2026-04-25
+* [Pull Request] [style: enable nullable for Nethermind.Serialization.Json and Nethermind.Serialization.Rlp](https://github.com/NethermindEth/nethermind/pull/11350) - 2026-04-25
+* [Commit] [style: enable nullable for Logging, Config, and leaf packages (#11119)](https://github.com/NethermindEth/nethermind/commit/cd8e5888697b212a4e90d0fc2fb60b152be02414) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026
