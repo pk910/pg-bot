@@ -132,6 +132,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add commit skill](https://github.com/ethereum/consensus-specs/pull/5163) - 2026-04-25
 * [Review] [Review on: Bump EIP-8025 `MAX_PROOF_SIZE` to 400 KiB](https://github.com/ethereum/consensus-specs/pull/5162#pullrequestreview-4175520413) - 2026-04-25
 * [Commit] [Add prepare-release skill (#5156)](https://github.com/ethereum/consensus-specs/commit/4eccd4688187eec00a10dd9b4c0bb9ac7589af74) - 2026-04-25
+* [Review] [Review on: Mark Fulu as deployed on mainnet](https://github.com/ethereum/consensus-specs/pull/5165#pullrequestreview-4176953518) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

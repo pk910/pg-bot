@@ -24,6 +24,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add mixed V17/V29 execution payload invalidation test](https://github.com/sigp/lighthouse/pull/9089) - 2026-04-16
 * [Pull Request] [Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155) - 2026-04-21
 * [Review] [Review on: Deprecate gossip blobs](https://github.com/sigp/lighthouse/pull/9126#pullrequestreview-4157426482) - 2026-04-22
+* [Review] [Review on: Gloas ptc duties beacon node response](https://github.com/sigp/lighthouse/pull/8415#pullrequestreview-4177062139) - 2026-04-26
+* [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4176954635) - 2026-04-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 ## Q1 2026
