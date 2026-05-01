@@ -89,6 +89,7 @@ Team: Reth
 * [Review] [Review on: feat(engine): return error on too deep reorg](https://github.com/paradigmxyz/reth/pull/23784#pullrequestreview-4195221340) - 2026-04-29
 * [Pull Request] [ci(hive): update amsterdam fixtures and branch](https://github.com/paradigmxyz/reth/pull/23807) - 2026-04-29
 * [Commit] [ci(hive): update amsterdam fixtures and branch (#23807)](https://github.com/paradigmxyz/reth/commit/76e886578b26dd18b14c21ef0e7f387284776566) - 2026-04-29
+* [Review] [Review on: chore: remove Built bal log](https://github.com/paradigmxyz/reth/pull/23852#pullrequestreview-4204185232) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

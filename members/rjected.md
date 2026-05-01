@@ -48,6 +48,7 @@ Team: Reth
 * [Pull Request] [fix(engine): do not install state hook if BAL is disabled (#23835)](https://github.com/paradigmxyz/reth/pull/23836) - 2026-04-29
 * [Review] [Review on: fix: skip `move_to_static_files` for `storage.v2`](https://github.com/paradigmxyz/reth/pull/23814#pullrequestreview-4196826195) - 2026-04-29
 * [Pull Request] [fix: stop hive image loading from masking failures](https://github.com/paradigmxyz/reth/pull/23817) - 2026-04-29
+* [Pull Request] [chore: remove Built bal log](https://github.com/paradigmxyz/reth/pull/23852) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026
