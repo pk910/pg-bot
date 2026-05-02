@@ -120,6 +120,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30
 * [Review] [Review on: add javadoc so we can publish to maven central](https://github.com/Consensys/teku/pull/10647#pullrequestreview-4208856583) - 2026-04-30
+* [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
 ## Q1 2026
 
 

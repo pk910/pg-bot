@@ -90,6 +90,9 @@ Team: Reth
 * [Pull Request] [ci(hive): update amsterdam fixtures and branch](https://github.com/paradigmxyz/reth/pull/23807) - 2026-04-29
 * [Commit] [ci(hive): update amsterdam fixtures and branch (#23807)](https://github.com/paradigmxyz/reth/commit/76e886578b26dd18b14c21ef0e7f387284776566) - 2026-04-29
 * [Review] [Review on: chore: remove Built bal log](https://github.com/paradigmxyz/reth/pull/23852#pullrequestreview-4204185232) - 2026-04-30
+* [Pull Request] [refactor(tree): reduce BAL cloning across validation and execution](https://github.com/paradigmxyz/reth/pull/23915) - 2026-05-01
+* [Pull Request] [Add static-file storage for bytecodes](https://github.com/paradigmxyz/reth/pull/23913) - 2026-05-01
+* [Review] [Review on: feat(engine): add BAL final hash mismatch diagnostic](https://github.com/paradigmxyz/reth/pull/23907#pullrequestreview-4210735250) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

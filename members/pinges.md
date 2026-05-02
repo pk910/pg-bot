@@ -32,6 +32,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 * [Review] [Review on: Return empty node for impossibly long trie paths in `GetTrieNodes`](https://github.com/besu-eth/besu/pull/10347#pullrequestreview-4202011675) - 2026-04-30
 * [Issue] [Snap sync permanently stalls: account pipeline blocked by perpetually-failing large storage tasks](https://github.com/besu-eth/besu/issues/10386) - 2026-05-01
+* [Issue] [Snap sync permanently stalls: account pipeline blocked by perpetually-failing large storage tasks](https://github.com/besu-eth/besu/issues/10387) - 2026-05-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 ## Q1 2026
