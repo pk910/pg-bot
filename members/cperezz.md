@@ -43,6 +43,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [fix(cli): avoid u64 underflow in setup_without_evm for genesis-block header (#23728)](https://github.com/paradigmxyz/reth/commit/bd4cd28a8df764a912c807085ff6d54cd7b5c198) - 2026-04-26
 * [Pull Request] [feat(node, db-common): add --debug.skip-genesis-validation](https://github.com/paradigmxyz/reth/pull/23919) - 2026-05-03
 * [Review] [Review on: feat(node, db-common): add --debug.skip-genesis-validation](https://github.com/paradigmxyz/reth/pull/23919#pullrequestreview-4219277222) - 2026-05-04
+* [Commit] [feat(node, db-common): add --debug.skip-genesis-validation (#23919)](https://github.com/paradigmxyz/reth/commit/1021fc2c27fc212ad591328ae189011df812bc13) - 2026-05-06
 ## Q1 2026
 
 

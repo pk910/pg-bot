@@ -71,6 +71,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090#pullrequestreview-4217213395) - 2026-05-04
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4225564674) - 2026-05-05
 * [Review] [Review on: Remove libssl dependency for cargo udeps](https://github.com/sigp/lighthouse/pull/9263#pullrequestreview-4224721033) - 2026-05-05
+* [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4232660278) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -81,6 +82,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Simplify `apply_parent_execution_payload` function signature](https://github.com/ethereum/consensus-specs/pull/5150#pullrequestreview-4162276057) - 2026-04-23
 * [Issue] [Check `is_genesis_block` in `process_parent_execution_payload` is dead code](https://github.com/ethereum/consensus-specs/issues/5149) - 2026-04-23
 * [Issue] [Why does `apply_parent_execution_payload` take the `parent_bid` as an argument?](https://github.com/ethereum/consensus-specs/issues/5148) - 2026-04-23
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
+* [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06
 ## Q1 2026
 
 
