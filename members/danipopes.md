@@ -357,6 +357,7 @@ Team: Reth
 * [Review] [Review on: fix(provider): add default rocksdb write buffer manager](https://github.com/paradigmxyz/reth/pull/24001#pullrequestreview-4233765061) - 2026-05-06
 * [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235203561) - 2026-05-06
 * [Review] [Review on: chore(BAL): dedup spawn_receipt_root_task](https://github.com/paradigmxyz/reth/pull/24004#pullrequestreview-4233769698) - 2026-05-06
+* [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245717135) - 2026-05-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
