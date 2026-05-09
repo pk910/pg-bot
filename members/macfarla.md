@@ -135,6 +135,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix(referencetests): upgrade execution-spec-tests to v5.4.0 and handle expected exceptions](https://github.com/besu-eth/besu/pull/10307#pullrequestreview-4240887341) - 2026-05-07
 * [Review] [Review on: Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416#pullrequestreview-4240784093) - 2026-05-07
 * [Commit] [reference tests: gradle extract fixtures: regenerate if needed (#10417)](https://github.com/besu-eth/besu/commit/986f464ab9b1ff46ac760395ef8b8879e1786582) - 2026-05-07
+* [Review] [Review on: refactor: replace eager string concatenation with SLF4J parameterized logging](https://github.com/besu-eth/besu/pull/10352#pullrequestreview-4249229168) - 2026-05-08
+* [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4250557087) - 2026-05-08
+* [Review] [Review on: fix: use non-zero exit code on disk-full shutdown](https://github.com/besu-eth/besu/pull/10254#pullrequestreview-4249412923) - 2026-05-08
+* [Review] [Review on: fix: return -38003 for FCUv1 timestamp errors](https://github.com/besu-eth/besu/pull/10353#pullrequestreview-4249213829) - 2026-05-08
+* [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4248855146) - 2026-05-08
+* [Review] [Review on: Lazy RLP decoding for GetReceiptsMessage](https://github.com/besu-eth/besu/pull/10450#pullrequestreview-4248826445) - 2026-05-08
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

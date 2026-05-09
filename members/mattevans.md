@@ -29,6 +29,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add payload_status to ForkChoiceNodeV2](https://github.com/ethpandaops/xatu/pull/819) - 2026-05-08
 * [Pull Request] [feat: wire ePBS SSE handlers + cannon derivers](https://github.com/ethpandaops/xatu/pull/814) - 2026-05-07
 * [Pull Request] [feat: migrate to ethpandaops/go-eth2-client; wire ePBS sourcing](https://github.com/ethpandaops/xatu/pull/813) - 2026-05-07
+* [Pull Request] [refactor: widen block_access_index from UInt16 to UInt32 per EIP-7928](https://github.com/ethpandaops/xatu/pull/820) - 2026-05-08
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 
