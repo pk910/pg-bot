@@ -102,6 +102,13 @@ Team: Erigon
 * [Review] [Review on: [performance] Update the performance branch to point to latest of performance on erigon-snapshot repo](https://github.com/erigontech/erigon/pull/21035#pullrequestreview-4245191177) - 2026-05-07
 * [Pull Request] [performance: fix key referencing threshold check (2)](https://github.com/erigontech/erigon/pull/21038) - 2026-05-07
 * [Pull Request] [performance: cherry-pick inc-shard-def-size updates](https://github.com/erigontech/erigon/pull/21033) - 2026-05-07
+* [Pull Request] [[r3.4] [1/3] cmd: improve commitment snapshot removal output (cherry-pick #20202)](https://github.com/erigontech/erigon/pull/21116) - 2026-05-11
+* [Pull Request] [[r3.4] [3/3] cmd/utils: add --only-history flag to rm-state command (cherry-pick #20899)](https://github.com/erigontech/erigon/pull/21118) - 2026-05-11
+* [Pull Request] [[r3.4] [2/3] seg rm-state: improve interactive menu display (cherry-pick #20525)](https://github.com/erigontech/erigon/pull/21117) - 2026-05-11
+* [Review] [Review on: fix error message for Versions.MustSupport ](https://github.com/erigontech/erigon/pull/21101#pullrequestreview-4264491342) - 2026-05-11
+* [Review] [Review on: execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088#pullrequestreview-4262976804) - 2026-05-11
+* [Pull Request] [commit: less data in logs during commit rebuild](https://github.com/erigontech/erigon/pull/21112) - 2026-05-11
+* [Commit] [commit: less data in logs during commit rebuild (#21112)](https://github.com/erigontech/erigon/commit/3f6727a9539574a7cbd967bfb2949d6054cd7547) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026
