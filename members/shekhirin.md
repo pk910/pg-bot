@@ -130,6 +130,9 @@ Team: Reth
 * [Review] [Review on: perf(reth-bench): buffer recent block hash requests](https://github.com/paradigmxyz/reth/pull/24176#pullrequestreview-4276411782) - 2026-05-12
 * [Review] [Review on: bench: show per-phase status in PR comment during benchmark runs](https://github.com/paradigmxyz/reth/pull/24158#pullrequestreview-4273474544) - 2026-05-12
 * [Review] [Review on: ci(bench): use online CPUs for reth affinity](https://github.com/paradigmxyz/reth/pull/24148#pullrequestreview-4272518886) - 2026-05-12
+* [Review] [Review on: ci(bench): use DEREK_BENCH_ACK_TOKEN for org membership check](https://github.com/paradigmxyz/reth/pull/24191#pullrequestreview-4282937613) - 2026-05-13
+* [Review] [Review on: fix(rpc): reuse cached block access lists](https://github.com/paradigmxyz/reth/pull/24185#pullrequestreview-4281611322) - 2026-05-13
+* [Review] [Review on: bench: reduce false positives with between-pairing CI and unified bootstrap](https://github.com/paradigmxyz/reth/pull/24179#pullrequestreview-4280988479) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

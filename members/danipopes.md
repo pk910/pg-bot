@@ -322,6 +322,9 @@ Team: Reth
 * [Commit] [refactor(bench): use fixture json inputs (#371)](https://github.com/paradigmxyz/revmc/commit/c665f0766987b5d3847dc4013b094d6b1822e1cb) - 2026-05-06
 * [Review] [Review on: chore: align dependencies with reth](https://github.com/paradigmxyz/revmc/pull/377#pullrequestreview-4274510114) - 2026-05-12
 * [Commit] [fix: resolve constant jumpi conditions (#374)](https://github.com/paradigmxyz/revmc/commit/065f53f177971eb369949d436e666e7627a7bf56) - 2026-05-12
+* [Pull Request] [fix: materialize stack for dedup redirects](https://github.com/paradigmxyz/revmc/pull/378) - 2026-05-13
+* [Pull Request] [refactor: generalize jit evm factory](https://github.com/paradigmxyz/revmc/pull/379) - 2026-05-13
+* [Commit] [fix: materialize stack for dedup redirects (#378)](https://github.com/paradigmxyz/revmc/commit/f2a31d82ec9f0d783876a20d5343d9e98675e94b) - 2026-05-13
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -360,6 +363,7 @@ Team: Reth
 * [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235203561) - 2026-05-06
 * [Review] [Review on: chore(BAL): dedup spawn_receipt_root_task](https://github.com/paradigmxyz/reth/pull/24004#pullrequestreview-4233769698) - 2026-05-06
 * [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245717135) - 2026-05-07
+* [Review] [Review on: feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230#pullrequestreview-4280791325) - 2026-05-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
