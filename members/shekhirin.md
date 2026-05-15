@@ -133,6 +133,8 @@ Team: Reth
 * [Review] [Review on: ci(bench): use DEREK_BENCH_ACK_TOKEN for org membership check](https://github.com/paradigmxyz/reth/pull/24191#pullrequestreview-4282937613) - 2026-05-13
 * [Review] [Review on: fix(rpc): reuse cached block access lists](https://github.com/paradigmxyz/reth/pull/24185#pullrequestreview-4281611322) - 2026-05-13
 * [Review] [Review on: bench: reduce false positives with between-pairing CI and unified bootstrap](https://github.com/paradigmxyz/reth/pull/24179#pullrequestreview-4280988479) - 2026-05-13
+* [Pull Request] [feat(cli): add `download --force` snapshot overwrite support](https://github.com/paradigmxyz/reth/pull/24229) - 2026-05-14
+* [Commit] [feat(cli): add `download --force` snapshot overwrite support (#24229)](https://github.com/paradigmxyz/reth/commit/420693521fccd1437071a15a4a54a3a98b5492cf) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

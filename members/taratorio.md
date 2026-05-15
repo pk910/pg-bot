@@ -113,6 +113,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI (#21163)](https://github.com/erigontech/erigon/commit/3ecebba2dffa758de7936bc089f43a6f4ece8d4c) - 2026-05-13
 * [Commit] [sonar: exclude docs/** from analysis (#21155)](https://github.com/erigontech/erigon/commit/ff7d56ff7c65985775dda8adaca72bd55db4b9b9) - 2026-05-13
 * [Commit] [execution: fix 73 failing tests in benchmark shards (#21160)](https://github.com/erigontech/erigon/commit/dbb9fc1b8545d308885f5dfea0e553889bd4f9f2) - 2026-05-13
+* [Review] [Review on: Added SSZ REST for Engine API](https://github.com/erigontech/erigon/pull/21203#pullrequestreview-4294700998) - 2026-05-15
+* [Review] [Review on: execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136)](https://github.com/erigontech/erigon/pull/21153#pullrequestreview-4289147679) - 2026-05-14
+* [Review] [Review on: execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize](https://github.com/erigontech/erigon/pull/21177#pullrequestreview-4288883502) - 2026-05-14
+* [Review] [Review on: ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list](https://github.com/erigontech/erigon/pull/21181#pullrequestreview-4287974923) - 2026-05-14
 ## Q1 2026
 
 

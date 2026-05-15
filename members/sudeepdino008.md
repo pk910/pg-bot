@@ -173,6 +173,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: encapsulate worker state into 1 struct](https://github.com/erigontech/erigon/pull/21075#pullrequestreview-4280704313) - 2026-05-13
 * [Pull Request] [[wip] mdbx size containment](https://github.com/erigontech/erigon/pull/21165) - 2026-05-13
 * [Review] [Review on: [r3.4] wire `--erigondb.domain.steps-in-frozen-file` for `stage_exec` and `seg retire`](https://github.com/erigontech/erigon/pull/21149#pullrequestreview-4278837689) - 2026-05-13
+* [Pull Request] [execution/stagedsync: check batch fullness after every block](https://github.com/erigontech/erigon/pull/21193) - 2026-05-14
+* [Pull Request] [execution/execmodule: prune chaindata in CommitCycle (+ release roTx, bloatnet collation gate)](https://github.com/erigontech/erigon/pull/21192) - 2026-05-14
+* [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4287099320) - 2026-05-14
+* [Review] [Review on: [wip] db/state: fix readyForCollation when block snapshots exist but state files do not](https://github.com/erigontech/erigon/pull/21183#pullrequestreview-4287285847) - 2026-05-14
 ## Q1 2026
 
 
