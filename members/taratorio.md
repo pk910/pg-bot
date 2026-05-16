@@ -117,6 +117,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136)](https://github.com/erigontech/erigon/pull/21153#pullrequestreview-4289147679) - 2026-05-14
 * [Review] [Review on: execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize](https://github.com/erigontech/erigon/pull/21177#pullrequestreview-4288883502) - 2026-05-14
 * [Review] [Review on: ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list](https://github.com/erigontech/erigon/pull/21181#pullrequestreview-4287974923) - 2026-05-14
+* [Pull Request] [execution: implement EIP-8037 changes and simplifications for bal-devnet-7](https://github.com/erigontech/erigon/pull/21207) - 2026-05-15
 ## Q1 2026
 
 

@@ -80,6 +80,8 @@ Team: Erigon
 * [Pull Request] [DO NOT MERGE  - this is for the lab](https://github.com/erigontech/erigon/pull/21196) - 2026-05-14
 * [Pull Request] [DO NOT MERGE - panda lab](https://github.com/erigontech/erigon/pull/21195) - 2026-05-14
 * [Review] [Review on: cmd/integration: add mdbx_copy compact in-place one-liner](https://github.com/erigontech/erigon/pull/21189#pullrequestreview-4289090107) - 2026-05-14
+* [Review] [Review on: diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202#pullrequestreview-4294760010) - 2026-05-15
+* [Commit] [Added SSZ REST for Engine API (#21203)](https://github.com/erigontech/erigon/commit/9f42f012008a964ca927dbc1d17d1ab7b491a5b7) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

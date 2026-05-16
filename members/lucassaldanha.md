@@ -73,6 +73,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4293515236) - 2026-05-14
 * [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4288042756) - 2026-05-14
 * [Pull Request] [QUIC transport: ENR-based peer discovery, preferred QUIC dialing, and optional TCP disable](https://github.com/Consensys/teku/pull/10700) - 2026-05-14
+* [Pull Request] [Revert "Update ethspecify, mostly for Gloas functions (#10706)"](https://github.com/Consensys/teku/pull/10716) - 2026-05-15
+* [Review] [Review on: Clean-up multiple warnings in tests ](https://github.com/Consensys/teku/pull/10713#pullrequestreview-4295447444) - 2026-05-15
+* [Pull Request] [Speed up CI pipeline](https://github.com/Consensys/teku/pull/10711) - 2026-05-15
+* [Pull Request] [Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709) - 2026-05-15
+* [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4294779861) - 2026-05-15
+* [Issue] [Drop Windows support](https://github.com/Consensys/teku/issues/10710) - 2026-05-15
+* [Commit] [Revert "Update ethspecify, mostly for Gloas functions (#10706)" (#10716)](https://github.com/Consensys/teku/commit/64b4781df4e01c5b15ce5235618bf48f679604c4) - 2026-05-15
+* [Commit] [Speed up CI pipeline (#10711)](https://github.com/Consensys/teku/commit/5a17af29b9a812b79d07a734a490379eae358830) - 2026-05-15
+* [Commit] [Trying to fix the most common flaky test failures (#10709)](https://github.com/Consensys/teku/commit/70db94b1b76a0f3534ee7d3421d6eaa81ea93a97) - 2026-05-15
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
