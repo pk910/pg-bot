@@ -138,6 +138,8 @@ Team: Reth
 * [Review] [Review on: ci(bench): remove legacy reth-bench workflow path](https://github.com/paradigmxyz/reth/pull/24262#pullrequestreview-4300106731) - 2026-05-15
 * [Review] [Review on: feat(bench): add configurable run pairs](https://github.com/paradigmxyz/reth/pull/24238#pullrequestreview-4298048104) - 2026-05-15
 * [Review] [Review on: bench: remove wait time thread reply from Slack notifications](https://github.com/paradigmxyz/reth/pull/24264#pullrequestreview-4299238040) - 2026-05-15
+* [Review] [Review on: ci(bench): remote write txgen bench metrics](https://github.com/paradigmxyz/reth/pull/24293#pullrequestreview-4311377299) - 2026-05-18
+* [Review] [Review on: fix(cli): reject zero db list len](https://github.com/paradigmxyz/reth/pull/24283#pullrequestreview-4308593549) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

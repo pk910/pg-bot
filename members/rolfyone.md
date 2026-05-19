@@ -66,6 +66,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Add Teku node column counts endpoint](https://github.com/Consensys/teku/pull/10712) - 2026-05-15
 * [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4294808942) - 2026-05-15
 * [Review] [Review on: Upgrade gradle](https://github.com/Consensys/teku/pull/10714#pullrequestreview-4306614237) - 2026-05-18
+* [Pull Request] [Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725) - 2026-05-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

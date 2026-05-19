@@ -189,6 +189,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [SharovBot] ci: fix stage-exec --result_file argument (underscore→hyphen)](https://github.com/erigontech/erigon/pull/21208#pullrequestreview-4304154503) - 2026-05-16
 * [Commit] [cp #21209: prune: fix stranded old-step dups in dupsort domains (#21218)](https://github.com/erigontech/erigon/commit/816936139e7d547c2714f563d42240d50094ff94) - 2026-05-16
 * [Commit] [execution/stagedsync: bump ChangeSets3 chain-tip prune limit (#21216)](https://github.com/erigontech/erigon/commit/be461c2a54b5dccb181d8768c43f4686056155a0) - 2026-05-16
+* [Pull Request] [execution/execmodule: split RunLoop prune from commit-cycle](https://github.com/erigontech/erigon/pull/21245) - 2026-05-18
 ## Q1 2026
 
 

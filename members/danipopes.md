@@ -376,6 +376,7 @@ Team: Reth
 * [Review] [Review on: ci(bench): remove legacy reth-bench workflow path](https://github.com/paradigmxyz/reth/pull/24262#pullrequestreview-4298483763) - 2026-05-15
 * [Review] [Review on: feat(bench): route BAL replays through txgen](https://github.com/paradigmxyz/reth/pull/24261#pullrequestreview-4297879198) - 2026-05-15
 * [Review] [Review on: chore(deps): update alloy core to 1.6.0](https://github.com/paradigmxyz/reth/pull/24275#pullrequestreview-4305538044) - 2026-05-17
+* [Review] [Review on: chore(bench): remove reth-bench](https://github.com/paradigmxyz/reth/pull/24288#pullrequestreview-4309264344) - 2026-05-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
