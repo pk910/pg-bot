@@ -94,6 +94,9 @@ Team: Erigon
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: skip tx gas cap after Amsterdam](https://github.com/ethereum/go-ethereum/pull/34841) - 2026-04-27
 * [Commit] [core: skip tx gas cap after Amsterdam (#34841)](https://github.com/ethereum/go-ethereum/commit/01036bed831186d892a3e3e35b32fcf304d4cc29) - 2026-04-28
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [feat: ssz engine API transport](https://github.com/ChainSafe/lodestar/pull/8994) - 2026-05-19
 ## Q1 2026
 
 
