@@ -83,6 +83,9 @@ Team: Erigon
 * [Review] [Review on: diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202#pullrequestreview-4294760010) - 2026-05-15
 * [Commit] [Added SSZ REST for Engine API (#21203)](https://github.com/erigontech/erigon/commit/9f42f012008a964ca927dbc1d17d1ab7b491a5b7) - 2026-05-15
 * [Review] [Review on: p2p/protocols/eth: refresh eth/71 doc comments for post-#11553 sentinel split](https://github.com/erigontech/erigon/pull/21250#pullrequestreview-4309186072) - 2026-05-18
+* [Review] [Review on: deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2)](https://github.com/erigontech/erigon/pull/21302#pullrequestreview-4327376368) - 2026-05-20
+* [Review] [Review on: bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295#pullrequestreview-4324697158) - 2026-05-20
+* [Review] [Review on: execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code](https://github.com/erigontech/erigon/pull/21284#pullrequestreview-4324697202) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

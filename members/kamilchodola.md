@@ -59,6 +59,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Align EIP-8037 gas accounting with BAL tests v7.1.0](https://github.com/NethermindEth/nethermind/pull/11579#pullrequestreview-4282320721) - 2026-05-13
 * [Pull Request] [Feat/r2r with pgo fix](https://github.com/NethermindEth/nethermind/pull/11643) - 2026-05-18
 * [Review] [Review on: fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code](https://github.com/NethermindEth/nethermind/pull/11635#pullrequestreview-4318271841) - 2026-05-19
+* [Commit] [feat: add gas-benchmark skill for automated repricing benchmarks (#11526)](https://github.com/NethermindEth/nethermind/commit/e08972bdf3a9a7c24ee11f9c9278c4f6489ad11f) - 2026-05-20
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

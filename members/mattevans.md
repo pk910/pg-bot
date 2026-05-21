@@ -53,6 +53,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat(observability): full OTel traces with gRPC propagation](https://github.com/ethpandaops/xatu/pull/835#pullrequestreview-4287646406) - 2026-05-14
 * [Review] [Review on: feat(local): swap xatu-server to direct kafka output with protobuf](https://github.com/ethpandaops/xatu/pull/834#pullrequestreview-4286827000) - 2026-05-14
 * [Pull Request] [feat: decode Gloas data_column_sidecar gossip events](https://github.com/ethpandaops/xatu/pull/842) - 2026-05-18
+* [Pull Request] [refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845) - 2026-05-20
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 
