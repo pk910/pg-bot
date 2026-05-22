@@ -160,6 +160,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: upgrade to v1.7.0-alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9383#pullrequestreview-4324824376) - 2026-05-20
 * [Issue] [Implement chain.targetGasLimit](https://github.com/ChainSafe/lodestar/issues/9385) - 2026-05-20
 * [Commit] [feat: upgrade to v1.7.0-alpha.8 spec (#9383)](https://github.com/ChainSafe/lodestar/commit/1d0e0b9081d83943480a7a39222a6b9e71acaf17) - 2026-05-20
+* [Pull Request] [feat: implement publishExecutionPayloadBid api](https://github.com/ChainSafe/lodestar/pull/9392) - 2026-05-21
+* [Review] [Review on: feat: check gas limit consistency with the target](https://github.com/ChainSafe/lodestar/pull/9391#pullrequestreview-4333770040) - 2026-05-21
+* [Commit] [feat: force the proposer to reorg unavailable blocks (#9387)](https://github.com/ChainSafe/lodestar/commit/b506aab66debd7baa0bfa2f6632a9c6936f045ad) - 2026-05-21
+* [Commit] [chore: add logs and metrics for execution payload (#9370)](https://github.com/ChainSafe/lodestar/commit/1a8c38ee36d2a585a3b949a0504ea7096ced6891) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

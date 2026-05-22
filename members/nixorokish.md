@@ -19,6 +19,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/pull/11399#pullrequestreview-4259659365) - 2026-05-10
 * [Review] [Review on: Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/pull/11625#pullrequestreview-4259654952) - 2026-05-10
 * [Pull Request] [Update EIP-7773: move PFI above DFI](https://github.com/ethereum/EIPs/pull/11712) - 2026-05-21
+* [Commit] [Update EIP-7773: move PFI above DFI](https://github.com/ethereum/EIPs/commit/8e5113ee9d1006b062cd2d8132e1a6c14d11911c) - 2026-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04
