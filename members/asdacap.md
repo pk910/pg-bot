@@ -222,6 +222,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/pull/11738) - 2026-05-25
 * [Commit] [test: improve test coverage in Nethermind.State.Flat (#11695)](https://github.com/NethermindEth/nethermind/commit/99fd6e682a140fd51fd5f2fcfc5d310eb07c4c24) - 2026-05-25
 * [Commit] [fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/commit/836707cbb9714abb684f4ca135c97938d822d0a9) - 2026-05-25
+* [Pull Request] [Refactor: collapse finalization manager into IBlockTree](https://github.com/NethermindEth/nethermind/pull/11775) - 2026-05-27
+* [Pull Request] [chore: enforce IDE0130 (namespace matches folder structure)](https://github.com/NethermindEth/nethermind/pull/11762) - 2026-05-26
+* [Pull Request] [feat(Core): introduce NativeMemoryList<T> / NativeMemoryListRef<T> and public ValueAddress](https://github.com/NethermindEth/nethermind/pull/11758) - 2026-05-26
+* [Review] [Review on: feat(Core): introduce NativeMemoryList<T> / NativeMemoryListRef<T> and public ValueAddress](https://github.com/NethermindEth/nethermind/pull/11758#pullrequestreview-4360317106) - 2026-05-26
+* [Commit] [feat(FlatDB): stagger compaction per-instance with random offset (#11756)](https://github.com/NethermindEth/nethermind/commit/4849ab85a705a555e8b4e332d92a799ce277f240) - 2026-05-26
+* [Commit] [feat(Core): introduce NativeMemoryList<T> / NativeMemoryListRef<T> and public ValueAddress (#11758)](https://github.com/NethermindEth/nethermind/commit/78656ca9094579360ca3591f7db35ae841d51c55) - 2026-05-26
+* [Commit] [Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource (#11465)](https://github.com/NethermindEth/nethermind/commit/91d5acafd42f454d7090258644d53dcd23ef6a30) - 2026-05-26
+* [Commit] [refactor: take ReadOnlySpan<byte> rlp on IPersistence trie writes (#11745)](https://github.com/NethermindEth/nethermind/commit/0d3001cf6f4841de41b11a192b99dcaa9ce2449e) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

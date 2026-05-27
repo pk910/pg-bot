@@ -217,6 +217,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [simplify state aggregation and pruning logic](https://github.com/erigontech/erigon/pull/21398) - 2026-05-25
 * [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4355212533) - 2026-05-25
 * [Review] [Review on: eliasfano32: Seek returns position alongside value](https://github.com/erigontech/erigon/pull/21385#pullrequestreview-4355869253) - 2026-05-25
+* [Pull Request] [re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21415) - 2026-05-26
+* [Pull Request] [db/state: backwards compatibility for ref commitment files (wip)](https://github.com/erigontech/erigon/pull/21419) - 2026-05-26
+* [Review] [Review on: [performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375#pullrequestreview-4362986702) - 2026-05-26
+* [Review] [Review on: [wip] db/state: only last reader deletes merged files](https://github.com/erigontech/erigon/pull/21395#pullrequestreview-4360463689) - 2026-05-26
+* [Issue] [stage_exec: mirror datadir taking long time, maybe large mdbx.dat file](https://github.com/erigontech/erigon/issues/21413) - 2026-05-26
+* [Issue] [stage_exec ci : errors on interrupt are not floated up](https://github.com/erigontech/erigon/issues/21412) - 2026-05-26
 ## Q1 2026
 
 
