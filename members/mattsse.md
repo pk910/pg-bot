@@ -525,6 +525,14 @@ Team: Reth
 * [Commit] [feat(transaction-pool): add borrowed pool transactions iterator (#24556)](https://github.com/paradigmxyz/reth/commit/980872d606b4f28a34eacc621bfd9a74c4f6f1aa) - 2026-05-26
 * [Commit] [refactor(net): use B256 collections for tx hashes (#24565)](https://github.com/paradigmxyz/reth/commit/283cc32396784be892ee8343ccde80dc8716f126) - 2026-05-26
 * [Commit] [fix(rpc): default eth_simulateV1 fee fields to 0 per spec (#24386)](https://github.com/paradigmxyz/reth/commit/e84f716b31d05706196f817077962850e4fd7c2b) - 2026-05-26
+* [Review] [Review on: feat: expose a `EthBlockAssembler` method with optional precomputed values](https://github.com/paradigmxyz/reth/pull/24598#pullrequestreview-4375897355) - 2026-05-27
+* [Review] [Review on: fix(tasks)!: join OS threads before tokio runtime teardown](https://github.com/paradigmxyz/reth/pull/24428#pullrequestreview-4375758981) - 2026-05-27
+* [Review] [Review on: fix(rpc): use builder gas limit for testing blocks](https://github.com/paradigmxyz/reth/pull/24573#pullrequestreview-4373630163) - 2026-05-27
+* [Pull Request] [refactor(payload): use alloy gas limit helper](https://github.com/paradigmxyz/reth/pull/24590) - 2026-05-27
+* [Review] [Review on: feat(bench): compare target metrics in benchmark summaries](https://github.com/paradigmxyz/reth/pull/24392#pullrequestreview-4373104546) - 2026-05-27
+* [Review] [Review on: feat(rpc): add eth simulate state root flag](https://github.com/paradigmxyz/reth/pull/24564#pullrequestreview-4371998503) - 2026-05-27
+* [Review] [Review on: chore(ci): increase stale workflow operation budget](https://github.com/paradigmxyz/reth/pull/24583#pullrequestreview-4372190409) - 2026-05-27
+* [Commit] [refactor(payload): use alloy gas limit helper (#24590)](https://github.com/paradigmxyz/reth/commit/7c5168c17a966081fb2b4523dadabb76f5a3e6bb) - 2026-05-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
