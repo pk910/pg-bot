@@ -93,6 +93,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized](https://github.com/Consensys/teku/pull/10747#pullrequestreview-4360048602) - 2026-05-26
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4376326947) - 2026-05-27
 * [Commit] [Defer DVT attestation selection submission until epoch start (#10744)](https://github.com/Consensys/teku/commit/2cd67bb384c5fa2aab54f366388aeae048de1291) - 2026-05-27
+* [Pull Request] [Limit pending block pool by retained bytes](https://github.com/Consensys/teku/pull/10758) - 2026-05-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

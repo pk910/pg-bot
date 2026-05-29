@@ -24,6 +24,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(go.mod): update dependencies to latest versions for improved stability and security](https://github.com/ethpandaops/contributoor/commit/4dcc57c3a136f5a1857037a8f79a801cd3422763) - 2026-05-11
 * [Commit] [Merge pull request #227 from ethpandaops/chore/fix-kt-tests](https://github.com/ethpandaops/contributoor/commit/77ea3f23747d4c2af210d4e268c5a00e101eb2a7) - 2026-05-11
 * [Commit] [fix(go.mod): update various dependencies to their latest versions for enhanced stability and performance](https://github.com/ethpandaops/contributoor/commit/74c507d661a0302e5ecf0a196cb4d73d15064fad) - 2026-05-11
+* [Pull Request] [chore: pin kt install](https://github.com/ethpandaops/contributoor/pull/234) - 2026-05-28
+* [Commit] [chore(typos.toml): update extend-exclude list to include go.mod and go.sum files for better typo checking coverage](https://github.com/ethpandaops/contributoor/commit/1ec82ea47f5fa4931e6e886d174e6ec97c3dd520) - 2026-05-28
+* [Commit] [Merge pull request #233 from ethpandaops/dependabot/github_actions/actions-6009b138a0](https://github.com/ethpandaops/contributoor/commit/3b93a1f794f0ae4688e6772864ef4552720c6fd6) - 2026-05-28
+* [Commit] [Merge pull request #234 from ethpandaops/fix/pin-kt-ver](https://github.com/ethpandaops/contributoor/commit/28c4637e8e8797fcecd5384af5a7768b0ddcbe98) - 2026-05-28
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09
@@ -63,6 +67,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90#pullrequestreview-4195314057) - 2026-04-29
 * [Commit] [Merge pull request #90 from ethpandaops/feat/add-glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/6a3003492dbaa5640c12cbf22738b61cc70aba63) - 2026-04-29
 
+* [Commit] [Merge pull request #93 from ethpandaops/dependabot/github_actions/actions-53028bbf90](https://github.com/ethpandaops/cartographoor/commit/b0648fa75a341a62f9eb535f6ce75505b85cf537) - 2026-05-28
+* [Commit] [Merge pull request #91 from ethpandaops/dependabot/go_modules/go-dependencies-21b99de093](https://github.com/ethpandaops/cartographoor/commit/d1c22146fdbdc770e2bbe00f42a44cb4538ed6c2) - 2026-05-28
+* [Commit] [chore(workflows): update Go version handling in workflows to use go.mod for versioning](https://github.com/ethpandaops/cartographoor/commit/aabaae8c7d1f28adc633f36020f66f212d20ea37) - 2026-05-28
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167) - 2026-05-06
 

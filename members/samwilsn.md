@@ -71,6 +71,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908#pullrequestreview-4357917160) - 2026-05-25
 * [Review] [Review on: feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader](https://github.com/ethereum/execution-specs/pull/2894#pullrequestreview-4365923930) - 2026-05-26
 * [Issue] [Fix docstring for `TransactionEnvironment`](https://github.com/ethereum/execution-specs/issues/2929) - 2026-05-27
+* [Pull Request] [chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934) - 2026-05-28
 ## Q1 2026
 
 
