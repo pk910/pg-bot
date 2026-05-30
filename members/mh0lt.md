@@ -221,6 +221,7 @@ Team: Erigon
 * [Pull Request] [stagedsync/exec3_parallel: re-enable trie warmup on parallel path](https://github.com/erigontech/erigon/pull/21454) - 2026-05-27
 * [Review] [Review on: State Cache Consolidation (PR #1 of the perf stack)](https://github.com/erigontech/erigon/pull/21380#pullrequestreview-4370331431) - 2026-05-27
 * [Commit] [execution/stagedsync: move coinbase/burnt tip credit out of finalize into apply-loop pre-validate step (#21423)](https://github.com/erigontech/erigon/commit/4e2afc0579b2d22d203eaea44e18fecf2537633a) - 2026-05-27
+* [Pull Request] [common/dbg, execution: PERF_PROFILES env knob + pprof labels for parallel exec phases](https://github.com/erigontech/erigon/pull/21516) - 2026-05-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026
