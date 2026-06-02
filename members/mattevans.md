@@ -73,6 +73,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #93 from ethpandaops/dependabot/github_actions/actions-53028bbf90](https://github.com/ethpandaops/cartographoor/commit/b0648fa75a341a62f9eb535f6ce75505b85cf537) - 2026-05-28
 * [Commit] [Merge pull request #91 from ethpandaops/dependabot/go_modules/go-dependencies-21b99de093](https://github.com/ethpandaops/cartographoor/commit/d1c22146fdbdc770e2bbe00f42a44cb4538ed6c2) - 2026-05-28
 * [Commit] [chore(workflows): update Go version handling in workflows to use go.mod for versioning](https://github.com/ethpandaops/cartographoor/commit/aabaae8c7d1f28adc633f36020f66f212d20ea37) - 2026-05-28
+* [Commit] [style(client): remove unnecessary blank lines in Start functions of MemoryProvider and RedisProvider to improve code readability](https://github.com/ethpandaops/cartographoor/commit/3ed4984bcf7a1108689bc11334b67c79ec5b21be) - 2026-06-01
+* [Commit] [refactor(memory.go): replace manual map copying with maps.Copy for cleaner code and efficiency](https://github.com/ethpandaops/cartographoor/commit/6587956558e04b23a1a1f773ff1d7fe90793293b) - 2026-06-01
+* [Commit] [Merge pull request #56 from ethpandaops/feat/cartographoor-client](https://github.com/ethpandaops/cartographoor/commit/1072505afa69156f96a5b66deb580c5e9eb3fd45) - 2026-06-01
+* [Commit] [feat(clientdiscovery): add a new client discovery package to fetch metadata about Ethereum clients from GitHub](https://github.com/ethpandaops/cartographoor/commit/13dabbff47f632c833208aed7a492fa1a951a72e) - 2026-06-01
+* [Commit] [feat(client): add GetInactiveNetworks and GetNetworksByStatus methods to Provider interface for enhanced network filtering](https://github.com/ethpandaops/cartographoor/commit/1f6c31151a622ffddd1b5de733f1a93aee007a0e) - 2026-06-01
+* [Commit] [docs: update CLAUDE.md to provide exhaustive service documentation, architecture overview, features, requirements, and configuration details for better clarity and understanding](https://github.com/ethpandaops/cartographoor/commit/0ca999e26945bda905966c487bd4ad3a4a2415c8) - 2026-06-01
+* [Commit] [Merge branch 'master' into feat/cartographoor-client](https://github.com/ethpandaops/cartographoor/commit/1f0297321b7e4c6ee1ef2ea6c4904e6d6ffb2866) - 2026-06-01
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167) - 2026-05-06
 

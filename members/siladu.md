@@ -89,6 +89,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Fix engine_newPayload invalid request type invalid status](https://github.com/besu-eth/besu/pull/10525#pullrequestreview-4377338676) - 2026-05-28
 * [Pull Request] [Push docker `develop` tag name instead a versioned tag](https://github.com/besu-eth/besu/pull/10576) - 2026-05-30
 * [Commit] [Use `develop` tag name instead versioned (#10576)](https://github.com/besu-eth/besu/commit/b77d00fb13489d7c29a9b657dde5748fa46beba1) - 2026-05-30
+* [Pull Request] [Don't error on overflow when incrementing balance](https://github.com/besu-eth/besu/pull/10581) - 2026-06-01
+* [Issue] [Nimbus engine_getBlobsV2 - Error streaming JSON-RPC response](https://github.com/besu-eth/besu/issues/10580) - 2026-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

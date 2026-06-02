@@ -195,6 +195,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4238#pullrequestreview-4334207277) - 2026-05-21
 * [Pull Request] [Revert "lto: set based on compiler"](https://github.com/status-im/nimbus-eth1/pull/4277) - 2026-05-30
 * [Commit] [Revert "lto: set based on compiler (#4071)" (#4277)](https://github.com/status-im/nimbus-eth1/commit/128bba02367ba97af5e3638059602ad292c220db) - 2026-05-30
+* [Review] [Review on: nix: use TMPDIR for cache locations](https://github.com/status-im/nimbus-eth1/pull/4282#pullrequestreview-4405563272) - 2026-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27
