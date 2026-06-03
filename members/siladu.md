@@ -91,6 +91,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Use `develop` tag name instead versioned (#10576)](https://github.com/besu-eth/besu/commit/b77d00fb13489d7c29a9b657dde5748fa46beba1) - 2026-05-30
 * [Pull Request] [Don't error on overflow when incrementing balance](https://github.com/besu-eth/besu/pull/10581) - 2026-06-01
 * [Issue] [Nimbus engine_getBlobsV2 - Error streaming JSON-RPC response](https://github.com/besu-eth/besu/issues/10580) - 2026-06-01
+* [Review] [Review on: kurtosis nightly task: pin ethereum-package](https://github.com/besu-eth/besu/pull/10583#pullrequestreview-4406150441) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

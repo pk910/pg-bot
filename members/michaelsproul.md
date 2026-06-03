@@ -134,6 +134,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Missed re-org opportunity: `is_parent_strong` definition too strict in the presence of empty/full split](https://github.com/ethereum/consensus-specs/issues/5305) - 2026-05-28
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4398252623) - 2026-06-01
 * [Review] [Review on: Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310#pullrequestreview-4401177516) - 2026-06-01
+* [Issue] [Proposer can build on full even when PTC votes for empty](https://github.com/ethereum/consensus-specs/issues/5319) - 2026-06-02
+* [Issue] [Building on Empty is a losing strategy if you have the proposer boost](https://github.com/ethereum/consensus-specs/issues/5320) - 2026-06-02
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06
