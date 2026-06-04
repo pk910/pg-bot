@@ -120,6 +120,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4404758202) - 2026-06-01
 * [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4402019379) - 2026-06-01
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4411822323) - 2026-06-02
+* [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4421893750) - 2026-06-03
+* [Review] [Review on: Add deposit signature cache + envelope prefetcher](https://github.com/OffchainLabs/prysm/pull/16812#pullrequestreview-4422433697) - 2026-06-03
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026
