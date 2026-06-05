@@ -195,6 +195,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: return resource_unavailable if requested range is before earliest_available_slot](https://github.com/ChainSafe/lodestar/pull/9454#pullrequestreview-4424104945) - 2026-06-04
 * [Review] [Review on: fix: produce payload attestation for any seen block at slot](https://github.com/ChainSafe/lodestar/pull/9461#pullrequestreview-4423996127) - 2026-06-04
 * [Review] [Review on: fix: sync through empty epochs in range sync](https://github.com/ChainSafe/lodestar/pull/9417#pullrequestreview-4415188429) - 2026-06-03
+* [Pull Request] [fix: prune finalized checkpoint state per block import](https://github.com/ChainSafe/lodestar/pull/9463) - 2026-06-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
