@@ -586,6 +586,11 @@ Team: Reth
 * [Review] [Review on: chore(era): remove per-reader `FileReader` impls](https://github.com/paradigmxyz/reth/pull/24854#pullrequestreview-4427323654) - 2026-06-04
 * [Review] [Review on: chore(docs): upgrade Vocs to v2](https://github.com/paradigmxyz/reth/pull/24849#pullrequestreview-4426961254) - 2026-06-04
 * [Review] [Review on: fix(engine): update ssz proxy endpoint paths](https://github.com/paradigmxyz/reth/pull/24844#pullrequestreview-4425773073) - 2026-06-04
+* [Review] [Review on: chore(era): reorg tests files folders](https://github.com/paradigmxyz/reth/pull/24898#pullrequestreview-4436091606) - 2026-06-05
+* [Review] [Review on: feat(bench): add chrome trace profiles](https://github.com/paradigmxyz/reth/pull/24879#pullrequestreview-4436256102) - 2026-06-05
+* [Pull Request] [chore(deps): bump reth-core crates to 0.4.1](https://github.com/paradigmxyz/reth/pull/24897) - 2026-06-05
+* [Review] [Review on: fix: docs Mermaid rendering](https://github.com/paradigmxyz/reth/pull/24892#pullrequestreview-4435003290) - 2026-06-05
+* [Review] [Review on: feat(engine-ssz): add supports for `engine_getBlobsVX` methods in ssz proxy](https://github.com/paradigmxyz/reth/pull/24887#pullrequestreview-4434695686) - 2026-06-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
