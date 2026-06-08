@@ -233,6 +233,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Replace redundant `WaitGroup` patterns with `WaitGroup.Go`](https://github.com/OffchainLabs/prysm/pull/16912#pullrequestreview-4443028169) - 2026-06-06
 * [Review] [Review on: Add debug log when ignoring payload envelope not for current slot](https://github.com/OffchainLabs/prysm/pull/16905#pullrequestreview-4441841725) - 2026-06-06
 * [Pull Request] [Fix attribute to `current_slot+1` after payload envelope processing](https://github.com/OffchainLabs/prysm/pull/16910) - 2026-06-06
+* [Pull Request] [Evict per-peer RPC rate-limiter buckets on disconnect](https://github.com/OffchainLabs/prysm/pull/16916) - 2026-06-07
+* [Pull Request] [Bound peer-reported head slot in peer-status scoring](https://github.com/OffchainLabs/prysm/pull/16915) - 2026-06-07
+* [Pull Request] [Fix concurrent map in data-availability wait](https://github.com/OffchainLabs/prysm/pull/16919) - 2026-06-07
+* [Pull Request] [Validate data-column sidecar counts on RPC fetch](https://github.com/OffchainLabs/prysm/pull/16918) - 2026-06-07
+* [Pull Request] [Reject block with an out-of-range proposer index](https://github.com/OffchainLabs/prysm/pull/16917) - 2026-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

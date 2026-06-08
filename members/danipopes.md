@@ -406,6 +406,7 @@ Team: Reth
 * [Review] [Review on: fix(docs): stabilize Vocs builds](https://github.com/paradigmxyz/reth/pull/24812#pullrequestreview-4418989626) - 2026-06-03
 * [Pull Request] [feat(bench): add chrome trace profiles](https://github.com/paradigmxyz/reth/pull/24879) - 2026-06-05
 * [Commit] [feat(bench): add chrome trace profiles (#24879)](https://github.com/paradigmxyz/reth/commit/87fc4cf4355ddbc59220f691a46d9f9d354adfa0) - 2026-06-05
+* [Review] [Review on: fix(payload): defer resolved job drop until after send](https://github.com/paradigmxyz/reth/pull/24967#pullrequestreview-4445236286) - 2026-06-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
