@@ -96,6 +96,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Unsupported Fork during Hoodi Bonsai Full Sync](https://github.com/besu-eth/besu/issues/10589) - 2026-06-03
 * [Pull Request] [Revert release process changes](https://github.com/besu-eth/besu/pull/10604) - 2026-06-08
 * [Review] [Review on: Revert release process changes](https://github.com/besu-eth/besu/pull/10604#pullrequestreview-4446174787) - 2026-06-08
+* [Review] [Review on: Revert release process changes](https://github.com/besu-eth/besu/pull/10604#pullrequestreview-4446278682) - 2026-06-08
+* [Commit] [Revert release process changes (#10604)](https://github.com/besu-eth/besu/commit/7009c72f57afdee399398de1fd19e519b597beba) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026
