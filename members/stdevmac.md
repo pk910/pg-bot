@@ -83,6 +83,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [Engine API over WebSocket: connection never re-established after EL restart, silently (v26.5.0)](https://github.com/status-im/nimbus-eth2/issues/8595) - 2026-06-12
 ## Q1 2026
 
 

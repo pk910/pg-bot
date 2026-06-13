@@ -78,6 +78,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update warp snapshot build job](https://github.com/sigp/lighthouse/pull/9459) - 2026-06-12
 * [Review] [Review on: Allow release branches to target stable in target-branch-check](https://github.com/sigp/lighthouse/pull/9457#pullrequestreview-4481655005) - 2026-06-12
 * [Review] [Review on: ci: require AI assistance disclosure in PRs](https://github.com/sigp/lighthouse/pull/9260#pullrequestreview-4473888593) - 2026-06-11
+* [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4481979702) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026
