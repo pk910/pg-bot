@@ -781,6 +781,15 @@ Team: Erigon
 * [Commit] [merge: less ram usage in .bt build and compression (#21781)](https://github.com/erigontech/erigon/commit/2cf5ef7ecd9845b2e73c5392a139bb720107ef4f) - 2026-06-14
 * [Commit] [existence filter: build speedup (#21785)](https://github.com/erigontech/erigon/commit/f44902e40e9224c77ba17982b6763c68b26c228d) - 2026-06-14
 * [Commit] [bt: reduce ram (#21787)](https://github.com/erigontech/erigon/commit/ec1378803d838f19481f0e7a8689aabcb9577e30) - 2026-06-14
+* [Review] [Review on: [SharovBot] seg rm-state: handle missing .kvi accessor gracefully](https://github.com/erigontech/erigon/pull/21802#pullrequestreview-4496785054) - 2026-06-15
+* [Review] [Review on: [3.6] domain: existence filter to ShardedFuse](https://github.com/erigontech/erigon/pull/21773#pullrequestreview-4494295959) - 2026-06-15
+* [Review] [Review on: db/datastruct/btindex: interpolation search in BTree leaf](https://github.com/erigontech/erigon/pull/21813#pullrequestreview-4496446173) - 2026-06-15
+* [Review] [Review on: btindex: interpolation search in BTree leaf](https://github.com/erigontech/erigon/pull/21794#pullrequestreview-4496446560) - 2026-06-15
+* [Pull Request] [seg: SamplingFactor>1 produced only 1 sample](https://github.com/erigontech/erigon/pull/21806) - 2026-06-15
+* [Commit] [seg: SamplingFactor>1 produced only 1 sample (#21806)](https://github.com/erigontech/erigon/commit/9c0d4997fd08dd5124499f571f9da340277c83c1) - 2026-06-15
+* [Commit] [btindex: use off-heap EliasFano during build (#21777)](https://github.com/erigontech/erigon/commit/4d06f94f194db06f86e99caf5b978c323685fc93) - 2026-06-15
+* [Commit] [db/state: replace ExistenceFilterOnAppMemory with ExistenceFilterMode enum (#21788)](https://github.com/erigontech/erigon/commit/0f82781fe8354f0b3e42c20251223c55f0f28233) - 2026-06-15
+* [Commit] [[wip] [3.6] commitment: skip `GetLatest` for keys creation (#21790)](https://github.com/erigontech/erigon/commit/b71304b2a0ee68889e92c1c6700848e7a04c4613) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16
