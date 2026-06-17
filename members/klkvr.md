@@ -198,6 +198,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: parallelize `write_storage_history`](https://github.com/paradigmxyz/reth/pull/25282) - 2026-06-15
 * [Review] [Review on: fix: send payload resolve command before returning future](https://github.com/paradigmxyz/reth/pull/25242#pullrequestreview-4497137888) - 2026-06-15
 * [Commit] [perf: parallelize `write_storage_history` (#25282)](https://github.com/paradigmxyz/reth/commit/472ecbb8c6ad213220079b70af63f190a8f32f9d) - 2026-06-15
+* [Review] [Review on: refactor(txpool): recover raw transactions as pool tx](https://github.com/paradigmxyz/reth/pull/25238#pullrequestreview-4505129242) - 2026-06-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -226,6 +227,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: remove `GasStateTr`](https://github.com/bluealloy/revm/pull/3750) - 2026-06-11
 * [Commit] [refactor: remove GasStateTr (#3750)](https://github.com/bluealloy/revm/commit/b8c01757d433d31d4097b51320d0a24b70032297) - 2026-06-11
 * [Review] [Review on: feat: make max refund quotient configurable](https://github.com/bluealloy/revm/pull/3757#pullrequestreview-4501738426) - 2026-06-15
+* [Pull Request] [chore: make `refund` fallible](https://github.com/bluealloy/revm/pull/3758) - 2026-06-16
+* [Commit] [fix: faillible refund (#3758)](https://github.com/bluealloy/revm/commit/303ddbf5bd06dd677ad55b301fb689fed298d4b3) - 2026-06-16
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

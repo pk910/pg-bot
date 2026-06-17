@@ -790,6 +790,13 @@ Team: Erigon
 * [Commit] [btindex: use off-heap EliasFano during build (#21777)](https://github.com/erigontech/erigon/commit/4d06f94f194db06f86e99caf5b978c323685fc93) - 2026-06-15
 * [Commit] [db/state: replace ExistenceFilterOnAppMemory with ExistenceFilterMode enum (#21788)](https://github.com/erigontech/erigon/commit/0f82781fe8354f0b3e42c20251223c55f0f28233) - 2026-06-15
 * [Commit] [[wip] [3.6] commitment: skip `GetLatest` for keys creation (#21790)](https://github.com/erigontech/erigon/commit/b71304b2a0ee68889e92c1c6700848e7a04c4613) - 2026-06-15
+* [Pull Request] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21827) - 2026-06-16
+* [Pull Request] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21828) - 2026-06-16
+* [Review] [Review on: .github, docs, Makefile: nightly fuzz workflow + fuzzing docs + make fuzz](https://github.com/erigontech/erigon/pull/21820#pullrequestreview-4503002862) - 2026-06-16
+* [Commit] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent (#21827)](https://github.com/erigontech/erigon/commit/78e767e21db493c54131075bc1b2d9ffafcb9dcb) - 2026-06-16
+* [Commit] [cl/sentinel: pass ctx through StartSentinelService → stickToPeers (#21786)](https://github.com/erigontech/erigon/commit/5efb6be936a232b360ee9b04d47723a4c85ad6c8) - 2026-06-16
+* [Commit] [db/datastruct/btindex: drop unused minDelta field from BtIndexWriter (#21834)](https://github.com/erigontech/erigon/commit/1c65092bddc0524d2118f4f0301f7921f65a8e6d) - 2026-06-16
+* [Commit] [[3.6] domain: existence filter to ShardedFuse (#21773)](https://github.com/erigontech/erigon/commit/422c617dfc463cd5d72ab67834f508761c003637) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

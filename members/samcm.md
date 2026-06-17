@@ -58,6 +58,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845#pullrequestreview-4324745294) - 2026-05-20
 * [Commit] [feat(sentry-logs): make the xatu sink buffer/concurrency/timeout env-tunable (#846)](https://github.com/ethpandaops/xatu/commit/75877668ac0ce071b61b02e668cef514a409f7ef) - 2026-05-21
 * [Review] [Review on: feat(clickhouse)!: database-agnostic per-schema migration sets](https://github.com/ethpandaops/xatu/pull/847#pullrequestreview-4502546460) - 2026-06-16
+* [Pull Request] [fix(libp2p): restore libp2p_join/leave by keying on local_peer_id](https://github.com/ethpandaops/xatu/pull/848) - 2026-06-17
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
