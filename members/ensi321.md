@@ -101,6 +101,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4501850483) - 2026-06-15
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4511717031) - 2026-06-17
 * [Commit] [test: un-ignore churn related fields in gloas (#9514)](https://github.com/ChainSafe/lodestar/commit/d01471ec84d63e56f7067a4d2d804681be7cb4c2) - 2026-06-16
+* [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4511764414) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
