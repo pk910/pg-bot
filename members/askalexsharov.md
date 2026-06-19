@@ -810,6 +810,19 @@ Team: Erigon
 * [Review] [Review on: cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853#pullrequestreview-4512135358) - 2026-06-17
 * [Commit] [btindex: add `M` to file, reduce RAM usage of `Build()` (#21778)](https://github.com/erigontech/erigon/commit/2e1fc0082ee15714c0f3c8fa8ccd513563454a96) - 2026-06-17
 * [Commit] [db/rawdb, snapshotsync: cut cursor & per-block allocs in PruneBlocks (#21861)](https://github.com/erigontech/erigon/commit/6e8ffe740683b4d556d40d9e2b076492eae4b6fe) - 2026-06-17
+* [Pull Request] [execution/stagedsync: remove diaglib.Send calls](https://github.com/erigontech/erigon/pull/21881) - 2026-06-18
+* [Review] [Review on: execution/commitment: materialize collapse-sibling branch in toWitnessTrie](https://github.com/erigontech/erigon/pull/21892#pullrequestreview-4529587228) - 2026-06-19
+* [Pull Request] [[wip] db: opt-in per-table warmup](https://github.com/erigontech/erigon/pull/21880) - 2026-06-18
+* [Review] [Review on: [wip] db: opt-in per-table warmup](https://github.com/erigontech/erigon/pull/21880#pullrequestreview-4523710364) - 2026-06-18
+* [Review] [Review on: [r3.4] ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21889#pullrequestreview-4529597623) - 2026-06-19
+* [Review] [Review on: docs: w25 prose fixes (release/3.5) — casing, EL acronym, polygon flag typo](https://github.com/erigontech/erigon/pull/21890#pullrequestreview-4529596312) - 2026-06-19
+* [Pull Request] [[wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875) - 2026-06-18
+* [Review] [Review on: [wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875#pullrequestreview-4522435184) - 2026-06-18
+* [Pull Request] [snapshotsync: prune blocks in one PruneBlocks call per cycle (#21861)](https://github.com/erigontech/erigon/pull/21873) - 2026-06-18
+* [Review] [Review on: db/recsplit/eliasfano16, db/recsplit/eliasfano32: don't mutate fuzzer input](https://github.com/erigontech/erigon/pull/21877#pullrequestreview-4522326228) - 2026-06-18
+* [Pull Request] [btindex: add `M` to file, reduce RAM usage of `Build()` (#21778)](https://github.com/erigontech/erigon/pull/21872) - 2026-06-18
+* [Commit] [execution/types: reduce typed-transaction Hash() allocations (no []any, no reflection) (#21858)](https://github.com/erigontech/erigon/commit/9c149fb4d21df9cb0180da41f826859e71486762) - 2026-06-18
+* [Commit] [db/recsplit: use SmallSortableBuffers for bucket collector ETL (#21830) (#21871)](https://github.com/erigontech/erigon/commit/0e510e96a54e1b82adb75b26eef52ba4b48b3a22) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16
