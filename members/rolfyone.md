@@ -149,6 +149,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4540380120) - 2026-06-21
 * [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4539343895) - 2026-06-21
 * [Commit] [updated license check to latest version (#10852)](https://github.com/Consensys/teku/commit/b1f9e4f6bd56d8b6d05dbe7bfe0623281f467de9) - 2026-06-22
+* [Pull Request] [quiet the license check](https://github.com/Consensys/teku/pull/10868) - 2026-06-22
+* [Pull Request] [Added optional fields to peers endpoint](https://github.com/Consensys/teku/pull/10867) - 2026-06-22
+* [Review] [Review on: Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging](https://github.com/Consensys/teku/pull/10865#pullrequestreview-4540741510) - 2026-06-22
+* [Commit] [Added optional fields to peers endpoint (#10867)](https://github.com/Consensys/teku/commit/3480ebd81edc0c3343461668b77f2fd59e8e560e) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
