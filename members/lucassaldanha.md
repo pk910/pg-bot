@@ -114,6 +114,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Promote QUIC support to stable](https://github.com/Consensys/teku/issues/10866) - 2026-06-22
 * [Issue] [New Engine API Client (OkHttp + Jackson)](https://github.com/Consensys/teku/issues/10875) - 2026-06-22
 * [Commit] [Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging (#10865)](https://github.com/Consensys/teku/commit/ec366da720dd5128ec878bcf6ccbe0cc136c12de) - 2026-06-22
+* [Review] [Review on: add new reject rule to Execution payload bid gossip validator](https://github.com/Consensys/teku/pull/10886#pullrequestreview-4557987317) - 2026-06-24
+* [Pull Request] [Break down peers_direction_current metric by transport (tcp/quic)](https://github.com/Consensys/teku/pull/10887) - 2026-06-23
+* [Pull Request] [Enabling new experimental features by default](https://github.com/Consensys/teku/pull/10882) - 2026-06-23
+* [Commit] [Enabling new experimental features by default (#10882)](https://github.com/Consensys/teku/commit/b232da4f59f23a82202aae96cd9c3efbdac8d24f) - 2026-06-23
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -185,6 +189,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [fix(quic): warm address cache and close channel on hole-punch failure](https://github.com/libp2p/jvm-libp2p/commit/1915a6341971ff0afac128105e518d23c3446cb2) - 2026-06-17
 * [Commit] [fix(quic): cache connection addresses to avoid NPE on freed channel](https://github.com/libp2p/jvm-libp2p/commit/d500b622e1263c2c4ed68d741183eb38c27cd8cb) - 2026-06-17
 * [Pull Request] [fix(quic): validate hole-punch peer identity early and handle STOP_SENDING](https://github.com/libp2p/jvm-libp2p/pull/494) - 2026-06-18
+* [Pull Request] [fix(quic): close inbound connection when handler rejects it](https://github.com/libp2p/jvm-libp2p/pull/499) - 2026-06-23
+* [Commit] [Merge pull request #499 from lucassaldanha/investigate-peer-warn](https://github.com/libp2p/jvm-libp2p/commit/31e0e982cda4f01530a9f2912bcb194f16e55cb3) - 2026-06-24
+* [Commit] [fix(quic): only catch Exception, not fatal Error, on inbound rejection](https://github.com/libp2p/jvm-libp2p/commit/35a5e0da543e2abaab03712017cf6a8c557dba1c) - 2026-06-24
+* [Commit] [fix(quic): close inbound connection when handler rejects it](https://github.com/libp2p/jvm-libp2p/commit/16351a68fe9c84342ccc82625619beb12619c687) - 2026-06-23
+* [Commit] [Merge pull request #494 from lucassaldanha/hole-punch-fix](https://github.com/libp2p/jvm-libp2p/commit/26a44c13ab4bd60ac00ecdc974f906eff50b7d2c) - 2026-06-23
+* [Commit] [test(quic): cover reject-before-exposure for wrong-identity hole punch](https://github.com/libp2p/jvm-libp2p/commit/b34239636b8e1859e76bf4e040e24757acba264a) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

@@ -226,6 +226,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use number representation for Gloas `ExecutionPayloadBid`'s `gasLimit`](https://github.com/ChainSafe/lodestar/pull/9528#pullrequestreview-4540886904) - 2026-06-22
 * [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4541066296) - 2026-06-22
 * [Review] [Review on: fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521#pullrequestreview-4540890388) - 2026-06-22
+* [Pull Request] [refactor: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/9550) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
