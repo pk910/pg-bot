@@ -139,11 +139,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4558204581) - 2026-06-24
 * [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4549473130) - 2026-06-23
 * [Issue] [Non-canonical payload bid handling](https://github.com/sigp/lighthouse/issues/9520) - 2026-06-23
+* [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4567138104) - 2026-06-25
+* [Pull Request] [Remove redundant `is_gloas` checks in reorg tests](https://github.com/sigp/lighthouse/pull/9529) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
 
 * [Review] [Review on: Remove Barnabé Monnot from Protocol Architecture](https://github.com/protocolguild/documentation/pull/498#pullrequestreview-4287558064) - 2026-05-14
+* [Review] [Review on: Remove Bharath Vedartham](https://github.com/protocolguild/documentation/pull/504#pullrequestreview-4567203273) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Gloas: `on_block` is ill-defined at fork boundary](https://github.com/ethereum/consensus-specs/issues/5096) - 2026-04-12
 * [Review] [Review on: Fix `test_builder_payment_after_missed_epochs`](https://github.com/ethereum/consensus-specs/pull/5120#pullrequestreview-4125536386) - 2026-04-17
