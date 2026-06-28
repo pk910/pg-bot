@@ -238,6 +238,7 @@ Team: Erigon
 * [Commit] [execution/commitment: remove ConcurrentHexPatriciaTrie PoC (#22004)](https://github.com/erigontech/erigon/commit/4b0599997bd1f70524fce7409c7226c68143d094) - 2026-06-25
 * [Commit] [rpc/jsonrpc: report the limit in `eth_getLogs` filter-size errors (#22014)](https://github.com/erigontech/erigon/commit/19f1f0ecae9c55b59971998f0bd26a70575873a2) - 2026-06-25
 * [Commit] [rpc/jsonrpc: keep preimage for in-block-deleted accounts in executionWitness (#22000)](https://github.com/erigontech/erigon/commit/4c7fd223508008a08fc7b7828aac02aad23c6ccf) - 2026-06-25
+* [Commit] [execution/commitment: remove inert parallel-commitment warmup; refresh design doc (#22042)](https://github.com/erigontech/erigon/commit/d879b3b65323a8599a08b4e37ca63e7139e4ea92) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

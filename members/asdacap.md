@@ -350,6 +350,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: [WIP] - Flat historical state](https://github.com/NethermindEth/nethermind/pull/12125#pullrequestreview-4583648024) - 2026-06-27
 * [Pull Request] [refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144) - 2026-06-26
 * [Commit] [AuRa: move finalization manager and terminal-block disposer to DI (#12036)](https://github.com/NethermindEth/nethermind/commit/40dfb091784ab8ce3bda205cd384d32a847517d2) - 2026-06-26
+* [Review] [Review on: [WIP] - Flat historical state](https://github.com/NethermindEth/nethermind/pull/12125#pullrequestreview-4583712502) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026
