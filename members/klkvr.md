@@ -223,6 +223,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(trie): compute trie changesets on demand](https://github.com/paradigmxyz/reth/pull/25646#pullrequestreview-4570680263) - 2026-06-25
 * [Pull Request] [perf: windowed conversion of transactions](https://github.com/paradigmxyz/reth/pull/25783) - 2026-06-26
 * [Review] [Review on: docs(evm): fix executable tx iterator docs](https://github.com/paradigmxyz/reth/pull/25787#pullrequestreview-4579549300) - 2026-06-26
+* [Review] [Review on: refactor(chain-state): move preserved sparse trie ownership](https://github.com/paradigmxyz/reth/pull/25911#pullrequestreview-4592243785) - 2026-06-29
+* [Commit] [perf: windowed conversion of transactions (#25783)](https://github.com/paradigmxyz/reth/commit/0d303f75409c3b8a1b760bf275680b7c2deaa2a5) - 2026-06-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

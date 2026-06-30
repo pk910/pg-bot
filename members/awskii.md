@@ -240,6 +240,13 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: keep preimage for in-block-deleted accounts in executionWitness (#22000)](https://github.com/erigontech/erigon/commit/4c7fd223508008a08fc7b7828aac02aad23c6ccf) - 2026-06-25
 * [Commit] [execution/commitment: remove inert parallel-commitment warmup; refresh design doc (#22042)](https://github.com/erigontech/erigon/commit/d879b3b65323a8599a08b4e37ca63e7139e4ea92) - 2026-06-27
 * [Pull Request] [execution/commitment: build execution witness on-the-fly during fold (replace toWitnessTrie)](https://github.com/erigontech/erigon/pull/22077) - 2026-06-28
+* [Pull Request] [execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22097) - 2026-06-29
+* [Pull Request] [execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092) - 2026-06-29
+* [Review] [Review on: execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092#pullrequestreview-4593976137) - 2026-06-29
+* [Pull Request] [rpc/jsonrpc: build `eth_getWitness` during trie unfold](https://github.com/erigontech/erigon/pull/22099) - 2026-06-29
+* [Review] [Review on: execution/commitment: build execution witness during fold ](https://github.com/erigontech/erigon/pull/22077#pullrequestreview-4593860135) - 2026-06-29
+* [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4591364867) - 2026-06-29
+* [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22076#pullrequestreview-4591362617) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026
