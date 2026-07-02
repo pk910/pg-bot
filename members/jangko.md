@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Review] [Review on: t8n: support EIP-7843 currentSlotNumber in env](https://github.com/status-im/nimbus-eth1/pull/4381#pullrequestreview-4608946751) - 2026-07-01
 ## Q2 2026
 
 
