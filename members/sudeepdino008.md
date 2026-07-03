@@ -20,6 +20,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: enlarge parallel-exec dispatch & results queues](https://github.com/erigontech/erigon/pull/22127) - 2026-07-01
 * [Review] [Review on: db/state: remove FilesItem.frozen field](https://github.com/erigontech/erigon/pull/22126#pullrequestreview-4606384162) - 2026-07-01
 * [Pull Request] [[performance] cherry-pick: db/snapshotsync: resume caplin state dump per-type to avoid overlapping files (#21901)](https://github.com/erigontech/erigon/pull/22124) - 2026-07-01
+* [Review] [Review on: stagedsync: Fix logIndex reset and missing websocket notifications in parallel execution](https://github.com/erigontech/erigon/pull/22110#pullrequestreview-4616394258) - 2026-07-02
+* [Pull Request] [.github: add @sudeepdino008 as CODEOWNER for /cl/](https://github.com/erigontech/erigon/pull/22157) - 2026-07-02
+* [Pull Request] [[r3.5] stagedsync: fix log index reset and missing notifications in parallel execution](https://github.com/erigontech/erigon/pull/22155) - 2026-07-02
+* [Commit] [.github: add @sudeepdino008 as CODEOWNER for /cl/ (#22157)](https://github.com/erigontech/erigon/commit/c73d8fac6ca016be1eab34a3c6ef6829e1a1ff1a) - 2026-07-02
+* [Commit] [cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace (#22125)](https://github.com/erigontech/erigon/commit/a4b117e43933790e16dc382226c4167b401f2286) - 2026-07-02
 ## Q2 2026
 
 

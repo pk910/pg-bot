@@ -17,6 +17,10 @@ Team: Erigon
 * [Pull Request] [QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134) - 2026-07-01
 * [Pull Request] [QA: repin rpc-tests to v2.20.0](https://github.com/erigontech/erigon/pull/22133) - 2026-07-01
 * [Commit] [QA: repin rpc-tests to v2.20.0 (#22133)](https://github.com/erigontech/erigon/commit/f1d79d699ed4b809abc0d177dcb539d8605edc41) - 2026-07-01
+* [Pull Request] [execution/commitment: fix parallel/streaming deep-fold correctness bugs](https://github.com/erigontech/erigon/pull/22184) - 2026-07-03
+* [Pull Request] [commitment: deep storage fold dropped untouched on-disk slots (#22113)](https://github.com/erigontech/erigon/pull/22153) - 2026-07-02
+* [Commit] [execution/stagedsync: checkpoint commitment at step boundaries in parallel exec (#22092)](https://github.com/erigontech/erigon/commit/9ddd5313dd76b0be391ace2039a6d2ee8c3a587b) - 2026-07-02
+* [Commit] [execution/commitment: build execution witness during fold  (#22077)](https://github.com/erigontech/erigon/commit/528de7f454d6962ac5689ccde79fa424042bf216) - 2026-07-02
 ## Q2 2026
 
 

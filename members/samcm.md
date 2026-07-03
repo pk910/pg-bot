@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [release: gloas (glamsterdam-devnet-6)](https://github.com/ethpandaops/xatu/pull/864) - 2026-07-02
 ## Q2 2026
 
 

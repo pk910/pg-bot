@@ -17,10 +17,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [`generateExecutionBundle` builds on last imported block, not fcU-specified head](https://github.com/status-im/nimbus-eth1/issues/4382) - 2026-07-01
 * [Commit] [update to nimbus-eth2 v26.6.2 (#4384)](https://github.com/status-im/nimbus-eth1/commit/b83526d719fa4ae3cf0403076feb1373fdc1eab3) - 2026-07-01
 
+* [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
 * [Review] [Review on: switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685#pullrequestreview-4606686525) - 2026-07-01
+* [Pull Request] [fix validator bucket CI flakiness](https://github.com/status-im/nimbus-eth2/pull/8694) - 2026-07-02
+* [Pull Request] [prune column quarantines](https://github.com/status-im/nimbus-eth2/pull/8691) - 2026-07-02
+* [Pull Request] [refactor nimbus_binary_common to allow importing without presto](https://github.com/status-im/nimbus-eth2/pull/8689) - 2026-07-02
 ## Q2 2026
 
 

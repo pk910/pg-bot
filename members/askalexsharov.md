@@ -26,6 +26,8 @@ Team: Erigon
 * [Review] [Review on: [performance] cherry-pick: db/snapshotsync: resume caplin state dump per-type to avoid overlapping files (#21901)](https://github.com/erigontech/erigon/pull/22124#pullrequestreview-4606002329) - 2026-07-01
 * [Review] [Review on: p2p/discover: drop net.IP/AddrPort String allocs on hot paths](https://github.com/erigontech/erigon/pull/22109#pullrequestreview-4605325686) - 2026-07-01
 * [Commit] [db/state: remove FilesItem.frozen field (#22126)](https://github.com/erigontech/erigon/commit/8aca45aedfd4d631390f08ecc28ed85d2e7228ff) - 2026-07-01
+* [Commit] [p2p/discover: drop net.IP/AddrPort String allocs on hot paths (#22109)](https://github.com/erigontech/erigon/commit/5849e5bc31c7ac92bb3c6df397fadb5a1df1e4ed) - 2026-07-02
+* [Commit] [common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs() (#22075)](https://github.com/erigontech/erigon/commit/6ec0aa8b043a8934628aa4aec2d9fb74f9854107) - 2026-07-02
 ## Q2 2026
 
 
