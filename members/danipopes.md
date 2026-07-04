@@ -19,6 +19,7 @@ Team: Reth
 * [Review] [Review on: perf(engine): hash precompile metrics by fixed address](https://github.com/paradigmxyz/reth/pull/26070#pullrequestreview-4618651740) - 2026-07-02
 * [Review] [Review on: fix(rpc): weight fee history rewards by receipt gas](https://github.com/paradigmxyz/reth/pull/26067#pullrequestreview-4617750271) - 2026-07-02
 * [Commit] [chore(deps): sync dependabot config (#26071)](https://github.com/paradigmxyz/reth/commit/571ecdc96c6a204fd8ad522af4227b6fc02dc55e) - 2026-07-02
+* [Review] [Review on: perf(net): preallocate pooled hash metadata decoding](https://github.com/paradigmxyz/reth/pull/26145#pullrequestreview-4628173849) - 2026-07-03
 ## Q2 2026
 
 

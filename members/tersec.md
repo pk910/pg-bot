@@ -18,6 +18,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [update to nimbus-eth2 v26.6.2 (#4384)](https://github.com/status-im/nimbus-eth1/commit/b83526d719fa4ae3cf0403076feb1373fdc1eab3) - 2026-07-01
 
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
+* [Review] [Review on: use error code -32602 incase of payload parsing error](https://github.com/status-im/nimbus-eth1/pull/4379#pullrequestreview-4622673669) - 2026-07-03
+* [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4622993743) - 2026-07-03
+* [Review] [Review on: add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183#pullrequestreview-4623765132) - 2026-07-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -25,6 +28,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix validator bucket CI flakiness](https://github.com/status-im/nimbus-eth2/pull/8694) - 2026-07-02
 * [Pull Request] [prune column quarantines](https://github.com/status-im/nimbus-eth2/pull/8691) - 2026-07-02
 * [Pull Request] [refactor nimbus_binary_common to allow importing without presto](https://github.com/status-im/nimbus-eth2/pull/8689) - 2026-07-02
+
+* [Review] [Review on: add POST /eth/v1/beacon/execution_payload_envelopes](https://github.com/status-im/nimbus-eth2/pull/8695#pullrequestreview-4623047887) - 2026-07-03
+* [Review] [Review on: add proposer preferences SSE event and submission endpoint](https://github.com/status-im/nimbus-eth2/pull/8696#pullrequestreview-4623140054) - 2026-07-03
+* [Review] [Review on: Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417#pullrequestreview-4623684152) - 2026-07-03
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 ## Q2 2026
 
 
