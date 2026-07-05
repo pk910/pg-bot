@@ -28,6 +28,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/pull/11856) - 2026-07-03
 * [Review] [Review on: Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/pull/11856#pullrequestreview-4622351952) - 2026-07-03
 * [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4622216237) - 2026-07-03
+* [Review] [Review on: Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/pull/11856#pullrequestreview-4630373932) - 2026-07-04
+* [Commit] [Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/commit/d490ca552a36b103426fac04fd0bb4eab82e6165) - 2026-07-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
