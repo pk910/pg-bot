@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417#pullrequestreview-4623684152) - 2026-07-03
 * [Pull Request] [fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700) - 2026-07-04
 * [Review] [Review on: fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700#pullrequestreview-4629559206) - 2026-07-04
+* [Review] [Review on: add POST /eth/v1/beacon/execution_payload_envelopes](https://github.com/status-im/nimbus-eth2/pull/8695#pullrequestreview-4632147488) - 2026-07-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 ## Q2 2026
