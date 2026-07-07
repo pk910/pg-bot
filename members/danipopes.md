@@ -20,6 +20,9 @@ Team: Reth
 * [Review] [Review on: fix(rpc): weight fee history rewards by receipt gas](https://github.com/paradigmxyz/reth/pull/26067#pullrequestreview-4617750271) - 2026-07-02
 * [Commit] [chore(deps): sync dependabot config (#26071)](https://github.com/paradigmxyz/reth/commit/571ecdc96c6a204fd8ad522af4227b6fc02dc55e) - 2026-07-02
 * [Review] [Review on: perf(net): preallocate pooled hash metadata decoding](https://github.com/paradigmxyz/reth/pull/26145#pullrequestreview-4628173849) - 2026-07-03
+* [Review] [Review on: revert: update reference to AGENTS.md in CLAUDE.md](https://github.com/paradigmxyz/reth/pull/26277#pullrequestreview-4638514511) - 2026-07-06
+* [Review] [Review on: chore(deps): bump taiki-e/install-action from 2.82.4 to 2.82.6 in the ci-weekly group](https://github.com/paradigmxyz/reth/pull/26250#pullrequestreview-4635830966) - 2026-07-06
+* [Review] [Review on: revert: rustdoc no_inline workaround](https://github.com/paradigmxyz/reth/pull/26256#pullrequestreview-4635424758) - 2026-07-06
 ## Q2 2026
 
 

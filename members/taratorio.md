@@ -22,6 +22,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [.github/workflows: run CI Gate on PRs against any base branch (#22139)](https://github.com/erigontech/erigon/commit/0b02768e81b7e62751ebf1afa17566ae932dac36) - 2026-07-02
 * [Pull Request] [execution: reduce BAL-driven parallel exec re-executions by 10x](https://github.com/erigontech/erigon/pull/22190) - 2026-07-03
 * [Pull Request] [execution: update to latest stable eest spec test fixtures v20.0.0](https://github.com/erigontech/erigon/pull/22189) - 2026-07-03
+* [Issue] [[glamsterdam-devnet-6] erigon builder produces invalid payload (wrong state root) under ePBS reorg — slot 57122 / block 43132](https://github.com/erigontech/erigon/issues/22254) - 2026-07-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
+* [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
 ## Q2 2026
 
 
