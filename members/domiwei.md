@@ -20,6 +20,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl: allow boundary attestations while head state lags](https://github.com/erigontech/erigon/pull/22284) - 2026-07-07
 * [Review] [Review on: cl/p2p: advertise actually bound ports in the caplin ENR](https://github.com/erigontech/erigon/pull/22273#pullrequestreview-4643841754) - 2026-07-07
 * [Commit] [cl/forkchoice: use delta tree for GLOAS weights (#21913)](https://github.com/erigontech/erigon/commit/b5e6bba174d52013d8f5f3ad82e6f459de8473e3) - 2026-07-07
+* [Pull Request] [[r3.5] cl: allow boundary attestations while head state lags](https://github.com/erigontech/erigon/pull/22251) - 2026-07-08
+* [Commit] [cl: allow boundary attestations while head state lags (#22284)](https://github.com/erigontech/erigon/commit/b1dfb5b976aa3a49629fed0885e36292b50da449) - 2026-07-08
 ## Q2 2026
 
 

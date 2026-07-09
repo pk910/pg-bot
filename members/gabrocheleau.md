@@ -16,6 +16,7 @@ Team: EthereumJS
 * [Pull Request] [evm/vm/tx/common: align Amsterdam gas schedule ](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4337) - 2026-07-06
 * [Pull Request] [feat: eip 8282 builder requests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4339) - 2026-07-06
 * [Pull Request] [evm/vm/common: implement EIP-8246 SELFDESTRUCT no burn (Amsterdam)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4338) - 2026-07-06
+* [Commit] [fix(vm): delete empty accounts in consumeBal instead of writing zero-balance trie entries (#4334)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9d68696b6526648fbe8d973ef4ed4c7516c00987) - 2026-07-09
 ## Q2 2026
 
 
