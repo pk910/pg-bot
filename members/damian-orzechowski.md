@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: perf(consensus): overlap blooms with post-execution block stages](https://github.com/NethermindEth/nethermind/pull/12331#pullrequestreview-4660815821) - 2026-07-09
 ## Q2 2026
 
 

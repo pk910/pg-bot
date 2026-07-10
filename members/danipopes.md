@@ -23,6 +23,10 @@ Team: Reth
 * [Review] [Review on: revert: update reference to AGENTS.md in CLAUDE.md](https://github.com/paradigmxyz/reth/pull/26277#pullrequestreview-4638514511) - 2026-07-06
 * [Review] [Review on: chore(deps): bump taiki-e/install-action from 2.82.4 to 2.82.6 in the ci-weekly group](https://github.com/paradigmxyz/reth/pull/26250#pullrequestreview-4635830966) - 2026-07-06
 * [Review] [Review on: revert: rustdoc no_inline workaround](https://github.com/paradigmxyz/reth/pull/26256#pullrequestreview-4635424758) - 2026-07-06
+* [Review] [Review on: perf(net): cache AES key schedule in ECIES MAC](https://github.com/paradigmxyz/reth/pull/26346#pullrequestreview-4667534455) - 2026-07-09
+* [Review] [Review on: perf(txpool): specialize small discard lookups](https://github.com/paradigmxyz/reth/pull/26345#pullrequestreview-4667451995) - 2026-07-09
+* [Review] [Review on: perf(txpool): forward same-origin validation batches](https://github.com/paradigmxyz/reth/pull/26341#pullrequestreview-4667215563) - 2026-07-09
+* [Review] [Review on: perf(txpool): reduce Ethereum validator allocation overhead](https://github.com/paradigmxyz/reth/pull/26343#pullrequestreview-4667233484) - 2026-07-09
 ## Q2 2026
 
 
