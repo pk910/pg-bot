@@ -29,6 +29,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/antiquary: commit reconstructed state in bounded batches SEGV](https://github.com/erigontech/erigon/pull/22347#pullrequestreview-4661820687) - 2026-07-09
 * [Review] [Review on: cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22294#pullrequestreview-4661817074) - 2026-07-09
 * [Commit] [cl: catch up Gloas alpha11 execution requests (#22091)](https://github.com/erigontech/erigon/commit/45b5971c3a102bf48ebf0ec900808bff5c762a12) - 2026-07-09
+* [Review] [Review on: cl/persistence: fix caplin historical state reconstruction loop at bellatrix transition](https://github.com/erigontech/erigon/pull/22345#pullrequestreview-4669600179) - 2026-07-10
+* [Pull Request] [[r3.5] cl/persistence: fix caplin historical state reconstruction loop at bellatrix transition](https://github.com/erigontech/erigon/pull/22370) - 2026-07-10
 ## Q2 2026
 
 
