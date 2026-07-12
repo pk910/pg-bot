@@ -120,6 +120,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [docs(agents): expand coding guidelines and DI environment documentation (#12352)](https://github.com/NethermindEth/nethermind/commit/defb257d2fdb81ecbcde694e3120f3e441c00527) - 2026-07-10
 * [Commit] [feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array (#12336)](https://github.com/NethermindEth/nethermind/commit/c9b19f3f7f341e726c65533a07d089215b860524) - 2026-07-10
 * [Commit] [perf: add SmallRefCountingDisposable with an inline lease counter (#12335)](https://github.com/NethermindEth/nethermind/commit/2a0406c3b0259758b847dc7e3a82721f77e96e4e) - 2026-07-10
+* [Pull Request] [refactor(evm): make the code cache a DI-injected ICodeCache](https://github.com/NethermindEth/nethermind/pull/12386) - 2026-07-11
 ## Q2 2026
 
 
