@@ -14,6 +14,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4624470802) - 2026-07-03
 
+* [Review] [Review on: test: deterministic prewarmer env-pool eviction test](https://github.com/NethermindEth/nethermind/pull/12407#pullrequestreview-4682570972) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652992370) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652988229) - 2026-07-08

@@ -49,6 +49,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Cleanup gossip params](https://github.com/Consensys/teku/pull/10956#pullrequestreview-4680737631) - 2026-07-12
 * [Review] [Review on: Mutable progressive byte list - preserve element schema on set](https://github.com/Consensys/teku/pull/10960#pullrequestreview-4680736517) - 2026-07-12
 * [Issue] [[Beacon-Api] implement downscore reasons in peers api](https://github.com/Consensys/teku/issues/10963) - 2026-07-12
+* [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4689663724) - 2026-07-13
+* [Pull Request] [  Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965) - 2026-07-13
+* [Review] [Review on: Introduce IndexedPayloadAttestationLight](https://github.com/Consensys/teku/pull/10964#pullrequestreview-4681228321) - 2026-07-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
