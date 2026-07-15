@@ -36,6 +36,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/beacon: add missing metadata fields to blob_sidecars response envelope](https://github.com/erigontech/erigon/pull/22414#pullrequestreview-4683200926) - 2026-07-13
 * [Review] [Review on: all: lint modernize interface{} to any across codebase and test files](https://github.com/erigontech/erigon/pull/22427#pullrequestreview-4683682682) - 2026-07-13
 * [Review] [Review on: db, execution, cl, node: nil external pointers before returning objects to sync.Pool](https://github.com/erigontech/erigon/pull/22410#pullrequestreview-4682166680) - 2026-07-13
+* [Review] [Review on: cl/persistence/base_encoding: avoid per-scalar heap allocs in Rabbits codec](https://github.com/erigontech/erigon/pull/22391#pullrequestreview-4694187657) - 2026-07-14
+* [Review] [Review on: cl/merkle_tree: add EIP-7916 progressive merkleization](https://github.com/erigontech/erigon/pull/22446#pullrequestreview-4692117166) - 2026-07-14
 ## Q2 2026
 
 

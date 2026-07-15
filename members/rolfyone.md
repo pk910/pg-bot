@@ -52,6 +52,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4689663724) - 2026-07-13
 * [Pull Request] [  Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965) - 2026-07-13
 * [Review] [Review on: Introduce IndexedPayloadAttestationLight](https://github.com/Consensys/teku/pull/10964#pullrequestreview-4681228321) - 2026-07-13
+* [Pull Request] [Two related bugs in DataColumnSidecarsByRoot RPC handling:](https://github.com/Consensys/teku/pull/10969) - 2026-07-14
+* [Pull Request] [Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots](https://github.com/Consensys/teku/pull/10970) - 2026-07-14
+* [Review] [Review on: Complete deprecated blob sidecar range requests](https://github.com/Consensys/teku/pull/10971#pullrequestreview-4692128940) - 2026-07-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
