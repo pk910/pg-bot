@@ -154,6 +154,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371#pullrequestreview-4692572532) - 2026-07-14
 * [Commit] [Convert AuRa block producer wiring to DI (#12414)](https://github.com/NethermindEth/nethermind/commit/f2ecd4663647b73a566856bceb4cbd8c7017b07e) - 2026-07-14
 * [Commit] [Extract censorship detector into plugin (#12432)](https://github.com/NethermindEth/nethermind/commit/b561804a15efe9c8a6ad6475dcccdd50feaa912c) - 2026-07-14
+* [Review] [Review on: perf(db): bound RocksDB index/filter memory with cache_index_and_filter_blocks (opt-in)](https://github.com/NethermindEth/nethermind/pull/12403#pullrequestreview-4700227075) - 2026-07-15
+* [Review] [Review on: perf(flatdb): experimental flat node storage — shared slab arena on address-owned maps (default off)](https://github.com/NethermindEth/nethermind/pull/12404#pullrequestreview-4700210773) - 2026-07-15
+* [Review] [Review on: feat: append DB layout postfix to public client ID](https://github.com/NethermindEth/nethermind/pull/12435#pullrequestreview-4700080574) - 2026-07-15
 ## Q2 2026
 
 

@@ -65,6 +65,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [enable QUIC by default](https://github.com/status-im/nimbus-eth2/pull/8762) - 2026-07-14
 * [Review] [Review on: Add head_v2 SSE](https://github.com/status-im/nimbus-eth2/pull/8743#pullrequestreview-4695239287) - 2026-07-14
 * [Pull Request] [sync test summaries](https://github.com/status-im/nimbus-eth2/pull/8764) - 2026-07-14
+* [Pull Request] [fix "Trying to subscribe to a topic not passing validation" warning](https://github.com/status-im/nimbus-eth2/pull/8769) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
