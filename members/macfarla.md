@@ -42,6 +42,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Handle empty RLP raw transactions as invalid params](https://github.com/besu-eth/besu/pull/10736#pullrequestreview-4690313294) - 2026-07-14
 * [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4690261059) - 2026-07-14
 * [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4690134218) - 2026-07-14
+* [Pull Request] [update commons-io to 2.22.0](https://github.com/besu-eth/besu/pull/10809) - 2026-07-16
+* [Review] [Review on: fix: reproduce and fix source-jar dependency verification gaps](https://github.com/besu-eth/besu/pull/10808#pullrequestreview-4709993208) - 2026-07-16
+* [Review] [Review on: Handle empty RLP raw transactions as invalid params](https://github.com/besu-eth/besu/pull/10736#pullrequestreview-4710147370) - 2026-07-16
+* [Review] [Review on: Layered txpool: allow zero upfront cost txs from zero balance senders](https://github.com/besu-eth/besu/pull/10751#pullrequestreview-4710081883) - 2026-07-16
 ## Q2 2026
 
 

@@ -157,6 +157,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(db): bound RocksDB index/filter memory with cache_index_and_filter_blocks (opt-in)](https://github.com/NethermindEth/nethermind/pull/12403#pullrequestreview-4700227075) - 2026-07-15
 * [Review] [Review on: perf(flatdb): experimental flat node storage — shared slab arena on address-owned maps (default off)](https://github.com/NethermindEth/nethermind/pull/12404#pullrequestreview-4700210773) - 2026-07-15
 * [Review] [Review on: feat: append DB layout postfix to public client ID](https://github.com/NethermindEth/nethermind/pull/12435#pullrequestreview-4700080574) - 2026-07-15
+* [Review] [Review on: test: add E2E coverage for bootnodes with TCP port 0 (discport-only enodes)](https://github.com/NethermindEth/nethermind/pull/12477#pullrequestreview-4718302643) - 2026-07-16
+* [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4710176129) - 2026-07-16
+* [Commit] [feat: append DB layout postfix to public client ID (#12435)](https://github.com/NethermindEth/nethermind/commit/b5a64c02152d41ded41f2ed787a57689da2a2821) - 2026-07-16
 ## Q2 2026
 
 

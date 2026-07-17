@@ -42,6 +42,7 @@ Team: Geth
 * [Commit] [beacon/engine: correct rlp encoding/decoding (#35348)](https://github.com/ethereum/go-ethereum/commit/68f711b9defc53cb1b29cf0a1c65a32bbed10254) - 2026-07-13
 * [Commit] [eth/tracers/logger: respect logging limit (#35349)](https://github.com/ethereum/go-ethereum/commit/f9382c2d1b989b87cdc5ba5cd1315766f7650d60) - 2026-07-13
 * [Commit] [core: charge floorDataGas if it exceeds regularGas (#35342)](https://github.com/ethereum/go-ethereum/commit/e7314c8a13dad73bc98e53d9a94e6f429a6e00dc) - 2026-07-13
+* [Pull Request] [eth/catalyst: pass TargetGasLimit via engine api](https://github.com/ethereum/go-ethereum/pull/35372) - 2026-07-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026
