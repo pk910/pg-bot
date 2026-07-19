@@ -73,6 +73,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth2/pull/8773) - 2026-07-16
 * [Review] [Review on: replace deprecated actions/checkout@v4 with actions/checkout@v5](https://github.com/status-im/nimbus-eth2/pull/8716#pullrequestreview-4722963438) - 2026-07-17
 * [Pull Request] [optimize SyncCommittee default/zero comparisons](https://github.com/status-im/nimbus-eth2/pull/8779) - 2026-07-17
+* [Pull Request] [optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782) - 2026-07-18
+* [Review] [Review on: optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782#pullrequestreview-4727772778) - 2026-07-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
