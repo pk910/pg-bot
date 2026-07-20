@@ -35,6 +35,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4712582704) - 2026-07-16
 * [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth1/pull/4505) - 2026-07-16
 * [Commit] [check tx KZG after sender/nonce (#4508)](https://github.com/status-im/nimbus-eth1/commit/680a4a65c6a32ba225a1ee4e328bb69abb5c5347) - 2026-07-17
+* [Review] [Review on: wrap each trial's runComputation in a ledger savepoint ](https://github.com/status-im/nimbus-eth1/pull/4475#pullrequestreview-4731588053) - 2026-07-19
+* [Review] [Review on: fix: 64-byte alignment warning](https://github.com/status-im/nimbus-eth1/pull/4520#pullrequestreview-4730523020) - 2026-07-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01

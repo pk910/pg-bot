@@ -33,6 +33,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Silence future-incompat warnings](https://github.com/sigp/lighthouse/pull/9639) - 2026-07-16
 * [Review] [Review on: Silence future-incompat warnings](https://github.com/sigp/lighthouse/pull/9639#pullrequestreview-4709708146) - 2026-07-16
 * [Pull Request] [Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648) - 2026-07-16
+* [Issue] [FCR correctness investigations](https://github.com/sigp/lighthouse/issues/9664) - 2026-07-20
+* [Issue] [FCR UX tweaks](https://github.com/sigp/lighthouse/issues/9663) - 2026-07-20
+* [Issue] [Remove invalid blocks from fork choice](https://github.com/sigp/lighthouse/issues/9662) - 2026-07-20
 ## Q2 2026
 
 
