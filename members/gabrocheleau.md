@@ -20,6 +20,11 @@ Team: EthereumJS
 * [Commit] [chore: update dev fixtures from glamsterdam-devnet@v6.0.0 to glamsterdam-devnet@v6.1.1 (#4336)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/cb0d09451f8768c27e009c25d62d32c4fc4c8a70) - 2026-07-09
 * [Pull Request] [chore: upgrade to TypeScript 7](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4347) - 2026-07-14
 * [Review] [Review on: mpt: fix and optimize `_walkTrie` async generator](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4342#pullrequestreview-4735023480) - 2026-07-20
+* [Pull Request] [tx: re-add access/authority list JSON cache items and test cache behavior](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4350) - 2026-07-21
+* [Pull Request] [fix(evm): emit step event before dynamic-gas OOG exceptions](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4349) - 2026-07-21
+* [Commit] [tx: re-add access/authority list JSON cache items and test cache behavior (#4350)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f65ebc8145810cf5488c639520f2294097167312) - 2026-07-21
+* [Commit] [fix(evm): emit step event before dynamic-gas OOG exceptions (#4349)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ff73a7703796848527cfba1777c751a3d5dfcaec) - 2026-07-21
+* [Commit] [chore: upgrade to TypeScript 7 (#4347)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4c251bdaec6d360999cfa83803dd1edc00609879) - 2026-07-21
 ## Q2 2026
 
 
