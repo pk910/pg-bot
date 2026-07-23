@@ -39,6 +39,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix: 64-byte alignment warning](https://github.com/status-im/nimbus-eth1/pull/4520#pullrequestreview-4730523020) - 2026-07-19
 * [Review] [Review on: Implement gloas fcU payload build skip v1.0.0-beta.7](https://github.com/status-im/nimbus-eth1/pull/4525#pullrequestreview-4736646474) - 2026-07-20
 * [Review] [Review on: outbound tx propagation](https://github.com/status-im/nimbus-eth1/pull/4487#pullrequestreview-4743788008) - 2026-07-21
+* [Pull Request] [optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536) - 2026-07-22
+* [Review] [Review on: optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536#pullrequestreview-4752072850) - 2026-07-22
+* [Review] [Review on: Optimize proofOfStake check for PREVRANDAO opcode](https://github.com/status-im/nimbus-eth1/pull/4538#pullrequestreview-4752299484) - 2026-07-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -83,6 +86,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix nimbus_light_client getting 0 peers](https://github.com/status-im/nimbus-eth2/pull/8790) - 2026-07-20
 * [Pull Request] [enable P2P DSL macro to work in ARC/ORC](https://github.com/status-im/nimbus-eth2/pull/8789) - 2026-07-20
 * [Pull Request] [update GH actions; var to let; fix deprecated useWildcard; enforce snappy frame size limit](https://github.com/status-im/nimbus-eth2/pull/8791) - 2026-07-21
+* [Review] [Review on: implement should_build_on_full for proposals](https://github.com/status-im/nimbus-eth2/pull/8793#pullrequestreview-4750525728) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

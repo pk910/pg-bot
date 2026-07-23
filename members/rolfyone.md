@@ -71,6 +71,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Replace deprecated BeaconChainUtil in EpochTransitionBenchmark](https://github.com/Consensys/teku/pull/10992#pullrequestreview-4749922419) - 2026-07-22
 * [Review] [Review on: Remove deposit snapshot endpoint and related classes](https://github.com/Consensys/teku/pull/10988#pullrequestreview-4740613218) - 2026-07-21
 * [Issue] [extend tree storage to rocksdb](https://github.com/Consensys/teku/issues/10989) - 2026-07-21
+* [Review] [Review on: Update actions/setup-node action to v7](https://github.com/Consensys/teku/pull/10996#pullrequestreview-4750313633) - 2026-07-22
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/10995#pullrequestreview-4750299578) - 2026-07-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
