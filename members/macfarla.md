@@ -60,6 +60,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: deprecate(cli): --network=dev with warning message](https://github.com/besu-eth/besu/pull/10836#pullrequestreview-4750363965) - 2026-07-22
 * [Review] [Review on: checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769#pullrequestreview-4759903534) - 2026-07-23
 * [Review] [Review on: Upgrade netty to 4.2.16.Final](https://github.com/besu-eth/besu/pull/10822#pullrequestreview-4750387039) - 2026-07-22
+* [Review] [Review on: fix(referencetests): honor fixture blob schedule in blockchain reference tests](https://github.com/besu-eth/besu/pull/10852#pullrequestreview-4769275767) - 2026-07-24
+* [Review] [Review on: refactor(tracer): add isSystemCallTracingEnabled() capability to BlockAwareOperationTracer](https://github.com/besu-eth/besu/pull/10851#pullrequestreview-4769195296) - 2026-07-24
+* [Review] [Review on: fix(eth): prevent thread name leak in scheduleBlockCreationTask](https://github.com/besu-eth/besu/pull/10805#pullrequestreview-4760554880) - 2026-07-23
+* [Issue] [PathBasedWorldStateProvider: wrong log level and unsafe Optional.get() calls in rollFullWorldStateToBlockHash](https://github.com/besu-eth/besu/issues/10859) - 2026-07-23
+* [Issue] [P2P: FramingException from malformed peer DisconnectMessage logged at ERROR instead of WARN/DEBUG](https://github.com/besu-eth/besu/issues/10858) - 2026-07-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
