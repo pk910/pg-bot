@@ -176,6 +176,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Lead preimage flat DB storage keys with the full address](https://github.com/NethermindEth/nethermind/pull/12543#pullrequestreview-4763346176) - 2026-07-23
 * [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4760123598) - 2026-07-23
 * [Commit] [Lead preimage flat DB storage keys with the full address (#12543)](https://github.com/NethermindEth/nethermind/commit/aac9c9cfd82cacf9ac752b7effbee7be85600361) - 2026-07-23
+* [Pull Request] [Batch RocksDB full enumerations](https://github.com/NethermindEth/nethermind/pull/12564) - 2026-07-24
 ## Q2 2026
 
 
