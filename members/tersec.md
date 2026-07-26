@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-stint to increase EVM ADDMOD performance](https://github.com/status-im/nimbus-eth1/pull/4549) - 2026-07-23
 * [Commit] [bump nim-stint to increase EVM ADDMOD performance (#4549)](https://github.com/status-im/nimbus-eth1/commit/e148591565971c9ae9eb9b3eec430c37c4316e88) - 2026-07-23
 * [Pull Request] [bump nim-stint to optimize SIGNEXTEND, ADDMOD, and SUB opcodes](https://github.com/status-im/nimbus-eth1/pull/4560) - 2026-07-24
+* [Pull Request] [Revert "reduce open dependabot pull requests limit to 2"](https://github.com/status-im/nimbus-eth1/pull/4565) - 2026-07-26
+* [Commit] [Revert "reduce open dependabot pull requests limit to 2 (#4505)" (#4565)](https://github.com/status-im/nimbus-eth1/commit/53a57a69d0d94ede9c7b33738c9aaeebbc3770d9) - 2026-07-26
+* [Commit] [reduce open dependabot pull requests limit to 2 (#4505)](https://github.com/status-im/nimbus-eth1/commit/91fd810a973d07dfc82eaa446dea5e80651465bd) - 2026-07-26
+* [Commit] [bump nim-stint to optimize SIGNEXTEND, ADDMOD, and SUB opcodes (#4560)](https://github.com/status-im/nimbus-eth1/commit/106412b6d6a21f3bcbdb985ed30a79aa91d77e1c) - 2026-07-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01

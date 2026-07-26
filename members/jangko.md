@@ -59,6 +59,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [glamsterdam devnet 8](https://github.com/status-im/nimbus-eth1/pull/4556) - 2026-07-24
 * [Commit] [Update EEST mainnet test fixtures to v20.0.1 (#4534)](https://github.com/status-im/nimbus-eth1/commit/697e2ec9c5a8717bb5b73fa93a3dfc778e89f3ae) - 2026-07-24
 * [Commit] [glamsterdam devnet 7 (#4498)](https://github.com/status-im/nimbus-eth1/commit/cde53ac2966e156e669f6a86d89f0c9453aae58c) - 2026-07-24
+* [Commit] [Add test to #4559 (#4561)](https://github.com/status-im/nimbus-eth1/commit/7fe70cd03dd407710a5c6a0af4346babdc618d7e) - 2026-07-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

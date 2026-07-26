@@ -96,6 +96,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4769467314) - 2026-07-24
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4769421799) - 2026-07-24
 * [Commit] [Add dependent root check to `proposer_preferences` validation (#5443)](https://github.com/ethereum/consensus-specs/commit/ec390a6c2743de37ac4e9b0b5351a775c257279e) - 2026-07-24
+* [Pull Request] [Switch the website from MkDocs to Zensical](https://github.com/ethereum/consensus-specs/pull/5479) - 2026-07-25
+* [Pull Request] [Remove inline tables of contents from the documentation site](https://github.com/ethereum/consensus-specs/pull/5478) - 2026-07-25
+* [Pull Request] [Fix website navigation nits](https://github.com/ethereum/consensus-specs/pull/5477) - 2026-07-25
+* [Pull Request] [Fix broken links](https://github.com/ethereum/consensus-specs/pull/5475) - 2026-07-25
+* [Pull Request] [Remove links that do not resolve on the documentation site](https://github.com/ethereum/consensus-specs/pull/5476) - 2026-07-25
+* [Commit] [Switch the website from MkDocs to Zensical (#5479)](https://github.com/ethereum/consensus-specs/commit/10d1bd549a91e3c93c8ce0857de5feb334af2f16) - 2026-07-25
+* [Commit] [Remove inline tables of contents from the documentation site (#5478)](https://github.com/ethereum/consensus-specs/commit/25b619332c01c3c422216e64f122d4b8dcaf05e1) - 2026-07-25
+* [Commit] [Fix website navigation nits (#5477)](https://github.com/ethereum/consensus-specs/commit/1acb6ad1e371964c94db7db676100a690ee4a376) - 2026-07-25
+* [Commit] [Fix broken links (#5475)](https://github.com/ethereum/consensus-specs/commit/b60e22c26565a89bca6c99bd6290bb096ef15a5d) - 2026-07-25
+* [Commit] [Remove links that do not resolve on the documentation site (#5476)](https://github.com/ethereum/consensus-specs/commit/ca29180e9d6b8d9123ac7568bf5fe59d101dc2a6) - 2026-07-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
