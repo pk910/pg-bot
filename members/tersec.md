@@ -50,6 +50,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Revert "reduce open dependabot pull requests limit to 2 (#4505)" (#4565)](https://github.com/status-im/nimbus-eth1/commit/53a57a69d0d94ede9c7b33738c9aaeebbc3770d9) - 2026-07-26
 * [Commit] [reduce open dependabot pull requests limit to 2 (#4505)](https://github.com/status-im/nimbus-eth1/commit/91fd810a973d07dfc82eaa446dea5e80651465bd) - 2026-07-26
 * [Commit] [bump nim-stint to optimize SIGNEXTEND, ADDMOD, and SUB opcodes (#4560)](https://github.com/status-im/nimbus-eth1/commit/106412b6d6a21f3bcbdb985ed30a79aa91d77e1c) - 2026-07-25
+* [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4781821867) - 2026-07-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
