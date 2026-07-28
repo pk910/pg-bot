@@ -76,6 +76,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
+* [Commit] [Added code for Nimbus EL identification (#848)](https://github.com/ethereum/execution-apis/commit/e5d1bb60e6c064e4b15080da07b4370d0baadf92) - 2026-07-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026
