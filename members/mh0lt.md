@@ -52,6 +52,7 @@ Team: Erigon
 * [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-8282 contracts for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22526#pullrequestreview-4771920964) - 2026-07-24
 * [Review] [Review on: [DO-NOT-MERGE] execution: update devnet fixtures to v7.2.0](https://github.com/erigontech/erigon/pull/22517#pullrequestreview-4771920573) - 2026-07-24
 * [Pull Request] [execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733) - 2026-07-25
+* [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4799032645) - 2026-07-28
 ## Q2 2026
 
 
