@@ -28,6 +28,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #32 from NethermindEth/feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/1a6760343fe3adda01b8b5285545665e062f4a39) - 2026-07-26
 * [Commit] [Merge branch 'master' into feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/a7ecfc154670bf0bcc16cc08095f307662305891) - 2026-07-26
 
+* [Pull Request] [.NET 11 support](https://github.com/NethermindEth/bflat-riscv64/pull/33) - 2026-07-30
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026
