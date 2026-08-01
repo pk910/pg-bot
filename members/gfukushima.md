@@ -56,6 +56,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [add EXECUTION_PAYLOAD_VALUE to produceBlockV4 required headers](https://github.com/Consensys/teku/pull/11037) - 2026-07-31
 * [Pull Request] [Dependencies update](https://github.com/Consensys/teku/pull/11031) - 2026-07-30
 * [Commit] [Fix edge case for BlocksByRange request (#11021)](https://github.com/Consensys/teku/commit/9f013360c73592065a0f472aea3963aacc9a71f8) - 2026-07-30
+* [Issue] [implement validator endpoint ProduceBlockV4](https://github.com/Consensys/teku/issues/11038) - 2026-07-31
 ## Q2 2026
 
 

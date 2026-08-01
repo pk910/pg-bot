@@ -114,6 +114,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add --force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815#pullrequestreview-4811557388) - 2026-07-29
 * [Review] [Review on: get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649#pullrequestreview-4811262349) - 2026-07-29
 * [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4809885569) - 2026-07-29
+* [Issue] [SSE gets buffered and batched by `nginx` proxy used by `glamsterdam-devnet-7`](https://github.com/status-im/nimbus-eth2/issues/8830) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
