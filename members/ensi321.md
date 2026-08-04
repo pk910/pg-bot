@@ -65,6 +65,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4778413158) - 2026-07-25
 * [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4778403206) - 2026-07-25
 * [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4825259224) - 2026-07-31
+* [Review] [Review on: chore: add gloas ethspecify references](https://github.com/ChainSafe/lodestar/pull/9753#pullrequestreview-4849323294) - 2026-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
