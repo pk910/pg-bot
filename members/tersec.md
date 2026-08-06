@@ -120,6 +120,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm non-spec self-build EIP-1559 compliance check](https://github.com/status-im/nimbus-eth2/pull/8847) - 2026-08-04
 * [Review] [Review on: Feature: Use `Opt` instead of `Option` in Presto code](https://github.com/status-im/nimbus-eth2/pull/8818#pullrequestreview-4857456911) - 2026-08-04
 * [Review] [Review on: Syncing v3p5 (blocks buffer).](https://github.com/status-im/nimbus-eth2/pull/8842#pullrequestreview-4857636507) - 2026-08-04
+* [Review] [Review on:  add gloas builder-API execution-payload-bid client](https://github.com/status-im/nimbus-eth2/pull/8712#pullrequestreview-4869063191) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
