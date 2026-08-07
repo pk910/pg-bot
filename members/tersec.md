@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version 0.4.0](https://github.com/status-im/nimbus-eth1/commit/2ed512525a955d4f6c5f977eae4ea761b770d58a) - 2026-07-29
 * [Pull Request] [avoid expensive, pointless proof blob computation](https://github.com/status-im/nimbus-eth1/pull/4594) - 2026-08-02
 * [Commit] [avoid expensive, pointless proof blob computation (#4594)](https://github.com/status-im/nimbus-eth1/commit/0322100b59506f4a16b107f980e38e25a7783e4e) - 2026-08-03
+* [Pull Request] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding](https://github.com/status-im/nimbus-eth1/pull/4611) - 2026-08-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -121,6 +122,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Feature: Use `Opt` instead of `Option` in Presto code](https://github.com/status-im/nimbus-eth2/pull/8818#pullrequestreview-4857456911) - 2026-08-04
 * [Review] [Review on: Syncing v3p5 (blocks buffer).](https://github.com/status-im/nimbus-eth2/pull/8842#pullrequestreview-4857636507) - 2026-08-04
 * [Review] [Review on:  add gloas builder-API execution-payload-bid client](https://github.com/status-im/nimbus-eth2/pull/8712#pullrequestreview-4869063191) - 2026-08-05
+* [Review] [Review on: update spec tests to alpha.13](https://github.com/status-im/nimbus-eth2/pull/8849#pullrequestreview-4874111385) - 2026-08-06
+* [Pull Request] [prune columns more incrementally to avoid lag spikes](https://github.com/status-im/nimbus-eth2/pull/8852) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
