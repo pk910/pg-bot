@@ -174,6 +174,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Quarantine hygiene: remove every uncategorised test retry, and the sync defects they hid](https://github.com/NethermindEth/nethermind/pull/12727) - 2026-08-07
 * [Commit] [test: add hand-derived golden tests for eth/71 and snap serializers (#12699)](https://github.com/NethermindEth/nethermind/commit/bef9172ee9e0754716a5277aea7f52a71be3a1ad) - 2026-08-07
 * [Commit] [fix(jsonrpc): serialize receipt root as full-width DATA (#12706)](https://github.com/NethermindEth/nethermind/commit/5e16ef61188c0629e5fbe8c24bfb8672a774fd1c) - 2026-08-07
+* [Commit] [test: anchor crypto and RLP tests to independent expectations (#12712)](https://github.com/NethermindEth/nethermind/commit/629731a646d17365714ed6e6bcb45659e8c57bde) - 2026-08-08
+* [Commit] [test: strengthen mock-echo and vacuous tests in Abi, Optimism and Xdc test projects (#12720)](https://github.com/NethermindEth/nethermind/commit/9a35cc1cfe090f68301def6687a5f4c59fcd3c4d) - 2026-08-08
+* [Commit] [test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof (#12718)](https://github.com/NethermindEth/nethermind/commit/18fabc00dad5780431f50404476224f73ab736b0) - 2026-08-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

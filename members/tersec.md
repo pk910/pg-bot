@@ -128,6 +128,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841#pullrequestreview-4883992291) - 2026-08-07
 * [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4883257242) - 2026-08-07
 * [Pull Request] [don't wait on futures which won't arrive](https://github.com/status-im/nimbus-eth2/pull/8854) - 2026-08-07
+* [Review] [Review on:  update gossip validation for v1.7.0-alpha.13](https://github.com/status-im/nimbus-eth2/pull/8860#pullrequestreview-4889801140) - 2026-08-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
