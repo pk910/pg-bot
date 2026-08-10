@@ -90,6 +90,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4868477103) - 2026-08-05
 * [Review] [Review on: Add execution payload provider into combined chain data](https://github.com/Consensys/teku/pull/11052#pullrequestreview-4860521905) - 2026-08-05
 * [Commit] [Fix ROCKSDB_TREE storage for Gloas progressive container states (#11061)](https://github.com/Consensys/teku/commit/754c9aa9f6c000269f888d846318b2a844bca36b) - 2026-08-05
+* [Review] [Review on: FCR Tracker harness](https://github.com/Consensys/teku/pull/11066#pullrequestreview-4892540465) - 2026-08-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
