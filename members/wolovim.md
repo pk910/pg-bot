@@ -20,6 +20,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: fix manual vid commit msg](https://github.com/ethereum/pm/commit/2b1fc5c4d334278da21a324fb59912f5239b2912) - 2026-07-29
 * [Commit] [acdbot: vocab](https://github.com/ethereum/pm/commit/faf0ed2583750bbae37e7ce5d3eeefea64b5761d) - 2026-08-04
 * [Commit] [acdbot: add vocab, clean acdc 184](https://github.com/ethereum/pm/commit/b4d3f06d857aa959eefc1c19b140edc30c6d4a12) - 2026-08-07
+* [Commit] [acdbot: add to trusted list for zkevm](https://github.com/ethereum/pm/commit/b85f326103841b01d98f891c55ad98f57be8d7b4) - 2026-08-10
 ## Q2 2026
 
 
