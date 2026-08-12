@@ -85,6 +85,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Revert #10721 and #10725](https://github.com/besu-eth/besu/pull/10981) - 2026-08-05
 * [Review] [Review on: fix: Bonsai full sync halt at block 10,094,566 — storage skipped for selfdestructed+recreated accounts](https://github.com/besu-eth/besu/pull/10979#pullrequestreview-4863185724) - 2026-08-05
 * [Pull Request] [Remove fork choice update from engine_newPayloadV*](https://github.com/besu-eth/besu/pull/10980) - 2026-08-05
+* [Pull Request] [Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019) - 2026-08-11
+* [Review] [Review on: snap/2 - BAL applier bug fixes](https://github.com/besu-eth/besu/pull/11004#pullrequestreview-4904909793) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

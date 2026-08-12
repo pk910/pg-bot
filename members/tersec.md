@@ -66,6 +66,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [avoid expensive, pointless proof blob computation (#4594)](https://github.com/status-im/nimbus-eth1/commit/0322100b59506f4a16b107f980e38e25a7783e4e) - 2026-08-03
 * [Pull Request] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding](https://github.com/status-im/nimbus-eth1/pull/4611) - 2026-08-06
 * [Commit] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding (#4611)](https://github.com/status-im/nimbus-eth1/commit/28c59cd817ec0a1b0858c9d559cb80e0067d0e94) - 2026-08-07
+* [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4906473314) - 2026-08-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -133,6 +134,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: derive attestation index from payload status](https://github.com/status-im/nimbus-eth2/pull/8865#pullrequestreview-4899417528) - 2026-08-10
 * [Review] [Review on: track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841#pullrequestreview-4899555092) - 2026-08-10
 * [Review] [Review on: nix: add light-client target to flake pkgs and to the nix CI](https://github.com/status-im/nimbus-eth2/pull/8868#pullrequestreview-4898902835) - 2026-08-10
+* [Review] [Review on: extend circuit breaker to gloas](https://github.com/status-im/nimbus-eth2/pull/8873#pullrequestreview-4911619537) - 2026-08-11
+* [Review] [Review on: Syncing v3p6 (sync dag).](https://github.com/status-im/nimbus-eth2/pull/8869#pullrequestreview-4902225977) - 2026-08-11
+* [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4902648660) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

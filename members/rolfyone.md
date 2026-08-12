@@ -97,6 +97,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4893793529) - 2026-08-10
 * [Review] [Review on: Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068#pullrequestreview-4893565427) - 2026-08-10
 * [Review] [Review on: Allow validator key directory to use single password file](https://github.com/Consensys/teku/pull/10990#pullrequestreview-4893008913) - 2026-08-10
+* [Review] [Review on: Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063#pullrequestreview-4904076192) - 2026-08-11
+* [Pull Request] [Remove startup branch node cache rebuild for tree state database](https://github.com/Consensys/teku/pull/11078) - 2026-08-11
+* [Review] [Review on: Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068#pullrequestreview-4902183377) - 2026-08-11
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4910880776) - 2026-08-11
+* [Pull Request] [Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080) - 2026-08-11
+* [Review] [Review on: Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080#pullrequestreview-4910007633) - 2026-08-11
+* [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4910284350) - 2026-08-11
+* [Review] [Review on: Remove CL permanent ban when cannot validate chain because of EL](https://github.com/Consensys/teku/pull/11064#pullrequestreview-4902205253) - 2026-08-11
+* [Review] [Review on: Updated bouncy castle](https://github.com/Consensys/teku/pull/11076#pullrequestreview-4902393695) - 2026-08-11
+* [Review] [Review on: Validate voluntary exits using state fork](https://github.com/Consensys/teku/pull/11070#pullrequestreview-4902177443) - 2026-08-11
+* [Commit] [Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival (#11080)](https://github.com/Consensys/teku/commit/81a995613f9838062e1c01d7fc195a34965a6a95) - 2026-08-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
