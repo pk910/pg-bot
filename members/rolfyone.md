@@ -108,6 +108,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Updated bouncy castle](https://github.com/Consensys/teku/pull/11076#pullrequestreview-4902393695) - 2026-08-11
 * [Review] [Review on: Validate voluntary exits using state fork](https://github.com/Consensys/teku/pull/11070#pullrequestreview-4902177443) - 2026-08-11
 * [Commit] [Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival (#11080)](https://github.com/Consensys/teku/commit/81a995613f9838062e1c01d7fc195a34965a6a95) - 2026-08-11
+* [Review] [Review on: Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063#pullrequestreview-4921162935) - 2026-08-12
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4920732716) - 2026-08-12
+* [Review] [Review on: Remove startup branch node cache rebuild for tree state database](https://github.com/Consensys/teku/pull/11078#pullrequestreview-4920582659) - 2026-08-12
+* [Pull Request] [Fix state-root lookup returning 404 in prune/minimal storage mode](https://github.com/Consensys/teku/pull/11087) - 2026-08-12
+* [Issue] [include_payload=false in produceBlockV4 documents non-existent caching/fetch flow](https://github.com/Consensys/teku/issues/11089) - 2026-08-12
+* [Commit] [Remove startup branch node cache rebuild for tree state database (#11078)](https://github.com/Consensys/teku/commit/585a93a3e57d7eba48c7088c717e53476711a9ee) - 2026-08-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
