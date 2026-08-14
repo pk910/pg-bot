@@ -245,6 +245,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: cache Kurtosis helper images (#23083)](https://github.com/erigontech/erigon/commit/fc191a7a93ee0fe9421a6de82ecf65468a0a8aca) - 2026-08-07
 * [Commit] [execution: fixes for glamsterdam devnet extra coverage (#23065)](https://github.com/erigontech/erigon/commit/db2160b47ea9d051113b78e5a92a8f691934b7dd) - 2026-08-07
 * [Commit] [ci: set legacy spec test shards failures to 0 (#23068)](https://github.com/erigontech/erigon/commit/82750795dfff367be519ec5cec59484981f94c75) - 2026-08-07
+* [Pull Request] [execution/cache: avoid lock contention during cache growth](https://github.com/erigontech/erigon/pull/23248) - 2026-08-13
+* [Commit] [execution: fix and optimise BAL warmup (#23081)](https://github.com/erigontech/erigon/commit/2fd0f23cdc90655dd31e12807395c242fb2dda6a) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
