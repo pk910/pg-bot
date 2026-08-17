@@ -142,6 +142,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Get all payload attestations in the pool](https://github.com/status-im/nimbus-eth2/pull/8881#pullrequestreview-4941747986) - 2026-08-14
 * [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4944879357) - 2026-08-15
 * [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4944339253) - 2026-08-15
+* [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4947014879) - 2026-08-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
