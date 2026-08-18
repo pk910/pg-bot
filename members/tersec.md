@@ -67,6 +67,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding](https://github.com/status-im/nimbus-eth1/pull/4611) - 2026-08-06
 * [Commit] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding (#4611)](https://github.com/status-im/nimbus-eth1/commit/28c59cd817ec0a1b0858c9d559cb80e0067d0e94) - 2026-08-07
 * [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4906473314) - 2026-08-11
+* [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4951297756) - 2026-08-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -143,6 +144,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4944879357) - 2026-08-15
 * [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4944339253) - 2026-08-15
 * [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4947014879) - 2026-08-16
+* [Pull Request] [rm Fulu-removed beacon API endpoint and event](https://github.com/status-im/nimbus-eth2/pull/8896) - 2026-08-18
+* [Pull Request] [support Platåberget testnet](https://github.com/status-im/nimbus-eth2/pull/8893) - 2026-08-17
+* [Pull Request] [test with Nim 2.4](https://github.com/status-im/nimbus-eth2/pull/8888) - 2026-08-17
+* [Pull Request] [fix builder weight double-count under target equivocation](https://github.com/status-im/nimbus-eth2/pull/8889) - 2026-08-17
+* [Pull Request] [pre-verify gloas builder deposits received before gloas fork](https://github.com/status-im/nimbus-eth2/pull/8887) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

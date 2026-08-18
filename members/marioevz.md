@@ -108,6 +108,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(rpc): create `LiveBlock` model for blocks from RPC](https://github.com/ethereum/execution-specs/pull/3381) - 2026-08-14
 * [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-4941319820) - 2026-08-14
 * [Review] [Review on: refactor(test-benchmark): remove potential duplicated cases](https://github.com/ethereum/execution-specs/pull/3374#pullrequestreview-4938379294) - 2026-08-14
+* [Review] [Review on: feat(test-specs):add ssz model into the engine payload class](https://github.com/ethereum/execution-specs/pull/3294#pullrequestreview-4952810396) - 2026-08-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
