@@ -16,6 +16,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [ci: prune-gocache print sort bounds of retained and deleted files (#20047)](https://github.com/erigontech/erigon/commit/f1444086c8e36aefc6c0bc04f7f11935e88fbf64) - 2026-07-28
 * [Pull Request] [Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23329) - 2026-08-17
 * [Commit] [Re-enable uTP with fixes for peer-triggered abort (#23329)](https://github.com/erigontech/erigon/commit/f811cc13bb436dbd3aed49ce5cd65c642b7e5467) - 2026-08-17
+* [Review] [Review on: [r3.6] Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23406#pullrequestreview-4972270631) - 2026-08-19
 ## Q2 2026
 
 
