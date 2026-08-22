@@ -163,6 +163,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Syncing v3p7 (response check utilities).](https://github.com/status-im/nimbus-eth2/pull/8909#pullrequestreview-4985488155) - 2026-08-20
 * [Review] [Review on: implement getPtcDuties endpoint](https://github.com/status-im/nimbus-eth2/pull/8897#pullrequestreview-4978590282) - 2026-08-20
 * [Review] [Review on: initial commit for partial messages](https://github.com/status-im/nimbus-eth2/pull/8905#pullrequestreview-4982405970) - 2026-08-20
+* [Pull Request] [rm test fixture for removed consensus spec reference test SSZ vectors](https://github.com/status-im/nimbus-eth2/pull/8925) - 2026-08-21
+* [Review] [Review on: Fix publish signed execution payload envelope API ](https://github.com/status-im/nimbus-eth2/pull/8914#pullrequestreview-4989063999) - 2026-08-21
+* [Review] [Review on: Fix head payload status update](https://github.com/status-im/nimbus-eth2/pull/8903#pullrequestreview-4989677672) - 2026-08-21
+* [Pull Request] [add gloas column support to getBlobs and getDebugDataColumnSidecars](https://github.com/status-im/nimbus-eth2/pull/8919) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
