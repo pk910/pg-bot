@@ -167,6 +167,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix publish signed execution payload envelope API ](https://github.com/status-im/nimbus-eth2/pull/8914#pullrequestreview-4989063999) - 2026-08-21
 * [Review] [Review on: Fix head payload status update](https://github.com/status-im/nimbus-eth2/pull/8903#pullrequestreview-4989677672) - 2026-08-21
 * [Pull Request] [add gloas column support to getBlobs and getDebugDataColumnSidecars](https://github.com/status-im/nimbus-eth2/pull/8919) - 2026-08-21
+* [Pull Request] [revert #8853](https://github.com/status-im/nimbus-eth2/pull/8927) - 2026-08-22
+* [Pull Request] [rm several resolved debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/8926) - 2026-08-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -159,6 +159,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [implement ptc duties for the VC in gloas](https://github.com/Consensys/teku/issues/11136) - 2026-08-19
 * [Review] [Review on: Block v4 changes + use include_payload in block creation](https://github.com/Consensys/teku/pull/11141#pullrequestreview-4978557304) - 2026-08-20
 * [Review] [Review on: Update ethspecify for alpha.14](https://github.com/Consensys/teku/pull/11148#pullrequestreview-4978381571) - 2026-08-20
+* [Review] [Review on: Implement light client collection layer](https://github.com/Consensys/teku/pull/11140#pullrequestreview-5001201746) - 2026-08-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
