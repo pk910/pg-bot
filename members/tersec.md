@@ -174,6 +174,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [avoid spurious successful but empty getPtcDuties endpoint results around Gloas fork](https://github.com/status-im/nimbus-eth2/pull/8929) - 2026-08-23
 * [Pull Request] [stop serving pre-column blobs over req/resp](https://github.com/status-im/nimbus-eth2/pull/8928) - 2026-08-23
 * [Review] [Review on: add PTC duty tracking to VC](https://github.com/status-im/nimbus-eth2/pull/8924#pullrequestreview-5004983398) - 2026-08-24
+* [Review] [Review on: config: load networking overrides from RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/8943#pullrequestreview-5024523083) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

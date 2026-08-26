@@ -22,6 +22,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7516: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12105) - 2026-08-05
 * [Pull Request] [Update EIP-4844: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12102) - 2026-08-05
 * [Pull Request] [Update EIP-1153: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12100) - 2026-08-05
+* [Commit] [Update EIP-2935: Move test link to execution-specs](https://github.com/ethereum/EIPs/commit/15bc93fd63181f6d1af31e9a93f33f922d13286b) - 2026-08-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4607737216) - 2026-07-01
 * [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4607436288) - 2026-07-01
@@ -136,6 +137,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(cli-extract-config): Generate configs without hive](https://github.com/ethereum/execution-specs/pull/3414#pullrequestreview-5009633969) - 2026-08-24
 * [Pull Request] [feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425) - 2026-08-24
 * [Pull Request] [fix(evm-tools): accept empty hex transaction values](https://github.com/ethereum/execution-specs/pull/3424) - 2026-08-24
+* [Review] [Review on: refactor(cli-extract-config): Generate configs without hive](https://github.com/ethereum/execution-specs/pull/3414#pullrequestreview-5016138569) - 2026-08-25
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
