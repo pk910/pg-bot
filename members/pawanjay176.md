@@ -72,6 +72,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Set all ptc bits for validators appearing multiple times in ptc](https://github.com/sigp/lighthouse/pull/9899#pullrequestreview-5025184510) - 2026-08-25
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5014493481) - 2026-08-25
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5013834460) - 2026-08-25
+* [Pull Request] [Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924) - 2026-08-26
+* [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5035588950) - 2026-08-26
 ## Q2 2026
 
 

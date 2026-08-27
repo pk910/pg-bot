@@ -165,6 +165,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Pass `BuilderConfig` from VC to BN](https://github.com/Consensys/teku/pull/11161#pullrequestreview-5017315120) - 2026-08-25
 * [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-5017356366) - 2026-08-25
 * [Pull Request] [Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164) - 2026-08-25
+* [Review] [Review on: refactor gossip test executor](https://github.com/Consensys/teku/pull/11175#pullrequestreview-5027347081) - 2026-08-26
+* [Review] [Review on: Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179#pullrequestreview-5034603918) - 2026-08-26
+* [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5034876974) - 2026-08-26
+* [Review] [Review on: Other sync improvements](https://github.com/Consensys/teku/pull/11162#pullrequestreview-5034857487) - 2026-08-26
+* [Review] [Review on: Implement GET `/eth/v1/validator/execution_payload_envelope/...`](https://github.com/Consensys/teku/pull/11172#pullrequestreview-5028921442) - 2026-08-26
+* [Pull Request] [  Validate custody_group_count in MetaData path to prevent ArithmeticException](https://github.com/Consensys/teku/pull/11174) - 2026-08-26
+* [Issue] [Strict loading of slashing protection data](https://github.com/Consensys/teku/issues/11181) - 2026-08-26
+* [Commit] [  Validate custody_group_count in MetaData path to prevent ArithmeticException (#11174)](https://github.com/Consensys/teku/commit/572c7bccf759436d2eb535a7c544b1f7020a19ef) - 2026-08-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 

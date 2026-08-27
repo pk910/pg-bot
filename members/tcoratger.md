@@ -117,10 +117,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(stir): batch the OOD-sampling and degree-correction hot loops](https://github.com/Plonky3/Plonky3/pull/1992#pullrequestreview-5020185412) - 2026-08-25
 * [Review] [Review on: perf(stir): commit height classes on a shared domain, merge via Combine (§7)](https://github.com/Plonky3/Plonky3/pull/1990#pullrequestreview-5019410959) - 2026-08-25
 * [Commit] [feat(field): characteristic-agnostic groundwork for binary fields (#2000)](https://github.com/Plonky3/Plonky3/commit/d99a0c1444493641435b4264b0407a3d8f5c4848) - 2026-08-25
+* [Review] [Review on: fix(stir): fallible config derivation & dedup eta-parameterized security formulas](https://github.com/Plonky3/Plonky3/pull/1998#pullrequestreview-5027327398) - 2026-08-26
+* [Review] [Review on: perf(stir): batch the OOD-sampling and degree-correction hot loops](https://github.com/Plonky3/Plonky3/pull/1992#pullrequestreview-5027324761) - 2026-08-26
+* [Review] [Review on: perf(stir): commit height classes on a shared domain, merge via Combine (§7)](https://github.com/Plonky3/Plonky3/pull/1990#pullrequestreview-5027322957) - 2026-08-26
+* [Review] [Review on: feat: adapt log levels of some inner functions](https://github.com/Plonky3/Plonky3/pull/1999#pullrequestreview-5027329367) - 2026-08-26
+* [Commit] [perf(stir): allow round 0's folding arity to differ from later rounds (#1989)](https://github.com/Plonky3/Plonky3/commit/058e44d000a6172bfbbbfcaddb761897fa8ad93b) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10
 * [Commit] [Add hash-chain RANDAO (EIP-8321) (#5522)](https://github.com/ethereum/consensus-specs/commit/81ce8fd6f88d1fd04299010f58266dd082110e9c) - 2026-08-18
+* [Review] [Review on: Replace remerkleable with eth-ssz-specs](https://github.com/ethereum/consensus-specs/pull/5520#pullrequestreview-5033278313) - 2026-08-26
 ## Q2 2026
 
 
