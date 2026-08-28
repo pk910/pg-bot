@@ -102,6 +102,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: add zkVM I/O interface binding and guest entry point](https://github.com/status-im/nimbus-eth1/pull/4689) - 2026-08-26
 * [Commit] [aristo: fix wrong state root when building with --threads:off (#4690)](https://github.com/status-im/nimbus-eth1/commit/745f6483d6358afdd1e51e532c0933d50de1e132) - 2026-08-26
 * [Commit] [stateless: add zkVM I/O interface binding and guest entry point (#4689)](https://github.com/status-im/nimbus-eth1/commit/c5524fc81cf2400fdc227a2f9abeb08eb775ab44) - 2026-08-26
+* [Review] [Review on: newPayloadV5: undecodable BAL is an invalid payload, not invalid params](https://github.com/status-im/nimbus-eth1/pull/4697#pullrequestreview-5044401460) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

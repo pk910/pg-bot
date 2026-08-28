@@ -287,6 +287,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: support long reorgs in non-finality](https://github.com/erigontech/erigon/pull/23612) - 2026-08-26
 * [Review] [Review on: rpc: validate log query limit when creating filters](https://github.com/erigontech/erigon/pull/23598#pullrequestreview-5033776696) - 2026-08-26
 * [Commit] [rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria (#23296)](https://github.com/erigontech/erigon/commit/3a47725851f9038837fe2286edd8feefad9b2aa8) - 2026-08-26
+* [Review] [Review on: execution/commitment: let trie warmup borrow branch bytes instead of copying them](https://github.com/erigontech/erigon/pull/23585#pullrequestreview-5038430037) - 2026-08-27
+* [Review] [Review on: execution: support long reorgs in non-finality](https://github.com/erigontech/erigon/pull/23612#pullrequestreview-5040692997) - 2026-08-27
+* [Commit] [execution: support long reorgs in non-finality (#23612)](https://github.com/erigontech/erigon/commit/de2a956ab07ce4a2c9040acd8a299f1d27e41617) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -298,6 +301,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08
 * [Pull Request] [simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577) - 2026-07-17
 * [Commit] [simulators/eels: optionally consume pre-staged local fixtures tar.gz (#1577)](https://github.com/ethereum/hive/commit/47b7e79aef6adf0961ca3dcdac966d9e15b9ee2b) - 2026-07-20
+* [Pull Request] [simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604) - 2026-08-27
 ## Q2 2026
 
 

@@ -177,6 +177,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: config: load networking overrides from RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/8943#pullrequestreview-5024523083) - 2026-08-25
 * [Review] [Review on: BN: New syncing algorithm](https://github.com/status-im/nimbus-eth2/pull/7921#pullrequestreview-5034963693) - 2026-08-26
 * [Review] [Review on: track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841#pullrequestreview-5029506221) - 2026-08-26
+* [Pull Request] [fix same-pubkey builder deposits after slot reuse](https://github.com/status-im/nimbus-eth2/pull/8955) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

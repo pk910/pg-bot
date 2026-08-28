@@ -86,6 +86,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Link the builder payload icon to the builder page and show builder names](https://github.com/ethpandaops/dora/pull/852) - 2026-08-26
 * [Commit] [Merge pull request #852 from ethpandaops/bbusa/builder-icon-link-and-name](https://github.com/ethpandaops/dora/commit/80a8359e2b06f700d8a1c9ec035472b1c5f24d45) - 2026-08-26
 * [Commit] [Link the builder payload icon to the builder page and show builder names](https://github.com/ethpandaops/dora/commit/45b3c3b61cde74e27768ee5a2b5105c00744e6f2) - 2026-08-26
+* [Pull Request] [Rename inclusion list committee root to dependent root (consensus-specs alpha.14)](https://github.com/ethpandaops/dora/pull/854) - 2026-08-27
+* [Review] [Review on: Replay the consensus-specs vectors through the state transition](https://github.com/ethpandaops/dora/pull/850#pullrequestreview-5046032981) - 2026-08-27
+* [Commit] [Bump go-eth2-client to master (heze alpha.14 merged)](https://github.com/ethpandaops/dora/commit/6aedcf6d5d05abc16d669dd3e34c3881ff9efe12) - 2026-08-27
+* [Commit] [Bump go-eth2-client to the heze-alpha.14 branch head](https://github.com/ethpandaops/dora/commit/352aea0359e3f2eb912ab4c2c67415923e0d0aaa) - 2026-08-27
+* [Commit] [Rename inclusion list committee root to dependent root for consensus-specs alpha.14](https://github.com/ethpandaops/dora/commit/1505f388b5de8b183f5a210b28db566fdb605195) - 2026-08-27
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -138,11 +143,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: egg 6.1.0 and unified genesis.json for besu/nethermind (#186)](https://github.com/ethpandaops/template-devnets/commit/088abe886fbe8072b8e3bf9d1e653b08dbabad2e) - 2026-08-13
 * [Commit] [fix(tf): spread DO regions and Hetzner locations by hostname hash (#185)](https://github.com/ethpandaops/template-devnets/commit/dd8eb1725d919e740bbb165e69a3bef935e4e51b) - 2026-08-13
 * [Commit] [backport generic improvements from glamsterdam-devnets (round 2) (#184)](https://github.com/ethpandaops/template-devnets/commit/854d6853f2c8ef53b2f8d0960ff492d6cffab40d) - 2026-08-13
+* [Pull Request] [inventory: keep genesis chain id within 32-bit range](https://github.com/ethpandaops/template-devnets/pull/188) - 2026-08-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 
 * [Pull Request] [rest: expose MAX_REQUEST_PAYLOADS in config/spec API](https://github.com/status-im/nimbus-eth2/pull/8882) - 2026-08-14
 * [Pull Request] [Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/status-im/nimbus-eth2/pull/8941) - 2026-08-25
+* [Review] [Review on: Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/status-im/nimbus-eth2/pull/8941#pullrequestreview-5038563111) - 2026-08-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): make discv5 follow --discovery.port](https://github.com/paradigmxyz/reth/pull/26532) - 2026-07-30
 
@@ -161,6 +168,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [Verify bid gas limit against the payload at bid.parent_block_hash](https://github.com/OffchainLabs/prysm/pull/17405) - 2026-08-25
 * [Commit] [Verify bid gas limit against the payload at bid.parent_block_hash (#17405)](https://github.com/OffchainLabs/prysm/commit/ab315f0b2955850f92dce211fead778b88b9c41c) - 2026-08-26
+* [Pull Request] [Persist execution payload envelope before emitting execution_payload_available](https://github.com/OffchainLabs/prysm/pull/17418) - 2026-08-27
+* [Commit] [Persist execution payload envelope before emitting execution_payload_available (#17418)](https://github.com/OffchainLabs/prysm/commit/8b777fc7f7b0a6d4a4bcff43b15426522c92b490) - 2026-08-27
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847) - 2026-08-14
 
