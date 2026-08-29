@@ -144,6 +144,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(evm-tools): accept empty hex transaction values (#3424)](https://github.com/ethereum/execution-specs/commit/5a7cd6b00d3b78565a6aa4164505fa543fb39e85) - 2026-08-26
 * [Commit] [feat(tests): expand create collision matrix and add balance-only cases (#3425)](https://github.com/ethereum/execution-specs/commit/bd443d939acbefd9194ab8e6e2435b7fad152932) - 2026-08-26
 * [Commit] [fix(test-execute): ignore tests/spec_tools during collection (#3450)](https://github.com/ethereum/execution-specs/commit/74153f7093c7716834d2dac00db0087738072758) - 2026-08-26
+* [Review] [Review on: fix(test-cli): ignore tests/json_loader and tests/spec_tools during collection](https://github.com/ethereum/execution-specs/pull/3461#pullrequestreview-5048864608) - 2026-08-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -162,6 +163,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843)](https://github.com/ethereum/hive/pull/1597#pullrequestreview-4927945648) - 2026-08-13
 * [Pull Request] [internal/libhive: release the test-case mutex before removing containers](https://github.com/ethereum/hive/pull/1600) - 2026-08-20
 * [Commit] [internal/libhive: release the test-case mutex before removing containers (#1600)](https://github.com/ethereum/hive/commit/642a051b11a2085917a6e7dcafc09ab065a9db02) - 2026-08-20
+* [Pull Request] [clients/go-ethereum: update git dockerfile to golang 1.25](https://github.com/ethereum/hive/pull/1605) - 2026-08-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

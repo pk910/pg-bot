@@ -55,6 +55,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add attestations test with `payload_present` in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-5046948621) - 2026-08-28
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5046900262) - 2026-08-28
 * [Pull Request] [Add check for `--disable-proposer-reorg` flag](https://github.com/sigp/lighthouse/pull/9926) - 2026-08-27
+* [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-5049767829) - 2026-08-28
 ## Q2 2026
 
 

@@ -157,6 +157,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(rpc-bench): reliable fixed-corpus eth_call A/B (corpus-ab preset, ABBA rounds, paired replay)](https://github.com/NethermindEth/nethermind/pull/12987) - 2026-08-26
 * [Pull Request] [Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876) - 2026-08-27
 * [Commit] [Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing (#12876)](https://github.com/NethermindEth/nethermind/commit/661f08b143e5221ecde6b7de2140382f07f07419) - 2026-08-27
+* [Review] [Review on: perf(evm): prefer bytecode interpreter on ARM64](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5054001312) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
