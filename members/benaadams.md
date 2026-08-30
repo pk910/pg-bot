@@ -241,6 +241,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix flaky NewPayloadV5 BAL golden-hash test (#13004)](https://github.com/NethermindEth/nethermind/commit/da1510457bf67ca4d67c4ce8c4a3d51e3e22caa2) - 2026-08-27
 * [Pull Request] [fix(txpool): harden fork-boundary revalidation](https://github.com/NethermindEth/nethermind/pull/13038) - 2026-08-28
 * [Review] [Review on: fix(txpool): harden fork-boundary revalidation](https://github.com/NethermindEth/nethermind/pull/13038#pullrequestreview-5053661988) - 2026-08-28
+* [Commit] [fix(txpool): harden fork-boundary revalidation (#13038)](https://github.com/NethermindEth/nethermind/commit/b7fdae843bb40a803b0d69d7355c4e978ea1cc20) - 2026-08-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
