@@ -185,6 +185,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v26.8.0](https://github.com/status-im/nimbus-eth2/commit/404a0001561d1d83c5b5bf35dcbedbcb5fb86572) - 2026-08-28
 * [Commit] [early exit on excessive column by range req/resp (#8958)](https://github.com/status-im/nimbus-eth2/commit/2747aadb7aee22a298712648be995195e0a0c4f9) - 2026-08-28
 * [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5056824558) - 2026-08-29
+* [Pull Request] [align default PAYLOAD_DUE_BPS with gloas defaults](https://github.com/status-im/nimbus-eth2/pull/8964) - 2026-08-30
+* [Pull Request] [implement getProposerDutiesV2](https://github.com/status-im/nimbus-eth2/pull/8963) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
