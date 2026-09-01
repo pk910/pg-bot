@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [gossipsub StrictNoSign check omits the key field → Teku relays the forbidden bytes](https://github.com/libp2p/jvm-libp2p/issues/522) - 2026-08-27
 * [Commit] [Update .gitignore to include .claude directory](https://github.com/libp2p/jvm-libp2p/commit/d0a6cd8db657e865fba2dfd3cd594139c13e5cea) - 2026-08-28
 * [Commit] [Merge pull request #521 from lucassaldanha/bound--control-bytes](https://github.com/libp2p/jvm-libp2p/commit/95ea259ae1353556911340395189207a3e8d1172) - 2026-08-28
+* [Pull Request] [fix(quic): run delegated TLS tasks inline, not on shared workerGroup](https://github.com/libp2p/jvm-libp2p/pull/524) - 2026-08-31
+* [Issue] [Teku crashes unexpectedly while handling QUIC connections](https://github.com/libp2p/jvm-libp2p/issues/523) - 2026-08-31
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -121,6 +123,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [gossipsub StrictNoSign check omits the key field and Teku relays the invalid message](https://github.com/Consensys/teku/issues/11186) - 2026-08-27
 * [Commit] [Log dropped gossip RPC parts as expected peer churn, not an error (#11189)](https://github.com/Consensys/teku/commit/23ba04bb6a8af8e7405b64505a44c4acbdc145cd) - 2026-08-28
 * [Commit] [Enforce StrictNoSign key field in GossipWireValidator (#11185)](https://github.com/Consensys/teku/commit/51f69f83abd19890269eff0d4b6eddb17d7b33d6) - 2026-08-27
+* [Pull Request] [Replace modulo test sharding with timing-based shard planning](https://github.com/Consensys/teku/pull/11204) - 2026-08-31
+* [Commit] [Replace modulo test sharding with timing-based shard planning (#11204)](https://github.com/Consensys/teku/commit/5c471f32a4c282a5f432cdcf31c5f073cff00367) - 2026-09-01
 ## Q2 2026
 
 

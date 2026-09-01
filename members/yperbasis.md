@@ -608,6 +608,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/commitment: use installed reader for branch child counts (#23649)](https://github.com/erigontech/erigon/commit/ad897a650a8c4ca437ba1858a530980e648c9671) - 2026-08-29
 * [Commit] [rpc/jsonrpc: restore concurrent log subscription coverage (#23650)](https://github.com/erigontech/erigon/commit/827b37022ec469ab423bc2f7e72e49a163c1f841) - 2026-08-29
 * [Commit] [rpc/rpchelper, txnprovider/shutter: fix silent event losses breaking shutter block building (#23228)](https://github.com/erigontech/erigon/commit/67da19c18e77b24b58ed4deb7f1c8f2596d65217) - 2026-08-30
+* [Pull Request] [[r3.6] execution/state: judge EIP-161 emptiness by fields, not a create marker](https://github.com/erigontech/erigon/pull/23692) - 2026-08-31
+* [Review] [Review on: execution/state: judge EIP-161 emptiness by fields, not a create marker](https://github.com/erigontech/erigon/pull/23672#pullrequestreview-5067903499) - 2026-08-31
+* [Review] [Review on: [r3.6] sd: `SD.changesetMu` which must protect "field access" now get locked every DomainPut](https://github.com/erigontech/erigon/pull/23680#pullrequestreview-5067314161) - 2026-08-31
+* [Review] [Review on: go.mod: up deps before 3.7 release](https://github.com/erigontech/erigon/pull/23661#pullrequestreview-5066830195) - 2026-08-31
+* [Review] [Review on: cl/services: harden shared pending queue and migrate bids](https://github.com/erigontech/erigon/pull/23644#pullrequestreview-5065524256) - 2026-08-31
+* [Issue] [cl/epbs: retain fallback bids after production-time eviction](https://github.com/erigontech/erigon/issues/23689) - 2026-08-31
+* [Issue] [cl/beacon: implement spec-compliant ProduceBlockV4 BuilderConfig](https://github.com/erigontech/erigon/issues/23686) - 2026-08-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

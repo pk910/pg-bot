@@ -90,6 +90,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [refactor gossip test executor](https://github.com/Consensys/teku/pull/11175) - 2026-08-27
 * [Review] [Review on: Move storage counter scans off the pruning thread and warn on slow pruning](https://github.com/Consensys/teku/pull/11171#pullrequestreview-5027042210) - 2026-08-26
 * [Commit] [refactor some setup routine on gossip test executor and add some imporvements to gossip validator help (#11175)](https://github.com/Consensys/teku/commit/f5e1ba7181d61b3d417bd034dac37e049d2cafbc) - 2026-08-27
+* [Review] [Review on: Replace modulo test sharding with timing-based shard planning](https://github.com/Consensys/teku/pull/11204#pullrequestreview-5073337721) - 2026-09-01
+* [Pull Request] [Remove shuffling stable from fulu onwards](https://github.com/Consensys/teku/pull/11203) - 2026-08-31
 ## Q2 2026
 
 
