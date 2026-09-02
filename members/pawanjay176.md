@@ -74,6 +74,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5013834460) - 2026-08-25
 * [Pull Request] [Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924) - 2026-08-26
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5035588950) - 2026-08-26
+* [Review] [Review on: Fix quadratic pending-validator scan in Gloas builder onboarding](https://github.com/sigp/lighthouse/pull/9954#pullrequestreview-5074962230) - 2026-09-01
 ## Q2 2026
 
 
