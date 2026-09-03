@@ -419,6 +419,24 @@ Team: Erigon
 * [Pull Request] [execution/execfinality: do not gate collation on the MaxTxNum floor](https://github.com/erigontech/erigon/pull/23704) - 2026-09-01
 * [Pull Request] [execution/commitment: fill the account fields a partial update leaves out instead of zeroing them](https://github.com/erigontech/erigon/pull/23709) - 2026-09-01
 * [Review] [Review on: cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru`](https://github.com/erigontech/erigon/pull/23664#pullrequestreview-5074441706) - 2026-09-01
+* [Pull Request] [execution/blockmetrics: emit per-block execution metrics in the cross-client JSON format](https://github.com/erigontech/erigon/pull/23764) - 2026-09-03
+* [Pull Request] [execution/execmodule: benchmark the engine_newPayload validation window](https://github.com/erigontech/erigon/pull/23738) - 2026-09-02
+* [Review] [Review on: execution/execmodule: benchmark the engine_newPayload validation window](https://github.com/erigontech/erigon/pull/23738#pullrequestreview-5090554306) - 2026-09-02
+* [Pull Request] [execution/commitment: verify branch-cache prefix on Get](https://github.com/erigontech/erigon/pull/23721) - 2026-09-02
+* [Review] [Review on: execution/commitment: verify branch-cache prefix on Get](https://github.com/erigontech/erigon/pull/23721#pullrequestreview-5085540596) - 2026-09-02
+* [Pull Request] [commitment: parallel fold workers read the caller's snapshot](https://github.com/erigontech/erigon/pull/23722) - 2026-09-02
+* [Review] [Review on: commitment: parallel fold workers read the caller's snapshot](https://github.com/erigontech/erigon/pull/23722#pullrequestreview-5085575072) - 2026-09-02
+* [Pull Request] [execution/stagedsync: calcState walks a per-block dirty list](https://github.com/erigontech/erigon/pull/23737) - 2026-09-02
+* [Pull Request] [db/kv/prune: check the progress-log ticker every 1024 keys, not per key](https://github.com/erigontech/erigon/pull/23741) - 2026-09-02
+* [Pull Request] [db/etl: size a pooled buffer to the collector's last fill](https://github.com/erigontech/erigon/pull/23742) - 2026-09-02
+* [Pull Request] [execution/commitment: fold storage subtrees straight from the prefix trie](https://github.com/erigontech/erigon/pull/23746) - 2026-09-02
+* [Pull Request] [execution/commitment: scale the deep storage fold threshold with the round size](https://github.com/erigontech/erigon/pull/23747) - 2026-09-02
+* [Pull Request] [execution/commitment: deep-fold storage whose account record is not in the round](https://github.com/erigontech/erigon/pull/23749) - 2026-09-02
+* [Pull Request] [execution/commitment: skip rehashing a repeat ModeParallel touch](https://github.com/erigontech/erigon/pull/23748) - 2026-09-02
+* [Review] [Review on: execution/commitment: persist zero-update commitment progress](https://github.com/erigontech/erigon/pull/23719#pullrequestreview-5084889127) - 2026-09-02
+* [Issue] [db/downloader: a malformed .torrent aborts AddTorrentsFromDisk and skips every later snapshot](https://github.com/erigontech/erigon/issues/23754) - 2026-09-02
+* [Commit] [execution/execfinality: do not gate collation on the MaxTxNum floor (#23704)](https://github.com/erigontech/erigon/commit/bef283d1beb94ac1299684ebcce779fb1f66b0f1) - 2026-09-02
+* [Commit] [execution/commitment: fill the account fields a partial update leaves out instead of zeroing them (#23709)](https://github.com/erigontech/erigon/commit/f55ba59e185fb53fa00e7c3cddda9153783ef9b7) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
