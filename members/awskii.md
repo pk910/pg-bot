@@ -437,6 +437,10 @@ Team: Erigon
 * [Issue] [db/downloader: a malformed .torrent aborts AddTorrentsFromDisk and skips every later snapshot](https://github.com/erigontech/erigon/issues/23754) - 2026-09-02
 * [Commit] [execution/execfinality: do not gate collation on the MaxTxNum floor (#23704)](https://github.com/erigontech/erigon/commit/bef283d1beb94ac1299684ebcce779fb1f66b0f1) - 2026-09-02
 * [Commit] [execution/commitment: fill the account fields a partial update leaves out instead of zeroing them (#23709)](https://github.com/erigontech/erigon/commit/f55ba59e185fb53fa00e7c3cddda9153783ef9b7) - 2026-09-02
+* [Review] [Review on: tracing: put the wire types on callFrame, drop gencodec](https://github.com/erigontech/erigon/pull/23766#pullrequestreview-5098139496) - 2026-09-03
+* [Issue] [execution/commitment: v3 edge-record format and the hoodi 1M v2/v3 run](https://github.com/erigontech/erigon/issues/23773) - 2026-09-03
+* [Commit] [execution/execmodule: benchmark the engine_newPayload validation window (#23738)](https://github.com/erigontech/erigon/commit/fe0e9e02287f8265b347f1e2ea3c3a36bc94ce44) - 2026-09-03
+* [Commit] [execution/stagedsync: calcState walks a per-block dirty list (#23737)](https://github.com/erigontech/erigon/commit/e2deafdfd29f34403a1d51a2c873861491ae70f0) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
