@@ -199,6 +199,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5097798796) - 2026-09-03
 * [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5099266303) - 2026-09-03
 * [Pull Request] [rm electra remote signer support](https://github.com/status-im/nimbus-eth2/pull/8987) - 2026-09-03
+* [Pull Request] [use v1.7.0-beta.0 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8990) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

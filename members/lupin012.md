@@ -184,6 +184,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: trim the over-engineering left by #23690 (#23725)](https://github.com/erigontech/erigon/commit/610102138ffe1773fe53197ec91e20799995df1a) - 2026-09-02
 * [Pull Request] [rpc/gasprice, rpc/jsonrpc: three review follow-ups from #22987](https://github.com/erigontech/erigon/pull/23771) - 2026-09-03
 * [Review] [Review on: rpc/jsonrpc, rpc/gasprice: gate block-data and replay endpoints on the data they read](https://github.com/erigontech/erigon/pull/23760#pullrequestreview-5105451495) - 2026-09-03
+* [Pull Request] [tracing: number callTracer logs over the whole block](https://github.com/erigontech/erigon/pull/23797) - 2026-09-04
+* [Commit] [rpc/jsonrpc: two review follow-ups from #23322 (#23759)](https://github.com/erigontech/erigon/commit/613a394ff338848fbff637e2c77aa25a9a0d252c) - 2026-09-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -204,6 +206,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [gnosuis: fix trace_call no vmtrace (#592)](https://github.com/erigontech/rpc-tests/commit/e05fe37eabb48e5e0b53072724c0d5d5a9f47772) - 2026-08-26
 * [Pull Request] [integration-test: eth_estimateGas update expected test 17/28 for state Override](https://github.com/erigontech/rpc-tests/pull/593) - 2026-08-28
 * [Commit] [update_eth_estimateGas_stateOverride (#593)](https://github.com/erigontech/rpc-tests/commit/dbcb8722b13d766bce6c0c63db569359441500ef) - 2026-08-30
+* [Pull Request] [integration: add tests for callTracer `to` omitted on a failed CREATE](https://github.com/erigontech/rpc-tests/pull/596) - 2026-09-04
+* [Pull Request] [add callTracer withLog tests for debug_trace* APIs](https://github.com/erigontech/rpc-tests/pull/597) - 2026-09-04
+* [Pull Request] [integration_test: fix compare json](https://github.com/erigontech/rpc-tests/pull/595) - 2026-09-04
+* [Commit] [fix compare json (#595)](https://github.com/erigontech/rpc-tests/commit/eb21ac065319e52dbf81e1ee98cc9e6a89ad5f6f) - 2026-09-04
 ## Q2 2026
 
 
