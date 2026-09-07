@@ -204,6 +204,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5121893191) - 2026-09-05
 * [Pull Request] [rm fulu partial column quarantine tests](https://github.com/status-im/nimbus-eth2/pull/8995) - 2026-09-05
 * [Review] [Review on: Add getBuilderConfig api](https://github.com/status-im/nimbus-eth2/pull/8994#pullrequestreview-5121175537) - 2026-09-05
+* [Pull Request] [use some consensus-specs gossip validation reference test vectors](https://github.com/status-im/nimbus-eth2/pull/8999) - 2026-09-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
