@@ -64,6 +64,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Add block/payload sort toggles to the timeline column](https://github.com/ethpandaops/dora/commit/f36f295200158b8c62ba590fdca01b7bc8182596) - 2026-08-26
 * [Commit] [Render the arrival and wave panels in one pass](https://github.com/ethpandaops/dora/commit/073826f4f4c476cfa7b6d1a99eb0a66c60cc1751) - 2026-08-26
 * [Commit] [Split regions into head and payload arrival, fix axis label overlap](https://github.com/ethpandaops/dora/commit/e32e079695dbe21471f00a3b05c4567f52ca709f) - 2026-08-26
+* [Review] [Review on: Support EIP-8141 frame transactions](https://github.com/ethpandaops/dora/pull/855#pullrequestreview-5129280133) - 2026-09-07
 ## Q2 2026
 
 
