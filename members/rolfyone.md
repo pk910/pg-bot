@@ -192,6 +192,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Compare gossip payload size against the compressed bound](https://github.com/Consensys-Incorporated/teku/pull/11223#pullrequestreview-5097805055) - 2026-09-03
 * [Pull Request] [ Add EIP-8198 quick slots scaffolding as new SpecMilestone after Heze](https://github.com/Consensys-Incorporated/teku/pull/11245) - 2026-09-07
 * [Pull Request] [Add EIP-8359 reporting field to Heze BeaconBlockBody (POC)](https://github.com/Consensys-Incorporated/teku/pull/11244) - 2026-09-07
+* [Review] [Review on: Improve observability for sync committee subnets](https://github.com/Consensys-Incorporated/teku/pull/11201#pullrequestreview-5148445152) - 2026-09-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 

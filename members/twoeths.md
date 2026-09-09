@@ -220,6 +220,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: log peer client serving orphaned payloads](https://github.com/ChainSafe/lodestar/pull/10009#pullrequestreview-5127567982) - 2026-09-07
 * [Commit] [fix: ignore future slot gossip messages (#10023)](https://github.com/ChainSafe/lodestar/commit/baa28132d248203178c8c8266561384b2ddcf29a) - 2026-09-07
 * [Commit] [chore: log orphaned payload source in range sync (#10021)](https://github.com/ChainSafe/lodestar/commit/84db2dcfe43d272644378dfd88d58fbc81610981) - 2026-09-07
+* [Pull Request] [fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039) - 2026-09-08
+* [Review] [Review on: fix: dos protection for NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10039#pullrequestreview-5141911328) - 2026-09-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

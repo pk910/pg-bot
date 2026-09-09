@@ -61,6 +61,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Default EL safe tag to finalized when FCR is enabled](https://github.com/sigp/lighthouse/pull/9992) - 2026-09-07
 * [Pull Request] [Stop promoting completed pending payload entries to most-recently-used](https://github.com/sigp/lighthouse/pull/9988) - 2026-09-07
 * [Pull Request] [Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987) - 2026-09-07
+* [Issue] [Reserved - 10k](https://github.com/sigp/lighthouse/issues/10000) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 

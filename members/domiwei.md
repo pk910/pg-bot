@@ -120,6 +120,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5134894342) - 2026-09-07
 * [Pull Request] [cl: apply scoped Gloas devnet 9 consensus and API updates](https://github.com/erigontech/erigon/pull/23845) - 2026-09-07
 * [Review] [Review on: cl/sentinel: honour the peer ban on inbound connections](https://github.com/erigontech/erigon/pull/23606#pullrequestreview-5129522617) - 2026-09-07
+* [Review] [Review on: cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23868#pullrequestreview-5147355679) - 2026-09-08
+* [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5140655755) - 2026-09-08
 ## Q2 2026
 
 

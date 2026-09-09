@@ -1362,6 +1362,27 @@ Team: Erigon
 * [Commit] [mem: set default `GOMEMLIMIT` to 80% of total ram (cgroup-aware) (#23757)](https://github.com/erigontech/erigon/commit/a32f6474662238e82b2492f003f544653975bc38) - 2026-09-07
 * [Commit] [lru: accounting per-key overhead (#23552)](https://github.com/erigontech/erigon/commit/b7aef0061f56d8b67352598fa08fda210221fd75) - 2026-09-07
 * [Commit] [mcp: fix log stats, tail memory and rpc.url discovery; drop dead code (#23786)](https://github.com/erigontech/erigon/commit/fdcd61eab54fcac94ff8074082bfe1ac0319384f) - 2026-09-07
+* [Review] [Review on: cl/network: do not ban a peer for an empty BeaconBlocksByRange response](https://github.com/erigontech/erigon/pull/23837#pullrequestreview-5148873136) - 2026-09-09
+* [Review] [Review on: cl/services: ignore, and retry, a block the execution layer did not answer for](https://github.com/erigontech/erigon/pull/23836#pullrequestreview-5148871890) - 2026-09-09
+* [Review] [Review on: p2p/discover: relay-check the discv5 handshake record before adding it to the table](https://github.com/erigontech/erigon/pull/23833#pullrequestreview-5148869476) - 2026-09-09
+* [Review] [Review on: txnprovider/txpool: release sender ids for remote txns that reach no sub-pool](https://github.com/erigontech/erigon/pull/23835#pullrequestreview-5148869224) - 2026-09-09
+* [Review] [Review on: cl/services: claim the attestation seen slot only after signature verification](https://github.com/erigontech/erigon/pull/23832#pullrequestreview-5148868992) - 2026-09-09
+* [Review] [Review on: cl/phase1/forkchoice: bound badBlocks so a peer cannot grow it without limit](https://github.com/erigontech/erigon/pull/23830#pullrequestreview-5148866694) - 2026-09-09
+* [Review] [Review on: cl/cltypes: size Gloas execution-request decode guards by the chunk limit](https://github.com/erigontech/erigon/pull/23829#pullrequestreview-5148864076) - 2026-09-09
+* [Review] [Review on: build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874#pullrequestreview-5148819958) - 2026-09-09
+* [Review] [Review on: docs: replace image-size with image-size-next to fix CVE-2025-71329/71330](https://github.com/erigontech/erigon/pull/23869#pullrequestreview-5148819093) - 2026-09-09
+* [Review] [Review on: [r3.6] docs: replace image-size with image-size-next to fix CVE-2025-71329/71330](https://github.com/erigontech/erigon/pull/23870#pullrequestreview-5148818270) - 2026-09-09
+* [Review] [Review on: cl/antiquary: remove overlapping caplin state segments after each dump](https://github.com/erigontech/erigon/pull/23471#pullrequestreview-5137989215) - 2026-09-08
+* [Review] [Review on: [r3.6] cl/phase1/stages: saturate the derived column retention window](https://github.com/erigontech/erigon/pull/23863#pullrequestreview-5141031820) - 2026-09-08
+* [Pull Request] [[r3.6] db/recsplit: make ResetNextSalt actually reset](https://github.com/erigontech/erigon/pull/23858) - 2026-09-08
+* [Review] [Review on: cmd, db/downloader: pure-Go uTP shim, and --downloader.disable.tcp](https://github.com/erigontech/erigon/pull/23856#pullrequestreview-5141064083) - 2026-09-08
+* [Review] [Review on: db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB)](https://github.com/erigontech/erigon/pull/23844#pullrequestreview-5136530100) - 2026-09-08
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 3)](https://github.com/erigontech/erigon/pull/23816#pullrequestreview-5140297486) - 2026-09-08
+* [Pull Request] [[r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23859) - 2026-09-08
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23859#pullrequestreview-5138360655) - 2026-09-08
+* [Review] [Review on: execution: enable errcheck across execution/*](https://github.com/erigontech/erigon/pull/23823#pullrequestreview-5138008521) - 2026-09-08
+* [Commit] [db/seg: stop ReadFrom decoding into the file mapping (#23810)](https://github.com/erigontech/erigon/commit/6663eb8bd2dc25b5fef2cde17f54e70c46029e77) - 2026-09-08
+* [Commit] [lint: enable `shadow` linter for `./db` pkgs (step 2) (#23785)](https://github.com/erigontech/erigon/commit/0c41409c314ab416186c865e4d13f60dbed024f5) - 2026-09-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
