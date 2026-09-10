@@ -101,6 +101,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add tests to check for divergence between fork choice and the store](https://github.com/sigp/lighthouse/pull/9818#pullrequestreview-5137799574) - 2026-09-08
 * [Review] [Review on: make historical backfill DB writes crash-safe](https://github.com/sigp/lighthouse/pull/9776#pullrequestreview-5137715857) - 2026-09-08
 * [Issue] [Test `attestation_to_unknown_block_processed_after_gossip_block` is flaky](https://github.com/sigp/lighthouse/issues/9999) - 2026-09-08
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5161707061) - 2026-09-10
+* [Review] [Review on: Prune finalised payload envelopes](https://github.com/sigp/lighthouse/pull/10015#pullrequestreview-5161210765) - 2026-09-10
+* [Review] [Review on: Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014#pullrequestreview-5148898635) - 2026-09-09
+* [Review] [Review on: Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001#pullrequestreview-5149522626) - 2026-09-09
+* [Review] [Review on: Don't return Pending node when fork choice reverts to justified block](https://github.com/sigp/lighthouse/pull/9962#pullrequestreview-5149307009) - 2026-09-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

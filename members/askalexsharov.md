@@ -1383,6 +1383,38 @@ Team: Erigon
 * [Review] [Review on: execution: enable errcheck across execution/*](https://github.com/erigontech/erigon/pull/23823#pullrequestreview-5138008521) - 2026-09-08
 * [Commit] [db/seg: stop ReadFrom decoding into the file mapping (#23810)](https://github.com/erigontech/erigon/commit/6663eb8bd2dc25b5fef2cde17f54e70c46029e77) - 2026-09-08
 * [Commit] [lint: enable `shadow` linter for `./db` pkgs (step 2) (#23785)](https://github.com/erigontech/erigon/commit/0c41409c314ab416186c865e4d13f60dbed024f5) - 2026-09-08
+* [Review] [Review on: rpc/jsonrpc: test the receipt cache against physically retired history](https://github.com/erigontech/erigon/pull/23871#pullrequestreview-5150101509) - 2026-09-09
+* [Review] [Review on: tracing: number callTracer logs over the whole block](https://github.com/erigontech/erigon/pull/23797#pullrequestreview-5150095759) - 2026-09-09
+* [Review] [Review on: [r3.6] release: Erigon v3.6.1](https://github.com/erigontech/erigon/pull/23886#pullrequestreview-5152235664) - 2026-09-09
+* [Review] [Review on: execution/commitment: drop duplicate hot-path metric counters](https://github.com/erigontech/erigon/pull/23882#pullrequestreview-5154408456) - 2026-09-09
+* [Pull Request] [engine_types, rpctest, protocol: drop gencodec tags that have no generator](https://github.com/erigontech/erigon/pull/23878) - 2026-09-09
+* [Review] [Review on: engine_types, rpctest, protocol: drop gencodec tags that have no generator](https://github.com/erigontech/erigon/pull/23878#pullrequestreview-5154641568) - 2026-09-09
+* [Pull Request] [lru: in jump-grow copy loop use `peek` instead `get`](https://github.com/erigontech/erigon/pull/23545) - 2026-09-09
+* [Pull Request] [types: put the wire types on Withdrawal, drop gencodec](https://github.com/erigontech/erigon/pull/23879) - 2026-09-09
+* [Review] [Review on: types: put the wire types on Withdrawal, drop gencodec](https://github.com/erigontech/erigon/pull/23879#pullrequestreview-5152151052) - 2026-09-09
+* [Pull Request] [tracing: put the wire types on the JSON tracer's own step, drop gencodec](https://github.com/erigontech/erigon/pull/23881) - 2026-09-09
+* [Review] [Review on: tracing: put the wire types on the JSON tracer's own step, drop gencodec](https://github.com/erigontech/erigon/pull/23881#pullrequestreview-5154650057) - 2026-09-09
+* [Pull Request] [execution/types, rpc: filter eth_getLogs receipt logs straight into the result](https://github.com/erigontech/erigon/pull/23891) - 2026-09-09
+* [Review] [Review on: execution/types, rpc: filter eth_getLogs receipt logs straight into the result](https://github.com/erigontech/erigon/pull/23891#pullrequestreview-5154483583) - 2026-09-09
+* [Review] [Review on: [r3.6] build: bump google.golang.org/grpc to v1.83.2](https://github.com/erigontech/erigon/pull/23888#pullrequestreview-5152278525) - 2026-09-09
+* [Review] [Review on: ChangeLog: port v3.6.1 release notes to main](https://github.com/erigontech/erigon/pull/23887#pullrequestreview-5152248001) - 2026-09-09
+* [Review] [Review on: build(deps): bump svgo from 3.3.4 to 3.3.5 in /docs/site](https://github.com/erigontech/erigon/pull/23883#pullrequestreview-5152251398) - 2026-09-09
+* [Review] [Review on: build(deps): bump joi from 17.13.4 to 17.13.7 in /docs/site](https://github.com/erigontech/erigon/pull/23884#pullrequestreview-5151704092) - 2026-09-09
+* [Pull Request] [rpc: `eth_getLogs` results conversion in Append-style](https://github.com/erigontech/erigon/pull/23890) - 2026-09-09
+* [Review] [Review on: build(deps): bump js-yaml from 4.3.1 to 4.3.2 in /docs/site](https://github.com/erigontech/erigon/pull/23885#pullrequestreview-5151702834) - 2026-09-09
+* [Pull Request] [build, ci: require x86-64-v2 on amd64, drop the v1 release artifact](https://github.com/erigontech/erigon/pull/23877) - 2026-09-09
+* [Review] [Review on: build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874#pullrequestreview-5148901347) - 2026-09-09
+* [Review] [Review on: build(deps): bump colord from 2.9.3 to 2.10.0 in /docs/site](https://github.com/erigontech/erigon/pull/23876#pullrequestreview-5150344840) - 2026-09-09
+* [Review] [Review on: QA: update execution apis ref 6570b55](https://github.com/erigontech/erigon/pull/23873#pullrequestreview-5150114498) - 2026-09-09
+* [Commit] [engine_types, rpctest, protocol: drop gencodec tags that have no generator (#23878)](https://github.com/erigontech/erigon/commit/3ef375c65e320ebd7c071edcd3743dedda9cc724) - 2026-09-09
+* [Commit] [lru: in jump-grow copy loop use `peek` instead `get` (#23545)](https://github.com/erigontech/erigon/commit/10523ea6372a1d6106569173d1a1b64359221e43) - 2026-09-09
+* [Commit] [cl/phase1/forkchoice: bound badBlocks so a peer cannot grow it without limit (#23830)](https://github.com/erigontech/erigon/commit/14d30b02b2f2435af3bf8db5561e80ae736080a2) - 2026-09-09
+* [Commit] [cl/cltypes: size Gloas execution-request decode guards by the chunk limit (#23829)](https://github.com/erigontech/erigon/commit/f7a4a135d10a8ed942eb26e60f4f2d2cbbefc523) - 2026-09-09
+* [Commit] [cl/services: ignore, and retry, a block the execution layer did not answer for (#23836)](https://github.com/erigontech/erigon/commit/edd44e176bc195c98d1fd2183ee7f6cb5303444b) - 2026-09-09
+* [Commit] [cl/services: claim the attestation seen slot only after signature verification (#23832)](https://github.com/erigontech/erigon/commit/d94e08031c3e3c1e51cdef213dd4f5d37f2e976e) - 2026-09-09
+* [Commit] [p2p/discover: relay-check the discv5 handshake record before adding it to the table (#23833)](https://github.com/erigontech/erigon/commit/fdce37c0ebf7af8811c596d3349f5477f7c5322f) - 2026-09-09
+* [Commit] [cl/network: do not ban a peer for an empty BeaconBlocksByRange response (#23837)](https://github.com/erigontech/erigon/commit/68474ba4e34f135c0c189eeb0c0587da6aecf7f4) - 2026-09-09
+* [Commit] [txnprovider/txpool: release sender ids for remote txns that reach no sub-pool (#23835)](https://github.com/erigontech/erigon/commit/6142966a0e5a950fc643e2297a55d4638d5a027a) - 2026-09-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
