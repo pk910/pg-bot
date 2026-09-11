@@ -218,6 +218,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: nix: disable stripping debug symbols](https://github.com/status-im/nimbus-eth2/pull/9022#pullrequestreview-5154159884) - 2026-09-09
 * [Review] [Review on: add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021#pullrequestreview-5153182518) - 2026-09-09
 * [Pull Request] [use proposer preferences gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9017) - 2026-09-09
+* [Review] [Review on: fix: return ok() from routePayloadAttestationMessage on success](https://github.com/status-im/nimbus-eth2/pull/9028#pullrequestreview-5168714417) - 2026-09-10
+* [Pull Request] [try removing envelope parent filter](https://github.com/status-im/nimbus-eth2/pull/9029) - 2026-09-11
+* [Review] [Review on: add focil fork choice](https://github.com/status-im/nimbus-eth2/pull/9021#pullrequestreview-5167019722) - 2026-09-10
+* [Pull Request] [rm missing envelope request slot filters](https://github.com/status-im/nimbus-eth2/pull/9024) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
@@ -227,6 +231,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848#pullrequestreview-4660020580) - 2026-07-09
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [`engine_getBlobsV4` support](https://github.com/erigontech/erigon/issues/23917) - 2026-09-10
 ## Q2 2026
 
 

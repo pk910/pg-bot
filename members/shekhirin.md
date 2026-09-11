@@ -74,6 +74,8 @@ Team: Reth
 * [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27059) - 2026-09-07
 * [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27058) - 2026-09-07
 * [Review] [Review on: fix(trie): revert changeset avoidance for read-only overlays](https://github.com/paradigmxyz/reth/pull/27114#pullrequestreview-5153618467) - 2026-09-09
+* [Review] [Review on: chore(rpc): increase default transaction hash cache to 100k](https://github.com/paradigmxyz/reth/pull/27137#pullrequestreview-5167784480) - 2026-09-10
+* [Pull Request] [perf(chain-state): index transactions by hash](https://github.com/paradigmxyz/reth/pull/27136) - 2026-09-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

@@ -1415,6 +1415,42 @@ Team: Erigon
 * [Commit] [p2p/discover: relay-check the discv5 handshake record before adding it to the table (#23833)](https://github.com/erigontech/erigon/commit/fdce37c0ebf7af8811c596d3349f5477f7c5322f) - 2026-09-09
 * [Commit] [cl/network: do not ban a peer for an empty BeaconBlocksByRange response (#23837)](https://github.com/erigontech/erigon/commit/68474ba4e34f135c0c189eeb0c0587da6aecf7f4) - 2026-09-09
 * [Commit] [txnprovider/txpool: release sender ids for remote txns that reach no sub-pool (#23835)](https://github.com/erigontech/erigon/commit/6142966a0e5a950fc643e2297a55d4638d5a027a) - 2026-09-09
+* [Review] [Review on: db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841#pullrequestreview-5161834658) - 2026-09-10
+* [Pull Request] [types: back a receipt's logs with one block](https://github.com/erigontech/erigon/pull/23901) - 2026-09-10
+* [Review] [Review on: types: back a receipt's logs with one block](https://github.com/erigontech/erigon/pull/23901#pullrequestreview-5164415985) - 2026-09-10
+* [Review] [Review on: execution/commitment: keep the storage extension as the navigation path when unfolding an account leaf at depth 64](https://github.com/erigontech/erigon/pull/23905#pullrequestreview-5174104114) - 2026-09-11
+* [Pull Request] [rlp, types: size decoded slices from an item count](https://github.com/erigontech/erigon/pull/23898) - 2026-09-10
+* [Review] [Review on: rlp, types: size decoded slices from an item count](https://github.com/erigontech/erigon/pull/23898#pullrequestreview-5162485130) - 2026-09-10
+* [Review] [Review on: justfile: switch Windows cross-build uTP tag to `purego_utp`](https://github.com/erigontech/erigon/pull/23906#pullrequestreview-5164546600) - 2026-09-10
+* [Pull Request] [ci: make the large-file check actually run, and test it](https://github.com/erigontech/erigon/pull/23902) - 2026-09-10
+* [Review] [Review on: ci: make the large-file check actually run, and test it](https://github.com/erigontech/erigon/pull/23902#pullrequestreview-5163844840) - 2026-09-10
+* [Review] [Review on: execution/cache: bound the code cache by bytes, not an assumed average](https://github.com/erigontech/erigon/pull/23790#pullrequestreview-5162488135) - 2026-09-10
+* [Review] [Review on: chainspec, clparams: replace EF bootnodes with NodeOps fleet](https://github.com/erigontech/erigon/pull/23894#pullrequestreview-5164522721) - 2026-09-10
+* [Review] [Review on: db/downloader: skip malformed .torrent files in AddTorrentsFromDisk](https://github.com/erigontech/erigon/pull/23860#pullrequestreview-5164507038) - 2026-09-10
+* [Review] [Review on: execution/blockmetrics: emit per-block execution metrics in the cross-client JSON format](https://github.com/erigontech/erigon/pull/23764#pullrequestreview-5161845149) - 2026-09-10
+* [Review] [Review on: execution/engineapi, rpc/requests: wait for a poke to be pending before building](https://github.com/erigontech/erigon/pull/23818#pullrequestreview-5161863338) - 2026-09-10
+* [Pull Request] [cl/validator/devvalidator: count the envelope post before queueing its body](https://github.com/erigontech/erigon/pull/23910) - 2026-09-10
+* [Review] [Review on: mcp: move to `urfave/cli`](https://github.com/erigontech/erigon/pull/23819#pullrequestreview-5161861661) - 2026-09-10
+* [Review] [Review on: p2p/pipes: close listener when TCP dial fails](https://github.com/erigontech/erigon/pull/23865#pullrequestreview-5164486952) - 2026-09-10
+* [Review] [Review on: cmd, db/downloader: pure-Go uTP shim, and --downloader.disable.tcp](https://github.com/erigontech/erigon/pull/23856#pullrequestreview-5163688710) - 2026-09-10
+* [Review] [Review on: [r3.6] docs(site): close the flag, env-var and port coverage gaps found in the w37 audit](https://github.com/erigontech/erigon/pull/23862#pullrequestreview-5163637985) - 2026-09-10
+* [Review] [Review on: docs(site): close the flag, env-var and port coverage gaps found in the w37 audit](https://github.com/erigontech/erigon/pull/23861#pullrequestreview-5163638346) - 2026-09-10
+* [Review] [Review on: execution/types, rpc: filter eth_getLogs receipt logs straight into the result](https://github.com/erigontech/erigon/pull/23891#pullrequestreview-5162484775) - 2026-09-10
+* [Review] [Review on: execution/commitment: keep the storage load flag with the storage identity when folding a storage row](https://github.com/erigontech/erigon/pull/23897#pullrequestreview-5162028301) - 2026-09-10
+* [Pull Request] [execution/types: correct why the generated withdrawal decoder tolerated null](https://github.com/erigontech/erigon/pull/23899) - 2026-09-10
+* [Pull Request] [execution/state: skip empty per-path maps in AllHeaders](https://github.com/erigontech/erigon/pull/23838) - 2026-09-10
+* [Review] [Review on: execution/state: skip empty per-path maps in AllHeaders](https://github.com/erigontech/erigon/pull/23838#pullrequestreview-5162484946) - 2026-09-10
+* [Review] [Review on: cl/network: make the slow-probe rotation test deterministic with synctest](https://github.com/erigontech/erigon/pull/23857#pullrequestreview-5161861531) - 2026-09-10
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 3)](https://github.com/erigontech/erigon/pull/23816#pullrequestreview-5161861805) - 2026-09-10
+* [Review] [Review on: execution/commitment: skip rehashing a repeat ModeParallel touch](https://github.com/erigontech/erigon/pull/23748#pullrequestreview-5161847013) - 2026-09-10
+* [Commit] [execution/cache: bound the code cache by bytes, not an assumed average (#23790)](https://github.com/erigontech/erigon/commit/bf3e8261ec153f29cb1d9640fac81e842005bdd6) - 2026-09-10
+* [Commit] [execution/engineapi, rpc/requests: wait for a poke to be pending before building (#23818)](https://github.com/erigontech/erigon/commit/0d3df59ef46bde04e1b9f5d36bec88cbed7f0d97) - 2026-09-10
+* [Commit] [execution/types, rpc: filter eth_getLogs receipt logs straight into the result (#23891)](https://github.com/erigontech/erigon/commit/d95113839bfdadcd74101fe4d625436313ac62ad) - 2026-09-10
+* [Commit] [execution/types: correct why the generated withdrawal decoder tolerated null (#23899)](https://github.com/erigontech/erigon/commit/2eb5d827efa602279ca7131155b6c1a76d192d9d) - 2026-09-10
+* [Commit] [execution/state: skip empty per-path maps in AllHeaders (#23838)](https://github.com/erigontech/erigon/commit/187c80bcb4228c8268bfc5615748d7eb0a92e0c1) - 2026-09-10
+* [Commit] [lint: enable `shadow` linter for `./db` pkgs (step 3) (#23816)](https://github.com/erigontech/erigon/commit/9b4a0c667495da9fbbbe3ab947720cd136cb293d) - 2026-09-10
+* [Commit] [cl/network: make the slow-probe rotation test deterministic with synctest (#23857)](https://github.com/erigontech/erigon/commit/c38af06475a69f9a7dc1bdae6251ef4b65a13bdd) - 2026-09-10
+* [Commit] [rpc: `eth_getLogs` results conversion in Append-style (#23890)](https://github.com/erigontech/erigon/commit/cdeafabf3334d3ba941f21485c91a71a235e66c9) - 2026-09-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
