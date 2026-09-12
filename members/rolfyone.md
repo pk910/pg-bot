@@ -206,6 +206,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 * [Commit] [Updated client identification code to NE (#4447)](https://github.com/status-im/nimbus-eth1/commit/d31ed4b1fe56ef43379ab0cbc10f28fabf4137bf) - 2026-08-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Perform EIP-7688 limit gossip checks first](https://github.com/ethereum/consensus-specs/pull/5630#pullrequestreview-5182881249) - 2026-09-11
 ## Q2 2026
 
 
