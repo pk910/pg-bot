@@ -1477,6 +1477,14 @@ Team: Erigon
 * [Review] [Review on: [r3.6] execution/commitment: keep the storage load flag with the storage identity when folding a storage row](https://github.com/erigontech/erigon/pull/23928#pullrequestreview-5184758335) - 2026-09-12
 * [Review] [Review on: [r3.6] cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23936#pullrequestreview-5184744745) - 2026-09-12
 * [Review] [Review on: [r3.5] cmd/capcli: read the store check's block root from the canonical index](https://github.com/erigontech/erigon/pull/23937#pullrequestreview-5184739360) - 2026-09-12
+* [Review] [Review on: p2p/nat: parse NAT specifications with strings.Cut](https://github.com/erigontech/erigon/pull/23921#pullrequestreview-5193039202) - 2026-09-14
+* [Pull Request] [rpc: marshal responses through a writer, json/v2 MarshalWrite under go1.27](https://github.com/erigontech/erigon/pull/23953) - 2026-09-14
+* [Review] [Review on: fix(rpc): include MCOPY memory writes in vmTrace](https://github.com/erigontech/erigon/pull/23952#pullrequestreview-5193032364) - 2026-09-14
+* [Review] [Review on: rpc: charge blob fees the way geth does in eth_call and eth_estimateGas](https://github.com/erigontech/erigon/pull/23949#pullrequestreview-5190498103) - 2026-09-13
+* [Review] [Review on: cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock](https://github.com/erigontech/erigon/pull/23944#pullrequestreview-5189859085) - 2026-09-13
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.88.2 to 0.88.7](https://github.com/erigontech/erigon/pull/23946#pullrequestreview-5189813317) - 2026-09-13
+* [Issue] [db: auto-compact mdbx databases at startup](https://github.com/erigontech/erigon/issues/23954) - 2026-09-14
+* [Commit] [cl/phase1/network, execution/execmodule: stop two tests racing the Windows clock (#23944)](https://github.com/erigontech/erigon/commit/984a44258e768860264c6958264f5e34ab8443b5) - 2026-09-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
