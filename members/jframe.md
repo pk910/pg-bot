@@ -81,6 +81,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: snap/2 - integration tests for reorg](https://github.com/besu-eth/besu/pull/11261#pullrequestreview-5149946113) - 2026-09-09
 * [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-5163354768) - 2026-09-10
 * [Review] [Review on: Fix/chain pruning fresh sync](https://github.com/besu-eth/besu/pull/11250#pullrequestreview-5174402057) - 2026-09-11
+* [Review] [Review on: remove totalDifficulty from all block results](https://github.com/besu-eth/besu/pull/11179#pullrequestreview-5193647790) - 2026-09-14
 ## Q2 2026
 
 

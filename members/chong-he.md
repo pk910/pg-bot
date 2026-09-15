@@ -70,6 +70,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-5173958000) - 2026-09-11
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5175463295) - 2026-09-11
 * [Review] [Review on: Replace EF bootnodes with NodeOps fleet](https://github.com/sigp/lighthouse/pull/10025#pullrequestreview-5193133408) - 2026-09-14
+* [Pull Request] [Add license/cla check in mergify](https://github.com/sigp/lighthouse/pull/10049) - 2026-09-14
 ## Q2 2026
 
 
