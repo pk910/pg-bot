@@ -251,6 +251,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE](https://github.com/ChainSafe/lodestar/pull/10076) - 2026-09-14
 * [Review] [Review on: fix: align gloas external signer requests with remote signing api](https://github.com/ChainSafe/lodestar/pull/10071#pullrequestreview-5194856745) - 2026-09-14
 * [Review] [Review on: refactor: compute payload attributes once in `prepareForNextSlot`](https://github.com/ChainSafe/lodestar/pull/10056#pullrequestreview-5193508552) - 2026-09-14
+* [Pull Request] [fix: specify optimistic search in NetworkProcessor](https://github.com/ChainSafe/lodestar/pull/10093) - 2026-09-15
+* [Issue] [Fix removeAndDownScoreAllDescendants](https://github.com/ChainSafe/lodestar/issues/10091) - 2026-09-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

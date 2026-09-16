@@ -232,6 +232,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5203590429) - 2026-09-14
 * [Pull Request] [use beacon block gossip validation test vectors](https://github.com/status-im/nimbus-eth2/pull/9045) - 2026-09-14
 * [Pull Request] [clean up pre-Pectra BeaconBlock gossip validation](https://github.com/status-im/nimbus-eth2/pull/9042) - 2026-09-14
+* [Pull Request] [rm unused sync_overseer.nim](https://github.com/status-im/nimbus-eth2/pull/9052) - 2026-09-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
