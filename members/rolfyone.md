@@ -206,6 +206,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix dead REST API and libp2p documentation links](https://github.com/Consensys-Incorporated/teku/pull/11268#pullrequestreview-5193532231) - 2026-09-14
 * [Pull Request] [fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272) - 2026-09-15
 * [Review] [Review on: Add `Eth-Builder-Url` header and pass it during block production](https://github.com/Consensys-Incorporated/teku/pull/11248#pullrequestreview-5215131707) - 2026-09-15
+* [Review] [Review on: Implement GET `/eth/v1/beacon/light_client/optimistic_update`](https://github.com/Consensys-Incorporated/teku/pull/11286#pullrequestreview-5229175968) - 2026-09-16
+* [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5218443926) - 2026-09-16
+* [Review] [Review on: Implement `/eth/v1/beacon/light_client/finality_update`](https://github.com/Consensys-Incorporated/teku/pull/11243#pullrequestreview-5218571477) - 2026-09-16
+* [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5218231948) - 2026-09-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 

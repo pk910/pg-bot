@@ -39,6 +39,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [fix(gossip): open a single outbound stream per peer (#528)](https://github.com/libp2p/jvm-libp2p/commit/2f6fa5f1e67873841f241f93df6c9abb9f6176f8) - 2026-09-11
 * [Issue] [Smart-dialing feature (address ranking + staggered dials)](https://github.com/libp2p/jvm-libp2p/issues/529) - 2026-09-11
 * [Pull Request] [feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531) - 2026-09-16
+* [Review] [Review on: feat(gossip): bound inbound RPC protobuf field count](https://github.com/libp2p/jvm-libp2p/pull/531#pullrequestreview-5217952757) - 2026-09-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28

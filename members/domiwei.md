@@ -146,6 +146,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/23927#pullrequestreview-5213910551) - 2026-09-15
 * [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5210578259) - 2026-09-15
 * [Commit] [cl: harden Gloas envelope persistence and ingestion (#23152)](https://github.com/erigontech/erigon/commit/44579c8b717973813a64311a602f46d281016107) - 2026-09-15
+* [Pull Request] [[r3.5] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24065) - 2026-09-16
+* [Pull Request] [[r3.6] db/integrity: validate frozen blob sidecar snapshots](https://github.com/erigontech/erigon/pull/24064) - 2026-09-16
+* [Commit] [cl: harden execution payload envelope admission (#24039)](https://github.com/erigontech/erigon/commit/ed3184f5ff39519ef4602c2e5d402896c8b4411d) - 2026-09-16
+* [Commit] [db/integrity: validate frozen blob sidecar snapshots (#23927)](https://github.com/erigontech/erigon/commit/b921bd3c9efa6e06f34d53661fcaf18539a07ae7) - 2026-09-16
 ## Q2 2026
 
 

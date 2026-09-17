@@ -211,6 +211,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: build BlockProcessingBenchmark against UInt256 storage values (#13446)](https://github.com/NethermindEth/nethermind/commit/05c37542a12e81b8ffcf85a48a4ca177e42b982f) - 2026-09-14
 * [Commit] [Remove ProcessingOptions.ForceSameBlock (#13440)](https://github.com/NethermindEth/nethermind/commit/94349c9e272d090d723bb9ed3848a761d75bd665) - 2026-09-14
 * [Pull Request] [fix(flat): VerifyWithTrie false positive when deleting an account the trie still holds](https://github.com/NethermindEth/nethermind/pull/13521) - 2026-09-15
+* [Pull Request] [feat(flat): prune snapshots unreachable from the head on debug_resetHead](https://github.com/NethermindEth/nethermind/pull/13524) - 2026-09-16
+* [Review] [Review on: feat(flat): prune snapshots unreachable from the head on debug_resetHead](https://github.com/NethermindEth/nethermind/pull/13524#pullrequestreview-5219115997) - 2026-09-16
+* [Pull Request] [fix(flat): stop flushing the unfinalized tail to RocksDB on shutdown](https://github.com/NethermindEth/nethermind/pull/13523) - 2026-09-16
+* [Review] [Review on: Report vmTrace pushes for word operations](https://github.com/NethermindEth/nethermind/pull/13487#pullrequestreview-5218103960) - 2026-09-16
+* [Review] [Review on: fix(xdc): run the patricia state backend so node data can be served](https://github.com/NethermindEth/nethermind/pull/13478#pullrequestreview-5218121703) - 2026-09-16
+* [Review] [Review on: Report previous transient value in TSTORE traces](https://github.com/NethermindEth/nethermind/pull/13504#pullrequestreview-5218083408) - 2026-09-16
 ## Q2 2026
 
 
