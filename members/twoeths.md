@@ -262,6 +262,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5217818052) - 2026-09-16
 * [Commit] [fix: bound gloas DataColumnSidecar by max blob of BLOB_SCHEDULE (#10076)](https://github.com/ChainSafe/lodestar/commit/ae6cc426f1d010178c627ed38b9152f35d981fbd) - 2026-09-16
 * [Commit] [feat: add metrics for downloadPayload() of unknown sync (#10101)](https://github.com/ChainSafe/lodestar/commit/a261342520114b1401873dbd0553bc11a711c9c0) - 2026-09-16
+* [Review] [Review on: fix: delete block archive index entries when pruning history](https://github.com/ChainSafe/lodestar/pull/10110#pullrequestreview-5230585394) - 2026-09-17
+* [Pull Request] [feat: unknownEnvelopeBlockRootSlot event](https://github.com/ChainSafe/lodestar/pull/10112) - 2026-09-17
+* [Review] [Review on: feat: penalize peers for forwarding REJECTED gossip messages](https://github.com/ChainSafe/lodestar/pull/10059#pullrequestreview-5230528997) - 2026-09-17
+* [Review] [Review on: chore: make gossip max size type explicit](https://github.com/ChainSafe/lodestar/pull/10103#pullrequestreview-5230245412) - 2026-09-17
+* [Review] [Review on: fix: prune archived states before the finalized epoch with `chain.pruneHistory`](https://github.com/ChainSafe/lodestar/pull/10106#pullrequestreview-5233692369) - 2026-09-17
+* [Pull Request] [chore: track gloas newPayload metrics](https://github.com/ChainSafe/lodestar/pull/10113) - 2026-09-17
+* [Review] [Review on: chore: log block and bid values in ETH](https://github.com/ChainSafe/lodestar/pull/10108#pullrequestreview-5230557260) - 2026-09-17
+* [Issue] [BlockInputSync onPayloadImported race condition](https://github.com/ChainSafe/lodestar/issues/10115) - 2026-09-17
+* [Issue] [Review ChainEvent.incompletePayloadEnvelope](https://github.com/ChainSafe/lodestar/issues/10114) - 2026-09-17
+* [Commit] [feat: penalize peers for forwarding REJECTED gossip messages (#10059)](https://github.com/ChainSafe/lodestar/commit/b27f498c2c337362c1f51dc50c0f15fe029a7828) - 2026-09-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

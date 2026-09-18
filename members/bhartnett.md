@@ -115,6 +115,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: `create` opcode use code cache](https://github.com/status-im/nimbus-eth1/pull/4779#pullrequestreview-5178595068) - 2026-09-11
 * [Pull Request] [Storage trie static vids](https://github.com/status-im/nimbus-eth1/pull/4797) - 2026-09-16
 * [Review] [Review on: Storage trie static vids](https://github.com/status-im/nimbus-eth1/pull/4797#pullrequestreview-5224614966) - 2026-09-16
+* [Pull Request] [Fix crash in optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4812) - 2026-09-17
 ## Q2 2026
 
 
