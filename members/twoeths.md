@@ -276,6 +276,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: unknownEnvelopeBlockRootSlot event](https://github.com/ChainSafe/lodestar/pull/10112#pullrequestreview-5243750405) - 2026-09-18
 * [Issue] [Refactor searchUnknownRoot in network processor](https://github.com/ChainSafe/lodestar/issues/10122) - 2026-09-18
 * [Commit] [feat: unknownEnvelopeBlockRootSlot event (#10112)](https://github.com/ChainSafe/lodestar/commit/2b55a3acab0d890fe68746037503e463baf5d522) - 2026-09-18
+* [Pull Request] [feat: search payload at deadline](https://github.com/ChainSafe/lodestar/pull/10134) - 2026-09-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -240,6 +240,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm electra proposals](https://github.com/status-im/nimbus-eth2/pull/9070) - 2026-09-19
 * [Pull Request] [enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065) - 2026-09-18
 * [Review] [Review on: enforce minimum Nim version](https://github.com/status-im/nimbus-eth2/pull/9065#pullrequestreview-5244805971) - 2026-09-18
+* [Review] [Review on: add produceBlockV4 POST and validator envelope GET](https://github.com/status-im/nimbus-eth2/pull/9072#pullrequestreview-5258120828) - 2026-09-19
+* [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5257585731) - 2026-09-19
+* [Pull Request] [rm unused database-initialization code](https://github.com/status-im/nimbus-eth2/pull/9071) - 2026-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
