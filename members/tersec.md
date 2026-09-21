@@ -243,6 +243,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add produceBlockV4 POST and validator envelope GET](https://github.com/status-im/nimbus-eth2/pull/9072#pullrequestreview-5258120828) - 2026-09-19
 * [Review] [Review on: wire in partial column support to gossip](https://github.com/status-im/nimbus-eth2/pull/9035#pullrequestreview-5257585731) - 2026-09-19
 * [Pull Request] [rm unused database-initialization code](https://github.com/status-im/nimbus-eth2/pull/9071) - 2026-09-19
+* [Review] [Review on: add execution payload envelope REST calls](https://github.com/status-im/nimbus-eth2/pull/9075#pullrequestreview-5262219154) - 2026-09-21
+* [Pull Request] [refactor block gossip validation and make MAX_REQUEST_BLOCKS configurable](https://github.com/status-im/nimbus-eth2/pull/9074) - 2026-09-20
+* [Pull Request] [rm blob support from light forward sync infrastructure](https://github.com/status-im/nimbus-eth2/pull/9073) - 2026-09-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

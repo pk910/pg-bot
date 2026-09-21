@@ -212,6 +212,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: fix: don't penalise the preceding batch's peer when two batches fail to form a chain](https://github.com/Consensys-Incorporated/teku/pull/11272#pullrequestreview-5218231948) - 2026-09-16
 * [Review] [Review on: FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring](https://github.com/Consensys-Incorporated/teku/pull/11214#pullrequestreview-5242740285) - 2026-09-18
 * [Review] [Review on: Fix duplicated log messages with CONSOLE and FILE log destinations](https://github.com/Consensys-Incorporated/teku/pull/11292#pullrequestreview-5232655832) - 2026-09-17
+* [Issue] [sepolia network fork scheduling](https://github.com/Consensys-Incorporated/teku/issues/11306) - 2026-09-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 
