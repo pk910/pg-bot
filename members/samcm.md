@@ -67,6 +67,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Render the arrival and wave panels in one pass](https://github.com/ethpandaops/dora/commit/073826f4f4c476cfa7b6d1a99eb0a66c60cc1751) - 2026-08-26
 * [Commit] [Split regions into head and payload arrival, fix axis label overlap](https://github.com/ethpandaops/dora/commit/e32e079695dbe21471f00a3b05c4567f52ca709f) - 2026-08-26
 * [Review] [Review on: Support EIP-8141 frame transactions](https://github.com/ethpandaops/dora/pull/855#pullrequestreview-5129280133) - 2026-09-07
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [Probe rolloor.<network> as a service URL](https://github.com/ethpandaops/cartographoor/pull/109) - 2026-09-23
 ## Q2 2026
 
 

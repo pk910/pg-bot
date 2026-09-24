@@ -224,6 +224,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Resync spec references and stop gating check-specrefs on file paths](https://github.com/Consensys-Incorporated/teku/pull/11310#pullrequestreview-5262822212) - 2026-09-21
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11258#pullrequestreview-5262852960) - 2026-09-21
 * [Commit] [Schedule Sepolia Glamsterdam (Gloas) activation (#11308)](https://github.com/Consensys-Incorporated/teku/commit/1809e885baf960c5f72b91cc107028eb5d2a4ea2) - 2026-09-21
+* [Commit] [fix: don't penalise the preceding batch's peer when two batches fail to form a chain (#11272)](https://github.com/Consensys-Incorporated/teku/commit/895349dcdeb0e764793e0127cb070e4c4f4e1212) - 2026-09-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-09
 

@@ -1811,6 +1811,25 @@ Team: Erigon
 * [Commit] [build: bump the default builder image to golang:1.27-trixie (#24157)](https://github.com/erigontech/erigon/commit/8276b2350ac2ce8199f19af417e7f87f17b05f9b) - 2026-09-22
 * [Commit] [rpc: ws/ipc support allow_list and limits (#24190)](https://github.com/erigontech/erigon/commit/97d3f84a87941a1fbf337230c94e503a80c3ae4d) - 2026-09-22
 * [Commit] [rpc: a notification is assembled in a pooled buffer (#24200)](https://github.com/erigontech/erigon/commit/5b179734af2a79e38b75e0d52c1fdd3dc99e2817) - 2026-09-22
+* [Pull Request] [rpc/ethapi: RPCMarshalBlock fills the block header in place](https://github.com/erigontech/erigon/pull/24264) - 2026-09-24
+* [Pull Request] [rpc/jsonstream, execution/types, rpc: write hex fields through Hex/Hexes over a closed type set](https://github.com/erigontech/erigon/pull/24263) - 2026-09-24
+* [Pull Request] [rpc: avoid double-hashing of tx](https://github.com/erigontech/erigon/pull/24262) - 2026-09-24
+* [Review] [Review on: execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967)](https://github.com/erigontech/erigon/pull/24133#pullrequestreview-5298461870) - 2026-09-24
+* [Review] [Review on: execution/tracing: move internal tracers to V2 hooks for EIP-8037 state gas tracing (part 4)](https://github.com/erigontech/erigon/pull/24240#pullrequestreview-5286133059) - 2026-09-23
+* [Pull Request] [engine_api: drop the extra forced-fsync commit per fork choice](https://github.com/erigontech/erigon/pull/24248) - 2026-09-23
+* [Pull Request] [db: enable safe_nosync by default](https://github.com/erigontech/erigon/pull/24249) - 2026-09-23
+* [Review] [Review on: db: enable safe_nosync by default](https://github.com/erigontech/erigon/pull/24249#pullrequestreview-5287282179) - 2026-09-23
+* [Review] [Review on: execution/tracing: support for EIP-8037 state gas tracing (part 3)](https://github.com/erigontech/erigon/pull/24231#pullrequestreview-5286134264) - 2026-09-23
+* [Pull Request] [rpc: jsonstream flush at 256KB](https://github.com/erigontech/erigon/pull/24253) - 2026-09-23
+* [Review] [Review on: rpc: remove obsolete fastJSONResult interface](https://github.com/erigontech/erigon/pull/24251#pullrequestreview-5287302020) - 2026-09-23
+* [Commit] [engine_api: drop the extra forced-fsync commit per fork choice (#24248)](https://github.com/erigontech/erigon/commit/b953468b6a3ddd9f0d318e77b1951b0a863515df) - 2026-09-23
+* [Commit] [db: enable safe_nosync by default (#24249)](https://github.com/erigontech/erigon/commit/e0ebef3b3abb7bfd57c7bff0de4899c81a597b1d) - 2026-09-23
+* [Commit] [rpc/jsonrpc: trace_filter writes each trace into the stream (#24239)](https://github.com/erigontech/erigon/commit/62072dc7beff42e2d12f6d9c248cf7170a7c3874) - 2026-09-23
+* [Commit] [rpc: jsonstream flush at 256KB (#24253)](https://github.com/erigontech/erigon/commit/12b6b3391b8038d0dc89fac593fcad8e5ea022f8) - 2026-09-23
+* [Commit] [cmd/rpctest: hexutil.Big fields and arguments are hexutil.U256 (#24232)](https://github.com/erigontech/erigon/commit/3646a0e9b83bed45db0ef2fe12f40283c2694624) - 2026-09-23
+* [Commit] [rpc/jsonrpc: trace_block and trace_transaction stream their parity traces (#24236)](https://github.com/erigontech/erigon/commit/34bdbc6ef4a2033020d7225400c9372f4036f577) - 2026-09-23
+* [Commit] [rpc: _subscribe newHeads - add json fastpath  (#24247)](https://github.com/erigontech/erigon/commit/26f5a32c99b1f6893997c11a08dfa9f831e79e4a) - 2026-09-23
+* [Commit] [rpc/jsonrpc: the witness cache holds results, not their JSON (#24235)](https://github.com/erigontech/erigon/commit/105bc98672e03cfb680b3c40eeeb78644258aeab) - 2026-09-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
