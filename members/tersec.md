@@ -76,6 +76,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [treat InvalidCmpOp and UnreachableElse warnings as errors](https://github.com/status-im/nimbus-eth1/pull/4763) - 2026-09-09
 * [Commit] [update to Nim 2.2.12 (#4761)](https://github.com/status-im/nimbus-eth1/commit/8712cf47188909c57968019c0a1aec6466cc335b) - 2026-09-09
 * [Commit] [version v0.4.1](https://github.com/status-im/nimbus-eth1/commit/ec214533952068900d4a515948768ae249a61ae7) - 2026-09-13
+* [Pull Request] [stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/pull/4840) - 2026-09-24
+* [Commit] [stop using broken atConsensusFork in favor of atEpoch (#4840)](https://github.com/status-im/nimbus-eth1/commit/4b0ce0b937d48c5ac8f7b72f39d438d8aa0be0e2) - 2026-09-24
+* [Commit] [revert mistaken commit](https://github.com/status-im/nimbus-eth1/commit/ec5757379e4023c2d9f1ca4e8006c558e3ee0e0c) - 2026-09-24
+* [Commit] [stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/commit/7d50fa5643805e2d565f945c7ba392781fe9aa80) - 2026-09-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -263,6 +267,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [gloas remote signer support](https://github.com/status-im/nimbus-eth2/pull/9102) - 2026-09-23
 * [Pull Request] [add EIP-7997 and EIP-8282 Glamsterdam system contracts to local testnet](https://github.com/status-im/nimbus-eth2/pull/9105) - 2026-09-23
 * [Pull Request] [update local testnet Geth to 1.17.6](https://github.com/status-im/nimbus-eth2/pull/9101) - 2026-09-23
+* [Pull Request] [it's fine/expected by spec to return pre-ea slot columns in req/resp](https://github.com/status-im/nimbus-eth2/pull/9121) - 2026-09-25
+* [Review] [Review on: VC: add payload attestation scoring and early send](https://github.com/status-im/nimbus-eth2/pull/9054#pullrequestreview-5309547493) - 2026-09-24
+* [Pull Request] [run local testnets in Glamsterdam](https://github.com/status-im/nimbus-eth2/pull/9120) - 2026-09-24
+* [Review] [Review on: adapt inclusion list specs + add inclusion list gossip val test vecs](https://github.com/status-im/nimbus-eth2/pull/9083#pullrequestreview-5304216423) - 2026-09-24
+* [Review] [Review on: nix: upgrade flake Geth for tests to 1.17.6](https://github.com/status-im/nimbus-eth2/pull/9117#pullrequestreview-5304828212) - 2026-09-24
+* [Pull Request] [reduce nimbus_beacon_node nim c -c peak RSS by 25-30%](https://github.com/status-im/nimbus-eth2/pull/9115) - 2026-09-24
+* [Pull Request] [update mainnet and hoodi bootnodes](https://github.com/status-im/nimbus-eth2/pull/9111) - 2026-09-24
+* [Pull Request] [split column-archive from archive pruning/retention mode](https://github.com/status-im/nimbus-eth2/pull/9110) - 2026-09-24
+* [Pull Request] [add signing node gloas/heze block tests](https://github.com/status-im/nimbus-eth2/pull/9109) - 2026-09-24
+* [Pull Request] [reduce consensus test build times and memory usage](https://github.com/status-im/nimbus-eth2/pull/9108) - 2026-09-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -664,6 +664,12 @@ Team: Erigon
 * [Review] [Review on: rpc/jsonrpc: trace_block and trace_transaction stream their parity traces](https://github.com/erigontech/erigon/pull/24236#pullrequestreview-5288081940) - 2026-09-23
 * [Review] [Review on: rpc: _subscribe newHeads - add json fastpath ](https://github.com/erigontech/erigon/pull/24247#pullrequestreview-5288081392) - 2026-09-23
 * [Pull Request] [commitment: build the ModeParallel prefix trie off the execution thread](https://github.com/erigontech/erigon/pull/24252) - 2026-09-23
+* [Review] [Review on: rpc: avoid double-hashing of tx](https://github.com/erigontech/erigon/pull/24262#pullrequestreview-5300218310) - 2026-09-24
+* [Review] [Review on: execution/types: RPCLog declares its JSON hex forms](https://github.com/erigontech/erigon/pull/24270#pullrequestreview-5300225321) - 2026-09-24
+* [Review] [Review on: rpc: eth-spec-driven json encoding](https://github.com/erigontech/erigon/pull/24266#pullrequestreview-5300221886) - 2026-09-24
+* [Review] [Review on: rpc/ethapi: RPCMarshalBlock fills the block header in place](https://github.com/erigontech/erigon/pull/24264#pullrequestreview-5300200786) - 2026-09-24
+* [Review] [Review on: execution/rlp: refuse a named uint256.Int instead of encoding its limbs](https://github.com/erigontech/erigon/pull/24265#pullrequestreview-5300216653) - 2026-09-24
+* [Commit] [execution/commitment: rebuild a pin trunk that has drained (#24215)](https://github.com/erigontech/erigon/commit/8ade7563904d77d44a5cd0b01569b977aba28e59) - 2026-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
