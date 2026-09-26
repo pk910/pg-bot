@@ -80,6 +80,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stop using broken atConsensusFork in favor of atEpoch (#4840)](https://github.com/status-im/nimbus-eth1/commit/4b0ce0b937d48c5ac8f7b72f39d438d8aa0be0e2) - 2026-09-24
 * [Commit] [revert mistaken commit](https://github.com/status-im/nimbus-eth1/commit/ec5757379e4023c2d9f1ca4e8006c558e3ee0e0c) - 2026-09-24
 * [Commit] [stop using broken atConsensusFork in favor of atEpoch](https://github.com/status-im/nimbus-eth1/commit/7d50fa5643805e2d565f945c7ba392781fe9aa80) - 2026-09-24
+* [Pull Request] [filter out parsed genesis states from Git LFS across all supported networks](https://github.com/status-im/nimbus-eth1/pull/4845) - 2026-09-25
+* [Commit] [filter out parsed genesis states from Git LFS across all supported networks (#4845)](https://github.com/status-im/nimbus-eth1/commit/823efde80b4ef9d6841ea6a51324fcde8b516abf) - 2026-09-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -277,6 +279,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [split column-archive from archive pruning/retention mode](https://github.com/status-im/nimbus-eth2/pull/9110) - 2026-09-24
 * [Pull Request] [add signing node gloas/heze block tests](https://github.com/status-im/nimbus-eth2/pull/9109) - 2026-09-24
 * [Pull Request] [reduce consensus test build times and memory usage](https://github.com/status-im/nimbus-eth2/pull/9108) - 2026-09-24
+* [Pull Request] [avoid modifying minilru while iterating](https://github.com/status-im/nimbus-eth2/pull/9133) - 2026-09-25
+* [Review] [Review on: remove some debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/9132#pullrequestreview-5323440573) - 2026-09-25
+* [Review] [Review on: feat: speed up syncing for maybe finalized envelopes](https://github.com/status-im/nimbus-eth2/pull/9130#pullrequestreview-5320111178) - 2026-09-25
+* [Pull Request] [avoid duplicate newPayloads](https://github.com/status-im/nimbus-eth2/pull/9126) - 2026-09-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
