@@ -1873,6 +1873,11 @@ Team: Erigon
 * [Commit] [cl, diagnostics, execution: drop dead code and two single-use deps (#24298)](https://github.com/erigontech/erigon/commit/a96f61fa2ce9ba85e67770f5a8398ce4d464b7d7) - 2026-09-25
 * [Commit] [rpc/ethapi: a list of blocks is RPCBlocks, beside the block it encodes (#24299)](https://github.com/erigontech/erigon/commit/e32d52296639803ffd4ee38b2ea47729ee51f91d) - 2026-09-25
 * [Commit] [execution/types/ethutils: a receipt always carries effectiveGasPrice, as geth's does (#24297)](https://github.com/erigontech/erigon/commit/a8d2ec78c502a345de9c991fd9cec051595b4abc) - 2026-09-25
+* [Review] [Review on: lint: enable staticcheck's ST1019, ST1016, ST1012, ST1017, ST1005](https://github.com/erigontech/erigon/pull/24332#pullrequestreview-5325588448) - 2026-09-26
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.89.14 to 0.89.21](https://github.com/erigontech/erigon/pull/24333#pullrequestreview-5325595419) - 2026-09-26
+* [Review] [Review on: cmd/utils/app: pin export-preimages to the restored root at the execution block](https://github.com/erigontech/erigon/pull/24326#pullrequestreview-5324423983) - 2026-09-26
+* [Review] [Review on: cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim](https://github.com/erigontech/erigon/pull/24308#pullrequestreview-5324422622) - 2026-09-26
+* [Commit] [gql: build block transactions only when selected, implement maxPriorityFeePerGas (#24301)](https://github.com/erigontech/erigon/commit/566787edd8bfa661fb828b6de957d7c3e10d750c) - 2026-09-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
