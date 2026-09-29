@@ -684,6 +684,19 @@ Team: Erigon
 * [Commit] [cl/beacon/handler: a failed envelope hash on the retry path reports the hash error, not the duplicate claim (#24308)](https://github.com/erigontech/erigon/commit/c21170b51b87442a041382abfb54eb60c10202cb) - 2026-09-26
 * [Review] [Review on: rpc/jsonrpc: stream trace_get result with the fast JSON writer](https://github.com/erigontech/erigon/pull/24346#pullrequestreview-5329533545) - 2026-09-27
 * [Review] [Review on: tracers/native, cmd/tools/jsongen: stream callTracer result with a generated writer](https://github.com/erigontech/erigon/pull/24347#pullrequestreview-5329530534) - 2026-09-27
+* [Pull Request] [rpc/jsonrpc: share one running witness build per block hash](https://github.com/erigontech/erigon/pull/24367) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): vmTrace reports only operations that executed](https://github.com/erigontech/erigon/pull/24344#pullrequestreview-5333754345) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): trace_rawTransaction rejects transactions invalid at latest state](https://github.com/erigontech/erigon/pull/24329#pullrequestreview-5333741883) - 2026-09-28
+* [Review] [Review on: rpc/jsonrpc, rpc/ethapi, execution/types: eth_fillTransaction builds the blob sidecar](https://github.com/erigontech/erigon/pull/24335#pullrequestreview-5333750156) - 2026-09-28
+* [Review] [Review on: rpc/jsonrpc: ots_getBlockTransactions marshals only the requested page](https://github.com/erigontech/erigon/pull/24306#pullrequestreview-5333733825) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): use parity failure labels in trace frames](https://github.com/erigontech/erigon/pull/24356#pullrequestreview-5333756062) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): report a reverted create as {gasUsed, output}](https://github.com/erigontech/erigon/pull/24355#pullrequestreview-5333745361) - 2026-09-28
+* [Review] [Review on: fix(rpc): reject call objects whose data and input differ](https://github.com/erigontech/erigon/pull/24336#pullrequestreview-5333740439) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): trace_call and trace_callMany use eth_call's fees and block environment](https://github.com/erigontech/erigon/pull/24343#pullrequestreview-5333741435) - 2026-09-28
+* [Review] [Review on: execution/commitment: preserve account updates when clearing storage](https://github.com/erigontech/erigon/pull/24359#pullrequestreview-5338942923) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): trace_filter rejects a bound past the head with -32602](https://github.com/erigontech/erigon/pull/24357#pullrequestreview-5333754180) - 2026-09-28
+* [Review] [Review on: fix(rpc/jsonrpc): trace_call and trace_callMany price gas like eth_call](https://github.com/erigontech/erigon/pull/24330#pullrequestreview-5333738449) - 2026-09-28
+* [Review] [Review on: execution/execmodule: drop the module SD after a bulk block-overlay flush](https://github.com/erigontech/erigon/pull/24349#pullrequestreview-5333730794) - 2026-09-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

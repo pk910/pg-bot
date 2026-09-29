@@ -190,6 +190,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5312800305) - 2026-09-25
 * [Pull Request] [Update CHANGELOG after 26.9.1 release](https://github.com/Consensys-Incorporated/teku/pull/11348) - 2026-09-28
 * [Commit] [Update CHANGELOG after 26.9.1 release (#11348)](https://github.com/Consensys-Incorporated/teku/commit/33868e4bd6694b4a2e266a32d337a6d0f1658463) - 2026-09-28
+* [Pull Request] [Log dropped gossip queue parts at debug level](https://github.com/Consensys-Incorporated/teku/pull/11349) - 2026-09-28
+* [Issue] [Grafana Panel Update: Data Columns Validation Failure Rate legend](https://github.com/Consensys-Incorporated/teku/issues/11355) - 2026-09-29
+* [Issue] [Promote builder config CLI options to stable and update docs](https://github.com/Consensys-Incorporated/teku/issues/11354) - 2026-09-28
+* [Commit] [Log dropped gossip queue parts at debug level (#11349)](https://github.com/Consensys-Incorporated/teku/commit/b4f784b616fe52ad06fb9467a77599982d6c06ea) - 2026-09-28
 ## Q2 2026
 
 

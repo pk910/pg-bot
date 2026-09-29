@@ -85,6 +85,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Revert "eth2: bump""](https://github.com/status-im/nimbus-eth1/pull/4856) - 2026-09-26
 * [Commit] [Revert "Revert "eth2: bump (#4838)" (#4843)" (#4856)](https://github.com/status-im/nimbus-eth1/commit/f91f77abab6d346cb066450b5b604ce91c4ea815) - 2026-09-26
 * [Pull Request] [bump eth2](https://github.com/status-im/nimbus-eth1/pull/4860) - 2026-09-28
+* [Pull Request] [bump eth2 (again)](https://github.com/status-im/nimbus-eth1/pull/4862) - 2026-09-28
+* [Commit] [bump eth2 (again) (#4862)](https://github.com/status-im/nimbus-eth1/commit/34910eb624ea1500c1c6e54fbb778285b1bf354e) - 2026-09-28
+* [Commit] [bump eth2 (#4860)](https://github.com/status-im/nimbus-eth1/commit/87486297fdd0a1ade97f7414241b111a4c327f8d) - 2026-09-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
