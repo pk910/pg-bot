@@ -242,6 +242,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove the flat DB preimage recording feature (#13690)](https://github.com/NethermindEth/nethermind/commit/9268462cf1b42a982ab011d330b2a4d9a5e9e29b) - 2026-09-23
 * [Commit] [Close the HasState/BeginScope gap and add target-aware world-state scopes (#13522)](https://github.com/NethermindEth/nethermind/commit/c18cd3f282f6ab025ff834933f6e0e88c67a159e) - 2026-09-24
 * [Commit] [feat(init): run a single step as a standalone command (#13715)](https://github.com/NethermindEth/nethermind/commit/978a496fbd802fa3127c3c9cbec69888f042a6c9) - 2026-09-25
+
+* [Review] [Review on: fix(flat): keep unanchored forks out of bulk snapshot conversion](https://github.com/NethermindEth/nethermind/pull/13997#pullrequestreview-5359941056) - 2026-09-30
+* [Review] [Review on: perf(flat): hold carry-forward slot reads in a fixed set-associative table](https://github.com/NethermindEth/nethermind/pull/14027#pullrequestreview-5349672731) - 2026-09-29
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8347: add extra write and computational load as a cost](https://github.com/ethereum/EIPs/pull/12392) - 2026-09-29
 ## Q2 2026
 
 

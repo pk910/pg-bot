@@ -88,6 +88,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump eth2 (again)](https://github.com/status-im/nimbus-eth1/pull/4862) - 2026-09-28
 * [Commit] [bump eth2 (again) (#4862)](https://github.com/status-im/nimbus-eth1/commit/34910eb624ea1500c1c6e54fbb778285b1bf354e) - 2026-09-28
 * [Commit] [bump eth2 (#4860)](https://github.com/status-im/nimbus-eth1/commit/87486297fdd0a1ade97f7414241b111a4c327f8d) - 2026-09-28
+* [Commit] [version v0.4.2](https://github.com/status-im/nimbus-eth1/commit/705f4d9aced29de0049d7ad5f686b0e585f3f38d) - 2026-09-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid verifying BLS sigs on non-builders during Gloas fork builder onboarding](https://github.com/status-im/nimbus-eth2/pull/8686) - 2026-07-01
 * [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
@@ -290,6 +291,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: feat: speed up syncing for maybe finalized envelopes](https://github.com/status-im/nimbus-eth2/pull/9130#pullrequestreview-5320111178) - 2026-09-25
 * [Pull Request] [avoid duplicate newPayloads](https://github.com/status-im/nimbus-eth2/pull/9126) - 2026-09-25
 * [Pull Request] [fix O(n^2) gloas builder deposit handling; rm tests now covered by reference tests](https://github.com/status-im/nimbus-eth2/pull/9137) - 2026-09-27
+* [Pull Request] [temporarily ignore garbage PAYLOAD_DUE_BPS values in VC](https://github.com/status-im/nimbus-eth2/pull/9152) - 2026-09-30
+* [Pull Request] [temporarily ignore garbage PAYLOAD_DUE_BPS values in VC](https://github.com/status-im/nimbus-eth2/pull/9151) - 2026-09-30
+* [Commit] [version v26.9.0](https://github.com/status-im/nimbus-eth2/commit/abb1ae36932ea51a3e95eb484b9c11f0b8ed9890) - 2026-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

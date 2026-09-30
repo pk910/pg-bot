@@ -305,6 +305,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [eth_simulate now returns EIP-7708 transfer logs for Amsterdam](https://github.com/besu-eth/besu/pull/11154) - 2026-09-16
 * [Commit] [eth_simulate now returns EIP-7708 transfer logs for Amsterdam (#11154)](https://github.com/besu-eth/besu/commit/0c3014813314c2d656e28f2ea891487f21fe68a7) - 2026-09-16
 * [Commit] [fix(simulate): inherit parent block gasLimit in eth_simulateV1 (#11254)](https://github.com/besu-eth/besu/commit/e11a5a1f64ee1097aad4f4ee9e969d09adc8c343) - 2026-09-16
+* [Pull Request] [Bump jackson-bom from 2.21.5 to 2.21.6](https://github.com/besu-eth/besu/pull/11396) - 2026-09-30
+* [Commit] [add testing_commitBlockV1 RPC method (#11152)](https://github.com/besu-eth/besu/commit/045e00792b89f1ed97f212cbfb300f4c0979cb17) - 2026-09-30
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

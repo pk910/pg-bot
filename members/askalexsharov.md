@@ -1891,6 +1891,14 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: stream trace_get result with the fast JSON writer (#24346)](https://github.com/erigontech/erigon/commit/3ac4457621fb0306686e42f3479f3c0f55288533) - 2026-09-27
 * [Review] [Review on: execution/vm: JUMPDEST analysis bitmap marks jump destinations](https://github.com/erigontech/erigon/pull/24363#pullrequestreview-5336473316) - 2026-09-28
 * [Pull Request] [`db.safe.nosync=false` by default](https://github.com/erigontech/erigon/pull/24365) - 2026-09-28
+* [Pull Request] [execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379) - 2026-09-29
+* [Review] [Review on: execution/state, execution/stagedsync: fix the gd8 regression and the post-unwind commitment drift](https://github.com/erigontech/erigon/pull/24379#pullrequestreview-5347419174) - 2026-09-29
+* [Review] [Review on: db/kv: fix mdbx auto-compact on startup failure due to chown error](https://github.com/erigontech/erigon/pull/24407#pullrequestreview-5360628972) - 2026-09-30
+* [Review] [Review on: rpc: update traceBlock to use EIP-8037 gas used](https://github.com/erigontech/erigon/pull/24382#pullrequestreview-5348844814) - 2026-09-29
+* [Review] [Review on: execution/tracing: add missing GasChangeTxDataFloor, GasChangeTxRefunds, GasChangeTxLeftOverReturned events](https://github.com/erigontech/erigon/pull/24381#pullrequestreview-5348851515) - 2026-09-29
+* [Pull Request] [db/state/execctx: RPC latest-state reads use the state cache when no overlay is published](https://github.com/erigontech/erigon/pull/24389) - 2026-09-29
+* [Review] [Review on: p2p: remove unused parameters, don't just blank them](https://github.com/erigontech/erigon/pull/24385#pullrequestreview-5348997479) - 2026-09-29
+* [Commit] [tracers/native, cmd/tools/jsongen: stream callTracer result with a generated writer (#24347)](https://github.com/erigontech/erigon/commit/b3c1cfacd830a4feab13171ee86123f7b11d7863) - 2026-09-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
