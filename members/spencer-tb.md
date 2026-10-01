@@ -365,6 +365,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d) (#3322)](https://github.com/ethereum/execution-specs/commit/f085d2cb3448c51a9c2aa24feb2f277b6bff94bb) - 2026-09-23
 * [Pull Request] [feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665) - 2026-09-28
 * [Issue] [Hegotá EL Tracker: EIP scoping and devnet discussion](https://github.com/ethereum/execution-specs/issues/3664) - 2026-09-28
+* [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5367438575) - 2026-09-30
+* [Pull Request] [fix(test-client-clis): map reth nonce overflow rejection](https://github.com/ethereum/execution-specs/pull/3679) - 2026-09-30
+* [Review] [Review on: feat(spec-specs,test-forks,ci): add the Bogota fork module](https://github.com/ethereum/execution-specs/pull/3665#pullrequestreview-5364391322) - 2026-09-30
+* [Commit] [fix(test-client-clis): map reth nonce overflow rejection (#3679)](https://github.com/ethereum/execution-specs/commit/847cdbdb7e0130132dbbc987ffa3a9d31ca3ade5) - 2026-09-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

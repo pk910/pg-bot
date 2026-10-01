@@ -17,6 +17,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13043#pullrequestreview-5079516726) - 2026-09-01
 * [Review] [Review on: feat(config): add mainnet_aztec with a rolling trace window](https://github.com/NethermindEth/nethermind/pull/14038#pullrequestreview-5353075502) - 2026-09-29
 * [Review] [Review on: Preempt gossiped frame tx validation while a block is processing](https://github.com/NethermindEth/nethermind/pull/13994#pullrequestreview-5349973217) - 2026-09-29
+* [Review] [Review on: fix(engine): reject omitted or null payload fields on engine_newPayloadV3+](https://github.com/NethermindEth/nethermind/pull/14025#pullrequestreview-5366462620) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4703197771) - 2026-07-15
 ## Q2 2026

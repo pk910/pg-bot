@@ -8,6 +8,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q4 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Speed up slow property tests](https://github.com/Consensys-Incorporated/teku/pull/11380) - 2026-10-01
+* [Issue] [Slow property tests on CI](https://github.com/Consensys-Incorporated/teku/issues/11379) - 2026-10-01
+* [Commit] [Speed up slow property tests (#11380)](https://github.com/Consensys-Incorporated/teku/commit/8f45734447952d853c6607b7713bb3f6184c5fbe) - 2026-10-01
+* [Commit] [Replace deprecated log4j builder calls (#11378)](https://github.com/Consensys-Incorporated/teku/commit/d9ee6e0aa9fd67c8b2950a50d46852a5396ca581) - 2026-10-01
+
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 ## Q3 2026
 
 
@@ -205,6 +216,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Make `LightClientUpdate` persistant in the database](https://github.com/Consensys-Incorporated/teku/pull/11337#pullrequestreview-5347391153) - 2026-09-29
 * [Issue] [Add new set of libp2p-related metrics](https://github.com/Consensys-Incorporated/teku/issues/11367) - 2026-09-30
 * [Issue] [Add to epoch processing tests generation states before and after full epoch processing](https://github.com/Consensys-Incorporated/teku/issues/11365) - 2026-09-29
+* [Pull Request] [Replace deprecated log4j builder calls](https://github.com/Consensys-Incorporated/teku/pull/11378) - 2026-09-30
+* [Review] [Review on: New gossipsub metrics (experimental)](https://github.com/Consensys-Incorporated/teku/pull/11368#pullrequestreview-5372782935) - 2026-09-30
+* [Review] [Review on: Validate full epoch processing in epoch processing reference tests](https://github.com/Consensys-Incorporated/teku/pull/11366#pullrequestreview-5361063314) - 2026-09-30
+* [Issue] [New LibP2P Gossipsub metrics](https://github.com/Consensys-Incorporated/teku/issues/11371) - 2026-09-30
+* [Issue] [Promote (maybe) libp2p_gossip_gossipsub metrics to stable](https://github.com/Consensys-Incorporated/teku/issues/11370) - 2026-09-30
+* [Issue] [Even more metrics for gossiopsub (2nd batch)](https://github.com/Consensys-Incorporated/teku/issues/11369) - 2026-09-30
+* [Commit] [New gossipsub metrics (experimental) (#11368)](https://github.com/Consensys-Incorporated/teku/commit/9972776ea353e376f3c30421312fee1bf404b475) - 2026-09-30
+* [Commit] [Validate full epoch processing in epoch processing reference tests (#11366)](https://github.com/Consensys-Incorporated/teku/commit/79a8c0b3013a481358872177fd40351cac8ec9e4) - 2026-09-30
 ## Q2 2026
 
 

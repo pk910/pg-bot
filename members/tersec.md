@@ -294,6 +294,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [temporarily ignore garbage PAYLOAD_DUE_BPS values in VC](https://github.com/status-im/nimbus-eth2/pull/9152) - 2026-09-30
 * [Pull Request] [temporarily ignore garbage PAYLOAD_DUE_BPS values in VC](https://github.com/status-im/nimbus-eth2/pull/9151) - 2026-09-30
 * [Commit] [version v26.9.0](https://github.com/status-im/nimbus-eth2/commit/abb1ae36932ea51a3e95eb484b9c11f0b8ed9890) - 2026-09-29
+* [Review] [Review on: add pruning logic for partial columns + test](https://github.com/status-im/nimbus-eth2/pull/9139#pullrequestreview-5363679232) - 2026-09-30
+* [Commit] [version v26.9.1](https://github.com/status-im/nimbus-eth2/commit/123ea73d485f18d4f90ff77667c9f798dc8251d3) - 2026-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

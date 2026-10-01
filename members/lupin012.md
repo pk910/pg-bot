@@ -317,6 +317,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: ci: re-enable trace rpc-tests fixed in v2.32.0](https://github.com/erigontech/erigon/pull/24378#pullrequestreview-5348532200) - 2026-09-29
 * [Review] [Review on: fix(rpc/jsonrpc): vmTrace reports only operations that executed](https://github.com/erigontech/erigon/pull/24344#pullrequestreview-5349976227) - 2026-09-29
 * [Commit] [rpc/jsonrpc: reject non-canonical block hash in erigon_getLatestLogs (#24358)](https://github.com/erigontech/erigon/commit/48d3a168fbbf3ccf28b0361a7472bca4c8d92376) - 2026-09-29
+* [Pull Request] [rpc/ethapi, rpc/jsonrpc: reject a call object whose chainId is not the node's](https://github.com/erigontech/erigon/pull/24414) - 2026-09-30
+* [Commit] [rpc/jsonrpc: test precompile out-of-gas and code-deposit failure labels (#24390)](https://github.com/erigontech/erigon/commit/bef8506da0de339b95a424ac53088add59a5c933) - 2026-09-30
+* [Commit] [rpc/jsonrpc, docs: fix trace_callMany example and test per-call BLOBBASEFEE (#24377)](https://github.com/erigontech/erigon/commit/ccd6125f97a85abeb197af834b739090d094e033) - 2026-09-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
