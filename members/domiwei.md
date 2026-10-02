@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: [r3.7] cl/phase1/stages, cl/phase1/forkchoice: replay persisted Gloas parent payloads](https://github.com/erigontech/erigon/pull/24484#pullrequestreview-5380648480) - 2026-10-01
+* [Commit] [cl/phase1/stages, cl/phase1/forkchoice: replay persisted Gloas parent payloads (#24274)](https://github.com/erigontech/erigon/commit/a9ddec22224a3cc531da59a16940116df32f2524) - 2026-10-01
 ## Q3 2026
 
 

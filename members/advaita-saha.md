@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 ## Contributions
 
+## Q4 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [tx_packer early exit](https://github.com/status-im/nimbus-eth1/pull/4885) - 2026-10-01
 ## Q3 2026
 
 

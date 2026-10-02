@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [db: inverted index flush prefetch](https://github.com/erigontech/erigon/pull/24483) - 2026-10-01
 ## Q3 2026
 
 
