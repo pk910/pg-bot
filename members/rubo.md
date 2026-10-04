@@ -21,6 +21,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(docgen): load only runtime-dependency assemblies](https://github.com/NethermindEth/nethermind/pull/14203) - 2026-10-02
 * [Review] [Review on: build(zkevm): bump the bflat RISC-V64 image](https://github.com/NethermindEth/nethermind/pull/14201#pullrequestreview-5396315361) - 2026-10-02
 * [Commit] [fix(docgen): load only runtime-dependency assemblies (#14203)](https://github.com/NethermindEth/nethermind/commit/e5189324ad57de45253a5f1f3fe14706ea7b9153) - 2026-10-02
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/14210#pullrequestreview-5399872250) - 2026-10-03
 ## Q3 2026
 
 

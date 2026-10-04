@@ -16,6 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Refresh security.txt contact, keys, and expiry](https://github.com/OffchainLabs/prysm/pull/17611) - 2026-10-02
 * [Review] [Review on: add sepolia gas schedule](https://github.com/OffchainLabs/prysm/pull/17609#pullrequestreview-5393376482) - 2026-10-02
 * [Commit] [Refresh security.txt contact, keys, and expiry (#17611)](https://github.com/OffchainLabs/prysm/commit/6ceaad8d21f8a631b82db3507f59c12f927cc432) - 2026-10-02
+* [Commit] [fix(db): replay missing historical hdiff states without repeated snapshot decoding (#17590)](https://github.com/OffchainLabs/prysm/commit/fea24b41265542905352ab45fe2291d8eea010cc) - 2026-10-03
 ## Q3 2026
 
 

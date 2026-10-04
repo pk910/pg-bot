@@ -25,6 +25,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor: migrate deprecated zig std APIs](https://github.com/ChainSafe/lodestar-z/pull/742#pullrequestreview-5374910026) - 2026-10-01
 * [Review] [Review on: chore(deps): bump hashtree revision](https://github.com/ChainSafe/lodestar-z/pull/743#pullrequestreview-5374900518) - 2026-10-01
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5389708869) - 2026-10-02
+* [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5398734179) - 2026-10-03
 ## Q3 2026
 
 
