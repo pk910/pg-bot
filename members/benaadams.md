@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): relieve register pressure in the guest opcode handlers](https://github.com/NethermindEth/nethermind/pull/14206#pullrequestreview-5403152123) - 2026-10-03
 * [Review] [Review on: perf(zkevm): trim keccak call overhead in the ZisK guest](https://github.com/NethermindEth/nethermind/pull/14207#pullrequestreview-5403149570) - 2026-10-03
 * [Review] [Review on: perf: keep the block's worker-group runners between the post-transaction steps](https://github.com/NethermindEth/nethermind/pull/14225#pullrequestreview-5402020160) - 2026-10-03
+* [Commit] [Avoid HTTP and JSON round trips in local health-check UI polling (#14211)](https://github.com/NethermindEth/nethermind/commit/c5f3cd3b7904b712cab1764df4754d254a55d7fc) - 2026-10-04
 ## Q3 2026
 
 

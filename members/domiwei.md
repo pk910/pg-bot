@@ -19,6 +19,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/phase1/stages: pace chain tip block request retries](https://github.com/erigontech/erigon/pull/24513) - 2026-10-02
 * [Pull Request] [cl/beacon/handler: use the Fulu inclusion proof depth for published data column sidecars](https://github.com/erigontech/erigon/pull/24512) - 2026-10-02
 * [Review] [Review on: cl/beacon/handler: write validators response after releasing the head state](https://github.com/erigontech/erigon/pull/24450#pullrequestreview-5389230720) - 2026-10-02
+* [Pull Request] [cl: fix publication of self-built Gloas blocks and payloads](https://github.com/erigontech/erigon/pull/24545) - 2026-10-04
+* [Pull Request] [cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547) - 2026-10-04
+* [Pull Request] [cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548) - 2026-10-04
+* [Pull Request] [cl: fix req/resp concurrency, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550) - 2026-10-04
 ## Q3 2026
 
 
