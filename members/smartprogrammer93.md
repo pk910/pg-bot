@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Add periodic log reporting how far the head block is behind the chain tip](https://github.com/NethermindEth/nethermind/pull/10892#pullrequestreview-5413701313) - 2026-10-05
 ## Q3 2026
 
 

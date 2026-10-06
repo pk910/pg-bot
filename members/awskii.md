@@ -23,6 +23,9 @@ Team: Erigon
 * [Review] [Review on: docs(site): 3.6.1 disk sizes and sync times, x86-64-v2 CPU baseline, 3.7 upgrade notes](https://github.com/erigontech/erigon/pull/24436#pullrequestreview-5389258690) - 2026-10-02
 * [Commit] [execution/commitment/trie: drop orphaned v2 subtrie-loading layer (#24434)](https://github.com/erigontech/erigon/commit/2cd7a82b30b7e35caa0526e8555999dfbfd10045) - 2026-10-02
 * [Pull Request] [execution/stagedsync: dispatch the frontier retry before the batch tail](https://github.com/erigontech/erigon/pull/24531) - 2026-10-03
+* [Pull Request] [execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479) - 2026-10-05
+* [Commit] [commitment: parallel fold workers read the caller's snapshot (#23722)](https://github.com/erigontech/erigon/commit/c12ebb1ef31bdae5aa124b2df20c64eef97d254f) - 2026-10-05
+* [Commit] [execution/stagedsync: feed touched keys to the BAL branch prefetch (#24479)](https://github.com/erigontech/erigon/commit/8ec951a99b177da885512c82e1d246887858b933) - 2026-10-05
 ## Q3 2026
 
 

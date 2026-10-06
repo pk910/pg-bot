@@ -17,6 +17,7 @@ Team: Codex DAS
 * [Pull Request] [beacon/light/request: send EvCanRequestAgain after refusing requests](https://github.com/ethereum/go-ethereum/pull/35872) - 2026-10-03
 * [Pull Request] [beacon/params: fix hoodi beacon genesis time](https://github.com/ethereum/go-ethereum/pull/35876) - 2026-10-04
 * [Pull Request] [core/filtermaps: start the log index at a history cutoff past the last checkpoint](https://github.com/ethereum/go-ethereum/pull/35875) - 2026-10-04
+* [Pull Request] [beacon/light/sync: drop a rejected committee update response from the queue](https://github.com/ethereum/go-ethereum/pull/35879) - 2026-10-05
 ## Q3 2026
 
 
