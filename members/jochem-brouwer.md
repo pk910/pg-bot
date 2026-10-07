@@ -16,6 +16,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: new(tests): precompile boundary warmth and 7702 authority SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3676#pullrequestreview-5380253897) - 2026-10-01
 
 * [Pull Request] [fix(test-benchmark): keep BLS12 MSM split transactions above the data floor](https://github.com/ethereum/execution-specs/pull/3711) - 2026-10-05
+* [Commit] [refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor (#3711)](https://github.com/ethereum/execution-specs/commit/abc389a05198ec8a87142cd282db6e72af4bde4d) - 2026-10-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02

@@ -23,6 +23,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon/handler: fix the Gloas attestation data index and pool attestation publishing](https://github.com/erigontech/erigon/pull/24547) - 2026-10-04
 * [Pull Request] [cl/phase1/stages: recover the served head and FULL payloads after a restart](https://github.com/erigontech/erigon/pull/24548) - 2026-10-04
 * [Pull Request] [cl: fix req/resp concurrency, BlocksByRange range and sidecar finalized slot checks](https://github.com/erigontech/erigon/pull/24550) - 2026-10-04
+* [Pull Request] [cl/phase1/network: verify gossip signatures before forwarding and keep messages on their fork's topic](https://github.com/erigontech/erigon/pull/24629) - 2026-10-06
+* [Pull Request] [cl, execution: fix two causes of a stall after a Caplin restart](https://github.com/erigontech/erigon/pull/24628) - 2026-10-06
+* [Pull Request] [cl/sentinel: keep peers through Status/Goodbye limits and failed handshakes](https://github.com/erigontech/erigon/pull/24627) - 2026-10-06
 ## Q3 2026
 
 

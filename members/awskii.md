@@ -26,6 +26,11 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: feed touched keys to the BAL branch prefetch](https://github.com/erigontech/erigon/pull/24479) - 2026-10-05
 * [Commit] [commitment: parallel fold workers read the caller's snapshot (#23722)](https://github.com/erigontech/erigon/commit/c12ebb1ef31bdae5aa124b2df20c64eef97d254f) - 2026-10-05
 * [Commit] [execution/stagedsync: feed touched keys to the BAL branch prefetch (#24479)](https://github.com/erigontech/erigon/commit/8ec951a99b177da885512c82e1d246887858b933) - 2026-10-05
+* [Review] [Review on: exec: keep precompiles warm without inserting them per tx](https://github.com/erigontech/erigon/pull/24574#pullrequestreview-5423713921) - 2026-10-06
+* [Review] [Review on: rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601#pullrequestreview-5423712600) - 2026-10-06
+* [Review] [Review on: exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572#pullrequestreview-5423713361) - 2026-10-06
+* [Review] [Review on: exec: add `ibs.noConflictDetection` flag for `eth_call` use-case](https://github.com/erigontech/erigon/pull/24600#pullrequestreview-5423713170) - 2026-10-06
+* [Review] [Review on: exec: enable `StateCache` at startup](https://github.com/erigontech/erigon/pull/24587#pullrequestreview-5423712752) - 2026-10-06
 ## Q3 2026
 
 

@@ -115,6 +115,47 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: cache headers for header-only lookups (#24540)](https://github.com/erigontech/erigon/commit/eae22c4b8f2c4661220f7f9342a69c6f1c64b686) - 2026-10-05
 * [Commit] [exec: an own balance write settles TouchAccount (#24569)](https://github.com/erigontech/erigon/commit/36c9611e4cd46080d6016c5f1347cbba0c217c6d) - 2026-10-05
 * [Commit] [vm: generate interpreter loop (#24517)](https://github.com/erigontech/erigon/commit/1b981942ded2c584a499d7a98f2e4d8cc970b250) - 2026-10-05
+* [Pull Request] [vm: SLOAD charges its EIP-2929 gas in the op that reads the slot](https://github.com/erigontech/erigon/pull/24635) - 2026-10-07
+* [Review] [Review on: execution/state, execution/tests: restore newlyCreated for accounts created in the tx](https://github.com/erigontech/erigon/pull/24624#pullrequestreview-5436635227) - 2026-10-07
+* [Review] [Review on: execution/state: look up the dirty set once in reconstructCellFlags](https://github.com/erigontech/erigon/pull/24625#pullrequestreview-5436633739) - 2026-10-07
+* [Review] [Review on: execution/state: remove unused commited flag from code reads](https://github.com/erigontech/erigon/pull/24431#pullrequestreview-5436617949) - 2026-10-07
+* [Pull Request] [execution/vm: run hashed code from a cached pre-decoded instruction stream](https://github.com/erigontech/erigon/pull/24633) - 2026-10-07
+* [Review] [Review on: execution/vm: run hashed code from a cached pre-decoded instruction stream](https://github.com/erigontech/erigon/pull/24633#pullrequestreview-5436894246) - 2026-10-07
+* [Pull Request] [execution/vm: CALLDATALOAD, copy ops, MCOPY, MSTORE8, KECCAK256 skip the jump table](https://github.com/erigontech/erigon/pull/24632) - 2026-10-07
+* [Review] [Review on: execution/vm: CALLDATALOAD, copy ops, MCOPY, MSTORE8, KECCAK256 skip the jump table](https://github.com/erigontech/erigon/pull/24632#pullrequestreview-5436874773) - 2026-10-07
+* [Pull Request] [execution/vm: a frame-cache SLOAD hit skips the gas func and the op](https://github.com/erigontech/erigon/pull/24631) - 2026-10-07
+* [Pull Request] [execution/vm/vmgen: drop the `if false` blocks from run](https://github.com/erigontech/erigon/pull/24634) - 2026-10-07
+* [Review] [Review on: execution/vm/vmgen: drop the `if false` blocks from run](https://github.com/erigontech/erigon/pull/24634#pullrequestreview-5436850062) - 2026-10-07
+* [Pull Request] [vm: the origin still exists before EIP-158](https://github.com/erigontech/erigon/pull/24630) - 2026-10-07
+* [Review] [Review on: vm: the origin still exists before EIP-158](https://github.com/erigontech/erigon/pull/24630#pullrequestreview-5436708158) - 2026-10-07
+* [Review] [Review on: ChangeLog: add breaking-change entry for #24487](https://github.com/erigontech/erigon/pull/24597#pullrequestreview-5436383623) - 2026-10-07
+* [Review] [Review on: execution/state: keep code hash in sync with code read from version map](https://github.com/erigontech/erigon/pull/24432#pullrequestreview-5436610359) - 2026-10-07
+* [Review] [Review on: execution/state: attribute the SelfDestructPath=false write to CreateAccount](https://github.com/erigontech/erigon/pull/24621#pullrequestreview-5436561876) - 2026-10-07
+* [Pull Request] [exec: allocate WriteSet cells on slabs](https://github.com/erigontech/erigon/pull/24603) - 2026-10-06
+* [Review] [Review on: exec: allocate WriteSet cells on slabs](https://github.com/erigontech/erigon/pull/24603#pullrequestreview-5424071292) - 2026-10-06
+* [Review] [Review on: rpc: eth_call reuse a pooled `ibs`](https://github.com/erigontech/erigon/pull/24601#pullrequestreview-5424051902) - 2026-10-06
+* [Pull Request] [exec: a reused read set keeps its per-address slot maps](https://github.com/erigontech/erigon/pull/24605) - 2026-10-06
+* [Review] [Review on: exec: a reused read set keeps its per-address slot maps](https://github.com/erigontech/erigon/pull/24605#pullrequestreview-5425816152) - 2026-10-06
+* [Review] [Review on: db/state: fix cleanup after failed merges](https://github.com/erigontech/erigon/pull/24579#pullrequestreview-5436443854) - 2026-10-07
+* [Review] [Review on: txnprovider/txpool: defer authorization recovery until after prechecks](https://github.com/erigontech/erigon/pull/24509#pullrequestreview-5436432633) - 2026-10-07
+* [Review] [Review on: p2p/sentry: bound queued bytes and limit NewBlock floods](https://github.com/erigontech/erigon/pull/24392#pullrequestreview-5436429943) - 2026-10-07
+* [Review] [Review on: p2p/rlpx: grow read buffers as data arrives](https://github.com/erigontech/erigon/pull/24374#pullrequestreview-5436424626) - 2026-10-07
+* [Pull Request] [exec: memoize a cold slot read without a versioned record](https://github.com/erigontech/erigon/pull/24606) - 2026-10-06
+* [Review] [Review on: exec: memoize a cold slot read without a versioned record](https://github.com/erigontech/erigon/pull/24606#pullrequestreview-5426020778) - 2026-10-06
+* [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5436386134) - 2026-10-07
+* [Pull Request] [exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572) - 2026-10-07
+* [Review] [Review on: exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572#pullrequestreview-5424479795) - 2026-10-06
+* [Review] [Review on: exec: add `ibs.noConflictDetection` flag for `eth_call` use-case](https://github.com/erigontech/erigon/pull/24600#pullrequestreview-5424058272) - 2026-10-06
+* [Review] [Review on: exec: enable `StateCache` at startup](https://github.com/erigontech/erigon/pull/24587#pullrequestreview-5424915855) - 2026-10-06
+* [Commit] [exec: Call uses cfg.Origin instead of creating its state object (#24572)](https://github.com/erigontech/erigon/commit/be875431395319db5d5e3260a876f5cd403c7976) - 2026-10-06
+* [Commit] [exec: add `ibs.noConflictDetection` flag for `eth_call` use-case (#24600)](https://github.com/erigontech/erigon/commit/6df223ed2516ce5806fa6ec1e657b091903a6f1c) - 2026-10-06
+* [Commit] [vm: CallContext return to pool only at end of exec (#24576)](https://github.com/erigontech/erigon/commit/14789c6aa33782dbb1949350730267a18022514c) - 2026-10-06
+* [Commit] [execution/engineapi: payload bodies serve stored tx bytes and stream their JSON (#24220)](https://github.com/erigontech/erigon/commit/cef810438c7c3131a87933fbb9240092738d2bdc) - 2026-10-06
+* [Commit] [execution/state: versioned balance write takes the balance its caller read (#24573)](https://github.com/erigontech/erigon/commit/316bfb293f491a1d8efbaae6f83f1cdb9fbef1ad) - 2026-10-06
+* [Commit] [exec: CreateAddress goes through Keccak256Hash, without allocations (#24575)](https://github.com/erigontech/erigon/commit/a1d2bb22a2e586bb50fcd27534128ad5ffa8f06d) - 2026-10-06
+* [Commit] [exec: run PUSH3..PUSH32 on the fast path (#24577)](https://github.com/erigontech/erigon/commit/c7d65387ebe953b8887ed09193395ca5633d8093) - 2026-10-06
+* [Commit] [exec: create collision check returns early for an absent account (#24592)](https://github.com/erigontech/erigon/commit/da0f689970910510718cb9466db5dd1b678ef275) - 2026-10-06
+* [Commit] [exec: CreateAccount does not heap-allocate an account copy  (#24565)](https://github.com/erigontech/erigon/commit/9ad9643d8392d127299b67ad1ca5e85e0bc1c10a) - 2026-10-06
 ## Q3 2026
 
 

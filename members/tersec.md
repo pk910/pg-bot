@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Commit] [enforce Nim versions (#4884)](https://github.com/status-im/nimbus-eth1/commit/3f010b0ab952f6e6e7f766726ef6312c1f3a33d5) - 2026-10-02
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5422509198) - 2026-10-06
+* [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5424539686) - 2026-10-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
@@ -42,6 +43,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [prevent req/resp column handlers from monopolizing event loop (#9192)](https://github.com/status-im/nimbus-eth2/commit/59f8e1a40dc251b509f8b6f8fe72097c573ada1c) - 2026-10-04
 * [Commit] [rm long-unused ganache support (#9191)](https://github.com/status-im/nimbus-eth2/commit/71c14d92e88c5d069892613894f85fadc4f75e66) - 2026-10-04
 * [Pull Request] [use v1.7.0-beta.3 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9211) - 2026-10-06
+* [Pull Request] [rm Pectra gossip support; update test summaries](https://github.com/status-im/nimbus-eth2/pull/9222) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026
