@@ -21,6 +21,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(history): add prune-history step command](https://github.com/NethermindEth/nethermind/pull/14252) - 2026-10-04
 * [Pull Request] [refactor(state): apply BAL state changes through IScope.ApplyBal](https://github.com/NethermindEth/nethermind/pull/13772) - 2026-10-04
 * [Commit] [refactor(state): apply BAL state changes through IScope.ApplyBal (#13772)](https://github.com/NethermindEth/nethermind/commit/06bb49beae6d36b0dc8efd56bcf57509193a4997) - 2026-10-04
+* [Review] [Review on: fix(flat): warn when snap sync discards existing flat state and time the wipe](https://github.com/NethermindEth/nethermind/pull/14297#pullrequestreview-5449661364) - 2026-10-07
+* [Review] [Review on: fix(healthchecks): start periodic disk space check before block tree review](https://github.com/NethermindEth/nethermind/pull/14292#pullrequestreview-5449699931) - 2026-10-07
+* [Review] [Review on: Fix debug_traceCallMany base-selector replay race](https://github.com/NethermindEth/nethermind/pull/14296#pullrequestreview-5449695343) - 2026-10-07
+* [Review] [Review on: perf(flat): skip per-scope resets and warm-up hints that do nothing](https://github.com/NethermindEth/nethermind/pull/14336#pullrequestreview-5449680094) - 2026-10-07
+* [Review] [Review on: feat(sync): label snap sync phases and drop misleading healing percentage](https://github.com/NethermindEth/nethermind/pull/14344#pullrequestreview-5449638548) - 2026-10-07
 ## Q3 2026
 
 

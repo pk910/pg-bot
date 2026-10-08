@@ -18,6 +18,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc/transactions: CALL_NO_MATERIALIZE runs eth_call on the versioned state path](https://github.com/erigontech/erigon/pull/24495#pullrequestreview-5387967852) - 2026-10-02
 * [Commit] [db: inverted index flush prefetch (#24483)](https://github.com/erigontech/erigon/commit/4c584ee31a01b2ef60f365136b82381a75dcd9f2) - 2026-10-02
 * [Pull Request] [db: remove commit gate](https://github.com/erigontech/erigon/pull/24591) - 2026-10-05
+* [Review] [Review on: execution/chain, cl/clparams: add Hegota fork time utils](https://github.com/erigontech/erigon/pull/24669#pullrequestreview-5449711261) - 2026-10-07
 ## Q3 2026
 
 

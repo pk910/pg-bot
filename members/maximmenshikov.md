@@ -14,6 +14,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 * [Pull Request] [zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358) - 2026-10-06
 * [Review] [Review on: zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26](https://github.com/NethermindEth/nethermind/pull/14358#pullrequestreview-5434424100) - 2026-10-06
+* [Commit] [zkVM guest: pairwise EVM stack swaps, keccak first-block copy, preinitializable statics, Int256 1.11.0; bflat-riscv64-11 2ee8a26 (#14358)](https://github.com/NethermindEth/nethermind/commit/c93ca82ebbd3c50be08c520238a5ab69fd58eeea) - 2026-10-07
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

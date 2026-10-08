@@ -6,6 +6,11 @@ Github: [@mariosioannou-create](https://github.com/mariosioannou-create)
 
 ## Contributions
 
+## Q4 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove QED](https://github.com/protocolguild/documentation/pull/568) - 2026-10-07
 ## Q2 2026
 
 

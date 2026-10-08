@@ -32,6 +32,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-execute): simplify estimate-gas batching and payload](https://github.com/ethereum/execution-specs/pull/3718) - 2026-10-06
 * [Review] [Review on: refactor(tests): fold CALL execution_cost + stale TODO cleanups](https://github.com/ethereum/execution-specs/pull/3606#pullrequestreview-5424960514) - 2026-10-06
 * [Review] [Review on: refactor(test-benchmark): keep BLS12 MSM split transactions above the data floor](https://github.com/ethereum/execution-specs/pull/3711#pullrequestreview-5423673266) - 2026-10-06
+* [Pull Request] [feat(spec-specs,test): implement EIP-3298 in the Bogota fork](https://github.com/ethereum/execution-specs/pull/3733) - 2026-10-07
+* [Review] [Review on: feat(specs, tests): deploy the EIP-8141 expiry verifier as an ordinary contract](https://github.com/ethereum/execution-specs/pull/3729#pullrequestreview-5439387461) - 2026-10-07
+* [Review] [Review on: feat(tests): Add EIP-8163 EXTENSION opcode test](https://github.com/ethereum/execution-specs/pull/3454#pullrequestreview-5438940574) - 2026-10-07
+* [Review] [Review on: chore(tooling): point agents at forks/bogota](https://github.com/ethereum/execution-specs/pull/3731#pullrequestreview-5438060817) - 2026-10-07
 ## Q3 2026
 
 

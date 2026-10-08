@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 * [Commit] [Resolve SSZ REST forks for chainspec networks (#14302)](https://github.com/NethermindEth/nethermind/commit/f4605b584504da6f39309de073833ecde38e0323) - 2026-10-06
 * [Commit] [Retain verified ENRs for mismatched signed PING endpoints (#14277)](https://github.com/NethermindEth/nethermind/commit/88a089a125bffc73fd4a5b2950e28baf689de6cb) - 2026-10-06
+* [Commit] [ci: add prerelease/latest support to master bootnode release (#14266)](https://github.com/NethermindEth/nethermind/commit/d792e7bb4fffb019fb0a2d915ab42eed81b35b19) - 2026-10-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [enforce Nim versions (#4884)](https://github.com/status-im/nimbus-eth1/commit/3f010b0ab952f6e6e7f766726ef6312c1f3a33d5) - 2026-10-02
 * [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5422509198) - 2026-10-06
 * [Review] [Review on: Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637#pullrequestreview-5424539686) - 2026-10-06
+* [Review] [Review on: feat: add testing_buildBlockV1 rpc](https://github.com/status-im/nimbus-eth1/pull/4903#pullrequestreview-5437282875) - 2026-10-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
@@ -44,6 +45,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm long-unused ganache support (#9191)](https://github.com/status-im/nimbus-eth2/commit/71c14d92e88c5d069892613894f85fadc4f75e66) - 2026-10-04
 * [Pull Request] [use v1.7.0-beta.3 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/9211) - 2026-10-06
 * [Pull Request] [rm Pectra gossip support; update test summaries](https://github.com/status-im/nimbus-eth2/pull/9222) - 2026-10-07
+* [Review] [Review on: partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230#pullrequestreview-5450898611) - 2026-10-08
+* [Review] [Review on: fix(sync): use per-entity stale-retry timestamp in SyncDag](https://github.com/status-im/nimbus-eth2/pull/9223#pullrequestreview-5450378831) - 2026-10-08
+* [Pull Request] [decrease test stack usage and copying](https://github.com/status-im/nimbus-eth2/pull/9232) - 2026-10-07
+* [Review] [Review on: Request and validate bids with BuilderConfig on proposal](https://github.com/status-im/nimbus-eth2/pull/9163#pullrequestreview-5449813883) - 2026-10-07
+* [Review] [Review on: nix: fix installCheckPhase for MacOS platform](https://github.com/status-im/nimbus-eth2/pull/9226#pullrequestreview-5439236559) - 2026-10-07
+* [Pull Request] [reduce peerdas helper stack usage](https://github.com/status-im/nimbus-eth2/pull/9228) - 2026-10-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 ## Q3 2026
