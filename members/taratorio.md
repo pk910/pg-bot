@@ -19,6 +19,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db: inverted index flush prefetch (#24483)](https://github.com/erigontech/erigon/commit/4c584ee31a01b2ef60f365136b82381a75dcd9f2) - 2026-10-02
 * [Pull Request] [db: remove commit gate](https://github.com/erigontech/erigon/pull/24591) - 2026-10-05
 * [Review] [Review on: execution/chain, cl/clparams: add Hegota fork time utils](https://github.com/erigontech/erigon/pull/24669#pullrequestreview-5449711261) - 2026-10-07
+* [Review] [Review on: execution/protocol, rpc: EIP-8037 gas caps on RPC calls](https://github.com/erigontech/erigon/pull/24520#pullrequestreview-5455833668) - 2026-10-08
+* [Pull Request] [execution: remove stale BAL RLP decoding size based checks](https://github.com/erigontech/erigon/pull/24684) - 2026-10-08
+* [Review] [Review on: execution: add engine_getInclusionListV1](https://github.com/erigontech/erigon/pull/24693#pullrequestreview-5458129482) - 2026-10-08
+* [Pull Request] [txnprovider: check execution gas inclusion contributions](https://github.com/erigontech/erigon/pull/24685) - 2026-10-08
+* [Commit] [txnprovider: check execution gas inclusion contributions (#24685)](https://github.com/erigontech/erigon/commit/ce02b4b6b110991ab319db6f9cfc70920b51ecea) - 2026-10-08
 ## Q3 2026
 
 

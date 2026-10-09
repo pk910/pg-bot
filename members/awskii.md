@@ -31,6 +31,10 @@ Team: Erigon
 * [Review] [Review on: exec: Call uses cfg.Origin instead of creating its state object](https://github.com/erigontech/erigon/pull/24572#pullrequestreview-5423713361) - 2026-10-06
 * [Review] [Review on: exec: add `ibs.noConflictDetection` flag for `eth_call` use-case](https://github.com/erigontech/erigon/pull/24600#pullrequestreview-5423713170) - 2026-10-06
 * [Review] [Review on: exec: enable `StateCache` at startup](https://github.com/erigontech/erigon/pull/24587#pullrequestreview-5423712752) - 2026-10-06
+* [Review] [Review on: common/hexutil: hex encode/decode in simd](https://github.com/erigontech/erigon/pull/24410#pullrequestreview-5452315521) - 2026-10-08
+* [Review] [Review on: execution/vm: split EVM.call into Call, CallCode, DelegateCall and StaticCall](https://github.com/erigontech/erigon/pull/24549#pullrequestreview-5452315038) - 2026-10-08
+* [Review] [Review on: execution/state: cheaper account creation on the noMaterialize path](https://github.com/erigontech/erigon/pull/24674#pullrequestreview-5452315760) - 2026-10-08
+* [Review] [Review on: execution/vm: reuse RETURN/REVERT output buffers](https://github.com/erigontech/erigon/pull/24658#pullrequestreview-5452313339) - 2026-10-08
 ## Q3 2026
 
 

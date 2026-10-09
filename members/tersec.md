@@ -51,8 +51,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Request and validate bids with BuilderConfig on proposal](https://github.com/status-im/nimbus-eth2/pull/9163#pullrequestreview-5449813883) - 2026-10-07
 * [Review] [Review on: nix: fix installCheckPhase for MacOS platform](https://github.com/status-im/nimbus-eth2/pull/9226#pullrequestreview-5439236559) - 2026-10-07
 * [Pull Request] [reduce peerdas helper stack usage](https://github.com/status-im/nimbus-eth2/pull/9228) - 2026-10-07
+* [Review] [Review on: partial column peering mechanics](https://github.com/status-im/nimbus-eth2/pull/9230#pullrequestreview-5450953957) - 2026-10-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5457955347) - 2026-10-08
 ## Q3 2026
 
 

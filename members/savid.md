@@ -15,6 +15,22 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(sentry): fetch Gloas-aware v2 debug fork choice](https://github.com/ethpandaops/xatu/pull/900) - 2026-10-07
 * [Pull Request] [feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902) - 2026-10-08
 * [Review] [Review on: feat: store spec event fields dropped on the way to ClickHouse](https://github.com/ethpandaops/xatu/pull/902#pullrequestreview-5450756907) - 2026-10-08
+* [Commit] [Merge pull request #900 from ethpandaops/feat/fork-choice-v2](https://github.com/ethpandaops/xatu/commit/2be044a3d93438198354fe63efa8a24ea58e5248) - 2026-10-08
+* [Commit] [fix(sentry): only back off v2 fork choice for nodes that cannot serve it](https://github.com/ethpandaops/xatu/commit/a71a264dc8d711aea1599f9d52bd6c82b5dca00d) - 2026-10-08
+* [Commit] [chore(deps): bump go-eth2-client to v0.1.10](https://github.com/ethpandaops/xatu/commit/41d9f413dbb16c79413b466493cece97ea6c9520) - 2026-10-08
+* [Commit] [chore(deps): bump go-eth2-client to 7a87b26e](https://github.com/ethpandaops/xatu/commit/e01ccc2fabf673a5285d97a87c75612c9faf1525) - 2026-10-08
+* [Commit] [Merge remote-tracking branch 'origin/master' into feat/fork-choice-v2](https://github.com/ethpandaops/xatu/commit/b05f6e9cd475b831ca5dbd682aecc20c969a3b49) - 2026-10-08
+* [Commit] [Merge pull request #902 from ethpandaops/feat/event-spec-fields](https://github.com/ethpandaops/xatu/commit/249e0c29e14079ad106bf81ad009468f46e84c80) - 2026-10-08
+* [Commit] [feat(sentry): follow the merged fork choice v2 spec](https://github.com/ethpandaops/xatu/commit/ec6105b69059464f1bf22c6da6997cf90e9059d2) - 2026-10-08
+* [Commit] [Merge remote-tracking branch 'origin/master' into feat/fork-choice-v2](https://github.com/ethpandaops/xatu/commit/bc326faf4811142d098743a6c9e94895766c0ce3) - 2026-10-08
+* [Commit] [chore(proto): regenerate pkg/proto/clickhouse with clickhouse-proto-gen 0.0.29](https://github.com/ethpandaops/xatu/commit/94447aa4f29dd19cc0f497479fd3f9b6929bd79b) - 2026-10-08
+* [Commit] [Merge remote-tracking branch 'origin/master' into feat/event-spec-fields](https://github.com/ethpandaops/xatu/commit/cf452e238b12c071141f3cc16a568354b168e441) - 2026-10-08
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452271544) - 2026-10-08
+* [Commit] [Merge pull request #257 from ethpandaops/feat/gloas-events](https://github.com/ethpandaops/contributoor/commit/00f0f60160d87dc0a26b53278020ff12feb5cb10) - 2026-10-08
+* [Commit] [ci(release): build releases with Go 1.26.8](https://github.com/ethpandaops/contributoor/commit/1d5eef2d9e65c428b39e030c1972d11965a915da) - 2026-10-08
+* [Commit] [chore(deps): bump xatu to v1.25.0 and go-eth2-client to v0.1.10](https://github.com/ethpandaops/contributoor/commit/751c9bb048409e0d65fcebac7defa1951f896c5b) - 2026-10-08
 ## Q3 2026
 
 

@@ -26,6 +26,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix debug_traceCallMany base-selector replay race](https://github.com/NethermindEth/nethermind/pull/14296#pullrequestreview-5449695343) - 2026-10-07
 * [Review] [Review on: perf(flat): skip per-scope resets and warm-up hints that do nothing](https://github.com/NethermindEth/nethermind/pull/14336#pullrequestreview-5449680094) - 2026-10-07
 * [Review] [Review on: feat(sync): label snap sync phases and drop misleading healing percentage](https://github.com/NethermindEth/nethermind/pull/14344#pullrequestreview-5449638548) - 2026-10-07
+* [Commit] [fix(flat): verify preimage storage in bounded memory (#14387)](https://github.com/NethermindEth/nethermind/commit/dcd7edca7c45c908e614dc64b08313cb1d207c49) - 2026-10-08
 ## Q3 2026
 
 
