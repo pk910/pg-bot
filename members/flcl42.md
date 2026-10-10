@@ -28,6 +28,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [ci: add prerelease/latest support to master bootnode release (#14266)](https://github.com/NethermindEth/nethermind/commit/d792e7bb4fffb019fb0a2d915ab42eed81b35b19) - 2026-10-07
 * [Review] [Review on: refactor(discovery): replace DotNetty UDP transport with a plain socket](https://github.com/NethermindEth/nethermind/pull/14346#pullrequestreview-5453688564) - 2026-10-08
 * [Pull Request] [Add a verified P2P light client](https://github.com/NethermindEth/nethermind/pull/14457) - 2026-10-08
+* [Review] [Review on: feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487#pullrequestreview-5475559837) - 2026-10-09
+* [Pull Request] [Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489) - 2026-10-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 
