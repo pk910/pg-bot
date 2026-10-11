@@ -30,6 +30,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add a verified P2P light client](https://github.com/NethermindEth/nethermind/pull/14457) - 2026-10-08
 * [Review] [Review on: feat(consensus): abandon a block that takes longer than a configurable timeout to process](https://github.com/NethermindEth/nethermind/pull/14487#pullrequestreview-5475559837) - 2026-10-09
 * [Pull Request] [Schedule Hoodi Amsterdam fork](https://github.com/NethermindEth/nethermind/pull/14489) - 2026-10-09
+* [Review] [Review on: test(eels): update execution fixtures to v21.0.1](https://github.com/NethermindEth/nethermind/pull/14502#pullrequestreview-5479051448) - 2026-10-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 
