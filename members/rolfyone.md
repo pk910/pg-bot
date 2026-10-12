@@ -56,6 +56,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Only record forkchoiceUpdated IL satisfaction for optimistic FULL nodes](https://github.com/Consensys-Incorporated/teku/pull/11471#pullrequestreview-5481600682) - 2026-10-11
 * [Pull Request] [Skip signing inclusion lists with no transactions](https://github.com/Consensys-Incorporated/teku/pull/11470) - 2026-10-10
 * [Pull Request] [Accept inclusion list dependent roots from any branch](https://github.com/Consensys-Incorporated/teku/pull/11469) - 2026-10-10
+* [Pull Request] [Implement EIP-8015 in the Heze state transition](https://github.com/Consensys-Incorporated/teku/pull/11473) - 2026-10-12
+* [Pull Request] [Create inclusion lists on the current slot's block](https://github.com/Consensys-Incorporated/teku/pull/11472) - 2026-10-11
+* [Commit] [Verify block signatures before saving blocks for future processing (#11438)](https://github.com/Consensys-Incorporated/teku/commit/a5c32d32038b97ddafd446fd5bb2caf206728651) - 2026-10-11
+* [Commit] [Disallow new validators with BLS withdrawal credentials in Heze (#11462)](https://github.com/Consensys-Incorporated/teku/commit/d4739da18715e776ddbf464d22c6ec1583f747e6) - 2026-10-11
 ## Q3 2026
 
 
