@@ -19,6 +19,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8272 recent roots for frame transactions](https://github.com/ethereum/execution-specs/pull/3740) - 2026-10-08
 * [Review] [Review on: refactor(test-forks,test-specs): remove the unused activation code install hook in EIP-8141](https://github.com/ethereum/execution-specs/pull/3735#pullrequestreview-5453794967) - 2026-10-08
 * [Pull Request] [docs(specs,tests): track the EIP-8141 frame mode set-membership wording](https://github.com/ethereum/execution-specs/pull/3739) - 2026-10-08
+* [Review] [Review on: chore(tests): repin EIP-8141 to ethereum/EIPs@af3a780](https://github.com/ethereum/execution-specs/pull/3774#pullrequestreview-5491470298) - 2026-10-12
 ## Q3 2026
 
 

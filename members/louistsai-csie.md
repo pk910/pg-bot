@@ -38,6 +38,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tooling): point agents at forks/bogota](https://github.com/ethereum/execution-specs/pull/3731#pullrequestreview-5438060817) - 2026-10-07
 * [Review] [Review on: feat(spec-specs,tests): implement EIP-7906 transaction assertions](https://github.com/ethereum/execution-specs/pull/3730#pullrequestreview-5452812315) - 2026-10-08
 * [Review] [Review on: refactor(test-forks,test-specs): remove the unused activation code install hook in EIP-8141](https://github.com/ethereum/execution-specs/pull/3735#pullrequestreview-5451030686) - 2026-10-08
+* [Commit] [refactor(tests): EIP-2537 BLS unhardcode gas (#3772)](https://github.com/ethereum/execution-specs/commit/0303cbc225fbd941c75728954a4f8abd14df780a) - 2026-10-12
 ## Q3 2026
 
 
