@@ -13,6 +13,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Add periodic log reporting how far the head block is behind the chain tip](https://github.com/NethermindEth/nethermind/pull/10892#pullrequestreview-5413701313) - 2026-10-05
+* [Review] [Review on: chore(deps): update RocksDB package](https://github.com/NethermindEth/nethermind/pull/14617#pullrequestreview-5506636507) - 2026-10-13
 ## Q3 2026
 
 

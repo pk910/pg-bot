@@ -68,6 +68,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Fix Heze block import reading removed deposits, cover gaps, drop dead code](https://github.com/Consensys-Incorporated/teku/pull/11478) - 2026-10-12
 * [Pull Request] [Run the Heze reference tests](https://github.com/Consensys-Incorporated/teku/pull/11476) - 2026-10-12
 
+* [Pull Request] [Merge master into heze-devnet-2](https://github.com/Consensys-Incorporated/teku/pull/11486) - 2026-10-14
+* [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5502200192) - 2026-10-13
+* [Review] [Review on: Add update gossip for light clients](https://github.com/Consensys-Incorporated/teku/pull/11451#pullrequestreview-5498506906) - 2026-10-13
+* [Review] [Review on: Accept gossip subscription RPCs carrying up to 500 topics](https://github.com/Consensys-Incorporated/teku/pull/11483#pullrequestreview-5498236860) - 2026-10-13
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

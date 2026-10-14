@@ -118,6 +118,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpc: bound the request bytes held at once across HTTP bodies and websocket messages (#24737)](https://github.com/erigontech/erigon/commit/ba328dbda43d46d58112e47dff0c2da7d35359d1) - 2026-10-12
 * [Commit] [go.mod: bump snappy to 9ae09f520e93 (#24785)](https://github.com/erigontech/erigon/commit/7dd99e9e5e65d4eeb3e81c49ac2e46d70d104ae8) - 2026-10-12
 * [Commit] [execution: test catch-up crash recovery and fix forkchoice persistence (#24032)](https://github.com/erigontech/erigon/commit/c67d1a87fb9dd69e26624dbf0259d0c8472e22d4) - 2026-10-12
+* [Review] [Review on: cl: keep Gloas payload status when EL validation is cut short](https://github.com/erigontech/erigon/pull/24828#pullrequestreview-5504095102) - 2026-10-13
+* [Pull Request] [cl: verify direct-client blob hashes](https://github.com/erigontech/erigon/pull/24852) - 2026-10-13
+* [Review] [Review on: cl: align consensus and fork choice with v1.7.0-beta.4](https://github.com/erigontech/erigon/pull/24831#pullrequestreview-5503053116) - 2026-10-13
+* [Review] [Review on: cl: verify proposer slashing signatures over the header and accept one per proposer](https://github.com/erigontech/erigon/pull/24846#pullrequestreview-5504313392) - 2026-10-13
+* [Review] [Review on: cl/phase1/network, cl/beacon/handler: handle gloas proposer preferences in the epoch before the fork](https://github.com/erigontech/erigon/pull/24809#pullrequestreview-5501795537) - 2026-10-13
+* [Review] [Review on: execution/state: record wiped account-field reads in the self-destruct fast path](https://github.com/erigontech/erigon/pull/24843#pullrequestreview-5503234521) - 2026-10-13
+* [Review] [Review on: cl/clparams: use the gnosis data column request window on gnosis and chiado](https://github.com/erigontech/erigon/pull/24720#pullrequestreview-5502739811) - 2026-10-13
+* [Pull Request] [txnprovider/txpool: refresh state views before pool reload](https://github.com/erigontech/erigon/pull/24849) - 2026-10-13
+* [Pull Request] [execution/state: invalidate a storage read of a field wiped by an earlier destruct](https://github.com/erigontech/erigon/pull/24860) - 2026-10-13
+* [Review] [Review on: cl/phase1/forkchoice, cl/phase1/network/services: ignore local block import errors and attester slashings that need an unavailable justified state](https://github.com/erigontech/erigon/pull/24821#pullrequestreview-5502272242) - 2026-10-13
+* [Pull Request] [execution: test reorg recovery across snapshot publication and pruning](https://github.com/erigontech/erigon/pull/24857) - 2026-10-13
+* [Pull Request] [chainspec, clparams: schedule Glamsterdam on Hoodi](https://github.com/erigontech/erigon/pull/24847) - 2026-10-13
+* [Commit] [chainspec, clparams: schedule Glamsterdam on Hoodi (#24847)](https://github.com/erigontech/erigon/commit/1e1045909bbddafba95b0b783676b7ac96475779) - 2026-10-13
+* [Commit] [rpc: cap the number of live filters and subscriptions (#24734)](https://github.com/erigontech/erigon/commit/38830997934214f44aef5112f3775d265e6d6376) - 2026-10-13
+* [Commit] [cl/transition: verify the payload withdrawals root before applying withdrawals (#24803)](https://github.com/erigontech/erigon/commit/c1252e5259ece20e717228ac4b68a7b4605474d0) - 2026-10-13
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

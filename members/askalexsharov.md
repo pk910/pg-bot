@@ -239,6 +239,20 @@ Team: Erigon
 * [Commit] [exec: `codeCache` migrate `addrToCodeHash` to lock-free cache (#24775)](https://github.com/erigontech/erigon/commit/09a4e2e4dfd6bd9f8d9e070dbb6780038dc8b12d) - 2026-10-12
 * [Commit] [rpc: port geth's client options, IPC dial and reverse calls (#24764)](https://github.com/erigontech/erigon/commit/26ccbd6402f2839379231c9ded678bb504443ec0) - 2026-10-12
 * [Commit] [rpc: eth_call reuse a pooled `ibs` (#24601)](https://github.com/erigontech/erigon/commit/546790a6a7fce7865ef1bc54d64baab224f07cdf) - 2026-10-12
+* [Pull Request] [exec: AddressPath write values live on the write set's arena](https://github.com/erigontech/erigon/pull/24863) - 2026-10-13
+* [Pull Request] [exec: a written address serves repeat storage and code-size reads from the read set](https://github.com/erigontech/erigon/pull/24862) - 2026-10-13
+* [Pull Request] [lint: report every issue so warm runs stop keeping a random subset](https://github.com/erigontech/erigon/pull/24882) - 2026-10-14
+* [Review] [Review on: rpc, cmd/rpcdaemon/cli: refuse cross-site GET calls and check websocket origins against the CORS list](https://github.com/erigontech/erigon/pull/24485#pullrequestreview-5511659573) - 2026-10-14
+* [Review] [Review on: cmd/mcp: verify JSON-RPC during auto-discovery](https://github.com/erigontech/erigon/pull/24584#pullrequestreview-5511577379) - 2026-10-14
+* [Review] [Review on: db/snapcfg: drop preverified names with no extension after the last separator](https://github.com/erigontech/erigon/pull/24446#pullrequestreview-5511577154) - 2026-10-14
+* [Review] [Review on: rpc: log errored calls at trace level](https://github.com/erigontech/erigon/pull/24819#pullrequestreview-5498170800) - 2026-10-13
+* [Issue] [cl: six defects from a linter audit (nil derefs, a leaked DB env, ignored cancels)](https://github.com/erigontech/erigon/issues/24881) - 2026-10-14
+* [Issue] [accounts.InternAddress: unique.Make weak-handle cost grows with 24-byte size-class density](https://github.com/erigontech/erigon/issues/24877) - 2026-10-13
+* [Issue] [engineapi: descendants rejected while the parent is in the bad-block cache leave a header gap](https://github.com/erigontech/erigon/issues/24845) - 2026-10-13
+* [Commit] [Revert "go.mod: otter with the replacement fix for a never-linked node (#24774)" (#24840)](https://github.com/erigontech/erigon/commit/3f4ebc218102fcc045c918baa65114aa54aa5692) - 2026-10-13
+* [Commit] [rpc: reduce `eth_getBalance` p99 by reading acc without address interning (#24795)](https://github.com/erigontech/erigon/commit/266706977a373fb57be33132f67c58e0c8241aec) - 2026-10-13
+* [Commit] [common/hexutil: hex encode/decode in simd (#24410)](https://github.com/erigontech/erigon/commit/1fea3cd6efd3cd55845a903e79603dc0f7c87573) - 2026-10-13
+* [Commit] [go.mod: otter with the replacement fix for a never-linked node (#24774)](https://github.com/erigontech/erigon/commit/a825c7214c77dca5b3c44d636e050b5ba28deb7d) - 2026-10-13
 ## Q3 2026
 
 
