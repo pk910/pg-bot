@@ -72,6 +72,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Recover Gloas payloads for state-only finalized checkpoints](https://github.com/Consensys-Incorporated/teku/pull/11450#pullrequestreview-5502200192) - 2026-10-13
 * [Review] [Review on: Add update gossip for light clients](https://github.com/Consensys-Incorporated/teku/pull/11451#pullrequestreview-5498506906) - 2026-10-13
 * [Review] [Review on: Accept gossip subscription RPCs carrying up to 500 topics](https://github.com/Consensys-Incorporated/teku/pull/11483#pullrequestreview-5498236860) - 2026-10-13
+* [Pull Request] [Set Fulu genesis deposit_requests_start_index to deposit count](https://github.com/Consensys-Incorporated/teku/pull/11496) - 2026-10-15
+* [Pull Request] [Re-enable Gloas upgrade acceptance test](https://github.com/Consensys-Incorporated/teku/pull/11495) - 2026-10-15
+* [Pull Request] [Restore the "Slot Event" log line](https://github.com/Consensys-Incorporated/teku/pull/11494) - 2026-10-14
+* [Pull Request] [Re-pin block production after a failed attempt for the same slot](https://github.com/Consensys-Incorporated/teku/pull/11492) - 2026-10-14
+* [Pull Request] [Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11488) - 2026-10-14
+* [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11488#pullrequestreview-5515227128) - 2026-10-14
+* [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11491#pullrequestreview-5523712468) - 2026-10-14
+* [Review] [Review on: Update discovery to 26.10.0](https://github.com/Consensys-Incorporated/teku/pull/11487#pullrequestreview-5512335926) - 2026-10-14
+* [Issue] [Consider reusing an in-progress block production pin before Heze](https://github.com/Consensys-Incorporated/teku/issues/11493) - 2026-10-14
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026
