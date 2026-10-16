@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Honor IPv6 outbound preference for DNS-discovered peers](https://github.com/besu-eth/besu/pull/11448#pullrequestreview-5452849646) - 2026-10-08
 * [Review] [Review on: perf(eth): reduce per-tx allocations in constructGetPooledTransactionsResponse](https://github.com/besu-eth/besu/pull/10546#pullrequestreview-5452454180) - 2026-10-08
 * [Review] [Review on: Request the remaining announced transactions, in announcement order, on pooled transaction retries](https://github.com/besu-eth/besu/pull/11465#pullrequestreview-5452158826) - 2026-10-08
+* [Commit] [Fix/sync signal reporting bugs (#11262)](https://github.com/besu-eth/besu/commit/3ec0b6bf6681c4f0a745a0a03a2379562e9640e6) - 2026-10-16
 ## Q3 2026
 
 

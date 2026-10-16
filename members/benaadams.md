@@ -231,6 +231,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rpc): apply max request body size to websocket messages](https://github.com/NethermindEth/nethermind/pull/14554#pullrequestreview-5518984214) - 2026-10-14
 * [Review] [Review on: fix(network): resubmit full blob txs whose hash was rejected with another sidecar](https://github.com/NethermindEth/nethermind/pull/14553#pullrequestreview-5518993806) - 2026-10-14
 * [Review] [Review on: fix(crypto): compare legacy v against the chain id without overflow](https://github.com/NethermindEth/nethermind/pull/14649#pullrequestreview-5517624420) - 2026-10-14
+* [Review] [Review on: perf(prewarmer): reuse a worker's scope across the jobs of a block](https://github.com/NethermindEth/nethermind/pull/14677#pullrequestreview-5530999965) - 2026-10-15
+* [Review] [Review on: perf(zkevm): encode receipts for the receipts root in one pass](https://github.com/NethermindEth/nethermind/pull/14695#pullrequestreview-5538031405) - 2026-10-15
+* [Review] [Review on: perf(txpool): track per-sender worst values in an indexed heap](https://github.com/NethermindEth/nethermind/pull/14700#pullrequestreview-5537980603) - 2026-10-15
+* [Review] [Review on: perf(network)!: remove per-peer allocations from tx announcements and broadcast](https://github.com/NethermindEth/nethermind/pull/14698#pullrequestreview-5537960937) - 2026-10-15
+* [Review] [Review on: perf(txpool): skip decoding gossiped transactions the pool already knows](https://github.com/NethermindEth/nethermind/pull/14682#pullrequestreview-5537957651) - 2026-10-15
+* [Review] [Review on: refactor(bal): share BAL-to-state deltas between catch-up and healing](https://github.com/NethermindEth/nethermind/pull/14660#pullrequestreview-5534163943) - 2026-10-15
+* [Review] [Review on: fix(merge): keep the payload getPayload handed out when a late build finishes](https://github.com/NethermindEth/nethermind/pull/14661#pullrequestreview-5534162147) - 2026-10-15
+* [Review] [Review on: fix(bal): enforce the block access list item limit on every processing path](https://github.com/NethermindEth/nethermind/pull/14646#pullrequestreview-5537977730) - 2026-10-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 
@@ -239,6 +247,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: pal: reclaim ZisK accelerator scratch memory, halt on Rust OOM](https://github.com/NethermindEth/bflat-riscv64/pull/52#pullrequestreview-5464545346) - 2026-10-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5541765936) - 2026-10-16
 ## Q3 2026
 
 

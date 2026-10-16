@@ -285,6 +285,12 @@ Team: Erigon
 * [Commit] [tests: enable testifylint error-is-as and go-require (#24883)](https://github.com/erigontech/erigon/commit/004dc74de864b925340e18d73caeae1289a1a97c) - 2026-10-14
 * [Commit] [rpc: log errored calls at trace level (#24819)](https://github.com/erigontech/erigon/commit/f64283400d16ffc0c3406b572cb32920d72c2d8a) - 2026-10-14
 * [Commit] [execution/stagedsync: repair the bad-block unwind path (#24836)](https://github.com/erigontech/erigon/commit/548629cd04a7817b9685ca1890d0db7c2284a839) - 2026-10-14
+* [Commit] [exec: AddressPath write values live on the write set's arena (#24863)](https://github.com/erigontech/erigon/commit/32faf9abd7a7e8e560895096168dda5a94e7b1bd) - 2026-10-15
+* [Commit] [lint: report every issue so warm runs stop keeping a random subset (#24882)](https://github.com/erigontech/erigon/commit/8125b73d222cc91406e673ad2025c51c4fe60850) - 2026-10-15
+* [Commit] [rpc/jsonstream: stream a large hex array a threshold at a time (#24897)](https://github.com/erigontech/erigon/commit/21130d34c5b85102ce71c8c61b56a4d4c914250c) - 2026-10-15
+* [Commit] [rpc/jsonrpc: stop the witness block replay when the request is cancelled (#24886)](https://github.com/erigontech/erigon/commit/d07fe2fd055a62875d09f3369c42a6d56523ce0e) - 2026-10-15
+* [Commit] [types: back a receipt's logs with one block (#23901)](https://github.com/erigontech/erigon/commit/f0e060ed95bc2645b1478a7e72e843387757c128) - 2026-10-15
+* [Commit] [rpc: run eth_call on the versioned state path by default (#24835)](https://github.com/erigontech/erigon/commit/76eed31f8a527ea714cbb913f2f2301e042741ba) - 2026-10-15
 ## Q3 2026
 
 

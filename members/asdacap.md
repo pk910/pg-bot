@@ -35,6 +35,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Advertise snap in the local ENR when serving snap](https://github.com/NethermindEth/nethermind/pull/14585#pullrequestreview-5497189245) - 2026-10-12
 * [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5488281754) - 2026-10-12
 * [Commit] [refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI (#14253)](https://github.com/NethermindEth/nethermind/commit/4ba96ba871c9264c92cd643ff7fc8a23cc3af041) - 2026-10-13
+* [Pull Request] [feat(trie): experimental native Rust Patricia bulk set for flat DB](https://github.com/NethermindEth/nethermind/pull/14689) - 2026-10-15
 ## Q3 2026
 
 

@@ -91,6 +91,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: serve the current header through the header caches (#24814)](https://github.com/erigontech/erigon/commit/0cdbbf864411ee6020cecf1f789c7267718c1838) - 2026-10-13
 * [Pull Request] [QA: update rpcTets to 2.36.0](https://github.com/erigontech/erigon/pull/24911) - 2026-10-14
 * [Commit] [rpc/jsonrpc: return -32602 for unknown trace types (#24872)](https://github.com/erigontech/erigon/commit/71f9ce905702faeb592877498f5a76834c994f8e) - 2026-10-14
+* [Review] [Review on: rpc/jsonrpc: reject max nonce sender in eth_simulateV1 without validation](https://github.com/erigontech/erigon/pull/24851#pullrequestreview-5539190796) - 2026-10-15
+* [Pull Request] [db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek](https://github.com/erigontech/erigon/pull/24924) - 2026-10-15
+* [Pull Request] [db/kv/rawdbv3: TxNums2BlockNums searches from the current block](https://github.com/erigontech/erigon/pull/24933) - 2026-10-15
+* [Commit] [QA: update rpcTets to 2.36.0 (#24911)](https://github.com/erigontech/erigon/commit/f822b8a35d7c153bdb2bafa51fd7c62592528b11) - 2026-10-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

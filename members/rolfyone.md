@@ -81,6 +81,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Resend forkChoiceUpdated when a reused block production result failed](https://github.com/Consensys-Incorporated/teku/pull/11491#pullrequestreview-5523712468) - 2026-10-14
 * [Review] [Review on: Update discovery to 26.10.0](https://github.com/Consensys-Incorporated/teku/pull/11487#pullrequestreview-5512335926) - 2026-10-14
 * [Issue] [Consider reusing an in-progress block production pin before Heze](https://github.com/Consensys-Incorporated/teku/issues/11493) - 2026-10-14
+* [Pull Request] [Bound memory held by gossip blocks waiting for validation](https://github.com/Consensys-Incorporated/teku/pull/11503) - 2026-10-15
+* [Review] [Review on: Update CHANGELOG.md after 26.10.1 release](https://github.com/Consensys-Incorporated/teku/pull/11502#pullrequestreview-5540655853) - 2026-10-15
+* [Pull Request] [Set Gloas attestation index from fork choice payload status](https://github.com/Consensys-Incorporated/teku/pull/11498) - 2026-10-15
+* [Pull Request] [Stop fetching execution payload envelopes on every block import](https://github.com/Consensys-Incorporated/teku/pull/11497) - 2026-10-15
+* [Issue] [Follow-up peer scoring improvements in multipeer range sync](https://github.com/Consensys-Incorporated/teku/issues/11499) - 2026-10-15
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026
