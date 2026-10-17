@@ -102,6 +102,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: use ReleaseSafe in bench run instructions](https://github.com/ChainSafe/lodestar-z/pull/785#pullrequestreview-5518856126) - 2026-10-14
 * [Commit] [perf: stream progressive tree reads (#745)](https://github.com/ChainSafe/lodestar-z/commit/5fbb0e23a64c9a3e3670135787dd750f573630ec) - 2026-10-15
 * [Commit] [perf: stream progressive tree construction (#746)](https://github.com/ChainSafe/lodestar-z/commit/41fa6dde7d560c9c673fcf1621fef4a76ed3c152) - 2026-10-14
+* [Review] [Review on: feat: add gnosis preset](https://github.com/ChainSafe/lodestar-z/pull/791#pullrequestreview-5548007977) - 2026-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

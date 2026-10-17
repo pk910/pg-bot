@@ -49,6 +49,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [perf(prewarm): read ahead the storage of the transaction block processing is executing](https://github.com/NethermindEth/nethermind/pull/14693) - 2026-10-15
 * [Review] [Review on: perf(prewarm): read ahead the storage of the transaction block processing is executing](https://github.com/NethermindEth/nethermind/pull/14693#pullrequestreview-5535384723) - 2026-10-15
 
+* [Review] [Review on: perf(merge): decommit only under memory pressure, with a long safety net](https://github.com/NethermindEth/nethermind/pull/14718#pullrequestreview-5553789038) - 2026-10-16
+* [Review] [Review on: ci(hive): tolerate the new eth_simulateV1 -32602 override fixtures until simulate rejects them](https://github.com/NethermindEth/nethermind/pull/14802#pullrequestreview-5553760268) - 2026-10-16
+* [Pull Request] [perf(prewarm): start a block's warm workers without waiting for the mempool runs](https://github.com/NethermindEth/nethermind/pull/14803) - 2026-10-16
+* [Review] [Review on: perf(prewarm): start a block's warm workers without waiting for the mempool runs](https://github.com/NethermindEth/nethermind/pull/14803#pullrequestreview-5552584139) - 2026-10-16
+* [Pull Request] [perf(flat): warm the trie with more workers on machines with few cores](https://github.com/NethermindEth/nethermind/pull/14773) - 2026-10-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

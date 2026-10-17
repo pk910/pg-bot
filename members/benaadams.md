@@ -239,6 +239,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(bal): share BAL-to-state deltas between catch-up and healing](https://github.com/NethermindEth/nethermind/pull/14660#pullrequestreview-5534163943) - 2026-10-15
 * [Review] [Review on: fix(merge): keep the payload getPayload handed out when a late build finishes](https://github.com/NethermindEth/nethermind/pull/14661#pullrequestreview-5534162147) - 2026-10-15
 * [Review] [Review on: fix(bal): enforce the block access list item limit on every processing path](https://github.com/NethermindEth/nethermind/pull/14646#pullrequestreview-5537977730) - 2026-10-15
+* [Review] [Review on: fix(history): default the rolling history retention to the chain floor](https://github.com/NethermindEth/nethermind/pull/14622#pullrequestreview-5547778745) - 2026-10-16
+* [Review] [Review on: perf(zkevm): charge fused guest steps in one gas test](https://github.com/NethermindEth/nethermind/pull/14760#pullrequestreview-5546236237) - 2026-10-16
+* [Review] [Review on: perf(rpc): grow eth_getLogs result list on demand instead of renting max capacity](https://github.com/NethermindEth/nethermind/pull/14751#pullrequestreview-5546282071) - 2026-10-16
+* [Review] [Review on: perf(rpc): count block transactions and uncles from hashes-only blocks](https://github.com/NethermindEth/nethermind/pull/14767#pullrequestreview-5546236408) - 2026-10-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

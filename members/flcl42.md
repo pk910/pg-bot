@@ -34,6 +34,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Schedule Hoodi Amsterdam fork (#14489)](https://github.com/NethermindEth/nethermind/commit/acde12e9fbb719436c32a128e2ee9aea62581a50) - 2026-10-12
 * [Pull Request] [feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653) - 2026-10-14
 * [Review] [Review on: feat(specs): migrate mainnet and Sepolia to geth-style genesis](https://github.com/NethermindEth/nethermind/pull/14653#pullrequestreview-5524178104) - 2026-10-14
+* [Review] [Review on: refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark](https://github.com/NethermindEth/nethermind/pull/14728#pullrequestreview-5544679935) - 2026-10-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

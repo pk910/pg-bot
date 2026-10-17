@@ -15,6 +15,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [bsc: pascal / prague support](https://github.com/erigontech/erigon/pull/24506) - 2026-10-02
 * [Issue] [cmd: snapshots rm-state --step=N+ removes all state files when no file ends after step N](https://github.com/erigontech/erigon/issues/24778) - 2026-10-12
 * [Pull Request] [[tiering v2 - 12] db/state: Aggregator.DemoteFile — move an open commitment .kv to the cold tier in place](https://github.com/erigontech/erigon/pull/24904) - 2026-10-14
+* [Pull Request] [db/seg: fix compressor hang on superstrings send after ctx cancel](https://github.com/erigontech/erigon/pull/24962) - 2026-10-16
 ## Q3 2026
 
 

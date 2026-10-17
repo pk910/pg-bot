@@ -62,6 +62,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640#pullrequestreview-5524706278) - 2026-10-14
 * [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions package (#14644)](https://github.com/NethermindEth/nethermind/commit/11eaee0455f572f69800cd5997aa24ba69d2f815) - 2026-10-14
 * [Commit] [chore(deps): update Nethermind.Zkvm.Abstractions (#14734)](https://github.com/NethermindEth/nethermind/commit/6ee97c79106ed7e6177809c93d96b318585c3ac2) - 2026-10-15
+* [Review] [Review on: perf(zkevm): charge fused guest steps in one gas test](https://github.com/NethermindEth/nethermind/pull/14760#pullrequestreview-5554359934) - 2026-10-16
+* [Pull Request] [ci: pass reference assemblies to NuGet publishing via workflow artifact](https://github.com/NethermindEth/nethermind/pull/14809) - 2026-10-16
+* [Review] [Review on: ci: pass reference assemblies to NuGet publishing via workflow artifact](https://github.com/NethermindEth/nethermind/pull/14809#pullrequestreview-5551986654) - 2026-10-16
+* [Review] [Review on: refactor(network): remove peripheral DotNetty usages and add an RLPx round-trip benchmark](https://github.com/NethermindEth/nethermind/pull/14728#pullrequestreview-5550342319) - 2026-10-16
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

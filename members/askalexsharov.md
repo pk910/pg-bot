@@ -291,6 +291,34 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc: stop the witness block replay when the request is cancelled (#24886)](https://github.com/erigontech/erigon/commit/d07fe2fd055a62875d09f3369c42a6d56523ce0e) - 2026-10-15
 * [Commit] [types: back a receipt's logs with one block (#23901)](https://github.com/erigontech/erigon/commit/f0e060ed95bc2645b1478a7e72e843387757c128) - 2026-10-15
 * [Commit] [rpc: run eth_call on the versioned state path by default (#24835)](https://github.com/erigontech/erigon/commit/76eed31f8a527ea714cbb913f2f2301e042741ba) - 2026-10-15
+* [Pull Request] [exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968) - 2026-10-16
+* [Pull Request] [node: buffer gzip output before the response writer](https://github.com/erigontech/erigon/pull/24963) - 2026-10-16
+* [Pull Request] [rpc: calls with state overrides run on the versioned state path](https://github.com/erigontech/erigon/pull/24960) - 2026-10-16
+* [Review] [Review on: rpc: calls with state overrides run on the versioned state path](https://github.com/erigontech/erigon/pull/24960#pullrequestreview-5546854355) - 2026-10-16
+* [Pull Request] [execution/state: setCreatedCode reads the created account's code writes once](https://github.com/erigontech/erigon/pull/24957) - 2026-10-16
+* [Review] [Review on: rpc: the replay methods (eth_callMany, eth_callBundle, debug_traceBlock*, debug_traceCallMany, debug_traceTransaction) use eth_call's state path](https://github.com/erigontech/erigon/pull/24920#pullrequestreview-5546415151) - 2026-10-16
+* [Pull Request] [execution/stagedsync: stop validation at the first result that cannot commit](https://github.com/erigontech/erigon/pull/24976) - 2026-10-16
+* [Review] [Review on: rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding](https://github.com/erigontech/erigon/pull/24966#pullrequestreview-5548490410) - 2026-10-16
+* [Review] [Review on: db/kv/stream, db/kv/mdbx: Intersect and Union skip ahead with Seek](https://github.com/erigontech/erigon/pull/24924#pullrequestreview-5547203950) - 2026-10-16
+* [Review] [Review on: db/kv/mdbx: SafeNoSync flushes from the poller, not inside the commit](https://github.com/erigontech/erigon/pull/24953#pullrequestreview-5544478732) - 2026-10-16
+* [Review] [Review on: db/kv/rawdbv3: TxNums2BlockNums searches from the current block](https://github.com/erigontech/erigon/pull/24933#pullrequestreview-5544257873) - 2026-10-16
+* [Review] [Review on: cl: close the persistent block collector when the stage loop exits](https://github.com/erigontech/erigon/pull/24892#pullrequestreview-5542437463) - 2026-10-16
+* [Pull Request] [cl/beacon/handler: proposer_lookahead reads epoch data by slot](https://github.com/erigontech/erigon/pull/24891) - 2026-10-16
+* [Review] [Review on: cl/beacon/handler: proposer_lookahead reads epoch data by slot](https://github.com/erigontech/erigon/pull/24891#pullrequestreview-5542455379) - 2026-10-16
+* [Pull Request] [execution: benchmarks run on the versioned noMaterialize state, as eth_call does](https://github.com/erigontech/erigon/pull/24915) - 2026-10-16
+* [Review] [Review on: execution: benchmarks run on the versioned noMaterialize state, as eth_call does](https://github.com/erigontech/erigon/pull/24915#pullrequestreview-5542420894) - 2026-10-16
+* [Issue] [cl/antiquary: the epoch-data row of the first Fulu epoch is written with the Electra schema](https://github.com/erigontech/erigon/issues/24952) - 2026-10-16
+* [Commit] [cl: close the persistent block collector when the stage loop exits (#24892)](https://github.com/erigontech/erigon/commit/84c989829e68de7022cc2cfe9acb6f2a8b9099a1) - 2026-10-16
+* [Commit] [cl/beacon/handler: proposer_lookahead reads epoch data by slot (#24891)](https://github.com/erigontech/erigon/commit/4b176d725f7568e72fa391a3812b5919b957ba29) - 2026-10-16
+* [Commit] [execution: benchmarks run on the versioned noMaterialize state, as eth_call does (#24915)](https://github.com/erigontech/erigon/commit/72c6b9baeba17f4eedd717cd18edb5b0c7b050b5) - 2026-10-16
+* [Commit] [rpc: eth_estimateGas, eth_createAccessList and debug_traceCall run on the versioned state path (#24916)](https://github.com/erigontech/erigon/commit/5bef97369bb0f56c68ec2677cc566ac11fb08f53) - 2026-10-16
+* [Commit] [go.mod: otter main, with the in-place replacement of a live key (#24914)](https://github.com/erigontech/erigon/commit/630c5988885bbda5904cead6cdeab2bbb87f8282) - 2026-10-16
+* [Commit] [cmd/rpctest: report lost writes of the record and error files (#24890)](https://github.com/erigontech/erigon/commit/3f892ee6910a65a1bf7bbc12b308b24d48a0a799) - 2026-10-16
+* [Commit] [cl/beacon/handler: attestation_data answers 503 when the head cannot be read (#24893)](https://github.com/erigontech/erigon/commit/56f7bace393493435535d1d8ea02ff35a630b6c4) - 2026-10-16
+* [Commit] [cl/phase1/stages: chain-tip sync flushes the block collector with the stage context (#24895)](https://github.com/erigontech/erigon/commit/0b03d262a16b8fd2e74b3e900e08063e059a1f25) - 2026-10-16
+* [Commit] [cl/transition: ProcessSyncAggregate fails closed when the domain cannot be computed (#24896)](https://github.com/erigontech/erigon/commit/b7837ee3f6a3da51d3fdeca7ab02e3923cc39ea3) - 2026-10-16
+* [Commit] [exec: a written address serves repeat storage and code-size reads from the read set (#24862)](https://github.com/erigontech/erigon/commit/a7175878ed35f59e1877de431d32675d9b64c2e7) - 2026-10-16
+* [Commit] [cl/beacon/handler: expected_withdrawals answers 404 for a pruned block body (#24894)](https://github.com/erigontech/erigon/commit/25c90d2aa34eef6773dd6dfc05317817248d85c8) - 2026-10-16
 ## Q3 2026
 
 
