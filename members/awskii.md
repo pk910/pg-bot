@@ -95,6 +95,14 @@ Team: Erigon
 * [Commit] [db/kv/mdbx: SafeNoSync flushes from the poller, not inside the commit (#24953)](https://github.com/erigontech/erigon/commit/0c2261d79ed7995d0f2e9e1ca3e599fe8609bb7f) - 2026-10-16
 * [Commit] [commitment: build the ModeParallel prefix trie off the execution thread (#24252)](https://github.com/erigontech/erigon/commit/6efe84c762966f81d275108d92e1cd3bb9a323ca) - 2026-10-16
 * [Commit] [db/integrity, cmd/utils/app: detect RCache holes in empty blocks (#24400)](https://github.com/erigontech/erigon/commit/8c248136cfe847e2513af5c3cf96d319a7cb1746) - 2026-10-16
+* [Pull Request] [cl: copy each new head into a reused beacon state instead of allocating one](https://github.com/erigontech/erigon/pull/25003) - 2026-10-17
+* [Pull Request] [db/snapshotsync: scope RemoveOverlaps to the collection's own types](https://github.com/erigontech/erigon/pull/24998) - 2026-10-17
+* [Review] [Review on: cl/das, cl/phase1/stages: backfill custody columns of forward-synced blocks](https://github.com/erigontech/erigon/pull/24967#pullrequestreview-5555466750) - 2026-10-17
+* [Pull Request] [cl/phase1/forkchoice: keep pre-Gloas get_head vote weights across calls](https://github.com/erigontech/erigon/pull/24985) - 2026-10-17
+* [Review] [Review on: exec: to not intern transient storage key ](https://github.com/erigontech/erigon/pull/24968#pullrequestreview-5555466890) - 2026-10-17
+* [Issue] [db/snapshotsync: EL RemoveOverlaps reports caplin overlaps to the seeder, dropping their torrents while the files stay](https://github.com/erigontech/erigon/issues/24986) - 2026-10-17
+* [Commit] [db/snapshotsync: fix stale RemoveOverlaps .tmp note on DumpCaplinState (#24979)](https://github.com/erigontech/erigon/commit/d4e0b8a8b00612f6c1b44361c96beed8b7df9101) - 2026-10-17
+* [Commit] [db/snapshotsync: scope RemoveOverlaps to the collection's own types (#24998)](https://github.com/erigontech/erigon/commit/c9f0ca49d5bde1cfc7a5357a919b26215cde951e) - 2026-10-17
 ## Q3 2026
 
 

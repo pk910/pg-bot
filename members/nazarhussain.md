@@ -61,6 +61,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [build: add AFL++ fuzzing image](https://github.com/ChainSafe/lodestar-z/pull/787) - 2026-10-14
 * [Review] [Review on: feat: expose native gloas views](https://github.com/ChainSafe/lodestar-z/pull/765#pullrequestreview-5520132266) - 2026-10-14
 * [Issue] [fuzz: SIGILL crashes in ssz_containers and ssz_bitvector on fuzzer-01](https://github.com/ChainSafe/lodestar-z/issues/792) - 2026-10-16
+* [Commit] [build: add AFL++ fuzzing image (#787)](https://github.com/ChainSafe/lodestar-z/commit/efec11d2ed928be17d87f464b05e54b58d7df5e4) - 2026-10-17
 ## Q3 2026
 
 
