@@ -36,6 +36,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(init): fail startup when a listener port is in use](https://github.com/NethermindEth/nethermind/pull/14571#pullrequestreview-5488281754) - 2026-10-12
 * [Commit] [refactor(txpool): resolve ITxPool, ITxSender and ITransactionComparerProvider from DI (#14253)](https://github.com/NethermindEth/nethermind/commit/4ba96ba871c9264c92cd643ff7fc8a23cc3af041) - 2026-10-13
 * [Pull Request] [feat(trie): experimental native Rust Patricia bulk set for flat DB](https://github.com/NethermindEth/nethermind/pull/14689) - 2026-10-15
+* [Review] [Review on: perf(state): overwrite an unobserved account update in place](https://github.com/NethermindEth/nethermind/pull/14793#pullrequestreview-5566218599) - 2026-10-19
+* [Review] [Review on: test(benchmarks): use NullLogManager instead of LimboLogs in benchmark projects](https://github.com/NethermindEth/nethermind/pull/14831#pullrequestreview-5566209906) - 2026-10-19
+* [Review] [Review on: ci: chunk Nethermind.Runner.Test on macOS and Windows runners](https://github.com/NethermindEth/nethermind/pull/14871#pullrequestreview-5566204078) - 2026-10-19
 ## Q3 2026
 
 
