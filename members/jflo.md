@@ -40,6 +40,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: ci workflow to run on release* branch](https://github.com/besu-eth/besu/pull/11613#pullrequestreview-5552283977) - 2026-10-16
 * [Pull Request] [Reconcile 26.10.0 into main](https://github.com/besu-eth/besu/pull/11634) - 2026-10-16
 * [Issue] [Snap sync restarted mid-download can permanently lose contract bytecode → later stateroot mismatch](https://github.com/besu-eth/besu/issues/11633) - 2026-10-16
+* [Pull Request] [Bogota devnet 1](https://github.com/besu-eth/besu/pull/11663) - 2026-10-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026
