@@ -40,6 +40,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(jsonrpc): return the accessed list from eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/14910#pullrequestreview-5578471597) - 2026-10-19
 * [Commit] [fix(consensus): reject invalid typed transaction parity unconditionally (#14713)](https://github.com/NethermindEth/nethermind/commit/a6f1357dce4e1ca9bb37e5c92bad50eb4fd8c231) - 2026-10-19
 * [Review] [Review on: fix(debug): validate precompile moves before traceCall fees](https://github.com/NethermindEth/nethermind/pull/14834#pullrequestreview-5583834214) - 2026-10-20
+* [Review] [Review on: feat(abi): add a Span-based ABI encoder and decoder](https://github.com/NethermindEth/nethermind/pull/14999#pullrequestreview-5606138556) - 2026-10-21
+* [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5604746198) - 2026-10-21
+* [Review] [Review on: fix(rpc): align four JSON-RPC behaviours with execution-apis](https://github.com/NethermindEth/nethermind/pull/14978#pullrequestreview-5604606425) - 2026-10-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

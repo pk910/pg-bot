@@ -78,6 +78,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-5593907772) - 2026-10-21
 * [Review] [Review on: Optimize `libp2p` and `discv5` logging](https://github.com/sigp/lighthouse/pull/9356#pullrequestreview-5581607346) - 2026-10-20
 * [Review] [Review on: Set the proposer boost only after the block is added to fork choice](https://github.com/sigp/lighthouse/pull/10366#pullrequestreview-5580361037) - 2026-10-20
+* [Pull Request] [Release v8.3.1](https://github.com/sigp/lighthouse/pull/10420) - 2026-10-22
+* [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5607554016) - 2026-10-21
+* [Review] [Review on: Dedup gossip payload envelopes against fork choice after a restart](https://github.com/sigp/lighthouse/pull/10414#pullrequestreview-5607341056) - 2026-10-21
+* [Review] [Review on: Report pre-Gloas head_v2 SSE events as full](https://github.com/sigp/lighthouse/pull/10402#pullrequestreview-5595732760) - 2026-10-21
+* [Review] [Review on: Fix CI audit failure](https://github.com/sigp/lighthouse/pull/10407#pullrequestreview-5594339265) - 2026-10-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 
