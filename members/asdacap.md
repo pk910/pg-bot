@@ -45,6 +45,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952) - 2026-10-20
 * [Pull Request] [test(merge): wait longer for the queued early sender recovery](https://github.com/NethermindEth/nethermind/pull/14993) - 2026-10-20
 * [Commit] [test(merge): wait longer for the queued early sender recovery (#14993)](https://github.com/NethermindEth/nethermind/commit/0826cb8b4489edcb7fc56933645772492062ae80) - 2026-10-21
+* [Pull Request] [fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070) - 2026-10-22
 ## Q3 2026
 
 

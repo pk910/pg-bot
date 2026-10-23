@@ -129,6 +129,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(slots): proposer clients as fields in the slot information section (#451)](https://github.com/ethpandaops/lab/commit/713caf5ba02407b4021baa2bc52e61a154b50d6a) - 2026-10-20
 
 * [Pull Request] [style: design system polish (cards, radius, controls, type, surfaces, charts)](https://github.com/ethpandaops/lab/pull/458) - 2026-10-21
+* [Commit] [style: design system polish (cards, radius, controls, type, surfaces, charts) (#458)](https://github.com/ethpandaops/lab/commit/a1819fb1df7dfd2d4a676a638e1cabe4a211d60a) - 2026-10-22
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

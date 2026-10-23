@@ -35,6 +35,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Mark pre-Gloas builder settings in help text and docs](https://github.com/sigp/lighthouse/pull/10395#pullrequestreview-5584102249) - 2026-10-20
 * [Pull Request] [Remove audit ignore](https://github.com/sigp/lighthouse/pull/10419) - 2026-10-22
 * [Review] [Review on: Add CLI parameters for ePBS builder configuration (#10185)](https://github.com/sigp/lighthouse/pull/10374#pullrequestreview-5597433936) - 2026-10-21
+* [Review] [Review on: Add gzip compression to HTTP metrics endpoints](https://github.com/sigp/lighthouse/pull/10338#pullrequestreview-5608584977) - 2026-10-22
 ## Q3 2026
 
 

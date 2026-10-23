@@ -144,6 +144,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Key the gossip seen cache by a cheap SHA-256 fast id](https://github.com/Consensys-Incorporated/teku/pull/11549#pullrequestreview-5598573791) - 2026-10-21
 * [Commit] [Keep imported slashing protection from being overwritten by cache (#11539)](https://github.com/Consensys-Incorporated/teku/commit/1274c4ced21a54ea47ce11d5bf167ebbd6ce813d) - 2026-10-21
 * [Commit] [Make batch gather window test independent of submission timing (#11550)](https://github.com/Consensys-Incorporated/teku/commit/32f5f9090cf36c78f5fd81f8c2bbf92ecc12d46e) - 2026-10-21
+* [Review] [Review on: Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560#pullrequestreview-5608576253) - 2026-10-22
+* [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5608653097) - 2026-10-22
+* [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5608776720) - 2026-10-22
+* [Review] [Review on: Envelopes by range follow ups](https://github.com/Consensys-Incorporated/teku/pull/11551#pullrequestreview-5608747346) - 2026-10-22
+* [Commit] [Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot (#11540)](https://github.com/Consensys-Incorporated/teku/commit/b036e2ba6d75fda0b6de45aefd5f334786c80802) - 2026-10-22
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

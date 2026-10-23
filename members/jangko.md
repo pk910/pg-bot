@@ -62,6 +62,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Prevent branches from creating new cache if fallback available](https://github.com/status-im/nimbus-eth1/pull/5026) - 2026-10-21
 * [Review] [Review on: rpc: fix sign/send transaction crash on missing from](https://github.com/status-im/nimbus-eth1/pull/5023#pullrequestreview-5594357345) - 2026-10-21
 * [Commit] [Prevent branch from creating new cache if fallback available (#5026)](https://github.com/status-im/nimbus-eth1/commit/0861b2284545700d63a044dd74f77a7a33ad89c4) - 2026-10-21
+* [Pull Request] [heze-devnet-3](https://github.com/status-im/nimbus-eth1/pull/5055) - 2026-10-22
+* [Pull Request] [evmstate handle tx decode exception](https://github.com/status-im/nimbus-eth1/pull/5037) - 2026-10-22
+* [Commit] [evmstate handle tx decode exception (#5037)](https://github.com/status-im/nimbus-eth1/commit/c1ea5b11c67d8c336675a868f22780834416e933) - 2026-10-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-json-serialization: Format version = 1](https://github.com/status-im/nimbus-eth2/pull/9190) - 2026-10-03
 ## Q3 2026
