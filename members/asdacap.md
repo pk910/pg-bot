@@ -46,6 +46,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [test(merge): wait longer for the queued early sender recovery](https://github.com/NethermindEth/nethermind/pull/14993) - 2026-10-20
 * [Commit] [test(merge): wait longer for the queued early sender recovery (#14993)](https://github.com/NethermindEth/nethermind/commit/0826cb8b4489edcb7fc56933645772492062ae80) - 2026-10-21
 * [Pull Request] [fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070) - 2026-10-22
+* [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5627759834) - 2026-10-23
+* [Review] [Review on: fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070#pullrequestreview-5627901951) - 2026-10-23
 ## Q3 2026
 
 

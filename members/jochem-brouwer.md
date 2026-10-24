@@ -23,6 +23,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: refactor(test-benchmark): keep `CALLDATALOAD` benchmark attack block stack-neutral](https://github.com/ethereum/execution-specs/pull/3771#pullrequestreview-5515157946) - 2026-10-14
 * [Pull Request] [feat(test-benchmark): add invalid-block benchmark with understated header gas](https://github.com/ethereum/execution-specs/pull/3822) - 2026-10-14
 * [Review] [Review on: feat(spec-specs, tests): implement EIP-8253, bump nonce of zero-nonce storage accounts](https://github.com/ethereum/execution-specs/pull/3535#pullrequestreview-5607980197) - 2026-10-22
+* [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5635511147) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Clarify storage key ordering](https://github.com/ethereum/EIPs/pull/12415#pullrequestreview-5390798586) - 2026-10-02
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392368932) - 2026-10-02

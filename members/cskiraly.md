@@ -35,6 +35,9 @@ Team: Codex DAS
 * [Commit] [core/types: fix effective tip comparison below the base fee (#35988)](https://github.com/ethereum/go-ethereum/commit/780e72b134b2528c89db2bf63a9b6fe452dd4dc9) - 2026-10-21
 * [Pull Request] [core/txpool/legacypool: index pending accounts by fee cap](https://github.com/ethereum/go-ethereum/pull/36000) - 2026-10-22
 * [Pull Request] [core/txpool/legacypool: serve Pending from a per-account cache](https://github.com/ethereum/go-ethereum/pull/35999) - 2026-10-22
+* [Review] [Review on: version: start v1.17.11 cycle](https://github.com/ethereum/go-ethereum/pull/36005#pullrequestreview-5628024492) - 2026-10-23
+* [Review] [Review on: version: release 1.17.10](https://github.com/ethereum/go-ethereum/pull/36002#pullrequestreview-5626684154) - 2026-10-23
+* [Review] [Review on: core, params: revert schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/36001#pullrequestreview-5626179469) - 2026-10-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

@@ -82,10 +82,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(cannon): unstick four stalled backfill derivers (#914)](https://github.com/ethpandaops/xatu/commit/81bb024ff63f834789ed659df44e01fc9fe9a97b) - 2026-10-20
 * [Commit] [feat(libp2p): capture gossipsub partial data column messages (#915)](https://github.com/ethpandaops/xatu/commit/26d512fba81f005fb5d32442ff07ff38bcb8975c) - 2026-10-20
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929#pullrequestreview-5596796575) - 2026-10-21
+* [Pull Request] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking](https://github.com/ethpandaops/xatu/pull/930) - 2026-10-23
+* [Commit] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking (#930)](https://github.com/ethpandaops/xatu/commit/0f39220df8384985b618ee7f36ea3de57be6604b) - 2026-10-23
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
 
+* [Review] [Review on: fix: bump pip to 26.2.2 and certifi for the eMudhra CA compromise](https://github.com/ethpandaops/template-devnets/pull/198#pullrequestreview-5624044874) - 2026-10-23
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 

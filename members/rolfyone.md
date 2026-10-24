@@ -149,6 +149,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Added the Gloas beacon API endpoints `GET /eth/v1/beacon/states/{stat…](https://github.com/Consensys-Incorporated/teku/pull/11544#pullrequestreview-5608776720) - 2026-10-22
 * [Review] [Review on: Envelopes by range follow ups](https://github.com/Consensys-Incorporated/teku/pull/11551#pullrequestreview-5608747346) - 2026-10-22
 * [Commit] [Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot (#11540)](https://github.com/Consensys-Incorporated/teku/commit/b036e2ba6d75fda0b6de45aefd5f334786c80802) - 2026-10-22
+* [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5623373461) - 2026-10-23
+* [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5623395014) - 2026-10-23
+* [Commit] [Keep the finalized anchor DAS tracker alive while its payload is recovered (#11553)](https://github.com/Consensys-Incorporated/teku/commit/18f4166890c7fc0afdc07c737205eb6288b1f0b0) - 2026-10-23
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026
