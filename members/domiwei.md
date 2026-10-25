@@ -305,6 +305,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/forkchoice/fork_graph: stop fsyncing fork-graph dump files (#25251)](https://github.com/erigontech/erigon/commit/ff982437f94475bbd1140d2039447f57195ebab3) - 2026-10-23
 * [Commit] [cl: validate boundary blocks without a state copy (#25253)](https://github.com/erigontech/erigon/commit/598ba62530ff34f62df663bc3afaff30923fdfbe) - 2026-10-23
 * [Commit] [cl/phase1/network/services, cmd/caplin: republish queued execution payload envelopes (#25259)](https://github.com/erigontech/erigon/commit/43dc482075ade1572457c963c75066f5c35aa8bd) - 2026-10-23
+* [Pull Request] [cl/cltypes, cl/phase1/core/state/raw: encode Gloas builder version and payload availability per beacon-APIs](https://github.com/erigontech/erigon/pull/25326) - 2026-10-24
+* [Pull Request] [cl/beacon/handler: resolve execution payload envelope block_id via the canonical index](https://github.com/erigontech/erigon/pull/25323) - 2026-10-24
+* [Pull Request] [cl/beacon/handler: accept blobless execution payload envelope contents](https://github.com/erigontech/erigon/pull/25322) - 2026-10-24
+* [Pull Request] [cl/beacon/handler: fall back to historical pending queues on cache miss](https://github.com/erigontech/erigon/pull/25324) - 2026-10-24
+* [Commit] [cl/persistence: read the stored epoch-0 randao mix for epoch-2 seeds (#25296)](https://github.com/erigontech/erigon/commit/3cc9c6e42aa5b35ce495d1e869923e728b57b685) - 2026-10-24
+* [Commit] [cl/beacon, cl/phase1/stages: emit the Gloas payload_attributes event (#25292)](https://github.com/erigontech/erigon/commit/2e0c9769a6fbbc51a88a5cc696c504a7a9caf66f) - 2026-10-24
+* [Commit] [cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling (#25208)](https://github.com/erigontech/erigon/commit/78ffdd256488ea0d3b4e2174da5a2ff97deb869b) - 2026-10-24
 ## Q3 2026
 
 

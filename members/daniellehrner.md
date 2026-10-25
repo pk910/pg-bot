@@ -172,6 +172,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: SNAP2: Add the block ranges of the body back-fill](https://github.com/besu-eth/besu/pull/11706#pullrequestreview-5625602213) - 2026-10-23
 * [Review] [Review on: chore: set Amsterdam spec as finalised](https://github.com/besu-eth/besu/pull/11696#pullrequestreview-5623283234) - 2026-10-23
 * [Issue] [Move per-block receipt and root work off the importing thread](https://github.com/besu-eth/besu/issues/11747) - 2026-10-23
+* [Issue] [Preload the trie paths of the state prewarmed transactions change](https://github.com/besu-eth/besu/issues/11753) - 2026-10-24
+* [Issue] [Concatenate trie keys without tuweni's stream](https://github.com/besu-eth/besu/issues/11752) - 2026-10-24
+* [Issue] [Start storage slot preloads from the storage root the accumulator holds](https://github.com/besu-eth/besu/issues/11751) - 2026-10-24
+* [Issue] [Preload only the trie paths of the state a block changes](https://github.com/besu-eth/besu/issues/11750) - 2026-10-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

@@ -28,6 +28,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(blockchain): keep the block RLP length from validation to RPC](https://github.com/NethermindEth/nethermind/pull/15071#pullrequestreview-5615855720) - 2026-10-22
 * [Review] [Review on: perf(taiko): estimate a transaction's compressed size once per batch boundary](https://github.com/NethermindEth/nethermind/pull/15100#pullrequestreview-5615665720) - 2026-10-22
 * [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5627521742) - 2026-10-23
+* [Pull Request] [perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121) - 2026-10-24
+* [Commit] [perf(flat): hash each trie-warmer node lookup once across the caches (#15121)](https://github.com/NethermindEth/nethermind/commit/0a1d9345132c7532417ce86c1e2a4f27f11ad677) - 2026-10-24
 ## Q3 2026
 
 

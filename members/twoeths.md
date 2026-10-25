@@ -79,6 +79,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: apply forkchoiceUpdated verdicts to fork choice](https://github.com/ChainSafe/lodestar/pull/10436#pullrequestreview-5580767529) - 2026-10-20
 * [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597381799) - 2026-10-21
 * [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10464) - 2026-10-23
+* [Review] [Review on: fix: use the correct PTC duties dependent root for the Gloas fork epoch](https://github.com/ChainSafe/lodestar/pull/10468#pullrequestreview-5637684735) - 2026-10-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

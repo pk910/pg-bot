@@ -89,6 +89,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci: simplify the PR template and derive labels from the title only (#15020)](https://github.com/NethermindEth/nethermind/commit/48d1006ab4b27f857eeba8b47451b9c99fbd51fb) - 2026-10-22
 * [Review] [Review on: feat(config)!: embed built-in configs as resources](https://github.com/NethermindEth/nethermind/pull/15171#pullrequestreview-5630502156) - 2026-10-23
 * [Review] [Review on: fix(docgen): document eth_config fields and members omitted from the wire](https://github.com/NethermindEth/nethermind/pull/15177#pullrequestreview-5632232320) - 2026-10-23
+* [Review] [Review on: ci: migrate BAL catchup result checks to C#](https://github.com/NethermindEth/nethermind/pull/15138#pullrequestreview-5639589277) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate zkVM benchmark reporting to C#](https://github.com/NethermindEth/nethermind/pull/15149#pullrequestreview-5640337321) - 2026-10-24
+* [Pull Request] [docs: tighten winget package installation rules](https://github.com/NethermindEth/nethermind/pull/15191) - 2026-10-24
+* [Commit] [docs: tighten winget package installation rules (#15191)](https://github.com/NethermindEth/nethermind/commit/34b321cd18c9d255170f9e78a7fa64af19657040) - 2026-10-24
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

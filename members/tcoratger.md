@@ -306,6 +306,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [docs(mersenne-31): state the checked conversion ranges the code implements (#2538)](https://github.com/Plonky3/Plonky3/commit/7a438edb4eeeb2c64655d8dfd75157f269c193af) - 2026-10-23
 * [Commit] [fix(mersenne-31): accept the documented range in from_canonical_unchecked (#2537)](https://github.com/Plonky3/Plonky3/commit/a1ff1b14e5fb26eb46a0b840432a4326092fb197) - 2026-10-23
 * [Commit] [fix(goldilocks): check the dot product length without truncating it (#2535)](https://github.com/Plonky3/Plonky3/commit/005b16f55d25fc2509c26416852e5c16b3a86204) - 2026-10-23
+* [Pull Request] [fix(fri, lookup, multi-stark, uni-stark)!: hiding chunk count, lookup tuples, ood grinding bound, verifier key width](https://github.com/Plonky3/Plonky3/pull/2580) - 2026-10-24
+* [Pull Request] [fix(batch-stark, multi-stark, fri, security, keccak-air, sha256-air, blake3-air, blake2s-air): bus widths, lookup declarations, grinding bounds, short FRI round, odd characteristic](https://github.com/Plonky3/Plonky3/pull/2579) - 2026-10-24
+* [Pull Request] [fix(air, binary-pcs, circle, sha256-air, word, multi-stark)!: limb addition bounds, suffix split length, one-row circle domain, small-characteristic SHA-256 AIR, composition lookups](https://github.com/Plonky3/Plonky3/pull/2578) - 2026-10-24
+* [Commit] [fix(matrix): handle matrices with no columns and batches with no vectors (#2562)](https://github.com/Plonky3/Plonky3/commit/51db1ee89b1d6c7d318ae28207664a08418a2352) - 2026-10-24
+* [Commit] [fix(dft): ignore values past the last row in the small-batch transforms (#2564)](https://github.com/Plonky3/Plonky3/commit/9734387626cf5a859885de6a6b30dc49532ed96c) - 2026-10-24
+* [Commit] [docs(security): the DEEP list-size choice can set the reported level (#2557)](https://github.com/Plonky3/Plonky3/commit/bad5d1f7498b86821bfebbce1a0d220da7f24d24) - 2026-10-24
+* [Commit] [fix(security): decide compute_upper_m's strict bound in integers (#2555)](https://github.com/Plonky3/Plonky3/commit/5e455a5a1037a9448ab6e8361534c011d6921d9c) - 2026-10-24
+* [Commit] [fix(multilinear-util): scale the constant shortcuts of the factored table (#2571)](https://github.com/Plonky3/Plonky3/commit/5b34c51c354c3ae447b60b3574bc990e4a21bd07) - 2026-10-24
+* [Commit] [fix(multilinear-util): check the point arity when evaluating a polynomial (#2570)](https://github.com/Plonky3/Plonky3/commit/136c20b44446bea752fa2aab3278b857d5b4e1c8) - 2026-10-24
+* [Commit] [fix(commit): make the trivial PCS meet the PCS contract (#2567)](https://github.com/Plonky3/Plonky3/commit/b87fa8213ec87536612e6c6a36c020473d639731) - 2026-10-24
+* [Commit] [feat(symmetric): RTL sponge with a length IV and zero-suffix precomputation (#1547)](https://github.com/Plonky3/Plonky3/commit/5ac4e27bef042f309e4b47839d4c21558d5f8df4) - 2026-10-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

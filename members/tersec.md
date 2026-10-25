@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [test with Nim 2.4](https://github.com/status-im/nimbus-eth1/pull/5066) - 2026-10-23
 * [Commit] [rm dependabot-bait (#5073)](https://github.com/status-im/nimbus-eth1/commit/49d70c859ee702193120dd90e368dcc8aaff16c4) - 2026-10-23
 * [Commit] [bump eth2 to v26.10.2 (#5065)](https://github.com/status-im/nimbus-eth1/commit/f673a5fc30eb16d42b080dc1def0b1dd97ddcf5e) - 2026-10-23
+* [Commit] [version 0.4.4](https://github.com/status-im/nimbus-eth1/commit/721918411e26d0a73f33d69d4967be9b84bccf59) - 2026-10-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
@@ -93,6 +94,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Bump nim-eth"](https://github.com/status-im/nimbus-eth2/pull/9348) - 2026-10-22
 * [Review] [Review on: add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285#pullrequestreview-5610845924) - 2026-10-22
 * [Commit] [version v26.10.2](https://github.com/status-im/nimbus-eth2/commit/0abc0dd0fc0750a8875c49089d074f7d7197b62c) - 2026-10-23
+* [Review] [Review on: add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351#pullrequestreview-5638735561) - 2026-10-24
+* [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5638424391) - 2026-10-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

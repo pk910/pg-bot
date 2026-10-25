@@ -107,6 +107,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155) - 2026-10-23
 * [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5626733893) - 2026-10-23
 * [Commit] [test(prewarm): fix flaky ConsumerScope_Opening pre-warmer tests (#15144)](https://github.com/NethermindEth/nethermind/commit/2da902d4fd1255e842d1629948e7ce3474981577) - 2026-10-23
+* [Commit] [perf(merge): write the newPayload Received line after the block is queued (#15153)](https://github.com/NethermindEth/nethermind/commit/01451e13b2f40e114e9fd34966ad48670f40134a) - 2026-10-24
+* [Commit] [fix(rpc): check the Origin of WebSocket requests against CorsOrigins (#15155)](https://github.com/NethermindEth/nethermind/commit/a3a0d040f0244d23d177342ed6a1d4cd50acce3f) - 2026-10-24
+* [Commit] [test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa (#15143)](https://github.com/NethermindEth/nethermind/commit/07def5516488a9586e315a4b89c80642e34cb6d0) - 2026-10-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

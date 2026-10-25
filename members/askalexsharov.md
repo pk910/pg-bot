@@ -449,6 +449,28 @@ Team: Erigon
 * [Commit] [reduce size of agents.md (#25272)](https://github.com/erigontech/erigon/commit/de21c3d520e59297da54cf6a7f57a57ee95b02bb) - 2026-10-23
 * [Commit] [execution/vm: pin MCOPY fast-path bounds, copied bytes and dispatch (#25156)](https://github.com/erigontech/erigon/commit/2c25716b2f2b620cd386a418562cfe7548f20aff) - 2026-10-23
 * [Commit] [execution/vm: run cheap context, bitwise, DUP9-16 and SWAP5-16 ops inline (#25164)](https://github.com/erigontech/erigon/commit/e507491c0081a132083db1f1dd0b997f5ce93b12) - 2026-10-23
+* [Review] [Review on: execution/vm/vmgen: add README](https://github.com/erigontech/erigon/pull/25233#pullrequestreview-5638694554) - 2026-10-24
+* [Review] [Review on: db/snapshotsync/freezeblocks, rpc: hash eth_getLogs receipt txns by txNum in block files](https://github.com/erigontech/erigon/pull/25283#pullrequestreview-5636951074) - 2026-10-24
+* [Pull Request] [execution/stagedsync: keep a released exec slot's roTx for the next task](https://github.com/erigontech/erigon/pull/25314) - 2026-10-24
+* [Review] [Review on: execution/stagedsync: keep a released exec slot's roTx for the next task](https://github.com/erigontech/erigon/pull/25314#pullrequestreview-5638713978) - 2026-10-24
+* [Pull Request] [cl/clparams/initial_state: embed genesis states zstd-compressed](https://github.com/erigontech/erigon/pull/25301) - 2026-10-24
+* [Review] [Review on: db/state: step-rebase merges all step-aligned groups concurrently](https://github.com/erigontech/erigon/pull/25315#pullrequestreview-5638615676) - 2026-10-24
+* [Review] [Review on: exec: cut serial BAL work around exec](https://github.com/erigontech/erigon/pull/25220#pullrequestreview-5638698787) - 2026-10-24
+* [Review] [Review on: cl/persistence/blob_storage: index stored data columns per root in MDBX](https://github.com/erigontech/erigon/pull/25307#pullrequestreview-5637826784) - 2026-10-24
+* [Pull Request] [execution: a value transfer is not charged at validation, and a run before the sender charge does not park](https://github.com/erigontech/erigon/pull/25309) - 2026-10-24
+* [Review] [Review on: execution: a value transfer is not charged at validation, and a run before the sender charge does not park](https://github.com/erigontech/erigon/pull/25309#pullrequestreview-5637937832) - 2026-10-24
+* [Review] [Review on: execution/state: force versionMap ⟺ noMaterialize](https://github.com/erigontech/erigon/pull/24844#pullrequestreview-5636989988) - 2026-10-24
+* [Review] [Review on: db/state: copy the current key out of a pooled btree cursor in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/25308#pullrequestreview-5637827055) - 2026-10-24
+* [Pull Request] [db/state: store inverted index values as txNum chunks](https://github.com/erigontech/erigon/pull/25304) - 2026-10-24
+* [Review] [Review on: execution/stagedsync: count each parallel-executed block once in the block duration average](https://github.com/erigontech/erigon/pull/25306#pullrequestreview-5637521825) - 2026-10-24
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.92.0 to 0.93.0](https://github.com/erigontech/erigon/pull/25302#pullrequestreview-5637335200) - 2026-10-24
+* [Review] [Review on: cmd/utils/app, db/state: step-rebase merges files on a step-size increase](https://github.com/erigontech/erigon/pull/25295#pullrequestreview-5636770099) - 2026-10-24
+* [Review] [Review on: execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx](https://github.com/erigontech/erigon/pull/25240#pullrequestreview-5636809724) - 2026-10-24
+* [Commit] [node/eth: limit embedded MCP to --http.api namespaces (#25264)](https://github.com/erigontech/erigon/commit/a363ac8bc2ac2a721be0e79fbb286b00c4f7ad9b) - 2026-10-24
+* [Commit] [execution/stagedsync: a burnt contract that self-destructs loses the burn of its tx (#25263)](https://github.com/erigontech/erigon/commit/d5f877bbbd9126b6e5f7313d80a134ed859afc2d) - 2026-10-24
+* [Commit] [db/integrity: name block, tx and step in RCacheNoDups errors (#25270)](https://github.com/erigontech/erigon/commit/6bca230728906f1d3c1c829db3752c3f850305f1) - 2026-10-24
+* [Commit] [execution/state: revert logs by snapshot count, not per-log journal entries (#25227)](https://github.com/erigontech/erigon/commit/2de088f87aa29fbdd51e5a36054e0399c1f28286) - 2026-10-24
+* [Commit] [execution/vm: faster EXP for odd base with a large exponent (#25188)](https://github.com/erigontech/erigon/commit/a559c05f69e94fde61a6101d3a70fad1f5a8680c) - 2026-10-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

@@ -91,6 +91,28 @@ Team: Reth
 * [Pull Request] [refactor: own bundle state and drop revm](https://github.com/paradigmxyz/reth/pull/28098) - 2026-10-23
 * [Pull Request] [perf(rpc): hash simulated block changes once](https://github.com/paradigmxyz/reth/pull/28094) - 2026-10-23
 * [Pull Request] [fix(rpc): convert call request once](https://github.com/paradigmxyz/reth/pull/28097) - 2026-10-23
+* [Pull Request] [chore: test evm2 #733 with the JIT](https://github.com/paradigmxyz/reth/pull/28133) - 2026-10-24
+* [Pull Request] [fix(docker): fetch without the sccache wrapper](https://github.com/paradigmxyz/reth/pull/28130) - 2026-10-24
+* [Pull Request] [fix(docker): fetch dependencies under a locked cache](https://github.com/paradigmxyz/reth/pull/28129) - 2026-10-24
+* [Pull Request] [chore(deps): bump evm2 to latest main](https://github.com/paradigmxyz/reth/pull/28127) - 2026-10-24
+* [Pull Request] [perf(deps): use smolgen's gitcl backend](https://github.com/paradigmxyz/reth/pull/28124) - 2026-10-24
+* [Pull Request] [perf(deps): replace vergen with smolgen](https://github.com/paradigmxyz/reth/pull/28122) - 2026-10-24
+* [Review] [Review on: fix(ci): avoid LLDB conflicts in benchmarks](https://github.com/paradigmxyz/reth/pull/28121#pullrequestreview-5637580904) - 2026-10-24
+* [Pull Request] [perf(deps): never build rocksdb with jemalloc](https://github.com/paradigmxyz/reth/pull/28119) - 2026-10-24
+* [Pull Request] [ci: remove conflicting python3-lldb before installing LLVM](https://github.com/paradigmxyz/reth/pull/28118) - 2026-10-24
+* [Pull Request] [chore(deps): ignore RUSTSEC-2026-0387](https://github.com/paradigmxyz/reth/pull/28117) - 2026-10-24
+* [Commit] [fix(docker): fetch without the sccache wrapper (#28130)](https://github.com/paradigmxyz/reth/commit/f90ed272f0a48361617e78ed5216668cfb999419) - 2026-10-24
+* [Commit] [fix(docker): fetch dependencies under a locked cache (#28129)](https://github.com/paradigmxyz/reth/commit/b80fed88b65d91809f903d815b51fac706c7c1d1) - 2026-10-24
+* [Commit] [chore(deps): bump evm2 to latest main (#28127)](https://github.com/paradigmxyz/reth/commit/90e613adece36cdfcddfbe0dc806fa93edb8de31) - 2026-10-24
+* [Commit] [perf(deps): use smolgen's gitcl backend (#28124)](https://github.com/paradigmxyz/reth/commit/74a10c6a683e9a2f967a82332fb3d33821ad333d) - 2026-10-24
+* [Commit] [perf(deps): replace vergen with smolgen (#28122)](https://github.com/paradigmxyz/reth/commit/ae241ddf611352af18263fce81381d48e5234e64) - 2026-10-24
+* [Commit] [perf(deps): never build rocksdb with jemalloc (#28119)](https://github.com/paradigmxyz/reth/commit/543477be2ad00f881f41b28f93e643180b051c7a) - 2026-10-24
+* [Commit] [perf(cli): avoid per-table monomorphization in db commands (#28111)](https://github.com/paradigmxyz/reth/commit/e2d0d0ec5137ef652d0cfea9f1da555b136242dd) - 2026-10-24
+* [Commit] [perf(tasks): type-erase spawned futures (#28112)](https://github.com/paradigmxyz/reth/commit/e88c711215d37e4ac26ea317ae578f70b4680a8b) - 2026-10-24
+* [Commit] [perf(deps): build OTLP only with the otlp feature (#28108)](https://github.com/paradigmxyz/reth/commit/1f25e004b4dff9158b504e3a3fc0caba2872c7d4) - 2026-10-24
+* [Commit] [perf(deps): drop unused rocksdb codecs and unused deps (#28109)](https://github.com/paradigmxyz/reth/commit/5f9d927b86539d726ad5798a304e45804367bba0) - 2026-10-24
+* [Commit] [perf: build librocksdb-sys without debug info in dev (#28110)](https://github.com/paradigmxyz/reth/commit/2ee6fef8d780c7168df97839f90c77265116148b) - 2026-10-24
+* [Commit] [chore(deps): ignore RUSTSEC-2026-0387 (#28117)](https://github.com/paradigmxyz/reth/commit/57c0559e8efe2f239524a2265947712979e058d4) - 2026-10-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

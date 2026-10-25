@@ -54,6 +54,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #583 from jsign/jsign-propose-alex](https://github.com/protocolguild/documentation/commit/d3c4219a6d5e0415a220f5bd65e105b6ed987cb7) - 2026-10-23
 * [Commit] [Merge pull request #582 from jsign/jsign-propose-derek](https://github.com/protocolguild/documentation/commit/910d54a179626f0a316659f9883ae8ea8298a7f7) - 2026-10-23
 * [Commit] [Merge pull request #579 from nixorokish/main](https://github.com/protocolguild/documentation/commit/953466226997668066299d98e9722a04355236a1) - 2026-10-23
+* [Commit] [Merge pull request #589 from joshieDo/docs/remove-joshiedo](https://github.com/protocolguild/documentation/commit/f120b1073c9dbf43f1f837e1cc63c05552f41906) - 2026-10-24
 ## Q3 2026
 
 

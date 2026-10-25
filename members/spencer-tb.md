@@ -155,6 +155,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19
 * [Commit] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs (#28020)](https://github.com/paradigmxyz/reth/commit/fd936f92556167b25dce5899c2d52384c6c60d0f) - 2026-10-20
+* [Commit] [chore(hive): run the eels simulators from the published execution-specs images (#28021)](https://github.com/paradigmxyz/reth/commit/b51bb683f8767b4127a361d1ad404f4d6c5cd1e7) - 2026-10-24
 ## Q3 2026
 
 

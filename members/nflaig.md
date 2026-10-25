@@ -328,6 +328,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: carry milliseconds through the fork choice timeliness API](https://github.com/ChainSafe/lodestar/pull/10455#pullrequestreview-5628153640) - 2026-10-23
 * [Review] [Review on: fix: floor slot component durations as the spec does](https://github.com/ChainSafe/lodestar/pull/10456#pullrequestreview-5627257126) - 2026-10-23
 * [Commit] [fix: round slot component durations (#10466)](https://github.com/ChainSafe/lodestar/commit/4e12403e398cd09c6e8819265f1684ed386c2ec7) - 2026-10-23
+* [Review] [Review on: test: stop leaking loggers and db mocks per fork choice test case](https://github.com/ChainSafe/lodestar/pull/10469#pullrequestreview-5638764354) - 2026-10-24
+* [Review] [Review on: fix: recompute unrealized checkpoints for blocks with slashings](https://github.com/ChainSafe/lodestar/pull/10467#pullrequestreview-5638650659) - 2026-10-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

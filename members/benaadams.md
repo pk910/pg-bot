@@ -307,6 +307,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5632403123) - 2026-10-23
 * [Review] [Review on: perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153#pullrequestreview-5632402648) - 2026-10-23
 * [Commit] [ci: introduce C# script validation and migrate solution reference tests (#15136)](https://github.com/NethermindEth/nethermind/commit/f5b55c73a4d90f3fd2b37aa3ff024549b49cbeb1) - 2026-10-23
+* [Review] [Review on: ci: migrate devnet genesis fetching to C#](https://github.com/NethermindEth/nethermind/pull/15141#pullrequestreview-5636929399) - 2026-10-24
+* [Review] [Review on: ci: migrate test project orchestration to C#](https://github.com/NethermindEth/nethermind/pull/15140#pullrequestreview-5636928108) - 2026-10-24
+* [Review] [Review on: ci: migrate build stall watchdog to C#](https://github.com/NethermindEth/nethermind/pull/15145#pullrequestreview-5636929395) - 2026-10-24
+* [Review] [Review on: ci: migrate Hive result processing to C#](https://github.com/NethermindEth/nethermind/pull/15139#pullrequestreview-5636928936) - 2026-10-24
+* [Review] [Review on: ci: migrate BAL catchup result checks to C#](https://github.com/NethermindEth/nethermind/pull/15138#pullrequestreview-5636928705) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate zkVM benchmark reporting to C#](https://github.com/NethermindEth/nethermind/pull/15149#pullrequestreview-5636930760) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate AI review command tests to C#](https://github.com/NethermindEth/nethermind/pull/15147#pullrequestreview-5636930573) - 2026-10-24
+* [Review] [Review on: ci: migrate runtime pruning to C#](https://github.com/NethermindEth/nethermind/pull/15137#pullrequestreview-5637037452) - 2026-10-24
+* [Review] [Review on: ci: migrate sync automation and GCP runner scripts to C#](https://github.com/NethermindEth/nethermind/pull/15142#pullrequestreview-5636928902) - 2026-10-24
+* [Review] [Review on: ci: migrate EVM benchmark comparison to C#](https://github.com/NethermindEth/nethermind/pull/15146#pullrequestreview-5636930257) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate Superchain and sync settings to C#](https://github.com/NethermindEth/nethermind/pull/15150#pullrequestreview-5636929602) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate verifier artifact fetching to C#](https://github.com/NethermindEth/nethermind/pull/15151#pullrequestreview-5636930550) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate release version and image checks to C#](https://github.com/NethermindEth/nethermind/pull/15152#pullrequestreview-5636931199) - 2026-10-24
+* [Review] [Review on: ci: migrate RPC and EXPB benchmark scripts to C#](https://github.com/NethermindEth/nethermind/pull/15163#pullrequestreview-5636915545) - 2026-10-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

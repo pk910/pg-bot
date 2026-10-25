@@ -101,11 +101,24 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: add code to the witness only for pre-state reads (#5064)](https://github.com/status-im/nimbus-eth1/commit/f704f9fca2e142bebf707cc02bed605a7d612dfd) - 2026-10-23
 * [Commit] [bump vendor/nim-bearssl to v0.3.1 (#5063)](https://github.com/status-im/nimbus-eth1/commit/f12854fdec792ec79ebb025e4248c34acd76eb83) - 2026-10-23
 * [Commit] [Fix ReadOnlyLedger slot access list check + assert witness header limit (#5061)](https://github.com/status-im/nimbus-eth1/commit/6386480166687230d0290b45fb3c39fb60c7ede2) - 2026-10-23
+* [Pull Request] [stateless guest: bump ZisK to v1.3.2-alpha in CI](https://github.com/status-im/nimbus-eth1/pull/5084) - 2026-10-24
+* [Pull Request] [stateless: don't crash on an empty code in the witness](https://github.com/status-im/nimbus-eth1/pull/5083) - 2026-10-24
+* [Pull Request] [stateless: read the precompile account on a call in stateless execution](https://github.com/status-im/nimbus-eth1/pull/5082) - 2026-10-24
+* [Pull Request] [stateless: decode embedded trie nodes from their parent](https://github.com/status-im/nimbus-eth1/pull/5080) - 2026-10-24
+* [Pull Request] [stateless: build the payload tx root from the raw transaction bytes](https://github.com/status-im/nimbus-eth1/pull/5079) - 2026-10-24
+* [Pull Request] [stateless: keep collapse siblings only if the branch stays collapsed](https://github.com/status-im/nimbus-eth1/pull/5078) - 2026-10-24
+* [Commit] [stateless guest: bump ZisK to v1.3.2-alpha in CI (#5084)](https://github.com/status-im/nimbus-eth1/commit/185732516c71e2c06067a3127f0ed78cd3580925) - 2026-10-24
+* [Commit] [stateless: don't crash on an empty code in the witness (#5083)](https://github.com/status-im/nimbus-eth1/commit/07f9adaba2a1223afd3f3cefcf36d3cf4373c97e) - 2026-10-24
+* [Commit] [stateless: read the precompile account on a call in stateless execution (#5082)](https://github.com/status-im/nimbus-eth1/commit/f3d577f5cc48cdb9024aba17a3ca5b33a0cbe77e) - 2026-10-24
+* [Commit] [stateless: decode embedded trie nodes from their parent (#5080)](https://github.com/status-im/nimbus-eth1/commit/a10f7e5ca0e21107697e0bc6f061ed3042cf3afa) - 2026-10-24
+* [Commit] [stateless: build the payload tx root from the raw transaction bytes (#5079)](https://github.com/status-im/nimbus-eth1/commit/02c47480ea0814e27a92c7dafc37e35085f2b4c1) - 2026-10-24
+* [Commit] [stateless: keep collapse siblings only if the branch stays collapsed (#5078)](https://github.com/status-im/nimbus-eth1/commit/f5354e70fdc46fb622852caa54af0ebadd487116) - 2026-10-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22
 
 * [Review] [Review on: Tag SSZ ByteLists with correct type](https://github.com/status-im/nimbus-eth2/pull/9356#pullrequestreview-5625913910) - 2026-10-23
+* [Review] [Review on: Fix JustificationBits parser](https://github.com/status-im/nimbus-eth2/pull/9368#pullrequestreview-5638503659) - 2026-10-24
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Review] [Review on: Fix relative links in legacy specs and the uTP link](https://github.com/ethereum/portal-network-specs/pull/417#pullrequestreview-5626026347) - 2026-10-23
 ## Q3 2026

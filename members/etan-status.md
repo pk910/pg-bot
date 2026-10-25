@@ -60,6 +60,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9360#pullrequestreview-5632466882) - 2026-10-23
 * [Pull Request] [Avoid packing aggregates at infinity](https://github.com/status-im/nimbus-eth2/pull/9359) - 2026-10-23
 * [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5626233271) - 2026-10-23
+* [Pull Request] [Check array and seq types by type kind in addSizeofSig](https://github.com/status-im/nimbus-eth2/pull/9376) - 2026-10-24
+* [Pull Request] [Tighten addSizeofSig blob -> data exception](https://github.com/status-im/nimbus-eth2/pull/9373) - 2026-10-24
+* [Pull Request] [Allow overriding --mm via commandline](https://github.com/status-im/nimbus-eth2/pull/9372) - 2026-10-24
+* [Pull Request] [Drop unit test result reporting from CI](https://github.com/status-im/nimbus-eth2/pull/9371) - 2026-10-24
+* [Pull Request] [Compute isomorphicCast signatures in a generic const](https://github.com/status-im/nimbus-eth2/pull/9370) - 2026-10-24
+* [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/9369) - 2026-10-24
+* [Pull Request] [Fix JustificationBits parser](https://github.com/status-im/nimbus-eth2/pull/9368) - 2026-10-24
+* [Pull Request] [Track validator monitor counters in a macrocache](https://github.com/status-im/nimbus-eth2/pull/9367) - 2026-10-24
+* [Pull Request] [Remove the unused maxSize pragma](https://github.com/status-im/nimbus-eth2/pull/9363) - 2026-10-24
+* [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5637673052) - 2026-10-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -83,6 +93,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Build fork activation lists with staticFor](https://github.com/status-im/nimbus-eth1/pull/5048) - 2026-10-22
 * [Commit] [Build fork activation lists with staticFor (#5048)](https://github.com/status-im/nimbus-eth1/commit/13c105f635c640b6cc469eb0d2badc91c3e20ac7) - 2026-10-22
 * [Commit] [Fix comparison in verified proxy test backend (#5009)](https://github.com/status-im/nimbus-eth1/commit/5f29129e1f59e79b05babe128de5ee2778dd0299) - 2026-10-22
+* [Pull Request] [Collect hardfork field names via recordFields](https://github.com/status-im/nimbus-eth1/pull/5077) - 2026-10-24
 ## Q3 2026
 
 

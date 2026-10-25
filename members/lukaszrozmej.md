@@ -675,6 +675,31 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): convert big-endian 256-bit integers a word at a time (#15101)](https://github.com/NethermindEth/nethermind/commit/04952cdc8b85a6a9747298a300755c9a4d227b0b) - 2026-10-23
 * [Commit] [fix(nethdev): do not produce empty blocks for txs the producer cannot include (#15065)](https://github.com/NethermindEth/nethermind/commit/dc6a2de36f322b426d908066b930828d7e9e83ab) - 2026-10-23
 * [Commit] [feat(rpc): add debug_storageRangeAt (#15061)](https://github.com/NethermindEth/nethermind/commit/9d3685d2f95c0a26f9778719c77a2e6b19a1fdc9) - 2026-10-23
+* [Review] [Review on: ci: migrate devnet genesis fetching to C#](https://github.com/NethermindEth/nethermind/pull/15141#pullrequestreview-5639564492) - 2026-10-24
+* [Pull Request] [refactor: use LibraryImport for P/Invoke declarations](https://github.com/NethermindEth/nethermind/pull/15194) - 2026-10-24
+* [Review] [Review on: ci: migrate BAL catchup result checks to C#](https://github.com/NethermindEth/nethermind/pull/15138#pullrequestreview-5639564767) - 2026-10-24
+* [Pull Request] [feat(rpc-bench): force JIT frame pointers in perf runs and add annotated assembly recipe](https://github.com/NethermindEth/nethermind/pull/15193) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate zkVM benchmark reporting to C#](https://github.com/NethermindEth/nethermind/pull/15149#pullrequestreview-5639564052) - 2026-10-24
+* [Pull Request] [perf(runner): disable thread pool hill climbing and raise worker spin limit](https://github.com/NethermindEth/nethermind/pull/15192) - 2026-10-24
+* [Review] [Review on: docs: tighten winget package installation rules](https://github.com/NethermindEth/nethermind/pull/15191#pullrequestreview-5639825745) - 2026-10-24
+* [Review] [Review on: refactor(ci): migrate AI review command tests to C#](https://github.com/NethermindEth/nethermind/pull/15147#pullrequestreview-5639564144) - 2026-10-24
+* [Review] [Review on: ci: migrate runtime pruning to C#](https://github.com/NethermindEth/nethermind/pull/15137#pullrequestreview-5639564893) - 2026-10-24
+* [Review] [Review on: fix(rpc): classify pruned processed orphan blocks as unavailable history](https://github.com/NethermindEth/nethermind/pull/15190#pullrequestreview-5639597621) - 2026-10-24
+* [Review] [Review on: ci: migrate EVM benchmark comparison to C#](https://github.com/NethermindEth/nethermind/pull/15146#pullrequestreview-5639564231) - 2026-10-24
+* [Review] [Review on: perf(merge): write the newPayload Received line after the block is queued](https://github.com/NethermindEth/nethermind/pull/15153#pullrequestreview-5639538956) - 2026-10-24
+* [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5639511007) - 2026-10-24
+* [Review] [Review on: fix(rpc): name the failing argument in -32602 errors, as Geth does](https://github.com/NethermindEth/nethermind/pull/15093#pullrequestreview-5639508372) - 2026-10-24
+* [Pull Request] [feat(evm): prototype milli-gas metering with legacy gas units](https://github.com/NethermindEth/nethermind/pull/15188) - 2026-10-24
+* [Review] [Review on: feat(evm): prototype milli-gas metering with legacy gas units](https://github.com/NethermindEth/nethermind/pull/15188#pullrequestreview-5637394319) - 2026-10-24
+* [Review] [Review on: feat(evm): prototype the EIP-8037 per-frame state-gas allowance](https://github.com/NethermindEth/nethermind/pull/15187#pullrequestreview-5637394169) - 2026-10-24
+* [Review] [Review on: feat(evm): prototype EIP-8037 reservoir-only refills and legacy share](https://github.com/NethermindEth/nethermind/pull/15186#pullrequestreview-5637394050) - 2026-10-24
+* [Commit] [refactor(monitoring): make Nethermind.Monitoring a plugin (#15174)](https://github.com/NethermindEth/nethermind/commit/ba6cfb22188b257a2805beb3c4c72879a5c48bb4) - 2026-10-24
+* [Commit] [feat(config)!: embed built-in configs as resources (#15171)](https://github.com/NethermindEth/nethermind/commit/8e761275b90adf4fafd1efcb9dcc6ebc7aeddb95) - 2026-10-24
+* [Commit] [feat(logging): add option to mask IP addresses and enodes in logs (#15168)](https://github.com/NethermindEth/nethermind/commit/a9cb20426d21f7672030e53d79f26b569f8b45a2) - 2026-10-24
+* [Commit] [refactor(consensus): remove IRewardCalculatorSource (#15165)](https://github.com/NethermindEth/nethermind/commit/d8856b69267264987c156daf1ce243f19cc7087b) - 2026-10-24
+* [Commit] [refactor(network)!: remove Discovery.Bootnodes (#15167)](https://github.com/NethermindEth/nethermind/commit/0fb8d5f0325fd7894a9f8a19c520a3b00df706a0) - 2026-10-24
+* [Commit] [fix(rpc): send pending responses after an IPC client closes its send side (#15162)](https://github.com/NethermindEth/nethermind/commit/e93a9c74ba3386b3590dbb9b4240f31d19a92688) - 2026-10-24
+* [Commit] [feat(rpc): report snap sync progress in eth_syncing (#15176)](https://github.com/NethermindEth/nethermind/commit/2a39aa2b4823b23d3f6a83cd7d820bde6c26d46c) - 2026-10-24
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -768,6 +793,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [schemas: add optional blockAccessList to BadBlock](https://github.com/ethereum/execution-apis/pull/955) - 2026-10-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2780: add the state-gas allowance of call frames](https://github.com/ethereum/EIPs/pull/12582) - 2026-10-24
+* [Pull Request] [Update EIP-2780: credit state-gas refills to the reservoir and add a legacy share](https://github.com/ethereum/EIPs/pull/12581) - 2026-10-24
+* [Pull Request] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/pull/12583) - 2026-10-24
+* [Pull Request] [Update EIP-8053: gas units at the contract boundary](https://github.com/ethereum/EIPs/pull/12584) - 2026-10-24
 ## Q3 2026
 
 

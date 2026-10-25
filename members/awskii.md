@@ -181,6 +181,29 @@ Team: Erigon
 * [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25208#pullrequestreview-5624165747) - 2026-10-23
 * [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5624164823) - 2026-10-23
 * [Review] [Review on: [r3.8] cl: end forward sync at a Gloas tip without a successor and refuse block production for past slots](https://github.com/erigontech/erigon/pull/25197#pullrequestreview-5624166155) - 2026-10-23
+* [Review] [Review on: execution/vm/vmgen: add README](https://github.com/erigontech/erigon/pull/25233#pullrequestreview-5636503710) - 2026-10-24
+* [Review] [Review on: [r3.8] rpc/jsonrpc: reject max nonce sender in eth_simulateV1 without validation](https://github.com/erigontech/erigon/pull/25276#pullrequestreview-5636502866) - 2026-10-24
+* [Review] [Review on: execution/stagedsync: keep a released exec slot's roTx for the next task](https://github.com/erigontech/erigon/pull/25314#pullrequestreview-5639098849) - 2026-10-24
+* [Review] [Review on: cl/clparams/initial_state: embed genesis states zstd-compressed](https://github.com/erigontech/erigon/pull/25301#pullrequestreview-5639098776) - 2026-10-24
+* [Review] [Review on: execution/vm: inline CODECOPY, CALLDATACOPY and RETURNDATACOPY](https://github.com/erigontech/erigon/pull/25222#pullrequestreview-5639098716) - 2026-10-24
+* [Pull Request] [cmd/utils/app, db/state: step-rebase step-size increase on binary-trie](https://github.com/erigontech/erigon/pull/25319) - 2026-10-24
+* [Pull Request] [db/state: step-rebase merges all step-aligned groups concurrently](https://github.com/erigontech/erigon/pull/25315) - 2026-10-24
+* [Pull Request] [cmd/utils/app: step-rebase merges the receipt cache on persist.receipts datadirs](https://github.com/erigontech/erigon/pull/25317) - 2026-10-24
+* [Review] [Review on: exec: cut serial BAL work around exec](https://github.com/erigontech/erigon/pull/25220#pullrequestreview-5636502290) - 2026-10-24
+* [Pull Request] [cl/persistence/blob_storage: index stored data columns per root in MDBX](https://github.com/erigontech/erigon/pull/25307) - 2026-10-24
+* [Review] [Review on: cl/persistence/blob_storage: index stored data columns per root in MDBX](https://github.com/erigontech/erigon/pull/25307#pullrequestreview-5638036893) - 2026-10-24
+* [Review] [Review on: execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait](https://github.com/erigontech/erigon/pull/25225#pullrequestreview-5636502345) - 2026-10-24
+* [Pull Request] [db/state: copy the current key out of a pooled btree cursor in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/25308) - 2026-10-24
+* [Review] [Review on: cl/phase1/forkchoice, cl/phase1/network/services: apply block attestations in OnBlock](https://github.com/erigontech/erigon/pull/25281#pullrequestreview-5636502924) - 2026-10-24
+* [Review] [Review on: cl/persistence: read the stored epoch-0 randao mix for epoch-2 seeds](https://github.com/erigontech/erigon/pull/25296#pullrequestreview-5636503072) - 2026-10-24
+* [Pull Request] [[r3.8] cmd/capcli, freezeblocks: keep a blob segment's index and torrents until its replacement is compressed](https://github.com/erigontech/erigon/pull/25303) - 2026-10-24
+* [Review] [Review on: cl/beacon, cl/phase1/stages: emit the Gloas payload_attributes event](https://github.com/erigontech/erigon/pull/25292#pullrequestreview-5636503016) - 2026-10-24
+* [Review] [Review on: node/eth: limit embedded MCP to --http.api namespaces](https://github.com/erigontech/erigon/pull/25264#pullrequestreview-5636502674) - 2026-10-24
+* [Commit] [db/state: step-rebase merges all step-aligned groups concurrently (#25315)](https://github.com/erigontech/erigon/commit/f9a0ca070d23febddf34333dd170e7b4587fe875) - 2026-10-24
+* [Commit] [db/state: copy the current key out of a pooled btree cursor in DomainLatestIterFile (#25308)](https://github.com/erigontech/erigon/commit/e74e24932ef8abc6ae7ec2daf6febbe4fc243366) - 2026-10-24
+* [Commit] [cmd/capcli, freezeblocks: don't freeze holes over good blob segments (#25173)](https://github.com/erigontech/erigon/commit/d493889009a7d2464cff9fabe4650e736f2e5382) - 2026-10-24
+* [Commit] [cmd/utils/app, db/state: step-rebase merges files on a step-size increase (#25295)](https://github.com/erigontech/erigon/commit/802048af7ba987dcd636c0bfa4423ceceedc5ab0) - 2026-10-24
+* [Commit] [execution/vm: load PUSH3-32 immediates as one masked 32-byte window (#25210)](https://github.com/erigontech/erigon/commit/f06f583e5903cca4b2e27d2d8430c6848315127e) - 2026-10-24
 ## Q3 2026
 
 

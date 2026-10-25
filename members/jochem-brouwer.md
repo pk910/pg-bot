@@ -55,6 +55,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Update EIP-7870: update Glamsterdam min r/w spec (#12491)](https://github.com/ethereum/EIPs/commit/e5337f8cd00eb02eaaebf8ca1e157e6e0cd945bc) - 2026-10-20
 * [Review] [Review on: Add EIP: eth/73 - Indexed Cell Requests](https://github.com/ethereum/EIPs/pull/12287#pullrequestreview-5604860040) - 2026-10-21
 * [Review] [Review on: Update EIP-5069: Update EIP Coordinators' responsibilities](https://github.com/ethereum/EIPs/pull/12565#pullrequestreview-5604383948) - 2026-10-21
+* [Review] [Review on: Update EIP-8425: clarify `ecRecover` removal semantics](https://github.com/ethereum/EIPs/pull/12580#pullrequestreview-5637807447) - 2026-10-24
+* [Review] [Review on: Add EIP: Quantum Freeze and Account Recovery](https://github.com/ethereum/EIPs/pull/12383#pullrequestreview-5636464806) - 2026-10-24
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026

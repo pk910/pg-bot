@@ -360,6 +360,25 @@ Team: Reth
 * [Commit] [fix(storage): state-import slots and history lookups (#28053)](https://github.com/paradigmxyz/reth/commit/9186ab6cf6e3507e7032caecb0bea7b8eb52dc15) - 2026-10-23
 * [Commit] [fix: unschedule Hoodi Amsterdam activation (#28089)](https://github.com/paradigmxyz/reth/commit/4418b95f618c7d34a3a3845b07c404b08e22506b) - 2026-10-23
 * [Commit] [fix(rpc): align proof responses with execution-apis (#28091)](https://github.com/paradigmxyz/reth/commit/75fd53124f014c9d3daa32c82dcc3b8cdc05fe34) - 2026-10-23
+* [Review] [Review on: test(exex): add e2e tests for reorgs and WAL replay](https://github.com/paradigmxyz/reth/pull/28087#pullrequestreview-5638239590) - 2026-10-24
+* [Review] [Review on: feat(snap-sync): add sync progress metrics](https://github.com/paradigmxyz/reth/pull/28059#pullrequestreview-5638457658) - 2026-10-24
+* [Pull Request] [fix(engine): terminate thread on consensus exit](https://github.com/paradigmxyz/reth/pull/28126) - 2026-10-24
+* [Pull Request] [test(snap): order shutdown before restart](https://github.com/paradigmxyz/reth/pull/28128) - 2026-10-24
+* [Pull Request] [fix(rpc): reserve blob fees in call allowance](https://github.com/paradigmxyz/reth/pull/28113) - 2026-10-24
+* [Pull Request] [fix(rpc): reserve original fee cap during estimation](https://github.com/paradigmxyz/reth/pull/28116) - 2026-10-24
+* [Review] [Review on: chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021#pullrequestreview-5638340843) - 2026-10-24
+* [Review] [Review on: perf(deps): use smolgen's gitcl backend](https://github.com/paradigmxyz/reth/pull/28124#pullrequestreview-5637847809) - 2026-10-24
+* [Review] [Review on: perf(deps): replace vergen with smolgen](https://github.com/paradigmxyz/reth/pull/28122#pullrequestreview-5637760607) - 2026-10-24
+* [Review] [Review on: perf(deps): never build rocksdb with jemalloc](https://github.com/paradigmxyz/reth/pull/28119#pullrequestreview-5637486035) - 2026-10-24
+* [Pull Request] [fix(rpc): stop shared HTTP/WS server once](https://github.com/paradigmxyz/reth/pull/28120) - 2026-10-24
+* [Review] [Review on: perf(tasks): type-erase spawned futures](https://github.com/paradigmxyz/reth/pull/28112#pullrequestreview-5637437133) - 2026-10-24
+* [Review] [Review on: perf(cli): avoid per-table monomorphization in db commands](https://github.com/paradigmxyz/reth/pull/28111#pullrequestreview-5637435552) - 2026-10-24
+* [Review] [Review on: perf(deps): build OTLP only with the otlp feature](https://github.com/paradigmxyz/reth/pull/28108#pullrequestreview-5637429953) - 2026-10-24
+* [Review] [Review on: perf(deps): drop unused rocksdb codecs and unused deps](https://github.com/paradigmxyz/reth/pull/28109#pullrequestreview-5637430807) - 2026-10-24
+* [Review] [Review on: perf: build librocksdb-sys without debug info in dev](https://github.com/paradigmxyz/reth/pull/28110#pullrequestreview-5637433118) - 2026-10-24
+* [Review] [Review on: chore(deps): ignore RUSTSEC-2026-0387](https://github.com/paradigmxyz/reth/pull/28117#pullrequestreview-5637427228) - 2026-10-24
+* [Commit] [test(snap): order shutdown before restart (#28128)](https://github.com/paradigmxyz/reth/commit/edb7664c45ae729d534d76907d8c165057d425e5) - 2026-10-24
+* [Commit] [fix(rpc): stop shared HTTP/WS server once (#28120)](https://github.com/paradigmxyz/reth/commit/7d1fda9d0fdb287ca4d3788f39420d7247802940) - 2026-10-24
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

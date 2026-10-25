@@ -51,6 +51,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: floor slot component durations as the spec does (#10456)](https://github.com/ChainSafe/lodestar/commit/ef81c9f0a5b2d7a3819b7710094167f1d6219eb5) - 2026-10-22
 * [Commit] [refactor: carry milliseconds through the fork choice timeliness API (#10455)](https://github.com/ChainSafe/lodestar/commit/ec493d509d9f202eb1245a77b305add14a603a88) - 2026-10-22
 * [Issue] [Fork-union types break when a fork removes or retypes container fields](https://github.com/ChainSafe/lodestar/issues/10465) - 2026-10-23
+* [Pull Request] [test: stop leaking loggers and db mocks per fork choice test case](https://github.com/ChainSafe/lodestar/pull/10469) - 2026-10-24
+* [Commit] [test: stop leaking loggers and db mocks per fork choice test case (#10469)](https://github.com/ChainSafe/lodestar/commit/950d6b9392f3e17ed3441f9ca27fe09394c99991) - 2026-10-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
