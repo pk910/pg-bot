@@ -321,6 +321,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(ci): migrate verifier artifact fetching to C#](https://github.com/NethermindEth/nethermind/pull/15151#pullrequestreview-5636930550) - 2026-10-24
 * [Review] [Review on: refactor(ci): migrate release version and image checks to C#](https://github.com/NethermindEth/nethermind/pull/15152#pullrequestreview-5636931199) - 2026-10-24
 * [Review] [Review on: ci: migrate RPC and EXPB benchmark scripts to C#](https://github.com/NethermindEth/nethermind/pull/15163#pullrequestreview-5636915545) - 2026-10-24
+* [Review] [Review on: fix(docgen): document remaining converter shapes and null members](https://github.com/NethermindEth/nethermind/pull/15064#pullrequestreview-5644864337) - 2026-10-25
+* [Review] [Review on: feat(rpc): keep the suggested block access list of bad blocks](https://github.com/NethermindEth/nethermind/pull/15157#pullrequestreview-5644864100) - 2026-10-25
+* [Review] [Review on: fix(network): fetch full blobs when too few eth/72 peers to sample](https://github.com/NethermindEth/nethermind/pull/15179#pullrequestreview-5644863974) - 2026-10-25
+* [Review] [Review on: fix(merge): return the payload id before the empty block is built](https://github.com/NethermindEth/nethermind/pull/15180#pullrequestreview-5644863854) - 2026-10-25
+* [Review] [Review on: feat(rpc-bench): force JIT frame pointers in perf runs and add annotated assembly recipe](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5644863725) - 2026-10-25
+* [Review] [Review on: feat(rpc): add overlay_getLogs and overlay_callConstructor](https://github.com/NethermindEth/nethermind/pull/15181#pullrequestreview-5644863394) - 2026-10-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

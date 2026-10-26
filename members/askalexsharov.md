@@ -471,6 +471,22 @@ Team: Erigon
 * [Commit] [db/integrity: name block, tx and step in RCacheNoDups errors (#25270)](https://github.com/erigontech/erigon/commit/6bca230728906f1d3c1c829db3752c3f850305f1) - 2026-10-24
 * [Commit] [execution/state: revert logs by snapshot count, not per-log journal entries (#25227)](https://github.com/erigontech/erigon/commit/2de088f87aa29fbdd51e5a36054e0399c1f28286) - 2026-10-24
 * [Commit] [execution/vm: faster EXP for odd base with a large exponent (#25188)](https://github.com/erigontech/erigon/commit/a559c05f69e94fde61a6101d3a70fad1f5a8680c) - 2026-10-24
+* [Review] [Review on: exec: cut serial BAL work around exec](https://github.com/erigontech/erigon/pull/25220#pullrequestreview-5646231339) - 2026-10-26
+* [Review] [Review on: execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage](https://github.com/erigontech/erigon/pull/25330#pullrequestreview-5642610669) - 2026-10-25
+* [Pull Request] [execution/stagedsync: skip the live coinbase's AddressPath re-emit on BAL blocks](https://github.com/erigontech/erigon/pull/25341) - 2026-10-25
+* [Pull Request] [db/state: shard the in-memory map domains by key](https://github.com/erigontech/erigon/pull/25339) - 2026-10-25
+* [Review] [Review on: cl/persistence/blob_storage: index stored data columns per root in MDBX](https://github.com/erigontech/erigon/pull/25307#pullrequestreview-5643172202) - 2026-10-25
+* [Pull Request] [execution/cache: publish takes a code update's hash from its account update](https://github.com/erigontech/erigon/pull/25329) - 2026-10-25
+* [Review] [Review on: execution/cache: publish takes a code update's hash from its account update](https://github.com/erigontech/erigon/pull/25329#pullrequestreview-5642972072) - 2026-10-25
+* [Pull Request] [execution: review fixes for parallel exec](https://github.com/erigontech/erigon/pull/25328) - 2026-10-25
+* [Pull Request] [execution/state: write view reuses the code hash stored in the version map](https://github.com/erigontech/erigon/pull/25327) - 2026-10-25
+* [Review] [Review on: execution: a value transfer is not charged at validation, and a run before the sender charge does not park](https://github.com/erigontech/erigon/pull/25309#pullrequestreview-5642231686) - 2026-10-25
+* [Review] [Review on: execution/vm: shift on DIV by a power of two](https://github.com/erigontech/erigon/pull/25226#pullrequestreview-5642966018) - 2026-10-25
+* [Review] [Review on: db/kv/rawdbv3, rpc/jsonrpc: fail eth_getLogs and erigon_getLatestLogs when a transaction of the block cannot be read](https://github.com/erigontech/erigon/pull/25320#pullrequestreview-5641664128) - 2026-10-25
+* [Review] [Review on: cmd/utils/app: step-rebase merges the receipt cache on persist.receipts datadirs](https://github.com/erigontech/erigon/pull/25317#pullrequestreview-5641677846) - 2026-10-25
+* [Pull Request] [execution/vm: inline CODECOPY, CALLDATACOPY and RETURNDATACOPY](https://github.com/erigontech/erigon/pull/25222) - 2026-10-25
+* [Commit] [execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait (#25225)](https://github.com/erigontech/erigon/commit/b33ccba8dbca185134db45121cad0848e2d8d0d9) - 2026-10-25
+* [Commit] [execution/stagedsync: keep a released exec slot's roTx for the next task (#25314)](https://github.com/erigontech/erigon/commit/46e5f064006b4c1d11bd5f7bd13575b9bd8dc69d) - 2026-10-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 ## Q3 2026

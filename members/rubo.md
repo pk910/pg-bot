@@ -93,6 +93,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(ci): migrate zkVM benchmark reporting to C#](https://github.com/NethermindEth/nethermind/pull/15149#pullrequestreview-5640337321) - 2026-10-24
 * [Pull Request] [docs: tighten winget package installation rules](https://github.com/NethermindEth/nethermind/pull/15191) - 2026-10-24
 * [Commit] [docs: tighten winget package installation rules (#15191)](https://github.com/NethermindEth/nethermind/commit/34b321cd18c9d255170f9e78a7fa64af19657040) - 2026-10-24
+* [Pull Request] [chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/15211) - 2026-10-25
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15195#pullrequestreview-5642529907) - 2026-10-25
+* [Pull Request] [ci(zkevm): name guest release assets as the guest handbook requires](https://github.com/NethermindEth/nethermind/pull/15173) - 2026-10-25
+* [Commit] [ci(zkevm): name guest release assets as the guest handbook requires (#15173)](https://github.com/NethermindEth/nethermind/commit/9e24e64522a62891b99dddf9011887642ba0ddf2) - 2026-10-25
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

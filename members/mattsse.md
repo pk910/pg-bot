@@ -379,6 +379,15 @@ Team: Reth
 * [Review] [Review on: chore(deps): ignore RUSTSEC-2026-0387](https://github.com/paradigmxyz/reth/pull/28117#pullrequestreview-5637427228) - 2026-10-24
 * [Commit] [test(snap): order shutdown before restart (#28128)](https://github.com/paradigmxyz/reth/commit/edb7664c45ae729d534d76907d8c165057d425e5) - 2026-10-24
 * [Commit] [fix(rpc): stop shared HTTP/WS server once (#28120)](https://github.com/paradigmxyz/reth/commit/7d1fda9d0fdb287ca4d3788f39420d7247802940) - 2026-10-24
+* [Review] [Review on: perf(node): use smolgen flag to skip HEAD tracking in debug](https://github.com/paradigmxyz/reth/pull/28152#pullrequestreview-5644914603) - 2026-10-25
+* [Review] [Review on: perf(cli): shrink per-table code in db viewers](https://github.com/paradigmxyz/reth/pull/28142#pullrequestreview-5643914831) - 2026-10-25
+* [Pull Request] [fix(engine): retain recreated account state in cache](https://github.com/paradigmxyz/reth/pull/28148) - 2026-10-25
+* [Review] [Review on: perf(db): index table DBIs and metrics by Tables position](https://github.com/paradigmxyz/reth/pull/28134#pullrequestreview-5643939708) - 2026-10-25
+* [Review] [Review on: perf(node): skip git HEAD tracking in debug builds](https://github.com/paradigmxyz/reth/pull/28147#pullrequestreview-5643915388) - 2026-10-25
+* [Review] [Review on: perf: compile debug client network code once](https://github.com/paradigmxyz/reth/pull/28144#pullrequestreview-5643915128) - 2026-10-25
+* [Review] [Review on: perf(config): compile Config::from_path body once](https://github.com/paradigmxyz/reth/pull/28143#pullrequestreview-5643914992) - 2026-10-25
+* [Review] [Review on: refactor(rpc): drop reth-node-api dependency from rpc crates](https://github.com/paradigmxyz/reth/pull/28145#pullrequestreview-5643915279) - 2026-10-25
+* [Review] [Review on: perf: type-erase first-party tokio spawns](https://github.com/paradigmxyz/reth/pull/28141#pullrequestreview-5643914689) - 2026-10-25
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

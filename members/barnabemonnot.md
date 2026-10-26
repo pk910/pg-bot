@@ -16,6 +16,9 @@ Team: Robust Incentives Group (RIG)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8198: target 10-second slots and align with the reference specs](https://github.com/ethereum/EIPs/commit/0ce679f4654ba4d120c97113626f320475e22fa9) - 2026-10-19
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5642592961) - 2026-10-25
 ## Q3 2026
 
 

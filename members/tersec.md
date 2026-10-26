@@ -96,6 +96,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v26.10.2](https://github.com/status-im/nimbus-eth2/commit/0abc0dd0fc0750a8875c49089d074f7d7197b62c) - 2026-10-23
 * [Review] [Review on: add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351#pullrequestreview-5638735561) - 2026-10-24
 * [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5638424391) - 2026-10-24
+* [Review] [Review on: implement getDebugForkChoiceV2 endpoint](https://github.com/status-im/nimbus-eth2/pull/9331#pullrequestreview-5641693877) - 2026-10-25
+* [Pull Request] [stop testing with version-2-4](https://github.com/status-im/nimbus-eth2/pull/9378) - 2026-10-25
+* [Review] [Review on: replay stored payload envelopes into fork choice on restart](https://github.com/status-im/nimbus-eth2/pull/9344#pullrequestreview-5641329985) - 2026-10-25
+* [Review] [Review on: add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351#pullrequestreview-5641167034) - 2026-10-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

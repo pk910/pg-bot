@@ -113,6 +113,27 @@ Team: Reth
 * [Commit] [perf(deps): drop unused rocksdb codecs and unused deps (#28109)](https://github.com/paradigmxyz/reth/commit/5f9d927b86539d726ad5798a304e45804367bba0) - 2026-10-24
 * [Commit] [perf: build librocksdb-sys without debug info in dev (#28110)](https://github.com/paradigmxyz/reth/commit/2ee6fef8d780c7168df97839f90c77265116148b) - 2026-10-24
 * [Commit] [chore(deps): ignore RUSTSEC-2026-0387 (#28117)](https://github.com/paradigmxyz/reth/commit/57c0559e8efe2f239524a2265947712979e058d4) - 2026-10-24
+* [Pull Request] [perf(node): use smolgen flag to skip HEAD tracking in debug](https://github.com/paradigmxyz/reth/pull/28152) - 2026-10-25
+* [Review] [Review on: perf(libmdbx): speed up MDBX reads and txn paths](https://github.com/paradigmxyz/reth/pull/28115#pullrequestreview-5642441094) - 2026-10-25
+* [Pull Request] [feat(reth-bb): support the JIT](https://github.com/paradigmxyz/reth/pull/28140) - 2026-10-25
+* [Review] [Review on: fix: inherit workspace lints in reth-trie-dst](https://github.com/paradigmxyz/reth/pull/28151#pullrequestreview-5644200002) - 2026-10-25
+* [Pull Request] [perf(cli): shrink per-table code in db viewers](https://github.com/paradigmxyz/reth/pull/28142) - 2026-10-25
+* [Review] [Review on: fix(engine): retain recreated account state in cache](https://github.com/paradigmxyz/reth/pull/28148#pullrequestreview-5644128755) - 2026-10-25
+* [Review] [Review on: perf(db): index table DBIs and metrics by Tables position](https://github.com/paradigmxyz/reth/pull/28134#pullrequestreview-5643909761) - 2026-10-25
+* [Pull Request] [perf(node): skip git HEAD tracking in debug builds](https://github.com/paradigmxyz/reth/pull/28147) - 2026-10-25
+* [Pull Request] [perf: compile debug client network code once](https://github.com/paradigmxyz/reth/pull/28144) - 2026-10-25
+* [Pull Request] [perf(config): compile Config::from_path body once](https://github.com/paradigmxyz/reth/pull/28143) - 2026-10-25
+* [Pull Request] [refactor(rpc): drop reth-node-api dependency from rpc crates](https://github.com/paradigmxyz/reth/pull/28145) - 2026-10-25
+* [Pull Request] [perf: type-erase first-party tokio spawns](https://github.com/paradigmxyz/reth/pull/28141) - 2026-10-25
+* [Review] [Review on: fix(bench): prevent reporting and runner failures](https://github.com/paradigmxyz/reth/pull/28138#pullrequestreview-5642381913) - 2026-10-25
+* [Commit] [perf(node): use smolgen flag to skip HEAD tracking in debug (#28152)](https://github.com/paradigmxyz/reth/commit/def3e3c53d56cc11a759e5352e3525157a9dceaf) - 2026-10-25
+* [Commit] [perf(cli): shrink per-table code in db viewers (#28142)](https://github.com/paradigmxyz/reth/commit/201ba067994f0df92e13f38ed5008577ad2207f9) - 2026-10-25
+* [Commit] [perf(node): skip git HEAD tracking in debug builds (#28147)](https://github.com/paradigmxyz/reth/commit/9daaef46c20e5b208ab145d399130d308660209f) - 2026-10-25
+* [Commit] [perf: compile debug client network code once (#28144)](https://github.com/paradigmxyz/reth/commit/54add9a6cb0652541e473c936a96cffd3938b077) - 2026-10-25
+* [Commit] [perf(config): compile Config::from_path body once (#28143)](https://github.com/paradigmxyz/reth/commit/8239d9ca981db9ad94d040e83d92db837604b4da) - 2026-10-25
+* [Commit] [refactor(rpc): drop reth-node-api dependency from rpc crates (#28145)](https://github.com/paradigmxyz/reth/commit/e3869a89584146862e3a9af83c2c32c994077907) - 2026-10-25
+* [Commit] [perf: type-erase first-party tokio spawns (#28141)](https://github.com/paradigmxyz/reth/commit/621cfe1a83e451997c3dc8e47a4bb4120e870383) - 2026-10-25
+* [Commit] [feat(reth-bb): support the JIT (#28140)](https://github.com/paradigmxyz/reth/commit/3e9d6896a851df5589b430f0c6c5ad5d083bc279) - 2026-10-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

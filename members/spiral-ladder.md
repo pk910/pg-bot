@@ -86,6 +86,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [test: remove assertion-free sanity tests](https://github.com/ChainSafe/lodestar-z/pull/803) - 2026-10-23
 * [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5624845638) - 2026-10-23
 * [Commit] [test: remove assertion-free sanity tests (#803)](https://github.com/ChainSafe/lodestar-z/commit/268208de4f5aa559e2fb542fd3643e534d81004c) - 2026-10-23
+* [Review] [Review on: test(fuzz): seed the two opaque SSZ targets](https://github.com/ChainSafe/lodestar-z/pull/806#pullrequestreview-5646592330) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

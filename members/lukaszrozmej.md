@@ -700,6 +700,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor(network)!: remove Discovery.Bootnodes (#15167)](https://github.com/NethermindEth/nethermind/commit/0fb8d5f0325fd7894a9f8a19c520a3b00df706a0) - 2026-10-24
 * [Commit] [fix(rpc): send pending responses after an IPC client closes its send side (#15162)](https://github.com/NethermindEth/nethermind/commit/e93a9c74ba3386b3590dbb9b4240f31d19a92688) - 2026-10-24
 * [Commit] [feat(rpc): report snap sync progress in eth_syncing (#15176)](https://github.com/NethermindEth/nethermind/commit/2a39aa2b4823b23d3f6a83cd7d820bde6c26d46c) - 2026-10-24
+* [Review] [Review on: perf(json): avoid decimal UInt256 strings](https://github.com/NethermindEth/nethermind/pull/15213#pullrequestreview-5646201561) - 2026-10-26
+* [Review] [Review on: chore(deps): update .NET packages](https://github.com/NethermindEth/nethermind/pull/15211#pullrequestreview-5646203656) - 2026-10-26
+* [Review] [Review on: perf(rlp): reuse block body component lengths](https://github.com/NethermindEth/nethermind/pull/15212#pullrequestreview-5646203065) - 2026-10-26
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/15214#pullrequestreview-5646199226) - 2026-10-26
+* [Review] [Review on: perf(tracing): skip disabled storage snapshots](https://github.com/NethermindEth/nethermind/pull/15205#pullrequestreview-5645102155) - 2026-10-25
+* [Review] [Review on: perf(flat): avoid empty dirty storage lists](https://github.com/NethermindEth/nethermind/pull/15208#pullrequestreview-5645090302) - 2026-10-25
+* [Review] [Review on: perf(consensus): defer deposit scratch rental](https://github.com/NethermindEth/nethermind/pull/15207#pullrequestreview-5645093853) - 2026-10-25
+* [Review] [Review on: perf(evm): skip unused trace gas diagnostics](https://github.com/NethermindEth/nethermind/pull/15204#pullrequestreview-5645105819) - 2026-10-25
+* [Review] [Review on: perf(tracing): format prestate nonces without strings](https://github.com/NethermindEth/nethermind/pull/15206#pullrequestreview-5645098926) - 2026-10-25
+* [Pull Request] [ci: fall back to the .NET CDN when the SDK download fails](https://github.com/NethermindEth/nethermind/pull/15209) - 2026-10-25
+* [Pull Request] [feat(rpc): optionally keep estimating gas while a nested call runs out of gas](https://github.com/NethermindEth/nethermind/pull/15203) - 2026-10-25
+* [Review] [Review on: fix(rpc): classify pruned processed orphan blocks as unavailable history](https://github.com/NethermindEth/nethermind/pull/15190#pullrequestreview-5642577774) - 2026-10-25
+* [Review] [Review on: fix(evm): align EIP-8151 ecRecover with the updated spec](https://github.com/NethermindEth/nethermind/pull/15196#pullrequestreview-5641837988) - 2026-10-25
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15195#pullrequestreview-5641864018) - 2026-10-25
+* [Commit] [refactor: use LibraryImport for P/Invoke declarations (#15194)](https://github.com/NethermindEth/nethermind/commit/fccb05a95dc3280fb48832a755e6392fc20ff17f) - 2026-10-25
+* [Commit] [fix(docgen): document eth_config fields and members omitted from the wire (#15177)](https://github.com/NethermindEth/nethermind/commit/815e1c92a70ef80d7561dac21eddabab2036f7ee) - 2026-10-25
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -799,6 +815,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Update EIP-2780: credit state-gas refills to the reservoir and add a legacy share](https://github.com/ethereum/EIPs/pull/12581) - 2026-10-24
 * [Pull Request] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/pull/12583) - 2026-10-24
 * [Pull Request] [Update EIP-8053: gas units at the contract boundary](https://github.com/ethereum/EIPs/pull/12584) - 2026-10-24
+* [Pull Request] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/pull/12588) - 2026-10-25
+* [Commit] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/commit/67d3e90ce49cb0e7031fe3d65ba31bd00858f0ea) - 2026-10-25
 ## Q3 2026
 
 

@@ -176,6 +176,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Concatenate trie keys without tuweni's stream](https://github.com/besu-eth/besu/issues/11752) - 2026-10-24
 * [Issue] [Start storage slot preloads from the storage root the accumulator holds](https://github.com/besu-eth/besu/issues/11751) - 2026-10-24
 * [Issue] [Preload only the trie paths of the state a block changes](https://github.com/besu-eth/besu/issues/11750) - 2026-10-24
+* [Pull Request] [Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754) - 2026-10-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

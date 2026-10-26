@@ -104,6 +104,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(validatorranges): take on-chain ranges from the network config service](https://github.com/ethpandaops/cartographoor/pull/117) - 2026-10-19
 * [Commit] [feat(validatorranges): take on-chain ranges from the network config service (#117)](https://github.com/ethpandaops/cartographoor/commit/93e737862c3f55f06d08243c97812c7b59bf6b19) - 2026-10-19
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118#pullrequestreview-5596801854) - 2026-10-21
+* [Pull Request] [fix(hoodi): unschedule gloas, Glamsterdam on Hoodi is postponed](https://github.com/ethpandaops/cartographoor/pull/119) - 2026-10-25
+* [Commit] [fix(hoodi): unschedule gloas, Glamsterdam on Hoodi is postponed (#119)](https://github.com/ethpandaops/cartographoor/commit/a32fb7f93d29cea3418f2aaaae124bc9e5b119dc) - 2026-10-25
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [fix(agent): record blocks at their own slot, never at an empty slot after them](https://github.com/ethpandaops/tracoor/pull/70) - 2026-10-19
 * [Pull Request] [fix(agent): retry late gloas envelopes and outages instead of dropping them](https://github.com/ethpandaops/tracoor/pull/69) - 2026-10-19

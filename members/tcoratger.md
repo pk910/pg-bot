@@ -317,6 +317,18 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(multilinear-util): check the point arity when evaluating a polynomial (#2570)](https://github.com/Plonky3/Plonky3/commit/136c20b44446bea752fa2aab3278b857d5b4e1c8) - 2026-10-24
 * [Commit] [fix(commit): make the trivial PCS meet the PCS contract (#2567)](https://github.com/Plonky3/Plonky3/commit/b87fa8213ec87536612e6c6a36c020473d639731) - 2026-10-24
 * [Commit] [feat(symmetric): RTL sponge with a length IV and zero-suffix precomputation (#1547)](https://github.com/Plonky3/Plonky3/commit/5ac4e27bef042f309e4b47839d4c21558d5f8df4) - 2026-10-24
+* [Pull Request] [fix(air, uni-stark, batch-stark, lookup): reject constraint reads of undeclared next-row columns](https://github.com/Plonky3/Plonky3/pull/2585) - 2026-10-25
+* [Pull Request] [fix(batch-stark, circle, merkle-tree, multi-stark, uni-stark): word-size heights, empty batch, period-1 columns](https://github.com/Plonky3/Plonky3/pull/2581) - 2026-10-25
+* [Pull Request] [refactor!: delete the Boolean-AIR hash route Flock replaces](https://github.com/Plonky3/Plonky3/pull/2583) - 2026-10-25
+* [Pull Request] [feat(multi-stark)!: circuit tables proved by Flock, and Flock as the default hash prover](https://github.com/Plonky3/Plonky3/pull/2582) - 2026-10-25
+* [Review] [Review on: fix(whir, keccak-air, binary-pcs, batch-stark): folded domains, query PoW, Keccak AIR field requirement, overflowing mixed-table widths, selectors in lookup counts](https://github.com/Plonky3/Plonky3/pull/2577#pullrequestreview-5643618015) - 2026-10-25
+* [Review] [Review on: fix(pcs, stark, binary)!: STIR soundness pricing, prover panics, FRI zero-point openings, periodic-column lookups, selector values, wide binary-DFT domains](https://github.com/Plonky3/Plonky3/pull/2574#pullrequestreview-5644121858) - 2026-10-25
+* [Commit] [fix(challenger, fri, lookup, batch-stark, multi-stark, uni-stark)!: hiding chunk count, lookup tuples, grinding bounds, verifier key width (#2580)](https://github.com/Plonky3/Plonky3/commit/2635a4865a2c39c5c18292623f3d3bcd50a00ab9) - 2026-10-25
+* [Commit] [fix(batch-stark, multi-stark, fri, security, keccak-air, sha256-air, blake3-air, blake2s-air): bus widths, lookup declarations, grinding bounds, short FRI round, odd characteristic (#2579)](https://github.com/Plonky3/Plonky3/commit/36e331bd26e26abc02f4cb59af9a3599615f6048) - 2026-10-25
+* [Commit] [fix(air, binary-pcs, circle, sha256-air, word, multi-stark)!: limb addition bounds, suffix split length, one-row circle domain, small-characteristic SHA-256 AIR, composition lookups (#2578)](https://github.com/Plonky3/Plonky3/commit/036dfc75b5472c4ddd9e3991b37143d0d4e3a5f2) - 2026-10-25
+* [Commit] [perf(keccak): schedule the x86 SIMD rounds plane by plane (−13% AVX-512 permutation, −18..21% hash_many), and test every lane against independent references (#2572)](https://github.com/Plonky3/Plonky3/commit/ef6ffca005c13b29037621ed5de932a84eb3bfc1) - 2026-10-25
+* [Commit] [fix(air): count every transition factor in the constraint degree (#2566)](https://github.com/Plonky3/Plonky3/commit/94006a2ed21f0b6a2f0d1ad74687d2ef12054dce) - 2026-10-25
+* [Commit] [fix(sumcheck): check the point width before splitting off a claim's Boolean prefix (#2573)](https://github.com/Plonky3/Plonky3/commit/ed07485c5fc63c011176d17070eb4ef0c211ee95) - 2026-10-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

@@ -134,6 +134,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: add an optional Reth run to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25288) - 2026-10-23
 * [Pull Request] [rpc: a batch of eth_sendRawTransactionSync calls runs concurrently](https://github.com/erigontech/erigon/pull/25325) - 2026-10-24
 * [Pull Request] [db/kv/rawdbv3, rpc/jsonrpc: fail eth_getLogs and erigon_getLatestLogs when a transaction of the block cannot be read](https://github.com/erigontech/erigon/pull/25320) - 2026-10-24
+* [Pull Request] [rpc/ethapi, rpc/jsonrpc: rebuild the overridden precompile set per bundle in eth_callMany and debug_traceCallMany](https://github.com/erigontech/erigon/pull/25343) - 2026-10-25
+* [Pull Request] [db/kv, rpc/jsonrpc: add TemporalTx.IndexJoin for AND-of-OR index queries](https://github.com/erigontech/erigon/pull/25342) - 2026-10-25
+* [Commit] [db/kv/rawdbv3, rpc/jsonrpc: fail eth_getLogs and erigon_getLatestLogs when a transaction of the block cannot be read (#25320)](https://github.com/erigontech/erigon/commit/96e71f93350f55d42825a6650c96fb0b3d370289) - 2026-10-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

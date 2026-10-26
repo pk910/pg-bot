@@ -59,6 +59,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Apply BAL during parallel tx execution (#5067)](https://github.com/status-im/nimbus-eth1/commit/09fdf51c74a6ffdb4c3694ffa68fc69fa11839c3) - 2026-10-23
 * [Commit] [Skip initcode hashing and code cache lookup for CREATE (#5058)](https://github.com/status-im/nimbus-eth1/commit/1d9ca13a3bb26fd0963277ea1726ec8ce62b9749) - 2026-10-23
 * [Pull Request] [Borrowed txFrame and com as untraced pointers in worker tasks](https://github.com/status-im/nimbus-eth1/pull/5081) - 2026-10-24
+* [Commit] [Borrowed txFrame and com as untraced pointers in worker tasks (#5081)](https://github.com/status-im/nimbus-eth1/commit/3fbc7a9b6bf9d1386e576ee95dcef6ee289ec19c) - 2026-10-25
 ## Q3 2026
 
 

@@ -82,6 +82,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf](https://github.com/NethermindEth/bflat-riscv64/commit/321edc6406497fbd6c6e09f717307e82df47bb90) - 2026-10-19
 * [Pull Request] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/pull/63) - 2026-10-21
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/commit/c2c0faa32dbbbdfed6120eea0041b28cbff4debd) - 2026-10-22
+* [Pull Request] [ci: Add sign.yml, the reusable workflow that signs the bflat releases](https://github.com/NethermindEth/bflat-riscv64/pull/64) - 2026-10-25
+* [Commit] [ci: Add sign.yml, the reusable workflow that signs the bflat releases](https://github.com/NethermindEth/bflat-riscv64/commit/34a3e73ad5b2f34a868f5793172dc4a3a97bf382) - 2026-10-25
 ## Q3 2026
 
 

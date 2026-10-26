@@ -312,6 +312,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/persistence: read the stored epoch-0 randao mix for epoch-2 seeds (#25296)](https://github.com/erigontech/erigon/commit/3cc9c6e42aa5b35ce495d1e869923e728b57b685) - 2026-10-24
 * [Commit] [cl/beacon, cl/phase1/stages: emit the Gloas payload_attributes event (#25292)](https://github.com/erigontech/erigon/commit/2e0c9769a6fbbc51a88a5cc696c504a7a9caf66f) - 2026-10-24
 * [Commit] [cl/phase1/network/services, cl/phase1/forkchoice: validate gossip attestations and aggregates against the target shuffling (#25208)](https://github.com/erigontech/erigon/commit/78ffdd256488ea0d3b4e2174da5a2ff97deb869b) - 2026-10-24
+* [Pull Request] [execution/execmodule, execution/notifications: notify subscribers on reorg](https://github.com/erigontech/erigon/pull/25344) - 2026-10-25
+* [Pull Request] [execution/builder, txnprovider/txpool: stop building empty blocks when the top pending txns are nonce-too-high](https://github.com/erigontech/erigon/pull/25334) - 2026-10-25
+* [Pull Request] [cl/phase1/forkchoice: verify execution payload envelopes before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25332) - 2026-10-25
+* [Pull Request] [cl/phase1/network/services, cl/phase1/core/state: cache a small bid validation view instead of a full state](https://github.com/erigontech/erigon/pull/25331) - 2026-10-25
 ## Q3 2026
 
 

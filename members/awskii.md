@@ -204,6 +204,23 @@ Team: Erigon
 * [Commit] [cmd/capcli, freezeblocks: don't freeze holes over good blob segments (#25173)](https://github.com/erigontech/erigon/commit/d493889009a7d2464cff9fabe4650e736f2e5382) - 2026-10-24
 * [Commit] [cmd/utils/app, db/state: step-rebase merges files on a step-size increase (#25295)](https://github.com/erigontech/erigon/commit/802048af7ba987dcd636c0bfa4423ceceedc5ab0) - 2026-10-24
 * [Commit] [execution/vm: load PUSH3-32 immediates as one masked 32-byte window (#25210)](https://github.com/erigontech/erigon/commit/f06f583e5903cca4b2e27d2d8430c6848315127e) - 2026-10-24
+* [Review] [Review on: execution/vm: inline CLZ and SLOTNUM, build the DUPN/SWAPN/EXCHANGE underflow error out of line](https://github.com/erigontech/erigon/pull/25214#pullrequestreview-5643626579) - 2026-10-25
+* [Pull Request] [db/state: existence filters stay mmap'd (MADV_RANDOM) by default below 20 GiB of memory](https://github.com/erigontech/erigon/pull/25340) - 2026-10-25
+* [Review] [Review on: cl/persistence/blob_storage: index stored data columns per root in MDBX](https://github.com/erigontech/erigon/pull/25307#pullrequestreview-5644045493) - 2026-10-25
+* [Pull Request] [execution/p2p: move the body retry off a timed-out peer](https://github.com/erigontech/erigon/pull/25337) - 2026-10-25
+* [Review] [Review on: cl/phase1/stages: backfill the custody columns of blocks the chain tip sync imports](https://github.com/erigontech/erigon/pull/25321#pullrequestreview-5643721972) - 2026-10-25
+* [Review] [Review on: execution/vm/vmgen: add README](https://github.com/erigontech/erigon/pull/25233#pullrequestreview-5643722428) - 2026-10-25
+* [Review] [Review on: execution/cache: publish takes a code update's hash from its account update](https://github.com/erigontech/erigon/pull/25329#pullrequestreview-5643722370) - 2026-10-25
+* [Review] [Review on: execution: review fixes for parallel exec](https://github.com/erigontech/erigon/pull/25328#pullrequestreview-5643722319) - 2026-10-25
+* [Review] [Review on: execution/state: write view reuses the code hash stored in the version map](https://github.com/erigontech/erigon/pull/25327#pullrequestreview-5643722272) - 2026-10-25
+* [Review] [Review on: cl/cltypes, cl/phase1/core/state/raw: encode Gloas builder version and payload availability per beacon-APIs](https://github.com/erigontech/erigon/pull/25326#pullrequestreview-5643722209) - 2026-10-25
+* [Review] [Review on: cl/beacon/handler: fall back to historical pending queues on cache miss](https://github.com/erigontech/erigon/pull/25324#pullrequestreview-5643722151) - 2026-10-25
+* [Review] [Review on: cl/beacon/handler: resolve execution payload envelope block_id via the canonical index](https://github.com/erigontech/erigon/pull/25323#pullrequestreview-5643722092) - 2026-10-25
+* [Review] [Review on: cl/beacon/handler: accept blobless execution payload envelope contents](https://github.com/erigontech/erigon/pull/25322#pullrequestreview-5643722035) - 2026-10-25
+* [Pull Request] [execution/stagedsync: keep building block files under --exec.no-prune](https://github.com/erigontech/erigon/pull/25336) - 2026-10-25
+* [Pull Request] [execution/engineapi: don't abort the download on a domain-ahead fork choice](https://github.com/erigontech/erigon/pull/25335) - 2026-10-25
+* [Review] [Review on: execution: a value transfer is not charged at validation, and a run before the sender charge does not park](https://github.com/erigontech/erigon/pull/25309#pullrequestreview-5643483027) - 2026-10-25
+* [Commit] [cmd/utils/app: step-rebase merges the receipt cache on persist.receipts datadirs (#25317)](https://github.com/erigontech/erigon/commit/a3f7d4259a9a7f31310cabbd55391fa94cc33e70) - 2026-10-25
 ## Q3 2026
 
 
