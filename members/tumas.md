@@ -35,6 +35,8 @@ Team: Grandine
 * [Commit] [Run the validator client against remote beacon nodes with the new vc and bn commands](https://github.com/grandinetech/grandine/commit/862980653395bdad70f8a015aaf941c85fa67a41) - 2026-10-22
 * [Review] [Review on: Update crate](https://github.com/grandinetech/grandine/pull/1007#pullrequestreview-5630327904) - 2026-10-23
 * [Review] [Review on: Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920#pullrequestreview-5627127487) - 2026-10-23
+* [Review] [Review on: Keep blocks waiting for data marked as in-processing so duties wait for them](https://github.com/grandinetech/grandine/pull/1010#pullrequestreview-5654556811) - 2026-10-26
+* [Review] [Review on: Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/pull/963#pullrequestreview-5651155516) - 2026-10-26
 ## Q3 2026
 
 

@@ -79,6 +79,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/bal, execution/stagedsync: validate the block access list of a block resumed mid-block (#25169)](https://github.com/erigontech/erigon/commit/0a7733e2a8d4d5b4f4353e11fe09871a97577004) - 2026-10-23
 * [Commit] [execution/state: re-read an account field whose cell appears during a fallback probe (#24874)](https://github.com/erigontech/erigon/commit/c50745e7159117d3124c7076e028b400feb13044) - 2026-10-23
 * [Commit] [execution/exec, execution/state, execution/tests: remove a touched empty account before the next tx (#25240)](https://github.com/erigontech/erigon/commit/789e0204ba7d1ac076c9add8d568822e3b062009) - 2026-10-24
+* [Pull Request] [execution/state: do not keep an absence recorded at a destruct that kept the balance](https://github.com/erigontech/erigon/pull/25410) - 2026-10-26
+* [Pull Request] [execution/state: fix an account read as absent when a write lands after the read](https://github.com/erigontech/erigon/pull/25409) - 2026-10-26
+* [Pull Request] [execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests](https://github.com/erigontech/erigon/pull/25385) - 2026-10-26
+* [Review] [Review on: execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests](https://github.com/erigontech/erigon/pull/25385#pullrequestreview-5652711205) - 2026-10-26
+* [Pull Request] [execution/stagedsync, execution/state: keep a fee recipient's cells an estimate until calcFees writes them](https://github.com/erigontech/erigon/pull/25397) - 2026-10-26
+* [Commit] [execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests (#25385)](https://github.com/erigontech/erigon/commit/bb3dd36b8dd6026cdb5df7aba7c2b8c36ed88085) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -153,10 +159,19 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [cmake: Build with -fcf-protection=return on Linux x86-64](https://github.com/ipsilon/evmone/pull/649) - 2026-10-23
 * [Commit] [cmake: Build with -fcf-protection=return on Linux x86-64 (#649)](https://github.com/ipsilon/evmone/commit/ffb01f26a0c29e7a7e88e598f4fcd94c8460fb6f) - 2026-10-23
 * [Pull Request] [evm: Load a whole CALLDATALOAD word directly from the input](https://github.com/ipsilon/evmone/pull/1776) - 2026-10-24
+* [Pull Request] [advanced: Remove unused instruction wrappers](https://github.com/ipsilon/evmone/pull/1780) - 2026-10-26
+* [Pull Request] [baseline: Return the gas left only from terminating instructions](https://github.com/ipsilon/evmone/pull/1779) - 2026-10-26
+* [Pull Request] [evm: Fast path for growing the memory by one word](https://github.com/ipsilon/evmone/pull/1777) - 2026-10-26
+* [Pull Request] [evm: Tell the compiler the alignment of the memory data](https://github.com/ipsilon/evmone/pull/1778) - 2026-10-26
+* [Commit] [advanced: Remove unused instruction wrappers (#1780)](https://github.com/ipsilon/evmone/commit/583369a591498738ee32619fcdcf5c7b93fc22cb) - 2026-10-26
+* [Commit] [evm: Fast path for growing the memory by one word (#1777)](https://github.com/ipsilon/evmone/commit/3955cd0bc376ad4f753b6884c484a1ce0be969eb) - 2026-10-26
+* [Commit] [evm: Tell the compiler the alignment of the memory data (#1778)](https://github.com/ipsilon/evmone/commit/95aaf76cec54d04c9c14a9db0b48e789d7b5a909) - 2026-10-26
+* [Commit] [evm: Load a whole CALLDATALOAD word directly from the input (#1776)](https://github.com/ipsilon/evmone/commit/41e50b732ad109a375d87954d0ef788bb0723b83) - 2026-10-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
 * [Commit] [feat(test-benchmark): add stacked storage commit benchmark (#3811)](https://github.com/ethereum/execution-specs/commit/30418b707cf32ce03823224a5717f4d09da6eaef) - 2026-10-19
+* [Pull Request] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911) - 2026-10-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026

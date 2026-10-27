@@ -330,6 +330,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: round slot component durations (#10466)](https://github.com/ChainSafe/lodestar/commit/4e12403e398cd09c6e8819265f1684ed386c2ec7) - 2026-10-23
 * [Review] [Review on: test: stop leaking loggers and db mocks per fork choice test case](https://github.com/ChainSafe/lodestar/pull/10469#pullrequestreview-5638764354) - 2026-10-24
 * [Review] [Review on: fix: recompute unrealized checkpoints for blocks with slashings](https://github.com/ChainSafe/lodestar/pull/10467#pullrequestreview-5638650659) - 2026-10-24
+* [Review] [Review on: fix: retry post-gloas getBlobs after a failed attempt](https://github.com/ChainSafe/lodestar/pull/10479#pullrequestreview-5656074495) - 2026-10-26
+* [Pull Request] [fix: treat data availability timeouts of gossip blocks and payloads as unavailable data](https://github.com/ChainSafe/lodestar/pull/10474) - 2026-10-26
+* [Review] [Review on: fix: treat data availability timeouts of gossip blocks and payloads as unavailable data](https://github.com/ChainSafe/lodestar/pull/10474#pullrequestreview-5650310278) - 2026-10-26
+* [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5656718767) - 2026-10-26
+* [Review] [Review on: chore(deps): bump the actions group with 4 updates](https://github.com/ChainSafe/lodestar/pull/10475#pullrequestreview-5655988992) - 2026-10-26
+* [Pull Request] [perf: only pre-verify validator deposits sharing an invalid builder deposit's pubkey](https://github.com/ChainSafe/lodestar/pull/10480) - 2026-10-26
+* [Review] [Review on: chore(deps): bump fastify from 5.12.5 to 5.12.6](https://github.com/ChainSafe/lodestar/pull/10473#pullrequestreview-5650452975) - 2026-10-26
+* [Pull Request] [chore: v1.51.0 release](https://github.com/ChainSafe/lodestar/pull/10472) - 2026-10-26
+* [Review] [Review on: chore: bump lodestar-z to 2.2.0](https://github.com/ChainSafe/lodestar/pull/10471#pullrequestreview-5649874200) - 2026-10-26
+* [Review] [Review on: fix: cap payload DA wait at the slot duration of the payload's fork](https://github.com/ChainSafe/lodestar/pull/10433#pullrequestreview-5650003814) - 2026-10-26
+* [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649711821) - 2026-10-26
+* [Review] [Review on: fix: avoid slow LevelDB scans over deleted legacy data column entries](https://github.com/ChainSafe/lodestar/pull/10460#pullrequestreview-5646832901) - 2026-10-26
+* [Issue] [Unavailable payload data holds the serial import queue for up to a slot](https://github.com/ChainSafe/lodestar/issues/10481) - 2026-10-26
+* [Commit] [fix: bound engine getBlobs retries and request blobs before newPayload (#10329)](https://github.com/ChainSafe/lodestar/commit/d2b5232209eb655dede579f38876fb221701e57e) - 2026-10-26
+* [Commit] [fix: use the correct PTC duties dependent root for the Gloas fork epoch (#10468)](https://github.com/ChainSafe/lodestar/commit/fa491bf50f9e217f3c08754a470d11e6e2a08793) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -345,6 +360,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743#pullrequestreview-5547788291) - 2026-10-16
 * [Pull Request] [Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756) - 2026-10-23
 * [Commit] [Round slot component durations to the nearest millisecond (#5756)](https://github.com/ethereum/consensus-specs/commit/3dad3d5183756fc64c51e73d8b21026dd2330f22) - 2026-10-23
+* [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5655587298) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -407,6 +423,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5627524246) - 2026-10-23
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Gossipsub ignores the whole subscription RPC of a peer announcing more than 200 topics, a Lodestar supernode with all subnets announces 205](https://github.com/Consensys-Incorporated/teku/issues/11482) - 2026-10-12
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958#pullrequestreview-5655404769) - 2026-10-26
 ## Q3 2026
 
 

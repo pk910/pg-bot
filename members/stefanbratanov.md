@@ -23,6 +23,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Keymanager-API changes for Gloas](https://github.com/Consensys-Incorporated/teku/pull/11537#pullrequestreview-5580484097) - 2026-10-20
 * [Commit] [Keymanager-API changes for Gloas (#11537)](https://github.com/Consensys-Incorporated/teku/commit/966f5d6ea314f1d3f1c042227f93c7767ffadb65) - 2026-10-22
 * [Pull Request] [Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563) - 2026-10-22
+* [Review] [Review on: fix anchor reference](https://github.com/Consensys-Incorporated/teku/pull/11576#pullrequestreview-5647896518) - 2026-10-26
+* [Review] [Review on: Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563#pullrequestreview-5647867663) - 2026-10-26
+* [Commit] [Unhide builder options and add p2p specific ones (#11563)](https://github.com/Consensys-Incorporated/teku/commit/0d05806280d37c44de8c90aaaba14da2e2811961) - 2026-10-26
 ## Q3 2026
 
 

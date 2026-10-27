@@ -49,6 +49,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121#pullrequestreview-5627759834) - 2026-10-23
 * [Review] [Review on: fix(flat): key the persisted snapshot catalog like the per-tier buckets](https://github.com/NethermindEth/nethermind/pull/15070#pullrequestreview-5627901951) - 2026-10-23
 * [Commit] [fix(flat): key the persisted snapshot catalog like the per-tier buckets (#15070)](https://github.com/NethermindEth/nethermind/commit/a6f2349dcb23d478208df2d9a29f2617fb14a64a) - 2026-10-26
+* [Review] [Review on: fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases](https://github.com/NethermindEth/nethermind/pull/15237#pullrequestreview-5650550059) - 2026-10-26
+* [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5650600797) - 2026-10-26
+* [Review] [Review on: fix(pruning): reclaim blocks db space left by pinned blob files after history pruning](https://github.com/NethermindEth/nethermind/pull/15242#pullrequestreview-5650530099) - 2026-10-26
 ## Q3 2026
 
 

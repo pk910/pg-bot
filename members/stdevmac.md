@@ -193,6 +193,43 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(receipts): do not cache receipts recovered without senders (#14668)](https://github.com/NethermindEth/nethermind/commit/bdc4fc9fb6e387cbaa2d69bdfe13c15515d8dd82) - 2026-10-19
 * [Pull Request] [chore: update Directory.Build.props for 2.2.1](https://github.com/NethermindEth/nethermind/pull/15126) - 2026-10-22
 * [Commit] [fix(specs): deschedule Hoodi Amsterdam fork (#15110)](https://github.com/NethermindEth/nethermind/commit/6e1ada8873d1c620c34b75327c5cbf3624237153) - 2026-10-22
+* [Pull Request] [perf(sync): reuse beacon block bodies already stored by newPayload](https://github.com/NethermindEth/nethermind/pull/15215) - 2026-10-26
+* [Pull Request] [fix(blockchain): keep bloom-filtered header lookups from re-caching deleted headers](https://github.com/NethermindEth/nethermind/pull/15241) - 2026-10-26
+* [Review] [Review on: fix(engine): wait for committing ancestors before repeated invalid verdicts](https://github.com/NethermindEth/nethermind/pull/15021#pullrequestreview-5647345033) - 2026-10-26
+* [Review] [Review on: feat(rpc): keep the suggested block access list of bad blocks](https://github.com/NethermindEth/nethermind/pull/15157#pullrequestreview-5646835448) - 2026-10-26
+* [Review] [Review on: fix(merge): return the payload id before the empty block is built](https://github.com/NethermindEth/nethermind/pull/15180#pullrequestreview-5646835240) - 2026-10-26
+* [Review] [Review on: feat(rpc-bench): force JIT frame pointers in perf runs and add annotated assembly recipe](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5646808844) - 2026-10-26
+* [Review] [Review on: fix(network): fetch full blobs when too few eth/72 peers to sample](https://github.com/NethermindEth/nethermind/pull/15179#pullrequestreview-5646825857) - 2026-10-26
+* [Review] [Review on: EIP-8141: map the frame max_fee rejection to INSUFFICIENT_MAX_FEE_PER_GAS in the test runner](https://github.com/NethermindEth/nethermind/pull/15201#pullrequestreview-5646804354) - 2026-10-26
+* [Pull Request] [fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases](https://github.com/NethermindEth/nethermind/pull/15237) - 2026-10-26
+* [Pull Request] [fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226) - 2026-10-26
+* [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5653854626) - 2026-10-26
+* [Pull Request] [fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224) - 2026-10-26
+* [Pull Request] [chore: update Dockerfiles to .NET 10.0.14](https://github.com/NethermindEth/nethermind/pull/15251) - 2026-10-26
+* [Issue] [eth_uninstallFilter returns true for a filter id that does not exist](https://github.com/NethermindEth/nethermind/issues/15258) - 2026-10-27
+* [Issue] [debug_traceCallMany without overrides traces each transaction on the base state, ignoring earlier transactions](https://github.com/NethermindEth/nethermind/issues/15257) - 2026-10-27
+* [Issue] [FindCanonicalHeaderIfBloomMatches can re-cache a header removed by a concurrent block deletion](https://github.com/NethermindEth/nethermind/issues/15240) - 2026-10-26
+* [Issue] [eth_simulateV1 returns -32603 for a null account override](https://github.com/NethermindEth/nethermind/issues/15218) - 2026-10-26
+* [Issue] [Forward header cache dropped while its owner sleeps for Blocks, causing repeated header requests](https://github.com/NethermindEth/nethermind/issues/15219) - 2026-10-26
+* [Issue] [Era1 E2StoreReader accepts truncated entries and decodes stale buffer bytes](https://github.com/NethermindEth/nethermind/issues/15222) - 2026-10-26
+* [Issue] [Log index parallelism settings below 1 make log index sync fail on every start](https://github.com/NethermindEth/nethermind/issues/15221) - 2026-10-26
+* [Issue] [A selected optional startup step that fails still lets the command exit successfully](https://github.com/NethermindEth/nethermind/issues/15232) - 2026-10-26
+* [Issue] [DevBlockProducerTests.Does_not_produce_empty_blocks_for_a_tx_it_cannot_include(NonceGap) intermittently times out](https://github.com/NethermindEth/nethermind/issues/15217) - 2026-10-26
+* [Issue] [RandomWalkKademliaDiscoveryTests.DiscoverNodes_should_not_delay_when_lookup_exceeds_minimum_iteration_duration is flaky on macOS](https://github.com/NethermindEth/nethermind/issues/15216) - 2026-10-26
+* [Issue] [XDC eth_getCandidates and eth_getCandidateStatus serialize capacity as a decimal string](https://github.com/NethermindEth/nethermind/issues/15231) - 2026-10-26
+* [Issue] [Parallel BAL validation reports a block access list mismatch instead of the transaction error (Amsterdam hive regression)](https://github.com/NethermindEth/nethermind/issues/15223) - 2026-10-26
+* [Issue] [Flat persisted-snapshot arena, blob and trie-node-log paths are not rooted like the databases under a relative BaseDbPath](https://github.com/NethermindEth/nethermind/issues/15233) - 2026-10-26
+* [Issue] [AuRa producer logs "Failed to produce block" every step when the parent state is unavailable](https://github.com/NethermindEth/nethermind/issues/15220) - 2026-10-26
+* [Commit] [perf(sync): reuse beacon block bodies already stored by newPayload (#15215)](https://github.com/NethermindEth/nethermind/commit/0ff90fe0d2a202730712e806f59c9963aa1de4d1) - 2026-10-27
+* [Commit] [fix(blockchain): keep bloom-filtered header lookups from re-caching deleted headers (#15241)](https://github.com/NethermindEth/nethermind/commit/2c88a28b51ba07d5521ad9a91259744e1b48395c) - 2026-10-27
+* [Commit] [fix(rpc): accept a null account override in eth_simulateV1 (#15224)](https://github.com/NethermindEth/nethermind/commit/fa54236904d19fa3352732cf6c5a38efaf5f6135) - 2026-10-26
+* [Commit] [fix(sync): keep the pinned forward header cache when the owner sleeps for other contexts (#15225)](https://github.com/NethermindEth/nethermind/commit/212aa312ffc930955d00fcb410d3e77c956b1126) - 2026-10-26
+* [Commit] [fix(era1): reject truncated E2Store entries instead of decoding stale bytes (#15227)](https://github.com/NethermindEth/nethermind/commit/3d1f984541aeb05653c34794b982ce6b8dfbe9f0) - 2026-10-26
+* [Commit] [fix(logindex): reject parallelism settings below 1 at startup (#15234)](https://github.com/NethermindEth/nethermind/commit/e904110ee54b5760d4eff2c8822ed41363bbc291) - 2026-10-26
+* [Commit] [fix(init): fail the command when a selected optional step fails (#15236)](https://github.com/NethermindEth/nethermind/commit/b23605f6b3d02e4638f160b405a2b8d939a15610) - 2026-10-26
+* [Commit] [test(blockchain): keep the tx pool from evicting the NonceGap tx in DevBlockProducerTests (#15239)](https://github.com/NethermindEth/nethermind/commit/eb45711e88460119fc406090d95ac48ff7c87fb8) - 2026-10-26
+* [Commit] [test(discovery): drive Kademlia pacing test with a fake clock (#15228)](https://github.com/NethermindEth/nethermind/commit/1a5bd38323f9ba9bf6abe726f418cbdc95ce16e0) - 2026-10-26
+* [Commit] [feat(mcp): add opt-in read-only MCP server plugin (#13978)](https://github.com/NethermindEth/nethermind/commit/edb6764a1f549d053c033e87a528e3549dd0c0ca) - 2026-10-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

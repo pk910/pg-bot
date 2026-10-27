@@ -84,6 +84,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(tracing): check a prestate call target's delegation once per transaction](https://github.com/NethermindEth/nethermind/pull/15169) - 2026-10-23
 * [Commit] [perf(evm): resolve the per-opcode gas cost tracers once per transaction (#15185)](https://github.com/NethermindEth/nethermind/commit/568a02ebfa32ac39357d09678df81b1068561139) - 2026-10-23
 * [Commit] [perf(tracing): check a prestate call target's delegation once per transaction (#15169)](https://github.com/NethermindEth/nethermind/commit/7192e7f344d7b4516db02d0140bd5ecd83532caf) - 2026-10-23
+* [Pull Request] [feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244) - 2026-10-26
+* [Commit] [perf(tracing): skip stack push reports for a prestate trace (#15183)](https://github.com/NethermindEth/nethermind/commit/3c32a3a61223bc55d40cf6d0e1f880f364a92ba2) - 2026-10-26
+* [Commit] [perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them (#15182)](https://github.com/NethermindEth/nethermind/commit/b012a730d472c36e0c30f03502ac6db667c5c3ad) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

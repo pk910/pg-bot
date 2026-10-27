@@ -21,6 +21,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5639401452) - 2026-10-24
 * [Review] [Review on: Update EIP-7928: specify BAL integer encoding](https://github.com/ethereum/EIPs/pull/12571#pullrequestreview-5639183848) - 2026-10-24
+* [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5649199509) - 2026-10-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956) - 2026-10-23
 ## Q3 2026

@@ -107,6 +107,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-forks): generate BPO increase and decrease scenarios for every fork from Amsterdam](https://github.com/ethereum/execution-specs/pull/3597#pullrequestreview-5635289838) - 2026-10-23
 * [Review] [Review on: fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review](https://github.com/ethereum/execution-specs/pull/3901#pullrequestreview-5634007508) - 2026-10-23
 * [Pull Request] [feat(tests): adapt the EIP-8250 tests to the rebased EIP-8141 branch](https://github.com/ethereum/execution-specs/pull/3897) - 2026-10-23
+* [Review] [Review on: feat(test-consume): let clients skip a separate genesis init in engine and enginex](https://github.com/ethereum/execution-specs/pull/3910#pullrequestreview-5651556013) - 2026-10-26
+* [Review] [Review on: chore(test-consume): revert HIVE_SKIP_GENESIS_INIT (#3910)](https://github.com/ethereum/execution-specs/pull/3912#pullrequestreview-5656938488) - 2026-10-26
+* [Review] [Review on: feat(test-consume): deselect pre-merge fork tests for ethrex](https://github.com/ethereum/execution-specs/pull/3908#pullrequestreview-5650310939) - 2026-10-26
+* [Review] [Review on: fix(tooling,spec-tools): stop fill-pypy running out of memory on synthetic BPO forks](https://github.com/ethereum/execution-specs/pull/3909#pullrequestreview-5650330460) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

@@ -124,6 +124,12 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Store the chain of a sync in batches (#11705)](https://github.com/besu-eth/besu/commit/d03005781aba76dcd0c355c427632874218427e7) - 2026-10-23
 * [Commit] [SNAP2: Add the key ranges and storage tasks of the state download (#11700)](https://github.com/besu-eth/besu/commit/2ac480e1ae88d4420c28b5abea960308856eb6a4) - 2026-10-23
 * [Commit] [SNAP2: Add the final trie build (#11661)](https://github.com/besu-eth/besu/commit/ace55a1819de94f9dc3aeea3c3fa4beed066102d) - 2026-10-23
+* [Review] [Review on: SNAP2: Add the body back-fill](https://github.com/besu-eth/besu/pull/11734#pullrequestreview-5648414227) - 2026-10-26
+* [Pull Request] [SNAP2: Add the writes of the state download](https://github.com/besu-eth/besu/pull/11761) - 2026-10-26
+* [Review] [Review on: Store a valid block after replying to newPayload](https://github.com/besu-eth/besu/pull/11682#pullrequestreview-5650433361) - 2026-10-26
+* [Commit] [SNAP2: Add the body back-fill (#11734)](https://github.com/besu-eth/besu/commit/577423f0020a4f0860dcbb3a6b5c5bc7a59a4c37) - 2026-10-26
+* [Commit] [SNAP2: Abort only the batches whose commit has not started (#11733)](https://github.com/besu-eth/besu/commit/7c8e2e3c12a3ce50d9d8de19acd5d312657f5e2a) - 2026-10-26
+* [Commit] [SNAP2: Add the header back-fill (#11707)](https://github.com/besu-eth/besu/commit/ac1b44afc986e5945e934953a7c1e0c994d082ab) - 2026-10-26
 ## Q3 2026
 
 

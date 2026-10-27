@@ -44,6 +44,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: keep current slot duration in heze](https://github.com/ChainSafe/lodestar/pull/10398#pullrequestreview-5532036988) - 2026-10-15
 * [Review] [Review on: test: reuse mocked envelope repository in block archiver tests](https://github.com/ChainSafe/lodestar/pull/10452#pullrequestreview-5598496538) - 2026-10-21
 * [Commit] [fix(archive): rework pruning for non-canonical block variants (#10022)](https://github.com/ChainSafe/lodestar/commit/23bc3d7be9e301110912ce4e8af6aae9623c3248) - 2026-10-21
+* [Pull Request] [chore: bump lodestar-z to 2.2.0](https://github.com/ChainSafe/lodestar/pull/10471) - 2026-10-26
+* [Commit] [chore: bump lodestar-z to 2.2.0 (#10471)](https://github.com/ChainSafe/lodestar/commit/d04b3811aea5a09898295aac2da1843b933a6a61) - 2026-10-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -87,6 +89,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: floor slot component duration](https://github.com/ChainSafe/lodestar-z/pull/801#pullrequestreview-5624845638) - 2026-10-23
 * [Commit] [test: remove assertion-free sanity tests (#803)](https://github.com/ChainSafe/lodestar-z/commit/268208de4f5aa559e2fb542fd3643e534d81004c) - 2026-10-23
 * [Review] [Review on: test(fuzz): seed the two opaque SSZ targets](https://github.com/ChainSafe/lodestar-z/pull/806#pullrequestreview-5646592330) - 2026-10-26
+* [Review] [Review on: chore: release 2.2.0](https://github.com/ChainSafe/lodestar-z/pull/800#pullrequestreview-5649581128) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

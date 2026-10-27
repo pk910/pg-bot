@@ -56,6 +56,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Avoid payload construction, when engine is null](https://github.com/grandinetech/grandine/commit/7d85f89e66b9462706a597a3f9851b77e5aef828) - 2026-10-23
 * [Commit] [Avoid collecting attesting indices twice](https://github.com/grandinetech/grandine/commit/b2c6ffc14d441d576382c77de1f36a925d32117b) - 2026-10-23
 * [Commit] [Parallelize slice shuffling](https://github.com/grandinetech/grandine/commit/ec002eda1b25bdccb851af691d1b9383f8f72541) - 2026-10-23
+* [Pull Request] [Isolate zkVM crates in a separate workspace](https://github.com/grandinetech/grandine/pull/1008) - 2026-10-26
+* [Commit] [Upgrade jwt-simple to address crypto-bigint timing](https://github.com/grandinetech/grandine/commit/7092dfa4bbd218d6d5cb82a9fd933c353a48a41a) - 2026-10-26
+* [Commit] [Isolate zkVM crates in a separate workspace](https://github.com/grandinetech/grandine/commit/76244599be18a8d0dc6f8e6616dc2e3f8c93a52c) - 2026-10-26
 ## Q3 2026
 
 

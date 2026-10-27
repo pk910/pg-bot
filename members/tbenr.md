@@ -95,6 +95,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Close inbound RPC streams whose response cannot be written](https://github.com/Consensys-Incorporated/teku/pull/11569) - 2026-10-23
 * [Review] [Review on: Keep the finalized anchor DAS tracker alive while its payload is recovered](https://github.com/Consensys-Incorporated/teku/pull/11553#pullrequestreview-5625236772) - 2026-10-23
 * [Issue] [Gloas: EL-invalid envelope blocks the correct envelope for the same block](https://github.com/Consensys-Incorporated/teku/issues/11568) - 2026-10-23
+* [Pull Request] [Inbound rpc stream backstops](https://github.com/Consensys-Incorporated/teku/pull/11578) - 2026-10-26
+* [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5655936183) - 2026-10-26
+* [Commit] [Inbound rpc stream backstops (#11578)](https://github.com/Consensys-Incorporated/teku/commit/f07609073679ef48ca5c13b48694af627772df4b) - 2026-10-26
+* [Commit] [Close inbound RPC streams whose response cannot be written (#11569)](https://github.com/Consensys-Incorporated/teku/commit/5a715d1b8797e30c0d697db4531e1f39a3b05803) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

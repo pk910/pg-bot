@@ -137,6 +137,20 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/ethapi, rpc/jsonrpc: rebuild the overridden precompile set per bundle in eth_callMany and debug_traceCallMany](https://github.com/erigontech/erigon/pull/25343) - 2026-10-25
 * [Pull Request] [db/kv, rpc/jsonrpc: add TemporalTx.IndexJoin for AND-of-OR index queries](https://github.com/erigontech/erigon/pull/25342) - 2026-10-25
 * [Commit] [db/kv/rawdbv3, rpc/jsonrpc: fail eth_getLogs and erigon_getLatestLogs when a transaction of the block cannot be read (#25320)](https://github.com/erigontech/erigon/commit/96e71f93350f55d42825a6650c96fb0b3d370289) - 2026-10-25
+* [Pull Request] [db/snapshotsync/freezeblocks: keep the grown txn buffer in txnRlpBufPool](https://github.com/erigontech/erigon/pull/25398) - 2026-10-26
+* [Pull Request] [rlp, types: parse stored logs in place](https://github.com/erigontech/erigon/pull/25399) - 2026-10-26
+* [Pull Request] [[r3.8] rpc: backport the RPC fixes of rpc-tests v2.38.0 and bump hive rpc-compat refs](https://github.com/erigontech/erigon/pull/25408) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/jsonrpc: null reward localization, no vmTrace idx, -32001 for unknown trace blocks](https://github.com/erigontech/erigon/pull/25407) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/jsonrpc: bound the authorization list of trace_rawTransaction before decoding](https://github.com/erigontech/erigon/pull/25406) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/ethapi, rpc/jsonrpc: reject maxFeePerBlobGas without blob hashes in calls](https://github.com/erigontech/erigon/pull/25405) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/jsonrpc: reject unknown override keys in eth_simulateV1](https://github.com/erigontech/erigon/pull/25404) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/jsonrpc: reject a difficulty override after the merge in eth_simulateV1](https://github.com/erigontech/erigon/pull/25403) - 2026-10-26
+* [Pull Request] [[r3.8] rpc/jsonrpc: reject max nonce sender in eth_simulateV1 without validation](https://github.com/erigontech/erigon/pull/25402) - 2026-10-26
+* [Pull Request] [cl/beacon/handler: fix flaky TestPayloadPreparationCollectionWithExecutionModule](https://github.com/erigontech/erigon/pull/25366) - 2026-10-26
+* [Commit] [cl/beacon/handler: fix flaky TestPayloadPreparationCollectionWithExecutionModule (#25366)](https://github.com/erigontech/erigon/commit/17822a558fd3762466303675ed7cc2ffc144a9a7) - 2026-10-26
+* [Commit] [QA: add an optional Reth run to RPC Performance Tests Latest (#25288)](https://github.com/erigontech/erigon/commit/c2d084ccbff919b53fe14e493f7d140e77ce31f8) - 2026-10-26
+* [Commit] [db/snapshotsync/freezeblocks, rpc: hash eth_getLogs receipt txns by txNum in block files (#25283)](https://github.com/erigontech/erigon/commit/391edfe5c5081ad5847c6884947c55c147b2fe19) - 2026-10-26
+* [Commit] [rpc: a batch of eth_sendRawTransactionSync calls runs concurrently (#25325)](https://github.com/erigontech/erigon/commit/bd44688a83ef037b799590e675570ff525ba9dec) - 2026-10-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

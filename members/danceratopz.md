@@ -61,6 +61,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [perf(test-consume): show the hive reproduce steps only for failed tests (#3894)](https://github.com/ethereum/execution-specs/commit/aaae5abd382b6c0612add96bd8400d6fa4eb0617) - 2026-10-22
 * [Commit] [feat(test-forks): generate BPO increase and decrease scenarios for every fork from Amsterdam (#3597)](https://github.com/ethereum/execution-specs/commit/369cd54c7f3a79f2f088368f566f480750ff03cd) - 2026-10-23
 * [Pull Request] [feat(test-consume): deselect pre-merge fork tests for ethrex](https://github.com/ethereum/execution-specs/pull/3908) - 2026-10-25
+* [Pull Request] [perf(test-consume): run enginex tests grouped by fixture file](https://github.com/ethereum/execution-specs/pull/3914) - 2026-10-26
+* [Pull Request] [feat(test-consume): let clients skip a separate genesis init in engine and enginex](https://github.com/ethereum/execution-specs/pull/3910) - 2026-10-26
+* [Pull Request] [chore(test-consume): revert HIVE_SKIP_GENESIS_INIT (#3910)](https://github.com/ethereum/execution-specs/pull/3912) - 2026-10-26
+* [Pull Request] [fix(tooling,spec-tools): stop fill-pypy running out of memory on synthetic BPO forks](https://github.com/ethereum/execution-specs/pull/3909) - 2026-10-26
+* [Commit] [perf(test-consume): run enginex tests grouped by fixture file (#3914)](https://github.com/ethereum/execution-specs/commit/41b70b2694f4b8be33de9fedd4c66dc1bfbd14e6) - 2026-10-26
+* [Commit] [chore(test-consume): revert HIVE_SKIP_GENESIS_INIT (#3910) (#3912)](https://github.com/ethereum/execution-specs/commit/a6ed11315804a56dd45315be0fda2ff2b133cb61) - 2026-10-26
+* [Commit] [feat(test-consume): let clients skip a separate genesis init in engine and enginex (#3910)](https://github.com/ethereum/execution-specs/commit/dc1bb6bd9a38d91a22b73f045e8feee62d166ada) - 2026-10-26
+* [Commit] [fix(tooling,spec-tools): stop fill-pypy running out of memory on synthetic BPO forks (#3909)](https://github.com/ethereum/execution-specs/commit/e27f097ec7b3e6e8ee9c2c1873c183e8f7da7a6e) - 2026-10-26
+* [Commit] [feat(test-consume): deselect pre-merge fork tests for ethrex (#3908)](https://github.com/ethereum/execution-specs/commit/ce5ddd2fde75a24ca5c491d0904b3dfbdb6dc0ed) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -80,6 +89,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [cmd/hiveview, cmd/hq: add run end time to listing](https://github.com/ethereum/hive/pull/1634) - 2026-10-22
 * [Commit] [hiveproxy: probe client readiness at shorter intervals (#1627)](https://github.com/ethereum/hive/commit/e1ad81006c63555915e05a121df3e68953fa9138) - 2026-10-22
 * [Commit] [cmd/hiveview, cmd/hq: add run end time to listing (#1634)](https://github.com/ethereum/hive/commit/7dbf2ac372a48796d1309dd0101883a5a5225508) - 2026-10-22
+* [Pull Request] [clients/go-ethereum, clients/reth: load the genesis at startup when there is nothing to import](https://github.com/ethereum/hive/pull/1639) - 2026-10-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -99,6 +109,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Require uv 0.13.4 or newer to avoid a compromised root CA](https://github.com/ethereum/consensus-specs/pull/5752) - 2026-10-21
 * [Commit] [Require uv 0.13.4 or newer to avoid a compromised root CA (#5752)](https://github.com/ethereum/consensus-specs/commit/75428da3274397af7254f40814c00e243f792d3d) - 2026-10-21
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386) - 2026-10-26
 ## Q3 2026
 
 

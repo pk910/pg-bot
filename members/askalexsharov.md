@@ -487,8 +487,41 @@ Team: Erigon
 * [Pull Request] [execution/vm: inline CODECOPY, CALLDATACOPY and RETURNDATACOPY](https://github.com/erigontech/erigon/pull/25222) - 2026-10-25
 * [Commit] [execution/stagedsync: BAL blocks dispatch a bounded window and skip the post-valid wait (#25225)](https://github.com/erigontech/erigon/commit/b33ccba8dbca185134db45121cad0848e2d8d0d9) - 2026-10-25
 * [Commit] [execution/stagedsync: keep a released exec slot's roTx for the next task (#25314)](https://github.com/erigontech/erigon/commit/46e5f064006b4c1d11bd5f7bd13575b9bd8dc69d) - 2026-10-25
+* [Review] [Review on: [r3.8] rpc: backport the RPC fixes of rpc-tests v2.38.0 and bump hive rpc-compat refs](https://github.com/erigontech/erigon/pull/25408#pullrequestreview-5661582860) - 2026-10-27
+* [Review] [Review on: execution: a value transfer is not charged at validation](https://github.com/erigontech/erigon/pull/25309#pullrequestreview-5648767341) - 2026-10-26
+* [Pull Request] [rpc/jsonrpc: trace_*, debug_executionWitness and overlay run on the versioned state](https://github.com/erigontech/erigon/pull/25383) - 2026-10-26
+* [Review] [Review on: rpc/jsonrpc: trace_*, debug_executionWitness and overlay run on the versioned state](https://github.com/erigontech/erigon/pull/25383#pullrequestreview-5652806585) - 2026-10-26
+* [Pull Request] [exec: move "intern tables" from `evm` to `ibs` object](https://github.com/erigontech/erigon/pull/25368) - 2026-10-26
+* [Review] [Review on: exec: move "intern tables" from `evm` to `ibs` object](https://github.com/erigontech/erigon/pull/25368#pullrequestreview-5661251786) - 2026-10-27
+* [Pull Request] [common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes](https://github.com/erigontech/erigon/pull/25364) - 2026-10-26
+* [Review] [Review on: common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes](https://github.com/erigontech/erigon/pull/25364#pullrequestreview-5661253425) - 2026-10-27
+* [Review] [Review on: execution/vm/vmgen: add README](https://github.com/erigontech/erigon/pull/25233#pullrequestreview-5648749040) - 2026-10-26
+* [Pull Request] [cl/phase1/network/services: bound the seen sync contributions set](https://github.com/erigontech/erigon/pull/25349) - 2026-10-26
+* [Review] [Review on: cl/phase1/network/services: bound the seen sync contributions set](https://github.com/erigontech/erigon/pull/25349#pullrequestreview-5661237275) - 2026-10-27
+* [Pull Request] [execution/stagedsync: index readers by address and check the exact cell per write](https://github.com/erigontech/erigon/pull/25347) - 2026-10-26
+* [Review] [Review on: execution/stagedsync: index readers by address and check the exact cell per write](https://github.com/erigontech/erigon/pull/25347#pullrequestreview-5647813436) - 2026-10-26
+* [Review] [Review on: cl/clparams/initial_state: embed genesis states zstd-compressed](https://github.com/erigontech/erigon/pull/25301#pullrequestreview-5661227390) - 2026-10-27
+* [Review] [Review on: execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests](https://github.com/erigontech/erigon/pull/25385#pullrequestreview-5652778533) - 2026-10-26
+* [Review] [Review on: txnprovider/txpool: allow identical P2P transaction retries](https://github.com/erigontech/erigon/pull/25318#pullrequestreview-5648790696) - 2026-10-26
+* [Pull Request] [node/cli, node/eth: remove deprecated ApplyFlagsForEthConfig and eth.Config alias](https://github.com/erigontech/erigon/pull/25371) - 2026-10-26
+* [Commit] [execution/execmodule: fix TestGetAssembledBlockIncludesTxnsOnceTxPoolCatchesUpSoonAfterStop flake (#25370)](https://github.com/erigontech/erigon/commit/478c481407fb9b7dca91e285bd2c905218bcc245) - 2026-10-26
+* [Commit] [node/cli, node/eth: remove deprecated ApplyFlagsForEthConfig and eth.Config alias (#25371)](https://github.com/erigontech/erigon/commit/cb452ebdc4a015506bf7510e16bb88a9dac98d26) - 2026-10-26
+* [Commit] [execution: stagedsync and state tests pass under ERIGON_ASSERT; parallel trie progress count (#25365)](https://github.com/erigontech/erigon/commit/983f2762ac56d385f47ef648fc5092461bcf1c5a) - 2026-10-26
+* [Commit] [txnprovider/txpool: stop keeping sender ids of accounts outside the pool (#25358)](https://github.com/erigontech/erigon/commit/6bb28df13abbf51f3944bdc77877a080ac86650f) - 2026-10-26
+* [Commit] [execution/stagedsync: skip the live coinbase's AddressPath re-emit on BAL blocks (#25341)](https://github.com/erigontech/erigon/commit/000d0368f78303ec3c00f398d647d169f5374567) - 2026-10-26
+* [Commit] [rpc/jsonrpc: cap client EVM timeout by --rpc.evmtimeout (#25351)](https://github.com/erigontech/erigon/commit/0c7dfbdcaaa9e1657dfe9b3ec3ff394f68de330b) - 2026-10-26
+* [Commit] [db/state: prune does not go past the files of a domain or index without files (#25353)](https://github.com/erigontech/erigon/commit/336d279e1ef66c7f187cecf867b1339e1f3152a7) - 2026-10-26
+* [Commit] [cmd/rpcdaemon: do not serve GraphQL on the Engine API port (#25352)](https://github.com/erigontech/erigon/commit/dda2e732fc6b8f0ddeb91d86d5511e0b487c8882) - 2026-10-26
+* [Commit] [rpc/jsonrpc: do not preallocate the debug_storageRangeAt heap by maxResult (#25348)](https://github.com/erigontech/erigon/commit/b2b82e122019d091dd35a441cfb603ffc1fd6654) - 2026-10-26
+* [Commit] [execution/state: origin code reads reuse the committed account memo (#25345)](https://github.com/erigontech/erigon/commit/d617dd3e5e12207474bd670f910b49a9292acddc) - 2026-10-26
+* [Commit] [exec: cut serial BAL work around exec (#25220)](https://github.com/erigontech/erigon/commit/86d01a526514652b7f9d52a299baaf2f4b63911f) - 2026-10-26
+* [Commit] [execution/vm: shift on DIV by a power of two (#25226)](https://github.com/erigontech/erigon/commit/c94471988fa38ca5e4d6de8c6ad6e2e7f75089b5) - 2026-10-26
+* [Commit] [execution/state: write view reuses the code hash stored in the version map (#25327)](https://github.com/erigontech/erigon/commit/120713e9eeac3560d025f94d831cfab5e73a7115) - 2026-10-26
+* [Commit] [execution/cache: publish takes a code update's hash from its account update (#25329)](https://github.com/erigontech/erigon/commit/82e4be8e4f779433fa2a2152386501f7de66f7c0) - 2026-10-26
+* [Commit] [execution: review fixes for parallel exec (#25328)](https://github.com/erigontech/erigon/commit/f43942f98a09640de359c5adae870a2b508e8602) - 2026-10-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
+* [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26
 ## Q3 2026
 
 

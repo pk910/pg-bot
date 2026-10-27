@@ -86,6 +86,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Notify the layered pool transaction added before making space for it (#11688)](https://github.com/besu-eth/besu/commit/c9dfe7495f2ab1f6a3779adc35b33bda27aadb20) - 2026-10-22
 * [Commit] [Notify the sequenced pool transaction events in the order they happen (#11685)](https://github.com/besu-eth/besu/commit/bbccb85dc0959c00a66874b2349224ae13c73612) - 2026-10-22
 * [Commit] [Run CI on rebase, ci and ds branches only on demand (#11724)](https://github.com/besu-eth/besu/commit/d09b4d83c45717fce2300aeb694a3b3cce92cd42) - 2026-10-23
+* [Pull Request] [FOCIL: Store the inclusion list status of blocks](https://github.com/besu-eth/besu/pull/11769) - 2026-10-26
+* [Pull Request] [FOCIL: Validate inclusion lists during block processing](https://github.com/besu-eth/besu/pull/11768) - 2026-10-26
+* [Pull Request] [FOCIL: Support inclusion list transactions in block creation](https://github.com/besu-eth/besu/pull/11549) - 2026-10-26
+* [Review] [Review on: FOCIL: Support inclusion list transactions in block creation](https://github.com/besu-eth/besu/pull/11549#pullrequestreview-5650658281) - 2026-10-26
+* [Pull Request] [EIP-8070: Serve pooled blob transactions with their blobs elided](https://github.com/besu-eth/besu/pull/11763) - 2026-10-26
+* [Review] [Review on: EIP-8070: Add the eth/72 GetCells and Cells messages](https://github.com/besu-eth/besu/pull/11644#pullrequestreview-5650979496) - 2026-10-26
+* [Review] [Review on: Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756#pullrequestreview-5649646158) - 2026-10-26
+* [Commit] [Support inclusion list transactions in block creation (EIP-7805) (#11549)](https://github.com/besu-eth/besu/commit/4facca230e3430a61f7915d7b316c6b4ef5b0f0a) - 2026-10-26
+* [Commit] [EIP-8070: Add the eth/72 GetCells and Cells messages (#11644)](https://github.com/besu-eth/besu/commit/d8c1a5930b88fd706cde66b51530ddc8de0ccad4) - 2026-10-26
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

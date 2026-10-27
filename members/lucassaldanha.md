@@ -103,6 +103,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Imported slashing protection for a loaded key is overwritten by the cached signing record](https://github.com/Consensys-Incorporated/teku/issues/11552) - 2026-10-21
 * [Commit] [Temporarily disable greclipse while download.eclipse.org is down (#11561)](https://github.com/Consensys-Incorporated/teku/commit/5f55b6d844169cc3c663c8ac6264776e3044b7b9) - 2026-10-21
 * [Review] [Review on: upgrade libp2p to 1.4.0](https://github.com/Consensys-Incorporated/teku/pull/11565#pullrequestreview-5611586777) - 2026-10-22
+* [Pull Request] [Publish the bare Docker release tags from the jdk25 job only](https://github.com/Consensys-Incorporated/teku/pull/11580) - 2026-10-26
+* [Review] [Review on: Remove the compromised eMudhra roots from the Docker images](https://github.com/Consensys-Incorporated/teku/pull/11577#pullrequestreview-5660158645) - 2026-10-26
+* [Commit] [Publish the bare Docker release tags from the jdk25 job only (#11580)](https://github.com/Consensys-Incorporated/teku/commit/a2dedbb4e36e831af5f23b39e16562642604e7ad) - 2026-10-26
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

@@ -249,6 +249,22 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(rpc): name the failing argument in -32602 errors, as Geth does](https://github.com/NethermindEth/nethermind/pull/15093#pullrequestreview-5628912851) - 2026-10-23
 * [Review] [Review on: test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa](https://github.com/NethermindEth/nethermind/pull/15143#pullrequestreview-5628912080) - 2026-10-23
 * [Review] [Review on: fix(rpc): check the Origin of WebSocket requests against CorsOrigins](https://github.com/NethermindEth/nethermind/pull/15155#pullrequestreview-5628900503) - 2026-10-23
+* [Review] [Review on: fix(engine): wait for committing ancestors before repeated invalid verdicts](https://github.com/NethermindEth/nethermind/pull/15021#pullrequestreview-5650770614) - 2026-10-26
+* [Review] [Review on: fix(debug): reject raw genesis traces and defer semantic timeouts](https://github.com/NethermindEth/nethermind/pull/14725#pullrequestreview-5650771052) - 2026-10-26
+* [Pull Request] [Enforce grouped NUnit assertions](https://github.com/NethermindEth/nethermind/pull/15245) - 2026-10-26
+* [Review] [Review on: Enforce grouped NUnit assertions](https://github.com/NethermindEth/nethermind/pull/15245#pullrequestreview-5651583837) - 2026-10-26
+* [Review] [Review on: fix(docgen): document remaining converter shapes and null members](https://github.com/NethermindEth/nethermind/pull/15064#pullrequestreview-5650853227) - 2026-10-26
+* [Review] [Review on: feat(rpc): keep the suggested block access list of bad blocks](https://github.com/NethermindEth/nethermind/pull/15157#pullrequestreview-5650853480) - 2026-10-26
+* [Review] [Review on: feat(rpc-bench): force JIT frame pointers in perf runs and add annotated assembly recipe](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5650853027) - 2026-10-26
+* [Review] [Review on: ci: fall back to the .NET CDN when the SDK download fails](https://github.com/NethermindEth/nethermind/pull/15209#pullrequestreview-5650852814) - 2026-10-26
+* [Review] [Review on: fix(network): fetch full blobs when too few eth/72 peers to sample](https://github.com/NethermindEth/nethermind/pull/15179#pullrequestreview-5650857980) - 2026-10-26
+* [Review] [Review on: fix(ci): gate EXPB campaigns on snapshot replay](https://github.com/NethermindEth/nethermind/pull/15243#pullrequestreview-5650967233) - 2026-10-26
+* [Review] [Review on: fix(ci): reject invalid EXPB comparisons](https://github.com/NethermindEth/nethermind/pull/15235#pullrequestreview-5650967626) - 2026-10-26
+* [Review] [Review on: perf(consensus): defer deposit scratch rental](https://github.com/NethermindEth/nethermind/pull/15207#pullrequestreview-5650968506) - 2026-10-26
+* [Review] [Review on: perf(ci): skip unused EXPB baseline restore](https://github.com/NethermindEth/nethermind/pull/15238#pullrequestreview-5650967430) - 2026-10-26
+* [Review] [Review on: feat(txpool): track EIP-8151 ecrecover signers as frame-tx code dependencies](https://github.com/NethermindEth/nethermind/pull/15252#pullrequestreview-5655387935) - 2026-10-26
+* [Review] [Review on: fix(rpc): enforce buffered ByNumber per-transaction deadlines](https://github.com/NethermindEth/nethermind/pull/14587#pullrequestreview-5650771767) - 2026-10-26
+* [Review] [Review on: fix(debug): check numeric block body before replay state](https://github.com/NethermindEth/nethermind/pull/14616#pullrequestreview-5650771597) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -271,6 +287,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: move benchmark protocols to an asset](https://github.com/ethereum/EIPs/pull/12524) - 2026-10-15
 * [Pull Request] [Update EIP-8288: reserve the zero data_hash for the signature hash](https://github.com/ethereum/EIPs/pull/12518) - 2026-10-15
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
+* [Pull Request] [Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590) - 2026-10-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

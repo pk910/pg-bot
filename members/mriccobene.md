@@ -49,6 +49,7 @@ Team: Erigon
 * [Review] [Review on: .github/workflows: pass --process-name rpcdaemon to rpc_perf only for erigon](https://github.com/erigontech/erigon/pull/24974#pullrequestreview-5550179662) - 2026-10-16
 * [Commit] [qa-tests: upgrade lighthouse version to v8.3.0 (#25157)](https://github.com/erigontech/erigon/commit/1012dbba65f03127391a48314ea0ab5a9598f221) - 2026-10-22
 * [Review] [Review on: Update LIGHTHOUSE_VERSION to v8.3.2](https://github.com/erigontech/erigon/pull/25247#pullrequestreview-5626685302) - 2026-10-23
+* [Review] [Review on: QA: add an optional Reth run to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25288#pullrequestreview-5647953431) - 2026-10-26
 ## Q3 2026
 
 

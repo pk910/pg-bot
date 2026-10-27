@@ -94,6 +94,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: round slot component durations](https://github.com/ChainSafe/lodestar/pull/10466#pullrequestreview-5631476336) - 2026-10-23
 * [Review] [Review on: fix: recompute unrealized checkpoints for blocks with slashings](https://github.com/ChainSafe/lodestar/pull/10467#pullrequestreview-5637536170) - 2026-10-24
 * [Pull Request] [fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470) - 2026-10-25
+* [Review] [Review on: fix: retry post-gloas getBlobs after a failed attempt](https://github.com/ChainSafe/lodestar/pull/10479#pullrequestreview-5661566455) - 2026-10-27
+* [Review] [Review on: chore: bump lodestar-z to 2.2.0](https://github.com/ChainSafe/lodestar/pull/10471#pullrequestreview-5649872935) - 2026-10-26
+* [Review] [Review on: fix: cap payload DA wait at the slot duration of the payload's fork](https://github.com/ChainSafe/lodestar/pull/10433#pullrequestreview-5649764719) - 2026-10-26
+* [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649354280) - 2026-10-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -137,6 +141,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add basic heze support (#799)](https://github.com/ChainSafe/lodestar-z/commit/5cbf8db38b07660cfac1105b12b9390683596140) - 2026-10-23
 * [Review] [Review on: test: benchmark low-balance sync committees](https://github.com/ChainSafe/lodestar-z/pull/804#pullrequestreview-5638569004) - 2026-10-24
 * [Review] [Review on: fix: build fuzz harnesses in ReleaseSafe](https://github.com/ChainSafe/lodestar-z/pull/805#pullrequestreview-5644182478) - 2026-10-25
+* [Review] [Review on: fix(fuzz): report AFL++'s last-minute exec rate](https://github.com/ChainSafe/lodestar-z/pull/809#pullrequestreview-5654832311) - 2026-10-26
+* [Review] [Review on: feat(fuzz): add a minimize command for the fuzz platform](https://github.com/ChainSafe/lodestar-z/pull/808#pullrequestreview-5654803901) - 2026-10-26
+* [Review] [Review on: test(fuzz): seed the two opaque SSZ targets](https://github.com/ChainSafe/lodestar-z/pull/806#pullrequestreview-5648525216) - 2026-10-26
+* [Review] [Review on: chore: release 2.2.0](https://github.com/ChainSafe/lodestar-z/pull/800#pullrequestreview-5648541103) - 2026-10-26
+* [Review] [Review on: test: benchmark low-balance sync committees](https://github.com/ChainSafe/lodestar-z/pull/804#pullrequestreview-5648484114) - 2026-10-26
+* [Review] [Review on: ci: replay every fuzz seed before publishing the image](https://github.com/ChainSafe/lodestar-z/pull/807#pullrequestreview-5648505989) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

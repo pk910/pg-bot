@@ -221,6 +221,24 @@ Team: Erigon
 * [Pull Request] [execution/engineapi: don't abort the download on a domain-ahead fork choice](https://github.com/erigontech/erigon/pull/25335) - 2026-10-25
 * [Review] [Review on: execution: a value transfer is not charged at validation, and a run before the sender charge does not park](https://github.com/erigontech/erigon/pull/25309#pullrequestreview-5643483027) - 2026-10-25
 * [Commit] [cmd/utils/app: step-rebase merges the receipt cache on persist.receipts datadirs (#25317)](https://github.com/erigontech/erigon/commit/a3f7d4259a9a7f31310cabbd55391fa94cc33e70) - 2026-10-25
+* [Review] [Review on: cl/persistence/blob_storage: drop the count rows of pruned blob buckets](https://github.com/erigontech/erigon/pull/25300#pullrequestreview-5650720303) - 2026-10-26
+* [Review] [Review on: rpc/jsonrpc: trace_*, debug_executionWitness and overlay run on the versioned state](https://github.com/erigontech/erigon/pull/25383#pullrequestreview-5656024501) - 2026-10-26
+* [Review] [Review on: exec: move "intern tables" from `evm` to `ibs` object](https://github.com/erigontech/erigon/pull/25368#pullrequestreview-5651241082) - 2026-10-26
+* [Review] [Review on: common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes](https://github.com/erigontech/erigon/pull/25364#pullrequestreview-5651240719) - 2026-10-26
+* [Review] [Review on: cl/phase1/network/services: bound the seen sync contributions set](https://github.com/erigontech/erigon/pull/25349#pullrequestreview-5648430755) - 2026-10-26
+* [Review] [Review on: execution/stagedsync: index readers by address and check the exact cell per write](https://github.com/erigontech/erigon/pull/25347#pullrequestreview-5648430360) - 2026-10-26
+* [Review] [Review on: execution: honor cancellation in EVM workers and block warmup](https://github.com/erigontech/erigon/pull/21495#pullrequestreview-5656024161) - 2026-10-26
+* [Review] [Review on: db/datastruct/btindex, db/state, node/eth: read state .bt files into memory in the erigon node](https://github.com/erigontech/erigon/pull/25378#pullrequestreview-5650916579) - 2026-10-26
+* [Pull Request] [cmd/capcli, freezeblocks: remove a replaced blob segment's index and torrents before compressing the new one](https://github.com/erigontech/erigon/pull/25380) - 2026-10-26
+* [Review] [Review on: execution: test reorg recovery across snapshot publication and pruning](https://github.com/erigontech/erigon/pull/24857#pullrequestreview-5651239935) - 2026-10-26
+* [Review] [Review on: [r3.8] execution/stagedsync: count each parallel-executed block once in the block duration average](https://github.com/erigontech/erigon/pull/25388#pullrequestreview-5656024978) - 2026-10-26
+* [Review] [Review on: rpc: refuse historical eth_getProof without commitment history](https://github.com/erigontech/erigon/pull/25135#pullrequestreview-5651240144) - 2026-10-26
+* [Review] [Review on: node/cli, node/eth: remove deprecated ApplyFlagsForEthConfig and eth.Config alias](https://github.com/erigontech/erigon/pull/25371#pullrequestreview-5651241743) - 2026-10-26
+* [Issue] [cl/persistence/blob_storage: a power cut can leave a column bit set after its file is removed](https://github.com/erigontech/erigon/issues/25379) - 2026-10-26
+* [Issue] [execution/engineapi: engine block downloader abort paths #25335 leaves unchanged](https://github.com/erigontech/erigon/issues/25381) - 2026-10-26
+* [Commit] [cmd/capcli: name the blob sidecar check in the dump-blobs-snapshots integrity hint (#25360)](https://github.com/erigontech/erigon/commit/48a989e16975c41f3c27be78f49bc73840a4b6d8) - 2026-10-26
+* [Commit] [execution/tests: storage-only account touched then funded in one block (#25374)](https://github.com/erigontech/erigon/commit/e41b9fabfe2d26b6bba503e4c4b45f8c94efcecc) - 2026-10-26
+* [Commit] [execution/stagedsync: keep building block files under --exec.no-prune (#25336)](https://github.com/erigontech/erigon/commit/483f2eb094d491afe88f621d33100958505aef0e) - 2026-10-26
 ## Q3 2026
 
 

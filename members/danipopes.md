@@ -134,6 +134,13 @@ Team: Reth
 * [Commit] [refactor(rpc): drop reth-node-api dependency from rpc crates (#28145)](https://github.com/paradigmxyz/reth/commit/e3869a89584146862e3a9af83c2c32c994077907) - 2026-10-25
 * [Commit] [perf: type-erase first-party tokio spawns (#28141)](https://github.com/paradigmxyz/reth/commit/621cfe1a83e451997c3dc8e47a4bb4120e870383) - 2026-10-25
 * [Commit] [feat(reth-bb): support the JIT (#28140)](https://github.com/paradigmxyz/reth/commit/3e9d6896a851df5589b430f0c6c5ad5d083bc279) - 2026-10-25
+* [Pull Request] [fix(evm): keep precompile cache across big-block segments](https://github.com/paradigmxyz/reth/pull/28162) - 2026-10-26
+* [Review] [Review on: fix(db): bound safe-no-sync rollback with a sync period](https://github.com/paradigmxyz/reth/pull/28163#pullrequestreview-5659328313) - 2026-10-26
+* [Review] [Review on: fix(static-file): name segment and anchor in unwind error](https://github.com/paradigmxyz/reth/pull/28164#pullrequestreview-5659332171) - 2026-10-26
+* [Pull Request] [ci: replace Cargo Dependabot with a weekly cargo update PR](https://github.com/paradigmxyz/reth/pull/28157) - 2026-10-26
+* [Review] [Review on: chore(deps): bump matplotlib from 3.10.8 to 3.10.9 in /scripts/bench-reth-charts in the chart-weekly group across 1 directory](https://github.com/paradigmxyz/reth/pull/28075#pullrequestreview-5654467498) - 2026-10-26
+* [Commit] [fix(evm): keep precompile cache across big-block segments (#28162)](https://github.com/paradigmxyz/reth/commit/4c1584b78d17dcf30ab80336fba7286894feb9bb) - 2026-10-26
+* [Commit] [ci: replace Cargo Dependabot with a weekly cargo update PR (#28157)](https://github.com/paradigmxyz/reth/commit/9d0769c3e812f5e64c57cadd4cc2b1648953623c) - 2026-10-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

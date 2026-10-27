@@ -58,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: use fake timers instead of Date.now spies (#10440)](https://github.com/ChainSafe/lodestar/commit/ab56d90f0c0964da6bd7a66d0b38bd54cbe42dbd) - 2026-10-19
 * [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5588266928) - 2026-10-20
 * [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5588095817) - 2026-10-20
+* [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5661007738) - 2026-10-27
+* [Review] [Review on: fix: preserve repeated blob matches in getBlobs](https://github.com/ChainSafe/lodestar/pull/9333#pullrequestreview-5660884967) - 2026-10-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -74,6 +76,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [ci: replay every fuzz seed before publishing the image](https://github.com/ChainSafe/lodestar-z/pull/807) - 2026-10-26
 * [Pull Request] [fix: build fuzz harnesses in ReleaseSafe](https://github.com/ChainSafe/lodestar-z/pull/805) - 2026-10-25
 * [Commit] [fix: build fuzz harnesses in ReleaseSafe (#805)](https://github.com/ChainSafe/lodestar-z/commit/5d6fd73c206f4343f8b02a435049a65320f12730) - 2026-10-25
+* [Pull Request] [fix(fuzz): report AFL++'s last-minute exec rate](https://github.com/ChainSafe/lodestar-z/pull/809) - 2026-10-26
+* [Pull Request] [feat(fuzz): add a minimize command for the fuzz platform](https://github.com/ChainSafe/lodestar-z/pull/808) - 2026-10-26
+* [Commit] [fix(fuzz): report AFL++'s last-minute exec rate (#809)](https://github.com/ChainSafe/lodestar-z/commit/1921c8436ad72e6360d310429830c021ffac0748) - 2026-10-26
+* [Commit] [feat(fuzz): add a minimize command for the fuzz platform (#808)](https://github.com/ChainSafe/lodestar-z/commit/1010e78c41f4250f54ae12c27b8e213276f8dfd2) - 2026-10-26
+* [Commit] [test(fuzz): seed the two opaque SSZ targets (#806)](https://github.com/ChainSafe/lodestar-z/commit/c32954f467538086d79970e7fb14fa371d1efb20) - 2026-10-26
+* [Commit] [ci: replay every fuzz seed before publishing the image (#807)](https://github.com/ChainSafe/lodestar-z/commit/ac7f5af48354e1519a73ead82cb017e93d531d5d) - 2026-10-26
 ## Q3 2026
 
 

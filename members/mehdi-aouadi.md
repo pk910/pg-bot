@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Unschedule Gloas fork on Hoodi](https://github.com/Consensys-Incorporated/teku/pull/11566#pullrequestreview-5616065827) - 2026-10-22
 * [Issue] [Sign inclusion lists with the inclusion list epoch's fork version](https://github.com/Consensys-Incorporated/teku/issues/11571) - 2026-10-23
 * [Issue] [Set the IL deadline to 9s into the slot](https://github.com/Consensys-Incorporated/teku/issues/11570) - 2026-10-23
+* [Pull Request] [update IL signing fork calculation comment](https://github.com/Consensys-Incorporated/teku/pull/11579) - 2026-10-26
 ## Q3 2026
 
 

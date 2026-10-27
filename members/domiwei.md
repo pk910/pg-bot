@@ -316,6 +316,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/builder, txnprovider/txpool: stop building empty blocks when the top pending txns are nonce-too-high](https://github.com/erigontech/erigon/pull/25334) - 2026-10-25
 * [Pull Request] [cl/phase1/forkchoice: verify execution payload envelopes before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25332) - 2026-10-25
 * [Pull Request] [cl/phase1/network/services, cl/phase1/core/state: cache a small bid validation view instead of a full state](https://github.com/erigontech/erigon/pull/25331) - 2026-10-25
+* [Review] [Review on: cl/persistence/blob_storage: drop the count rows of pruned blob buckets](https://github.com/erigontech/erigon/pull/25300#pullrequestreview-5657066091) - 2026-10-26
+* [Review] [Review on: common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes](https://github.com/erigontech/erigon/pull/25364#pullrequestreview-5656573387) - 2026-10-26
+* [Review] [Review on: cl/phase1/network/services: bound the seen sync contributions set](https://github.com/erigontech/erigon/pull/25349#pullrequestreview-5656991407) - 2026-10-26
+* [Review] [Review on: cl/clparams/initial_state: embed genesis states zstd-compressed](https://github.com/erigontech/erigon/pull/25301#pullrequestreview-5656610785) - 2026-10-26
+* [Pull Request] [cl, execution/execmodule: do not count a busy forkchoice update as applied](https://github.com/erigontech/erigon/pull/25395) - 2026-10-26
+* [Review] [Review on: execution/execmodule, execution/notifications: notify subscribers on reorg](https://github.com/erigontech/erigon/pull/25344#pullrequestreview-5658075244) - 2026-10-26
+* [Review] [Review on: cl/merkle_tree, cl/cltypes/solid: reject over-full lists and hash empty flat leaves](https://github.com/erigontech/erigon/pull/25361#pullrequestreview-5657007664) - 2026-10-26
+* [Review] [Review on: cmd/capcli, freezeblocks: remove a replaced blob segment's index and torrents before compressing the new one](https://github.com/erigontech/erigon/pull/25380#pullrequestreview-5656994588) - 2026-10-26
+* [Review] [Review on: cl/cltypes/solid: clear RawUint64List hash buffer before writing values](https://github.com/erigontech/erigon/pull/25346#pullrequestreview-5656504069) - 2026-10-26
+* [Review] [Review on: cl/cltypes/solid: clear reused uint64 list hash buffer](https://github.com/erigontech/erigon/pull/25310#pullrequestreview-5656439842) - 2026-10-26
+* [Commit] [cl/beacon/handler: fall back to historical pending queues on cache miss (#25324)](https://github.com/erigontech/erigon/commit/a487b54217b74c041439196259011c1000d8cc25) - 2026-10-26
+* [Commit] [cl/cltypes, cl/phase1/core/state/raw: encode Gloas builder version and payload availability per beacon-APIs (#25326)](https://github.com/erigontech/erigon/commit/01b88b2bd7038efec9c81e9e1107dcfa298fcfe9) - 2026-10-26
+* [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: apply block attestations in OnBlock (#25281)](https://github.com/erigontech/erigon/commit/85258cd2fd560127435ee98ea34f9bcb2dea979d) - 2026-10-26
 ## Q3 2026
 
 

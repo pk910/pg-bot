@@ -43,6 +43,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Avoid eager code loading on account metadata and EXTCODEHASH reads (#11679)](https://github.com/besu-eth/besu/commit/f37ef20baa407d53f359414a61e97458ab7f7771) - 2026-10-23
 * [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5644475050) - 2026-10-25
 * [Review] [Review on: Record memory and storage updates on EVM v2 only for a tracer that sees operations](https://github.com/besu-eth/besu/pull/11690#pullrequestreview-5644239086) - 2026-10-25
+* [Review] [Review on: Record memory and storage updates on EVM v2 only for a tracer that sees operations](https://github.com/besu-eth/besu/pull/11690#pullrequestreview-5649645183) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

@@ -30,6 +30,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(init): remove Init.MemoryHint and use fixed memory defaults](https://github.com/NethermindEth/nethermind/pull/15154#pullrequestreview-5627521742) - 2026-10-23
 * [Pull Request] [perf(flat): hash each trie-warmer node lookup once across the caches](https://github.com/NethermindEth/nethermind/pull/15121) - 2026-10-24
 * [Commit] [perf(flat): hash each trie-warmer node lookup once across the caches (#15121)](https://github.com/NethermindEth/nethermind/commit/0a1d9345132c7532417ce86c1e2a4f27f11ad677) - 2026-10-24
+* [Review] [Review on: fix(blockchain): keep bloom-filtered header lookups from re-caching deleted headers](https://github.com/NethermindEth/nethermind/pull/15241#pullrequestreview-5653523523) - 2026-10-26
+* [Review] [Review on: fix(engine): wait for committing ancestors before repeated invalid verdicts](https://github.com/NethermindEth/nethermind/pull/15021#pullrequestreview-5652957028) - 2026-10-26
+* [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248#pullrequestreview-5652997663) - 2026-10-26
+* [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5653535524) - 2026-10-26
 ## Q3 2026
 
 

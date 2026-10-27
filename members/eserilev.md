@@ -54,6 +54,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Unschedule Gloas on Hoodi](https://github.com/sigp/lighthouse/pull/10430) - 2026-10-22
 * [Pull Request] [Release v8.4.0-rc.0](https://github.com/sigp/lighthouse/pull/10428) - 2026-10-22
 * [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5612840506) - 2026-10-22
+* [Review] [Review on: Set the inclusion list deadline to 9s into the slot](https://github.com/sigp/lighthouse/pull/10339#pullrequestreview-5657909315) - 2026-10-26
+* [Review] [Review on: Fetch columns for blocks published via HTTP without blob data](https://github.com/sigp/lighthouse/pull/10396#pullrequestreview-5657521574) - 2026-10-26
+* [Review] [Review on: Blame only the peer that served a column for a skipped slot](https://github.com/sigp/lighthouse/pull/10417#pullrequestreview-5657882058) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

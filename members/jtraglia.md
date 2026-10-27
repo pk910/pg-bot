@@ -63,6 +63,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5629673834) - 2026-10-23
 * [Review] [Review on: Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756#pullrequestreview-5629559546) - 2026-10-23
 * [Commit] [Fix EIP number in `get_consolidation_churn_limit` docstrings (#5758)](https://github.com/ethereum/consensus-specs/commit/b834fa8411cb2152563e8835c5b72c28f7503e7a) - 2026-10-23
+* [Review] [Review on: Assign proof types to guest programs](https://github.com/ethereum/consensus-specs/pull/5762#pullrequestreview-5658095950) - 2026-10-26
+* [Review] [Review on: Limit commitments in partial data column header](https://github.com/ethereum/consensus-specs/pull/5737#pullrequestreview-5657700037) - 2026-10-26
+* [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5657673653) - 2026-10-26
+* [Review] [Review on: Update dependency ty to v0.0.92](https://github.com/ethereum/consensus-specs/pull/5760#pullrequestreview-5647273386) - 2026-10-26
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5759#pullrequestreview-5647170323) - 2026-10-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

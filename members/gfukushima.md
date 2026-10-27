@@ -31,6 +31,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564) - 2026-10-22
 * [Review] [Review on: Add CombinedChainDataClient.getForkChoiceNodeInEffectAtSlot](https://github.com/Consensys-Incorporated/teku/pull/11540#pullrequestreview-5608874796) - 2026-10-22
 * [Commit] [Envelopes by range follow ups (#11551)](https://github.com/Consensys-Incorporated/teku/commit/ea67f37ded49fe768237e8f4da29a9dd39203362) - 2026-10-22
+* [Pull Request] [Reject RPC data column sidecars whose fork digest doesn't match their slot fork](https://github.com/Consensys-Incorporated/teku/pull/11575) - 2026-10-26
+* [Pull Request] [fix anchor reference](https://github.com/Consensys-Incorporated/teku/pull/11576) - 2026-10-26
+* [Review] [Review on: Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563#pullrequestreview-5647846130) - 2026-10-26
+* [Commit] [fix anchor reference (#11576)](https://github.com/Consensys-Incorporated/teku/commit/0f2bb08640ee8a62462e8d83aca2557f6fd342c6) - 2026-10-27
 ## Q3 2026
 
 

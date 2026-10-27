@@ -97,6 +97,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15195#pullrequestreview-5642529907) - 2026-10-25
 * [Pull Request] [ci(zkevm): name guest release assets as the guest handbook requires](https://github.com/NethermindEth/nethermind/pull/15173) - 2026-10-25
 * [Commit] [ci(zkevm): name guest release assets as the guest handbook requires (#15173)](https://github.com/NethermindEth/nethermind/commit/9e24e64522a62891b99dddf9011887642ba0ddf2) - 2026-10-25
+* [Review] [Review on: refactor(ci): name C# scripts in lowercase kebab-case](https://github.com/NethermindEth/nethermind/pull/15247#pullrequestreview-5653398276) - 2026-10-26
+* [Commit] [fix(zkevm): move the SP1 guest to SP1 v6.9.0 (#15125)](https://github.com/NethermindEth/nethermind/commit/e5424c2858faee6d832d6094c26aeed6c483f90d) - 2026-10-26
+* [Commit] [chore(deps): update .NET packages (#15211)](https://github.com/NethermindEth/nethermind/commit/ed62f06dbdb1486f8a325324eb280fefbae2a377) - 2026-10-26
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

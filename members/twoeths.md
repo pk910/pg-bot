@@ -80,6 +80,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: avoid per-validator reads in fast confirmation scans](https://github.com/ChainSafe/lodestar/pull/10371#pullrequestreview-5597381799) - 2026-10-21
 * [Pull Request] [feat: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/10464) - 2026-10-23
 * [Review] [Review on: fix: use the correct PTC duties dependent root for the Gloas fork epoch](https://github.com/ChainSafe/lodestar/pull/10468#pullrequestreview-5637684735) - 2026-10-24
+* [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5661352207) - 2026-10-27
+* [Review] [Review on: fix: treat data availability timeouts of gossip blocks and payloads as unavailable data](https://github.com/ChainSafe/lodestar/pull/10474#pullrequestreview-5650686984) - 2026-10-26
+* [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5646991635) - 2026-10-26
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5650369230) - 2026-10-26
+* [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649743059) - 2026-10-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

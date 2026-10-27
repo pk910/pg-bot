@@ -140,6 +140,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Default an omitted block parameter to latest in eth_simulateV1](https://github.com/besu-eth/besu/pull/11446#pullrequestreview-5623724108) - 2026-10-23
 * [Commit] [bump plugins baseline for 26.10.0 (#11693)](https://github.com/besu-eth/besu/commit/bdb9e5c3d3d3b25a72dd259d8fb824c10ddcc4fa) - 2026-10-23
 * [Review] [Review on: Include max logs range as data in eth_getLogs range-limit error](https://github.com/besu-eth/besu/pull/11628#pullrequestreview-5646286815) - 2026-10-26
+* [Pull Request] [Upgrade Vert.x to 5.2.2](https://github.com/besu-eth/besu/pull/11770) - 2026-10-27
+* [Pull Request] [Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756) - 2026-10-26
+* [Review] [Review on: Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756#pullrequestreview-5650075662) - 2026-10-26
+* [Commit] [Remove compromised eMudhra roots from the Docker image (#11756)](https://github.com/besu-eth/besu/commit/239703b11063bafabb2887e8fbe4eddd50e3c461) - 2026-10-26
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

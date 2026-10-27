@@ -86,6 +86,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add experimental builder bid streaming](https://github.com/sigp/lighthouse/pull/10418#pullrequestreview-5608612973) - 2026-10-22
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-5609387907) - 2026-10-22
 * [Review] [Review on: Remove audit ignore](https://github.com/sigp/lighthouse/pull/10419#pullrequestreview-5608604637) - 2026-10-22
+* [Pull Request] [Fix blob pruning when the oldest block is newer than the DA boundary](https://github.com/sigp/lighthouse/pull/10454) - 2026-10-27
+* [Pull Request] [Fix `redb` slow restarts](https://github.com/sigp/lighthouse/pull/10452) - 2026-10-27
+* [Pull Request] [Add a stateless variant of `chain_dump`](https://github.com/sigp/lighthouse/pull/10439) - 2026-10-26
+* [Review] [Review on: CI audit failure](https://github.com/sigp/lighthouse/pull/10441#pullrequestreview-5659671828) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

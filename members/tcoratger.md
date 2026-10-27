@@ -329,6 +329,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(keccak): schedule the x86 SIMD rounds plane by plane (−13% AVX-512 permutation, −18..21% hash_many), and test every lane against independent references (#2572)](https://github.com/Plonky3/Plonky3/commit/ef6ffca005c13b29037621ed5de932a84eb3bfc1) - 2026-10-25
 * [Commit] [fix(air): count every transition factor in the constraint degree (#2566)](https://github.com/Plonky3/Plonky3/commit/94006a2ed21f0b6a2f0d1ad74687d2ef12054dce) - 2026-10-25
 * [Commit] [fix(sumcheck): check the point width before splitting off a claim's Boolean prefix (#2573)](https://github.com/Plonky3/Plonky3/commit/ed07485c5fc63c011176d17070eb4ef0c211ee95) - 2026-10-25
+* [Review] [Review on: fix(lookup): unwrap fallible `from_air` in periodic count test](https://github.com/Plonky3/Plonky3/pull/2587#pullrequestreview-5652815074) - 2026-10-26
+* [Review] [Review on: feat(multi-stark)!: circuit tables proved by Flock, and Flock as the default hash prover](https://github.com/Plonky3/Plonky3/pull/2582#pullrequestreview-5652592428) - 2026-10-26
+* [Commit] [fix(stark): report a constraint read of an undeclared next-row column (#2585)](https://github.com/Plonky3/Plonky3/commit/0d803737b681774186cd283b1fd2d8e493655c82) - 2026-10-26
+* [Commit] [fix(batch-stark, circle, merkle-tree, multi-stark, uni-stark): word-size heights, empty batch, period-1 columns (#2581)](https://github.com/Plonky3/Plonky3/commit/89a8878265e27da75d13ca905907c33766d9223b) - 2026-10-26
+* [Commit] [fix(whir, keccak-air, binary-pcs, batch-stark): folded domains, query PoW, Keccak AIR field requirement, overflowing mixed-table widths, selectors in lookup counts (#2577)](https://github.com/Plonky3/Plonky3/commit/2aa7885e496e43658acfec9f448113e923a7c394) - 2026-10-26
+* [Commit] [fix(pcs, stark, binary)!: STIR soundness pricing, prover panics, FRI zero-point openings, periodic-column lookups, selector values, wide binary-DFT domains (#2574)](https://github.com/Plonky3/Plonky3/commit/20150a157668bc4ad460d76ef2f7b08407fdac54) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8288: move DEP_VERIFY_FRAME_MODE to 4](https://github.com/ethereum/EIPs/pull/12309#pullrequestreview-5446196700) - 2026-10-07
 

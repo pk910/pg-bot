@@ -152,6 +152,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add GET proposer_preferences endpoint](https://github.com/Consensys-Incorporated/teku/pull/11548#pullrequestreview-5623373461) - 2026-10-23
 * [Review] [Review on: Refactor state data BEACON-API endpoints](https://github.com/Consensys-Incorporated/teku/pull/11558#pullrequestreview-5623395014) - 2026-10-23
 * [Commit] [Keep the finalized anchor DAS tracker alive while its payload is recovered (#11553)](https://github.com/Consensys-Incorporated/teku/commit/18f4166890c7fc0afdc07c737205eb6288b1f0b0) - 2026-10-23
+* [Review] [Review on: Store light client bootstraps and fix gaps after checkpoint sync](https://github.com/Consensys-Incorporated/teku/pull/11572#pullrequestreview-5661052474) - 2026-10-27
+* [Review] [Review on: Reject RPC data column sidecars whose fork digest doesn't match their slot fork](https://github.com/Consensys-Incorporated/teku/pull/11575#pullrequestreview-5648605314) - 2026-10-26
+* [Review] [Review on: Publish the bare Docker release tags from the jdk25 job only](https://github.com/Consensys-Incorporated/teku/pull/11580#pullrequestreview-5660322707) - 2026-10-26
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys-Incorporated/teku/pull/11581#pullrequestreview-5660825602) - 2026-10-27
+* [Pull Request] [Remove the compromised eMudhra roots from the Docker images](https://github.com/Consensys-Incorporated/teku/pull/11577) - 2026-10-26
+* [Review] [Review on: Verify attestation signatures before saving them for future processing](https://github.com/Consensys-Incorporated/teku/pull/11560#pullrequestreview-5659383063) - 2026-10-26
+* [Review] [Review on: Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564#pullrequestreview-5648462127) - 2026-10-26
+* [Commit] [Remove the compromised eMudhra roots from the Docker images (#11577)](https://github.com/Consensys-Incorporated/teku/commit/82916c5ea672a2409f2eeae1675687b84bfb765f) - 2026-10-26
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

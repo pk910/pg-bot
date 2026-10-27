@@ -33,6 +33,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(tests,test-client-clis,test-evm-tools): address the EIP-8141 merge review](https://github.com/ethereum/execution-specs/pull/3901) - 2026-10-23
 * [Review] [Review on: feat(spec-specs,test-specs,test-types,tests): apply the EIP-8141 changes for `bogota-devnet-2`](https://github.com/ethereum/execution-specs/pull/3892#pullrequestreview-5625967117) - 2026-10-23
 * [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3878#pullrequestreview-5637572858) - 2026-10-24
+* [Review] [Review on: feat(tests): adapt the EIP-8250 tests to the rebased EIP-8141 branch](https://github.com/ethereum/execution-specs/pull/3897#pullrequestreview-5654036544) - 2026-10-26
 ## Q3 2026
 
 

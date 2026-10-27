@@ -265,6 +265,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl: use the canonical Gloas execution hash during block publication](https://github.com/erigontech/erigon/issues/25285) - 2026-10-23
 * [Issue] [execmodule: READ_AHEAD_WAIT deadlocks fork validation that needs an unwind](https://github.com/erigontech/erigon/issues/25275) - 2026-10-23
 * [Commit] [chainspec, clparams: unschedule Glamsterdam on Hoodi (#25249)](https://github.com/erigontech/erigon/commit/7c1b102e20cad4b5a98afe756b72c7c9487d2ba3) - 2026-10-23
+* [Review] [Review on: execution/engineapi: don't abort the download on a domain-ahead fork choice](https://github.com/erigontech/erigon/pull/25335#pullrequestreview-5650870005) - 2026-10-26
+* [Review] [Review on: exec: move "intern tables" from `evm` to `ibs` object](https://github.com/erigontech/erigon/pull/25368#pullrequestreview-5652628771) - 2026-10-26
+* [Review] [Review on: common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes](https://github.com/erigontech/erigon/pull/25364#pullrequestreview-5651156651) - 2026-10-26
+* [Review] [Review on: execution/stagedsync: index readers by address and check the exact cell per write](https://github.com/erigontech/erigon/pull/25347#pullrequestreview-5652666698) - 2026-10-26
+* [Review] [Review on: execution, txpool: replace AA with EIP-8141 frames and EIP-8250 nonces](https://github.com/erigontech/erigon/pull/25243#pullrequestreview-5651562126) - 2026-10-26
+* [Pull Request] [[r3.8] cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/pull/25394) - 2026-10-26
+* [Review] [Review on: txnprovider/txpool: include txns whose gas equals the block gas limit](https://github.com/erigontech/erigon/pull/24978#pullrequestreview-5658770951) - 2026-10-26
+* [Review] [Review on: execution/execmodule, execution/notifications: notify subscribers on reorg](https://github.com/erigontech/erigon/pull/25344#pullrequestreview-5651439166) - 2026-10-26
+* [Review] [Review on: go.mod: bump erigontech/secp256k1 to v1.4.1](https://github.com/erigontech/erigon/pull/25387#pullrequestreview-5654371843) - 2026-10-26
+* [Review] [Review on: db/datastruct/btindex, db/state, node/eth: read state .bt files into memory in the erigon node](https://github.com/erigontech/erigon/pull/25378#pullrequestreview-5652256870) - 2026-10-26
+* [Review] [Review on: execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage](https://github.com/erigontech/erigon/pull/25330#pullrequestreview-5651003728) - 2026-10-26
+* [Review] [Review on: [r3.8] execution/stagedsync: count each parallel-executed block once in the block duration average](https://github.com/erigontech/erigon/pull/25388#pullrequestreview-5654498862) - 2026-10-26
+* [Review] [Review on: cl/beacon/handler: fix flaky TestPayloadPreparationCollectionWithExecutionModule](https://github.com/erigontech/erigon/pull/25366#pullrequestreview-5653067056) - 2026-10-26
+* [Review] [Review on: node/cli, node/eth: remove deprecated ApplyFlagsForEthConfig and eth.Config alias](https://github.com/erigontech/erigon/pull/25371#pullrequestreview-5651117902) - 2026-10-26
+* [Issue] [db/state: failed step-alignment batch can leave obsolete account files](https://github.com/erigontech/erigon/issues/25390) - 2026-10-26
+* [Issue] [rpc/receipts: timeout cancellation can be lost between commitment-history replay transactions](https://github.com/erigontech/erigon/issues/25389) - 2026-10-26
+* [Issue] [cmd/capcli, freezeblocks: interrupted blob overwrite can retain a stale index](https://github.com/erigontech/erigon/issues/25376) - 2026-10-26
+* [Issue] [qa: investigate Lighthouse checkpoint download timeouts during mainnet snapshot sync](https://github.com/erigontech/erigon/issues/25373) - 2026-10-26
+* [Commit] [execution: test reorg recovery across snapshot publication and pruning (#24857)](https://github.com/erigontech/erigon/commit/29757b6e923ff5c89d12bc470fb78cb798931e87) - 2026-10-26
+* [Commit] [cl: enable Gloas FULL-parent payload preparation (#24938)](https://github.com/erigontech/erigon/commit/8c345acb788562875679f976cd09fa6d294e3ccd) - 2026-10-26
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -19,6 +19,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: check tx gas limit against cumulative gas used before Amsterdam](https://github.com/status-im/nimbus-eth1/pull/4980) - 2026-10-14
 * [Issue] [Pre-Amsterdam: tx gas limit is checked against the floor-less execution gas, so nimbus builds and accepts over-limit blocks](https://github.com/status-im/nimbus-eth1/issues/4979) - 2026-10-14
 * [Commit] [fix: check tx gas limit against cumulative gas used before Amsterdam (#4980)](https://github.com/status-im/nimbus-eth1/commit/bb47dad7b38a763e950e25f3b2882ba7245f72f2) - 2026-10-15
+* [Pull Request] [fix: import bal_utils in process_block_parallel](https://github.com/status-im/nimbus-eth1/pull/5093) - 2026-10-26
+* [Commit] [feat: add testing_buildBlockV1 rpc (#4903)](https://github.com/status-im/nimbus-eth1/commit/04feabb5397f61e02f681ed1dcb1d4af32073c92) - 2026-10-26
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -77,6 +79,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: perf: split count from page queries, cache deposit queue anchor, async debug page stats](https://github.com/ethpandaops/dora/pull/919#pullrequestreview-5629558145) - 2026-10-23
 * [Review] [Review on: Make all page models SSZ compatible for the frontend cache](https://github.com/ethpandaops/dora/pull/915#pullrequestreview-5629546125) - 2026-10-23
 * [Pull Request] [fix: use sized integers in the inclusion list view so it caches as SSZ](https://github.com/ethpandaops/dora/pull/922) - 2026-10-23
+* [Review] [Review on: Execution proofs: dark theme proof chips, name the Sepolia prover validator](https://github.com/ethpandaops/dora/pull/927#pullrequestreview-5656146622) - 2026-10-26
+* [Pull Request] [fix: apply EIP-8198 slot duration scaling in the state transition](https://github.com/ethpandaops/dora/pull/925) - 2026-10-26
+* [Pull Request] [fix: report correct scheduled and missed blocks for the current epoch in the epoch API](https://github.com/ethpandaops/dora/pull/926) - 2026-10-26
+* [Review] [Review on: build(deps): bump the dependencies group with 3 updates](https://github.com/ethpandaops/dora/pull/923#pullrequestreview-5651712939) - 2026-10-26
+* [Commit] [fix: count remaining slots as scheduled in the epoch API (#926)](https://github.com/ethpandaops/dora/commit/9e8ac527d1ec7d6312bed933f9d7bcf145d74716) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -113,6 +120,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441688831) - 2026-10-07
+* [Pull Request] [fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958) - 2026-10-26
+* [Commit] [fix: remove getPayload timeout and require an immediate response (#958)](https://github.com/ethereum/execution-apis/commit/3284ee80c3da3e516c53782dde75157cccf1ebdc) - 2026-10-26
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [feat: emit inclusion_list SSE event](https://github.com/sigp/lighthouse/pull/10228) - 2026-10-06
 * [Pull Request] [fix: produce inclusion lists in the first Heze slot](https://github.com/sigp/lighthouse/pull/10230) - 2026-10-06
@@ -165,6 +174,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#71)](https://github.com/ethpandaops/tracoor/commit/f5c51ae9fef3ff4c2d53f99d17219ab8a2465af7) - 2026-10-21
 
 * [Pull Request] [fix: follow the Heze slot duration in the agent wallclock](https://github.com/ethpandaops/tracoor/pull/72) - 2026-10-23
+* [Commit] [fix: follow the Heze slot duration in the agent wallclock (#72)](https://github.com/ethpandaops/tracoor/commit/c5679b70045a70d3dfedf21c42186c90a036d8aa) - 2026-10-26
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929) - 2026-10-21
 * [Commit] [Merge pull request #929 from ethpandaops/bbusa/emudhra-ca-fix](https://github.com/ethpandaops/xatu/commit/2ea91a78ee2f84fff6930f3ec25395e620282f98) - 2026-10-21
@@ -183,6 +193,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/cartographoor/pull/118) - 2026-10-21
 * [Commit] [fix: build with Go 1.26.10 for the eMudhra CA compromise (#118)](https://github.com/ethpandaops/cartographoor/commit/05ec1ee135c79097bb7acd72a44778d73505c8c0) - 2026-10-21
 
+* [Pull Request] [fix: rename focil and frames devnets to heze and bogota](https://github.com/ethpandaops/cartographoor/pull/120) - 2026-10-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [miner: `forkchoiceUpdatedV5` executes the inclusion list before returning, CL proposes with a stale payload id](https://github.com/ethereum/go-ethereum/issues/36006) - 2026-10-23
 

@@ -56,6 +56,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [[behaviour change: opcode table of unscheduled forks] Frame execution support in the EVM (v1 + v2)](https://github.com/besu-eth/besu/pull/11738) - 2026-10-23
 * [Pull Request] [[neutral: unscheduled forks] Frame receipts (EIP-8141)](https://github.com/besu-eth/besu/pull/11737) - 2026-10-23
 * [Pull Request] [[behaviour change: byte 0x06 maps to FRAME] Frame transaction model and wire codec (EIP-8141 + EIP-8250)](https://github.com/besu-eth/besu/pull/11736) - 2026-10-23
+* [Review] [Review on: FOCIL: Support inclusion list transactions in block creation](https://github.com/besu-eth/besu/pull/11549#pullrequestreview-5656037968) - 2026-10-26
+* [Issue] [2026-10-27 Contributor Call](https://github.com/besu-eth/besu/issues/11766) - 2026-10-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 ## Q3 2026

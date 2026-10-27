@@ -71,6 +71,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove the unused maxSize pragma](https://github.com/status-im/nimbus-eth2/pull/9363) - 2026-10-24
 * [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5637673052) - 2026-10-24
 * [Pull Request] [Report correct line number when blob schedule fails to parse](https://github.com/status-im/nimbus-eth2/pull/9377) - 2026-10-25
+* [Pull Request] [Switch CI to nimbus-common-workflow](https://github.com/status-im/nimbus-eth2/pull/9388) - 2026-10-26
+* [Pull Request] [Cleanup const checks](https://github.com/status-im/nimbus-eth2/pull/9387) - 2026-10-26
+* [Pull Request] [Replace parseBps macro with template](https://github.com/status-im/nimbus-eth2/pull/9384) - 2026-10-26
+* [Pull Request] [Shut down test taskpools](https://github.com/status-im/nimbus-eth2/pull/9381) - 2026-10-26
+* [Pull Request] [Parse INCLUSION_LIST_DUE_BPS in the validator client](https://github.com/status-im/nimbus-eth2/pull/9382) - 2026-10-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -98,6 +103,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fill opcode table holes via enumFields](https://github.com/status-im/nimbus-eth1/pull/5085) - 2026-10-25
 * [Commit] [Collect hardfork field names via recordFields (#5077)](https://github.com/status-im/nimbus-eth1/commit/0aabd148e15239abd3dad070fda06386a125a613) - 2026-10-25
 * [Commit] [Bump nim-eth (#5053)](https://github.com/status-im/nimbus-eth1/commit/c4d19e8c84b0a0460289ed331e95fff26aa840e5) - 2026-10-25
+* [Pull Request] [Fix ABI use in verified proxy](https://github.com/status-im/nimbus-eth1/pull/5095) - 2026-10-26
+* [Pull Request] [Use stew supportsSharedMem](https://github.com/status-im/nimbus-eth1/pull/5087) - 2026-10-26
+* [Commit] [Fix ABI use in verified proxy (#5095)](https://github.com/status-im/nimbus-eth1/commit/cb98dac27102fad11606dc926e5d6ef1cab099ea) - 2026-10-26
+* [Commit] [Use stew supportsSharedMem (#5087)](https://github.com/status-im/nimbus-eth1/commit/c4b427bc804c4838d359f3caa19f1ee3e5a6b967) - 2026-10-26
+* [Commit] [Fill opcode table holes via enumFields (#5085)](https://github.com/status-im/nimbus-eth1/commit/d4003f5cade378bff7ea70f667a8de9859a8cfca) - 2026-10-26
 ## Q3 2026
 
 

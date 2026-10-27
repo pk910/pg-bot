@@ -26,6 +26,8 @@ Team: Grandine
 * [Commit] [Updated documentation](https://github.com/grandinetech/grandine/commit/d7ca055e822bba1586238ebf11ef43fc3f8d8803) - 2026-10-22
 * [Pull Request] [Update crate](https://github.com/grandinetech/grandine/pull/1007) - 2026-10-23
 * [Commit] [Update crate](https://github.com/grandinetech/grandine/commit/a63876249043020d8ebe3d410c5cf31b19be1cc2) - 2026-10-23
+* [Pull Request] [Updated crates](https://github.com/grandinetech/grandine/pull/1011) - 2026-10-26
+* [Pull Request] [Improved Eth Docker section in the book](https://github.com/grandinetech/grandine/pull/1009) - 2026-10-26
 ## Q3 2026
 
 

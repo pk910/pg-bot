@@ -31,6 +31,8 @@ Team: Nimbus
 * [Pull Request] [Snap2 refactor partial storage download](https://github.com/status-im/nimbus-eth1/pull/5062) - 2026-10-23
 * [Commit] [Snap2 refactor partial storage download (#5062)](https://github.com/status-im/nimbus-eth1/commit/ba0eb097c3762ffdfc411c44cbe796033ab861a7) - 2026-10-23
 * [Pull Request] [Snap2 run on empty state db](https://github.com/status-im/nimbus-eth1/pull/5086) - 2026-10-25
+* [Pull Request] [Provide for empty state DB when running snap sync](https://github.com/status-im/nimbus-eth1/pull/5089) - 2026-10-26
+* [Commit] [Provide for empty state DB when running snap sync (#5089)](https://github.com/status-im/nimbus-eth1/commit/f231b21fb5e7fd2df9d65c21ffdf92d9e3885b5c) - 2026-10-26
 ## Q3 2026
 
 

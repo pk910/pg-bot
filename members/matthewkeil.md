@@ -32,6 +32,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge v1.50.1 back to unstable (#10463)](https://github.com/ChainSafe/lodestar/commit/782eaff74dc57c83da685bc12f0cc48821e05bc9) - 2026-10-22
 * [Commit] [chore: v1.50.1 release (#10462)](https://github.com/ChainSafe/lodestar/commit/56cf1ab7b16a2805a985e104f2e7fcbaad98a22b) - 2026-10-22
 * [Commit] [chore: bump package versions to 1.50.1](https://github.com/ChainSafe/lodestar/commit/94287df951794f855549351ea75f177cf8929646) - 2026-10-22
+* [Issue] [Range sync stalls indefinitely when a peer advertises a Status with an impossible future finalized_epoch](https://github.com/ChainSafe/lodestar/issues/10478) - 2026-10-26
+* [Issue] [Attestation publish fails with NoPeersSubscribedToTopic after restart: peer manager subnet coverage (metadata attnets) diverges from gossipsub topic membership](https://github.com/ChainSafe/lodestar/issues/10476) - 2026-10-26
 ## Q3 2026
 
 

@@ -177,6 +177,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Start storage slot preloads from the storage root the accumulator holds](https://github.com/besu-eth/besu/issues/11751) - 2026-10-24
 * [Issue] [Preload only the trie paths of the state a block changes](https://github.com/besu-eth/besu/issues/11750) - 2026-10-24
 * [Pull Request] [Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754) - 2026-10-25
+* [Review] [Review on: EVM v2: split the loop to keep it within C2's inlining budget](https://github.com/besu-eth/besu/pull/11687#pullrequestreview-5647909923) - 2026-10-26
+* [Review] [Review on: SNAP2: Add the writes of the state download](https://github.com/besu-eth/besu/pull/11761#pullrequestreview-5652985784) - 2026-10-26
+* [Pull Request] [Leave the uncommitted heap out when deriving RocksDB max open files](https://github.com/besu-eth/besu/pull/11762) - 2026-10-26
+* [Pull Request] [Prewarm the next block's state from the transaction pool](https://github.com/besu-eth/besu/pull/11759) - 2026-10-26
+* [Pull Request] [Preload and commit only the state a block changes, and build trie keys without streams](https://github.com/besu-eth/besu/pull/11758) - 2026-10-26
+* [Commit] [Use the native secp256k1 ECDH key agreement from besu-native 2.1.0 (#11648)](https://github.com/besu-eth/besu/commit/fd83c1ba775a0d5229e2cd72c5408a5582929654) - 2026-10-26
+* [Commit] [Record memory and storage updates on EVM v2 only for a tracer that sees operations (#11690)](https://github.com/besu-eth/besu/commit/fc46028fa6d4baf225429803437729cc04440069) - 2026-10-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

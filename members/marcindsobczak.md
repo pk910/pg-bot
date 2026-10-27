@@ -110,6 +110,14 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [perf(merge): write the newPayload Received line after the block is queued (#15153)](https://github.com/NethermindEth/nethermind/commit/01451e13b2f40e114e9fd34966ad48670f40134a) - 2026-10-24
 * [Commit] [fix(rpc): check the Origin of WebSocket requests against CorsOrigins (#15155)](https://github.com/NethermindEth/nethermind/commit/a3a0d040f0244d23d177342ed6a1d4cd50acce3f) - 2026-10-24
 * [Commit] [test(merge): fix flaky engine module tests in Merge.Plugin and Merge.AuRa (#15143)](https://github.com/NethermindEth/nethermind/commit/07def5516488a9586e315a4b89c80642e34cb6d0) - 2026-10-24
+* [Review] [Review on: perf(sync): reuse beacon block bodies already stored by newPayload](https://github.com/NethermindEth/nethermind/pull/15215#pullrequestreview-5651449401) - 2026-10-26
+* [Review] [Review on: fix(blockchain): keep bloom-filtered header lookups from re-caching deleted headers](https://github.com/NethermindEth/nethermind/pull/15241#pullrequestreview-5653785589) - 2026-10-26
+* [Review] [Review on: fix(rpc): list only opcode-named addresses in eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/15086#pullrequestreview-5656255330) - 2026-10-26
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5656234773) - 2026-10-26
+* [Review] [Review on: fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases](https://github.com/NethermindEth/nethermind/pull/15237#pullrequestreview-5654261687) - 2026-10-26
+* [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5654903364) - 2026-10-26
+* [Review] [Review on: perf(consensus): defer deposit scratch rental](https://github.com/NethermindEth/nethermind/pull/15207#pullrequestreview-5652520624) - 2026-10-26
+* [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5655347231) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

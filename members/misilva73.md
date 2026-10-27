@@ -18,6 +18,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5599649219) - 2026-10-21
 * [Pull Request] [Update EIP-8038 and EIP-7904: Fix table rendering in assets](https://github.com/ethereum/EIPs/pull/12563) - 2026-10-21
 * [Commit] [Update EIP-8038 and EIP-7904: Fix table rendering in assets](https://github.com/ethereum/EIPs/commit/8207146ff51b049d3b1a6ab192d4acfc2f4ab754) - 2026-10-21
+* [Review] [Review on: Update EIP-8053: gas units at the contract boundary](https://github.com/ethereum/EIPs/pull/12584#pullrequestreview-5649755461) - 2026-10-26
 ## Q3 2026
 
 

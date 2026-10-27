@@ -716,6 +716,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15195#pullrequestreview-5641864018) - 2026-10-25
 * [Commit] [refactor: use LibraryImport for P/Invoke declarations (#15194)](https://github.com/NethermindEth/nethermind/commit/fccb05a95dc3280fb48832a755e6392fc20ff17f) - 2026-10-25
 * [Commit] [fix(docgen): document eth_config fields and members omitted from the wire (#15177)](https://github.com/NethermindEth/nethermind/commit/815e1c92a70ef80d7561dac21eddabab2036f7ee) - 2026-10-25
+* [Review] [Review on: perf(sync): reuse beacon block bodies already stored by newPayload](https://github.com/NethermindEth/nethermind/pull/15215#pullrequestreview-5653340719) - 2026-10-26
+* [Review] [Review on: fix(blockchain): keep bloom-filtered header lookups from re-caching deleted headers](https://github.com/NethermindEth/nethermind/pull/15241#pullrequestreview-5653345134) - 2026-10-26
+* [Review] [Review on: perf(bal): de-duplicate written code hashes with a set](https://github.com/NethermindEth/nethermind/pull/15250#pullrequestreview-5655100713) - 2026-10-26
+* [Pull Request] [fix(crypto): allocate the Blake2 f[1] word that the SIMD paths read](https://github.com/NethermindEth/nethermind/pull/15254) - 2026-10-26
+* [Review] [Review on: fix(docgen): document remaining converter shapes and null members](https://github.com/NethermindEth/nethermind/pull/15064#pullrequestreview-5652506155) - 2026-10-26
+* [Review] [Review on: feat(rpc): add overlay_getLogs and overlay_callConstructor](https://github.com/NethermindEth/nethermind/pull/15181#pullrequestreview-5652575750) - 2026-10-26
+* [Review] [Review on: ci: fall back to the .NET CDN when the SDK download fails](https://github.com/NethermindEth/nethermind/pull/15209#pullrequestreview-5652420536) - 2026-10-26
+* [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248#pullrequestreview-5652835123) - 2026-10-26
+* [Review] [Review on: fix(rpc): list only opcode-named addresses in eth_createAccessList](https://github.com/NethermindEth/nethermind/pull/15086#pullrequestreview-5653790267) - 2026-10-26
+* [Review] [Review on: fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases](https://github.com/NethermindEth/nethermind/pull/15237#pullrequestreview-5653344236) - 2026-10-26
+* [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5653342286) - 2026-10-26
+* [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5653341176) - 2026-10-26
+* [Review] [Review on: fix(pruning): reclaim blocks db space left by pinned blob files after history pruning](https://github.com/NethermindEth/nethermind/pull/15242#pullrequestreview-5653345621) - 2026-10-26
+* [Review] [Review on: fix(rpc): classify pruned processed orphan blocks as unavailable history](https://github.com/NethermindEth/nethermind/pull/15190#pullrequestreview-5652446623) - 2026-10-26
+* [Review] [Review on: fix(debug): check numeric block body before replay state](https://github.com/NethermindEth/nethermind/pull/14616#pullrequestreview-5653745132) - 2026-10-26
+* [Commit] [fix(network): fetch full blobs when too few eth/72 peers to sample (#15179)](https://github.com/NethermindEth/nethermind/commit/57023d12763b488a61ca1b8522d1cf127f0af558) - 2026-10-26
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -817,6 +833,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Update EIP-8053: gas units at the contract boundary](https://github.com/ethereum/EIPs/pull/12584) - 2026-10-24
 * [Pull Request] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/pull/12588) - 2026-10-25
 * [Commit] [Update EIP-8141: charge the EIP-8037 legacy share as extra execution gas](https://github.com/ethereum/EIPs/commit/67d3e90ce49cb0e7031fe3d65ba31bd00858f0ea) - 2026-10-25
+* [Commit] [Update EIP-8053: gas units at the contract boundary](https://github.com/ethereum/EIPs/commit/32678e29a6ddf80185f888b402988b662c727939) - 2026-10-26
 ## Q3 2026
 
 

@@ -68,6 +68,9 @@ Team: Grandine
 * [Review] [Review on: Updated documentation](https://github.com/grandinetech/grandine/pull/1002#pullrequestreview-5610164508) - 2026-10-22
 * [Commit] [Add beacon attestation rewards endpoint](https://github.com/grandinetech/grandine/commit/3b3046ef0368af54dbf145ae58d5c3f7e0d767e5) - 2026-10-23
 * [Commit] [Configurable builder header timeout](https://github.com/grandinetech/grandine/commit/2f49384bbf9db38713855b1aaa97eb0f6942195b) - 2026-10-23
+* [Pull Request] [Keep blocks waiting for data marked as in-processing so duties wait for them](https://github.com/grandinetech/grandine/pull/1010) - 2026-10-26
+* [Review] [Review on: Isolate zkVM crates in a separate workspace](https://github.com/grandinetech/grandine/pull/1008#pullrequestreview-5651785614) - 2026-10-26
+* [Commit] [Keep blocks waiting for data marked as in-processing so duties wait for them](https://github.com/grandinetech/grandine/commit/8bc84d045ac76bf974dab5717544ba72f0bf5183) - 2026-10-26
 ## Q3 2026
 
 

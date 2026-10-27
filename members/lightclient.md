@@ -72,6 +72,7 @@ Team: Geth
 * [Review] [Review on: tools: add support for validation scripts in test files](https://github.com/ethereum/execution-apis/pull/893#pullrequestreview-5521806399) - 2026-10-14
 * [Review] [Review on: engine: add ethlambda (LA) to ClientCode list](https://github.com/ethereum/execution-apis/pull/922#pullrequestreview-5600400673) - 2026-10-21
 * [Review] [Review on: feat(trace): Parity trace methods and output schemas](https://github.com/ethereum/execution-apis/pull/895#pullrequestreview-5632275750) - 2026-10-23
+* [Review] [Review on: Type-3 transactions SHOULD NOT be included, rather than MUST NOT](https://github.com/ethereum/execution-apis/pull/957#pullrequestreview-5653067592) - 2026-10-26
 ## Q3 2026
 
 

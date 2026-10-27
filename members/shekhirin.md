@@ -20,6 +20,9 @@ Team: Reth
 * [Review] [Review on: chore(docker): enable nightly prewarm reuse](https://github.com/paradigmxyz/reth/pull/27917#pullrequestreview-5524046399) - 2026-10-14
 * [Review] [Review on: ci(bench): add a derek mempool argument](https://github.com/paradigmxyz/reth/pull/27908#pullrequestreview-5522388175) - 2026-10-14
 * [Review] [Review on: test: add reth-trie-dst workload](https://github.com/paradigmxyz/reth/pull/28043#pullrequestreview-5585832713) - 2026-10-20
+* [Pull Request] [chore(deps): bump zstd to 0.14.3](https://github.com/paradigmxyz/reth/pull/28158) - 2026-10-26
+* [Review] [Review on: fix(trie): group proof targets by child](https://github.com/paradigmxyz/reth/pull/28085#pullrequestreview-5651115694) - 2026-10-26
+* [Commit] [chore(deps): bump zstd to 0.14.3 (#28158)](https://github.com/paradigmxyz/reth/commit/c482561cbd6c2831bc4284efe9def441cb771525) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

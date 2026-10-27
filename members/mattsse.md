@@ -388,6 +388,17 @@ Team: Reth
 * [Review] [Review on: perf(config): compile Config::from_path body once](https://github.com/paradigmxyz/reth/pull/28143#pullrequestreview-5643914992) - 2026-10-25
 * [Review] [Review on: refactor(rpc): drop reth-node-api dependency from rpc crates](https://github.com/paradigmxyz/reth/pull/28145#pullrequestreview-5643915279) - 2026-10-25
 * [Review] [Review on: perf: type-erase first-party tokio spawns](https://github.com/paradigmxyz/reth/pull/28141#pullrequestreview-5643914689) - 2026-10-25
+* [Review] [Review on: fix(evm): keep precompile cache across big-block segments](https://github.com/paradigmxyz/reth/pull/28162#pullrequestreview-5659715204) - 2026-10-26
+* [Pull Request] [fix(db): bound safe-no-sync rollback with a sync period](https://github.com/paradigmxyz/reth/pull/28163) - 2026-10-26
+* [Pull Request] [fix(static-file): name segment and anchor in unwind error](https://github.com/paradigmxyz/reth/pull/28164) - 2026-10-26
+* [Review] [Review on: ci: replace Cargo Dependabot with a weekly cargo update PR](https://github.com/paradigmxyz/reth/pull/28157#pullrequestreview-5657055001) - 2026-10-26
+* [Review] [Review on: chore(deps): bump zstd to 0.14.3](https://github.com/paradigmxyz/reth/pull/28158#pullrequestreview-5653477979) - 2026-10-26
+* [Review] [Review on: fix(rpc): match geth panic revert messages](https://github.com/paradigmxyz/reth/pull/28156#pullrequestreview-5652632981) - 2026-10-26
+* [Review] [Review on: chore(ci): update stale txgen auth comment in bench install script](https://github.com/paradigmxyz/reth/pull/28155#pullrequestreview-5651206443) - 2026-10-26
+* [Review] [Review on: fix(trie): group proof targets by child](https://github.com/paradigmxyz/reth/pull/28085#pullrequestreview-5651102832) - 2026-10-26
+* [Commit] [fix(db): bound safe-no-sync rollback with a sync period (#28163)](https://github.com/paradigmxyz/reth/commit/5fc3a81d34cd160859d7203f5b6607c4c7e70fbd) - 2026-10-26
+* [Commit] [fix(static-file): name segment and anchor in unwind error (#28164)](https://github.com/paradigmxyz/reth/commit/adfcad70cf5216c549649140881ef4f46d0b5e25) - 2026-10-26
+* [Commit] [fix(engine): retain recreated account state in cache (#28148)](https://github.com/paradigmxyz/reth/commit/3c8b4e84357882802722f6adfdfde8f6167399d5) - 2026-10-26
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -113,6 +113,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: decode embedded trie nodes from their parent (#5080)](https://github.com/status-im/nimbus-eth1/commit/a10f7e5ca0e21107697e0bc6f061ed3042cf3afa) - 2026-10-24
 * [Commit] [stateless: build the payload tx root from the raw transaction bytes (#5079)](https://github.com/status-im/nimbus-eth1/commit/02c47480ea0814e27a92c7dafc37e35085f2b4c1) - 2026-10-24
 * [Commit] [stateless: keep collapse siblings only if the branch stays collapsed (#5078)](https://github.com/status-im/nimbus-eth1/commit/f5354e70fdc46fb622852caa54af0ebadd487116) - 2026-10-24
+* [Pull Request] [stateless: skip the pre-execution decode and validation of the BAL](https://github.com/status-im/nimbus-eth1/pull/5097) - 2026-10-26
+* [Pull Request] [stateless: decode witness nodes in a single pass](https://github.com/status-im/nimbus-eth1/pull/5096) - 2026-10-26
+* [Pull Request] [aristo: keep the witness node hashes when loading a partial trie](https://github.com/status-im/nimbus-eth1/pull/5092) - 2026-10-26
+* [Commit] [aristo: keep the witness node hashes when loading a partial trie (#5092)](https://github.com/status-im/nimbus-eth1/commit/a54c4720c72025ce64ebd18b466071227e0bcec4) - 2026-10-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

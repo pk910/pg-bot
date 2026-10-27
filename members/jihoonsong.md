@@ -38,14 +38,19 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757) - 2026-10-23
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5631957595) - 2026-10-23
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5627110774) - 2026-10-23
+* [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5647952058) - 2026-10-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
+* [Pull Request] [Type-3 transactions SHOULD NOT be included, rather than MUST NOT](https://github.com/ethereum/execution-apis/pull/957) - 2026-10-26
+* [Commit] [Type-3 transactions SHOULD NOT be included, rather than MUST NOT (#957)](https://github.com/ethereum/execution-apis/commit/f82b7e37fa1640915df4bfc6f918144c4d6e353e) - 2026-10-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470) - 2026-10-09
 
+* [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5648081896) - 2026-10-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #44, October 13, 2026](https://github.com/ethereum/pm/issues/2268) - 2026-10-12
+* [Issue] [FOCIL Breakout #45, October 27, 2026](https://github.com/ethereum/pm/issues/2286) - 2026-10-26
 ## Q3 2026
 
 

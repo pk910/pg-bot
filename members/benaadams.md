@@ -327,6 +327,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(merge): return the payload id before the empty block is built](https://github.com/NethermindEth/nethermind/pull/15180#pullrequestreview-5644863854) - 2026-10-25
 * [Review] [Review on: feat(rpc-bench): force JIT frame pointers in perf runs and add annotated assembly recipe](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5644863725) - 2026-10-25
 * [Review] [Review on: feat(rpc): add overlay_getLogs and overlay_callConstructor](https://github.com/NethermindEth/nethermind/pull/15181#pullrequestreview-5644863394) - 2026-10-25
+* [Pull Request] [refactor(ci): name C# scripts in lowercase kebab-case](https://github.com/NethermindEth/nethermind/pull/15247) - 2026-10-26
+* [Review] [Review on: refactor(ci): name C# scripts in lowercase kebab-case](https://github.com/NethermindEth/nethermind/pull/15247#pullrequestreview-5652346992) - 2026-10-26
+* [Pull Request] [perf(bal): de-duplicate written code hashes with a set](https://github.com/NethermindEth/nethermind/pull/15250) - 2026-10-26
+* [Pull Request] [perf(ci): apply review feedback on migrated CI scripts](https://github.com/NethermindEth/nethermind/pull/15246) - 2026-10-26
+* [Review] [Review on: perf(ci): apply review feedback on migrated CI scripts](https://github.com/NethermindEth/nethermind/pull/15246#pullrequestreview-5652324767) - 2026-10-26
+* [Review] [Review on: chore: update Dockerfiles to .NET 10.0.14](https://github.com/NethermindEth/nethermind/pull/15251#pullrequestreview-5654618995) - 2026-10-26
+* [Commit] [refactor(ci): migrate Superchain and sync settings to C# (#15150)](https://github.com/NethermindEth/nethermind/commit/1c47769992260c3ff1d06bcbd96afc237ee32252) - 2026-10-26
+* [Commit] [ci: migrate RPC and EXPB benchmark scripts to C# (#15163)](https://github.com/NethermindEth/nethermind/commit/33fe5779aef21696a0103a9da50812690e363746) - 2026-10-26
+* [Commit] [ci: migrate runtime pruning to C# (#15137)](https://github.com/NethermindEth/nethermind/commit/e5201c660295da545c19f90f5f749123a5614601) - 2026-10-26
+* [Commit] [ci: migrate Hive result processing to C# (#15139)](https://github.com/NethermindEth/nethermind/commit/a1c98e866e357476f90efe82359e9766d9ac0d89) - 2026-10-26
+* [Commit] [refactor(ci): migrate zkVM benchmark reporting to C# (#15149)](https://github.com/NethermindEth/nethermind/commit/9aacf23c729c45191f4d96154d01b21d737dd44f) - 2026-10-26
+* [Commit] [ci: migrate BAL catchup result checks to C# (#15138)](https://github.com/NethermindEth/nethermind/commit/b05282715f20559dd491b5ab9c14139b720ff7b6) - 2026-10-26
+* [Commit] [ci: migrate test project orchestration to C# (#15140)](https://github.com/NethermindEth/nethermind/commit/967fd043a4e0e04699b035605120ed13bc010182) - 2026-10-26
+* [Commit] [ci: migrate devnet genesis fetching to C# (#15141)](https://github.com/NethermindEth/nethermind/commit/69b71281c957ec04194011ad218c42e2f020b6cd) - 2026-10-26
+* [Commit] [ci: migrate sync automation and GCP runner scripts to C# (#15142)](https://github.com/NethermindEth/nethermind/commit/adf4cef084a6970e696a1c4b946f0f0ab1c6093f) - 2026-10-26
+* [Commit] [refactor(ci): migrate verifier artifact fetching to C# (#15151)](https://github.com/NethermindEth/nethermind/commit/bdd908c00a2ad748840aafb00c3a63cc00fa3094) - 2026-10-26
+* [Commit] [refactor(ci): migrate AI review command tests to C# (#15147)](https://github.com/NethermindEth/nethermind/commit/dcfcbfa3dc331c689788cde96cb7e1194aa2fd6e) - 2026-10-26
+* [Commit] [ci: migrate EVM benchmark comparison to C# (#15146)](https://github.com/NethermindEth/nethermind/commit/c1a1a8eb40b0afd4d6897a879baffe7d2c1cc5f8) - 2026-10-26
+* [Commit] [ci: migrate build stall watchdog to C# (#15145)](https://github.com/NethermindEth/nethermind/commit/a798b95cc031e31473bc0f33ab09b61893401e9b) - 2026-10-26
+* [Commit] [refactor(ci): migrate release version and image checks to C# (#15152)](https://github.com/NethermindEth/nethermind/commit/e0e7aac3cf952f903bf0a5a0bd251b416b50bff0) - 2026-10-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

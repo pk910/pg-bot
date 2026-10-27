@@ -37,6 +37,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): require the delegate's code even when it is a single STOP](https://github.com/ethereum/execution-specs/pull/3791#pullrequestreview-5507923760) - 2026-10-13
 * [Pull Request] [fix(zkevm): skip witness fixtures that REST+SSZ cannot encode](https://github.com/ethereum/execution-specs/pull/3843) - 2026-10-16
 * [Pull Request] [fix(zkevm): switch EIP-8025 tests from valid_from to valid_at Amsterdam](https://github.com/ethereum/execution-specs/pull/3867) - 2026-10-19
+* [Pull Request] [fix(zkevm): align NewPayloadRequest and StatelessValidationResult SSZ types with Gloas](https://github.com/ethereum/execution-specs/pull/3913) - 2026-10-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 
@@ -54,6 +55,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix: restore Zesu with ere-guests v0.18.1](https://github.com/eth-act/zkevm-benchmark-workload/pull/319) - 2026-10-12
 * [Commit] [fix: restore Zesu with ere-guests v0.18.1 (#319)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4a0ed18e73afb5c10f4f0f9dccb82d11652db274) - 2026-10-12
 * [Review] [Review on: fix: dedup EEST fixture names across files](https://github.com/eth-act/zkevm-benchmark-workload/pull/321#pullrequestreview-5507866002) - 2026-10-13
+* [Pull Request] [feat: update ere-guests to v0.19.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/325) - 2026-10-26
+* [Pull Request] [fix: update ere and ere-guests to v0.18.2](https://github.com/eth-act/zkevm-benchmark-workload/pull/324) - 2026-10-26
+* [Commit] [feat: update ere-guests to v0.19.0 (#325)](https://github.com/eth-act/zkevm-benchmark-workload/commit/31b385c6a0e5d8edeb5ea88f7e25c523544e6baf) - 2026-10-26
+* [Commit] [fix: update ere and ere-guests to v0.18.2 (#324)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c73929dac38e0fcbfbc1a9e8104c9dc09ff44194) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 
@@ -69,6 +74,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(engine): advertise payloads/witness in SSZ-REST capabilities](https://github.com/NethermindEth/nethermind/pull/14669) - 2026-10-14
 * [Commit] [fix(engine): return a witness when newPayloadWithWitness gets an already-known VALID payload (#14722)](https://github.com/NethermindEth/nethermind/commit/61b101b1af6df3342953517cf5de43fd6a4cbc62) - 2026-10-15
+
+[eth-act/zkboost](https://github.com/eth-act/zkboost)
+* [Issue] [Upgrade to ere-guests v0.19.0](https://github.com/eth-act/zkboost/issues/90) - 2026-10-26
 ## Q3 2026
 
 

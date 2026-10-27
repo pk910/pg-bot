@@ -84,6 +84,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/xatu/pull/929#pullrequestreview-5596796575) - 2026-10-21
 * [Pull Request] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking](https://github.com/ethpandaops/xatu/pull/930) - 2026-10-23
 * [Commit] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking (#930)](https://github.com/ethpandaops/xatu/commit/0f39220df8384985b618ee7f36ea3de57be6604b) - 2026-10-23
+* [Pull Request] [fix(clickhouse): describe canonical_execution_transaction value as wei](https://github.com/ethpandaops/xatu/pull/931) - 2026-10-26
+* [Commit] [fix(clickhouse): describe canonical_execution_transaction value as wei (#931)](https://github.com/ethpandaops/xatu/commit/e8f1dcdfd824f4e9688e02b8690456a0bd3ed435) - 2026-10-26
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -113,6 +115,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(agent): retry late gloas envelopes and outages instead of dropping them (#69)](https://github.com/ethpandaops/tracoor/commit/666008952f3c9d101a16756f5af4b1d2e3240a31) - 2026-10-19
 
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/tracoor/pull/71#pullrequestreview-5596800962) - 2026-10-21
+* [Review] [Review on: fix: follow the Heze slot duration in the agent wallclock](https://github.com/ethpandaops/tracoor/pull/72#pullrequestreview-5647805022) - 2026-10-26
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(slots): proposer client card on the slot page](https://github.com/ethpandaops/lab/pull/450) - 2026-10-20
 * [Pull Request] [feat(ethereum): proposer clients page from block graffiti](https://github.com/ethpandaops/lab/pull/449) - 2026-10-19
