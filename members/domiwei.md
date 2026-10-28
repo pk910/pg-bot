@@ -329,6 +329,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/handler: fall back to historical pending queues on cache miss (#25324)](https://github.com/erigontech/erigon/commit/a487b54217b74c041439196259011c1000d8cc25) - 2026-10-26
 * [Commit] [cl/cltypes, cl/phase1/core/state/raw: encode Gloas builder version and payload availability per beacon-APIs (#25326)](https://github.com/erigontech/erigon/commit/01b88b2bd7038efec9c81e9e1107dcfa298fcfe9) - 2026-10-26
 * [Commit] [cl/phase1/forkchoice, cl/phase1/network/services: apply block attestations in OnBlock (#25281)](https://github.com/erigontech/erigon/commit/85258cd2fd560127435ee98ea34f9bcb2dea979d) - 2026-10-26
+* [Pull Request] [cmd/integration: let integration apply table-creating migrations without creating databases](https://github.com/erigontech/erigon/pull/25438) - 2026-10-27
+* [Review] [Review on: cl: answer attestation_data from fork choice without waiting for the head state](https://github.com/erigontech/erigon/pull/25359#pullrequestreview-5663527752) - 2026-10-27
+* [Pull Request] [cl: give envelope disk I/O its own lock](https://github.com/erigontech/erigon/pull/25436) - 2026-10-27
+* [Review] [Review on: execution/execmodule, execution/notifications: notify subscribers on reorg](https://github.com/erigontech/erigon/pull/25344#pullrequestreview-5665470548) - 2026-10-27
+* [Pull Request] [cl/phase1/forkchoice: count FULL votes for optimistically imported payloads](https://github.com/erigontech/erigon/pull/25435) - 2026-10-27
+* [Pull Request] [execution/state, execution/stagedsync: notify the txpool of an account's full state after a partial write](https://github.com/erigontech/erigon/pull/25441) - 2026-10-27
+* [Review] [Review on: cl/phase1: rate history ETA by downloaded blocks, not skipped slots](https://github.com/erigontech/erigon/pull/25421#pullrequestreview-5667327567) - 2026-10-27
+* [Review] [Review on: cl/phase1/network: keep block ranges in flight in the backward beacon downloader](https://github.com/erigontech/erigon/pull/25417#pullrequestreview-5667205958) - 2026-10-27
+* [Issue] [execution: mainnet block 26235503 rejected until restart, code cache stores old code under a new code hash](https://github.com/erigontech/erigon/issues/25428) - 2026-10-27
+* [Commit] [cmd/integration: let integration apply table-creating migrations without creating databases (#25438)](https://github.com/erigontech/erigon/commit/cca8dd2bf08ef0208b32a288f6aadb99c96e0803) - 2026-10-28
+* [Commit] [cl/phase1/forkchoice: count FULL votes for optimistically imported payloads (#25435)](https://github.com/erigontech/erigon/commit/f32a39d1e5f87a9ec3a9ce2858171c74acc3c242) - 2026-10-27
+* [Commit] [cl, execution/execmodule: do not count a busy forkchoice update as applied (#25395)](https://github.com/erigontech/erigon/commit/aa656b6c1859395f0dc18840b9fe72f025995f74) - 2026-10-27
+* [Commit] [cl/phase1/stages: publish a fork choice head that moved at the slot start (#25258)](https://github.com/erigontech/erigon/commit/57163e9c2568a6eb12dd7961fbb098267775f64a) - 2026-10-27
+* [Commit] [cl/beacon/handler: resolve execution payload envelope block_id via the canonical index (#25323)](https://github.com/erigontech/erigon/commit/c8d2a69075bce75272a70c62c8021fad77c6c41f) - 2026-10-27
+* [Commit] [cl/beacon/handler: accept blobless execution payload envelope contents (#25322)](https://github.com/erigontech/erigon/commit/7abcfe2c486481d665e5e3a13df446ad60808c49) - 2026-10-27
+* [Commit] [cl/phase1/network/services, cl/phase1/core/state: cache a small bid validation view instead of a full state (#25331)](https://github.com/erigontech/erigon/commit/d415191993ff701a32c19ff204db90d4874e1eca) - 2026-10-27
+* [Commit] [cl/phase1/forkchoice: verify execution payload envelopes before taking the fork-choice lock (#25332)](https://github.com/erigontech/erigon/commit/deb4444c38ef82a0d6857b1439f6e825f73175cc) - 2026-10-27
+* [Commit] [execution/builder, txnprovider/txpool: stop building empty blocks when the top pending txns are nonce-too-high (#25334)](https://github.com/erigontech/erigon/commit/20862a77832d2596d85f3ce1ebd75217827a953a) - 2026-10-27
 ## Q3 2026
 
 

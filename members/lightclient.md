@@ -61,6 +61,8 @@ Team: Geth
 * [Review] [Review on: version: release 1.17.10](https://github.com/ethereum/go-ethereum/pull/36002#pullrequestreview-5627564007) - 2026-10-23
 * [Review] [Review on: cmd/evm/testdata: fix test](https://github.com/ethereum/go-ethereum/pull/36004#pullrequestreview-5627710336) - 2026-10-23
 * [Review] [Review on: core/types: improve transaction field validation](https://github.com/ethereum/go-ethereum/pull/36003#pullrequestreview-5627519209) - 2026-10-23
+* [Review] [Review on: internal/traceapi: add Parity trace RPC namespace](https://github.com/ethereum/go-ethereum/pull/35791#pullrequestreview-5672616024) - 2026-10-27
+* [Pull Request] [rpc: cancel in-flight calls when a websocket connection closes](https://github.com/ethereum/go-ethereum/pull/36026) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/pull/2260) - 2026-10-05
 * [Commit] [Add contributors for Geth in mainnet plan](https://github.com/ethereum/pm/commit/04a85746fad0f2d694d73126c476ceaf80fc05fd) - 2026-10-05

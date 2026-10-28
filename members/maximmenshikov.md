@@ -29,6 +29,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [build(zkevm): bump bflat to c2c0faa3 (no GC-only prolog zeroing) (#15098)](https://github.com/NethermindEth/nethermind/commit/a4576524382553decf07d54e05bb3dc614f61111) - 2026-10-23
 * [Pull Request] [build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248) - 2026-10-26
 * [Commit] [build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149 (#15248)](https://github.com/NethermindEth/nethermind/commit/76ff2473d895d04e55e6a056b8520d1403bad0af) - 2026-10-26
+* [Pull Request] [zkvm: Build the guests with the new bflat and the signed runtime packages](https://github.com/NethermindEth/nethermind/pull/15295) - 2026-10-27
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -59,6 +60,13 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [CI: add a suffix to the run name and release tag](https://github.com/NethermindEth/dotnet-riscv/commit/5d87a2e4ba90419cfa29d2b99509427436df2151) - 2026-10-06
 * [Commit] [CI: pin the runners to ubuntu-24.04](https://github.com/NethermindEth/dotnet-riscv/commit/5e58cad0dffd1a3f31f52f63d12543bc32afe209) - 2026-10-19
 * [Review] [Review on: fixup/11/upstream: perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/pull/34#pullrequestreview-5596511499) - 2026-10-21
+* [Pull Request] [release: Sign the release assets for bflat and build the linux-x64 target](https://github.com/NethermindEth/dotnet-riscv/pull/35) - 2026-10-27
+* [Commit] [release: Give the actions and sign.yml by the SHA of a commit](https://github.com/NethermindEth/dotnet-riscv/commit/925dd1a315912d5315db2f529bbb9b8026e7a546) - 2026-10-27
+* [Commit] [release: Take the gcc files of the x64 sysroot from a complete gcc](https://github.com/NethermindEth/dotnet-riscv/commit/3395f33fa9bec29b07e05dec22014d8b51ecc3f7) - 2026-10-27
+* [Commit] [perf(riscv64): perf-83 - declare JitZkNoGcMustInit for every target](https://github.com/NethermindEth/dotnet-riscv/commit/8cf8c015ebd2347efc98c6f16996acd87e0dab93) - 2026-10-27
+* [Commit] [release: Build the linux-x64 target of bflat](https://github.com/NethermindEth/dotnet-riscv/commit/17b697273ecc3aec60eb6b5a7faa8a0dec89ec22) - 2026-10-27
+* [Commit] [release: Sign in the reusable workflow of bflat-riscv64](https://github.com/NethermindEth/dotnet-riscv/commit/7fbadddf1a1a462e5ea75438f5aea894214fe169) - 2026-10-27
+* [Commit] [release: Sign the release assets for bflat](https://github.com/NethermindEth/dotnet-riscv/commit/81e2e536cadca2b56500fbd19d20f7084140d31a) - 2026-10-27
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -86,6 +94,38 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: pin the .NET 11 perf runtime to dotnet-riscv 11.0.100-upstream-perf.r396](https://github.com/NethermindEth/bflat-riscv64/commit/c2c0faa32dbbbdfed6120eea0041b28cbff4debd) - 2026-10-22
 * [Pull Request] [ci: Add sign.yml, the reusable workflow that signs the bflat releases](https://github.com/NethermindEth/bflat-riscv64/pull/64) - 2026-10-25
 * [Commit] [ci: Add sign.yml, the reusable workflow that signs the bflat releases](https://github.com/NethermindEth/bflat-riscv64/commit/34a3e73ad5b2f34a868f5793172dc4a3a97bf382) - 2026-10-25
+* [Pull Request] [bflat: Move the zkVM platforms to the packages, sign the downloads, build only .NET 11 perf](https://github.com/NethermindEth/bflat-riscv64/pull/65) - 2026-10-27
+* [Commit] [signing: Tell the callers to give sign.yml by the SHA of a commit](https://github.com/NethermindEth/bflat-riscv64/commit/dd05dd8af0a14065a9974492007dd5e568acfecc) - 2026-10-27
+* [Commit] [bflat: Build bflat-modules without the global properties of a restore](https://github.com/NethermindEth/bflat-riscv64/commit/4e4319786475e6bbb5b68e570285de3419af7479) - 2026-10-27
+* [Commit] [modules: Take uGC v1.0.13, the signed release](https://github.com/NethermindEth/bflat-riscv64/commit/c9c0f61ca32db1e43097a851644dffb16afff72c) - 2026-10-27
+* [Commit] [bflat: Build only .NET 11 with the perf runtime](https://github.com/NethermindEth/bflat-riscv64/commit/9fc18362ade25dcf84a0b81d36ef0261a9897534) - 2026-10-27
+* [Commit] [bflat: Add the linux-x64 target](https://github.com/NethermindEth/bflat-riscv64/commit/305c0b95743fef7b2f33cb49dfb3348d74ac0503) - 2026-10-27
+* [Commit] [signing: Join the lists of a release whose assets come from more jobs](https://github.com/NethermindEth/bflat-riscv64/commit/0f3aba05a598fd2dc0ebae9c56581134e3f7437f) - 2026-10-27
+* [Commit] [signing: Keep the private key in a reusable workflow that runs no build](https://github.com/NethermindEth/bflat-riscv64/commit/2ae8ff1dc1d4a239d9852350afa1c5804ce1b760) - 2026-10-27
+* [Commit] [tests: Add unit tests that need no compiler layout](https://github.com/NethermindEth/bflat-riscv64/commit/218e28d3f074251ab90276a722a3bc7bcfb0ffa1) - 2026-10-27
+* [Commit] [bflat: Split BuildCommand.Handle into the stages of a build](https://github.com/NethermindEth/bflat-riscv64/commit/a25256b170049c3ad8c1aa8e4401122e8a44330b) - 2026-10-27
+* [Commit] [bflat: Move the dead floating-point list into guest_subst](https://github.com/NethermindEth/bflat-riscv64/commit/da3628a57ab114f2ef6b4ec878460c5b1e65b335) - 2026-10-27
+* [Commit] [bflat: Take the RyuJIT tuning from the platform manifests](https://github.com/NethermindEth/bflat-riscv64/commit/6b99a7099702d35f48ab6a710ee3bbcd2535887d) - 2026-10-27
+* [Commit] [bflat: Link the lp64 layout as it is, and check it when it is made](https://github.com/NethermindEth/bflat-riscv64/commit/8a624e14540aae595aecba28b3d95c3cc10ecb0a) - 2026-10-27
+* [Commit] [build.sh: Check the signature of a module release archive](https://github.com/NethermindEth/bflat-riscv64/commit/38725973d18d31889d7476e5a6163436c288a825) - 2026-10-27
+* [Commit] [bflat: Check the signatures of the downloaded packages](https://github.com/NethermindEth/bflat-riscv64/commit/f6592698363d1c113b40bf7d950a05ba8744b159) - 2026-10-27
+* [Commit] [modules: Correct the comments that the rv64im musl made stale](https://github.com/NethermindEth/bflat-riscv64/commit/7439096e61a86ae992fdc02a8187aa45e95df9d2) - 2026-10-27
+* [Commit] [modules: Keep the invariant feature switches together in guest_subst](https://github.com/NethermindEth/bflat-riscv64/commit/48e8d5e355c4d6badfb43f9760b66751b01ae2b1) - 2026-10-27
+* [Commit] [bflat: Write no linker wrap in BuildCommand.cs](https://github.com/NethermindEth/bflat-riscv64/commit/195915f2a78d05e2252afb5c51ffe401f3319d78) - 2026-10-27
+* [Commit] [nofp: Let the exact libm operations run, and remove the FP substitutions](https://github.com/NethermindEth/bflat-riscv64/commit/59bd5b25cbefc7d235eb7ac3438630cd78629486) - 2026-10-27
+* [Commit] [modules: Keep only the substitutions a soft-float guest needs](https://github.com/NethermindEth/bflat-riscv64/commit/d8e003e1f31cd3fbca735875ac89593298c50605) - 2026-10-27
+* [Commit] [bflat-modules: Fix a comment that names a removed module](https://github.com/NethermindEth/bflat-riscv64/commit/efde683da23afb2cf2202bdb494ec953d9294748) - 2026-10-27
+* [Commit] [pal: Move the code for each zkVM behind a platform interface](https://github.com/NethermindEth/bflat-riscv64/commit/29704a35279b205a6b2f9260fb40911aaa9cbf62) - 2026-10-27
+* [Commit] [modules: Move the zkVM platforms to their packages](https://github.com/NethermindEth/bflat-riscv64/commit/c8044f84b70e1c435d56bcd4cc65c058bc56daa7) - 2026-10-27
+* [Commit] [bflat: Take all platform data from the manifests](https://github.com/NethermindEth/bflat-riscv64/commit/4aa01c745bd685f699fd63b6c712f7b920d48f36) - 2026-10-27
+* [Commit] [docs: Describe the implemented manifest format](https://github.com/NethermindEth/bflat-riscv64/commit/f0366b1bc9654e2083056fd10bed8de14aa898d2) - 2026-10-27
+* [Commit] [modules: Describe the modules in bflat-manifest.json](https://github.com/NethermindEth/bflat-riscv64/commit/84ea17754c27ba0ab8e09ec8f1b3d52d3af01132) - 2026-10-27
+* [Commit] [bflat: Add the schema 2 manifest parser and the bflat-modules tool](https://github.com/NethermindEth/bflat-riscv64/commit/acc9247ab14a937c41d53a3d90efaee3fb1cbd5c) - 2026-10-27
+* [Commit] [docs: Add draft specification for the schema 2 bflat manifest](https://github.com/NethermindEth/bflat-riscv64/commit/9159d307c6c9d9b154a49d95adc29d14f4f1802c) - 2026-10-27
+* [Commit] [gitignore: Ignore Python bytecode caches](https://github.com/NethermindEth/bflat-riscv64/commit/a07d6ee4cac0d513e3a48d58916e74f0ae5f1e0e) - 2026-10-27
+* [Commit] [build.sh: Report the correct module name on build failure](https://github.com/NethermindEth/bflat-riscv64/commit/eb3e9f7f38c1f107d957e0ab3e5b23a28e5442fc) - 2026-10-27
+* [Commit] [modules: require BFLAT_DOTNET instead of defaulting a .NET line](https://github.com/NethermindEth/bflat-riscv64/commit/a61ad8c2eb2a7d89b00070f0f538711ae9935ea4) - 2026-10-27
+* [Commit] [modules: drop security-stub and share zkvm_zisk entry with zisk_sim](https://github.com/NethermindEth/bflat-riscv64/commit/fffce40a0eea8b0edfd8089477107cf53d65bb75) - 2026-10-27
 ## Q3 2026
 
 

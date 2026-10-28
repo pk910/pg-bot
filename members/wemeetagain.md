@@ -98,6 +98,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: bump lodestar-z to 2.2.0](https://github.com/ChainSafe/lodestar/pull/10471#pullrequestreview-5649872935) - 2026-10-26
 * [Review] [Review on: fix: cap payload DA wait at the slot duration of the payload's fork](https://github.com/ChainSafe/lodestar/pull/10433#pullrequestreview-5649764719) - 2026-10-26
 * [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649354280) - 2026-10-26
+* [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5666285767) - 2026-10-27
+* [Review] [Review on: fix: route pending deposits by withdrawal credentials at the gloas fork](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-5666257802) - 2026-10-27
+* [Pull Request] [fix: count usable gossip subscribers for subnet coverage](https://github.com/ChainSafe/lodestar/pull/10482) - 2026-10-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01

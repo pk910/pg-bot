@@ -118,6 +118,21 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5654903364) - 2026-10-26
 * [Review] [Review on: perf(consensus): defer deposit scratch rental](https://github.com/NethermindEth/nethermind/pull/15207#pullrequestreview-5652520624) - 2026-10-26
 * [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5655347231) - 2026-10-26
+* [Review] [Review on: refactor(abi)!: replace Nethermind.Abi with the Span-based ABI codec](https://github.com/NethermindEth/nethermind/pull/15263#pullrequestreview-5667260992) - 2026-10-27
+* [Review] [Review on: fix(ethstats): keep retrying when the server is unavailable at startup](https://github.com/NethermindEth/nethermind/pull/15285#pullrequestreview-5671173563) - 2026-10-27
+* [Review] [Review on: perf(rlp): encode through a length stack instead of recomputing lengths](https://github.com/NethermindEth/nethermind/pull/15271#pullrequestreview-5666269211) - 2026-10-27
+* [Review] [Review on: perf(flat): skip snapshot layer lookups that miss with split-block filters](https://github.com/NethermindEth/nethermind/pull/15282#pullrequestreview-5669006064) - 2026-10-27
+* [Review] [Review on: fix(ci): gate EXPB campaigns on snapshot replay](https://github.com/NethermindEth/nethermind/pull/15243#pullrequestreview-5670143875) - 2026-10-27
+* [Pull Request] [fix(trie): return the traverse stack of a parallel bulk set job empty](https://github.com/NethermindEth/nethermind/pull/15290) - 2026-10-27
+* [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5666523785) - 2026-10-27
+* [Review] [Review on: perf(zkevm): skip zero limbs and alignment tests in the SP1 guest's memory words](https://github.com/NethermindEth/nethermind/pull/15284#pullrequestreview-5670027449) - 2026-10-27
+* [Review] [Review on: perf(zkevm): read only the code bytes the SP1 guest's fused handlers test](https://github.com/NethermindEth/nethermind/pull/15283#pullrequestreview-5669334400) - 2026-10-27
+* [Review] [Review on: perf(zkevm): read the jump look-back as aligned words on SP1](https://github.com/NethermindEth/nethermind/pull/15279#pullrequestreview-5668354471) - 2026-10-27
+* [Review] [Review on: ci(codeql): run security-extended query suite](https://github.com/NethermindEth/nethermind/pull/15287#pullrequestreview-5670887604) - 2026-10-27
+* [Review] [Review on: fix(bal): accept more than 65,535 changes per account](https://github.com/NethermindEth/nethermind/pull/15276#pullrequestreview-5667871329) - 2026-10-27
+* [Review] [Review on: fix(blockchain): ignore prefetched ancestors of another block in BLOCKHASH](https://github.com/NethermindEth/nethermind/pull/15275#pullrequestreview-5667760412) - 2026-10-27
+* [Review] [Review on: perf(collections): search only the used part of ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/15277#pullrequestreview-5668192806) - 2026-10-27
+* [Review] [Review on: docs(rpc-bench): add annotated assembly recipe for perf](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5665202787) - 2026-10-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

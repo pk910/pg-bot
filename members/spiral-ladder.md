@@ -46,6 +46,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(archive): rework pruning for non-canonical block variants (#10022)](https://github.com/ChainSafe/lodestar/commit/23bc3d7be9e301110912ce4e8af6aae9623c3248) - 2026-10-21
 * [Pull Request] [chore: bump lodestar-z to 2.2.0](https://github.com/ChainSafe/lodestar/pull/10471) - 2026-10-26
 * [Commit] [chore: bump lodestar-z to 2.2.0 (#10471)](https://github.com/ChainSafe/lodestar/commit/d04b3811aea5a09898295aac2da1843b933a6a61) - 2026-10-26
+* [Pull Request] [fix(api): type historical summaries proof nodes as Bytes32](https://github.com/ChainSafe/lodestar/pull/10487) - 2026-10-27
+* [Commit] [fix(api): type historical summaries proof nodes as Bytes32 (#10487)](https://github.com/ChainSafe/lodestar/commit/e4b4f615e68c1a4ea7c57632e6ed8d824624573f) - 2026-10-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

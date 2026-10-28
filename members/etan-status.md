@@ -76,6 +76,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Replace parseBps macro with template](https://github.com/status-im/nimbus-eth2/pull/9384) - 2026-10-26
 * [Pull Request] [Shut down test taskpools](https://github.com/status-im/nimbus-eth2/pull/9381) - 2026-10-26
 * [Pull Request] [Parse INCLUSION_LIST_DUE_BPS in the validator client](https://github.com/status-im/nimbus-eth2/pull/9382) - 2026-10-26
+* [Pull Request] [Fix winservice cast under --mm:orc](https://github.com/status-im/nimbus-eth2/pull/9392) - 2026-10-27
+* [Pull Request] [Implement reportDiff with generics instead of a macro](https://github.com/status-im/nimbus-eth2/pull/9389) - 2026-10-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -108,6 +110,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix ABI use in verified proxy (#5095)](https://github.com/status-im/nimbus-eth1/commit/cb98dac27102fad11606dc926e5d6ef1cab099ea) - 2026-10-26
 * [Commit] [Use stew supportsSharedMem (#5087)](https://github.com/status-im/nimbus-eth1/commit/c4b427bc804c4838d359f3caa19f1ee3e5a6b967) - 2026-10-26
 * [Commit] [Fill opcode table holes via enumFields (#5085)](https://github.com/status-im/nimbus-eth1/commit/d4003f5cade378bff7ea70f667a8de9859a8cfca) - 2026-10-26
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [REST engine draft drops expected_blob_versioned_hashes: no commitment check](https://github.com/ethereum/execution-apis/issues/959) - 2026-10-27
 ## Q3 2026
 
 

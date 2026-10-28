@@ -90,6 +90,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix `redb` slow restarts](https://github.com/sigp/lighthouse/pull/10452) - 2026-10-27
 * [Pull Request] [Add a stateless variant of `chain_dump`](https://github.com/sigp/lighthouse/pull/10439) - 2026-10-26
 * [Review] [Review on: CI audit failure](https://github.com/sigp/lighthouse/pull/10441#pullrequestreview-5659671828) - 2026-10-26
+* [Review] [Review on: Apply validator custody from genesis on pre-genesis registration](https://github.com/sigp/lighthouse/pull/10404#pullrequestreview-5676654983) - 2026-10-28
+* [Review] [Review on: Reject empty builder auth_data at VC config load](https://github.com/sigp/lighthouse/pull/10435#pullrequestreview-5676489989) - 2026-10-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

@@ -239,6 +239,23 @@ Team: Erigon
 * [Commit] [cmd/capcli: name the blob sidecar check in the dump-blobs-snapshots integrity hint (#25360)](https://github.com/erigontech/erigon/commit/48a989e16975c41f3c27be78f49bc73840a4b6d8) - 2026-10-26
 * [Commit] [execution/tests: storage-only account touched then funded in one block (#25374)](https://github.com/erigontech/erigon/commit/e41b9fabfe2d26b6bba503e4c4b45f8c94efcecc) - 2026-10-26
 * [Commit] [execution/stagedsync: keep building block files under --exec.no-prune (#25336)](https://github.com/erigontech/erigon/commit/483f2eb094d491afe88f621d33100958505aef0e) - 2026-10-26
+* [Pull Request] [execution/execmodule: answer ACCEPTED when a payload needs more than one state step](https://github.com/erigontech/erigon/pull/25382) - 2026-10-28
+* [Review] [Review on: execution/execmodule: answer ACCEPTED when a payload needs more than one state step](https://github.com/erigontech/erigon/pull/25382#pullrequestreview-5664764790) - 2026-10-27
+* [Review] [Review on: execution/execmodule, execution/notifications: notify subscribers on reorg](https://github.com/erigontech/erigon/pull/25344#pullrequestreview-5663854064) - 2026-10-27
+* [Pull Request] [execution/p2p: reload header walk peers when all are exhausted and keep header ranges in flight](https://github.com/erigontech/erigon/pull/25414) - 2026-10-27
+* [Review] [Review on: execution/p2p: reload header walk peers when all are exhausted and keep header ranges in flight](https://github.com/erigontech/erigon/pull/25414#pullrequestreview-5665381995) - 2026-10-27
+* [Pull Request] [cl/phase1: rate history ETA by downloaded blocks, not skipped slots](https://github.com/erigontech/erigon/pull/25421) - 2026-10-27
+* [Review] [Review on: cl/phase1: rate history ETA by downloaded blocks, not skipped slots](https://github.com/erigontech/erigon/pull/25421#pullrequestreview-5667914063) - 2026-10-27
+* [Pull Request] [cl/phase1/network: keep block ranges in flight in the backward beacon downloader](https://github.com/erigontech/erigon/pull/25417) - 2026-10-27
+* [Review] [Review on: cl/phase1/network: keep block ranges in flight in the backward beacon downloader](https://github.com/erigontech/erigon/pull/25417#pullrequestreview-5667931329) - 2026-10-27
+* [Review] [Review on: cl, execution/execmodule: do not count a busy forkchoice update as applied](https://github.com/erigontech/erigon/pull/25395#pullrequestreview-5663853414) - 2026-10-27
+* [Issue] [Epic: history download](https://github.com/erigontech/erigon/issues/25418) - 2026-10-27
+* [Commit] [execution/execmodule: answer ACCEPTED when a payload needs more than one state step (#25382)](https://github.com/erigontech/erigon/commit/56dc3689dc5e7dc677d3a84c36cb7b1e6ade4741) - 2026-10-28
+* [Commit] [db/kv/mdbx: raise the in-commit sync bound to 1 GB (#25391)](https://github.com/erigontech/erigon/commit/03d21ee3011f0867da83d532a78dbd25ae8ba124) - 2026-10-27
+* [Commit] [db/snapshotsync/freezeblocks: fix DumpTxs hang when collect fails (#25413)](https://github.com/erigontech/erigon/commit/5c04b76eec2152d1e1c5430e32c0d16de31a46a4) - 2026-10-27
+* [Commit] [cmd/capcli, freezeblocks: remove a replaced blob segment's index and torrents before compressing the new one (#25380)](https://github.com/erigontech/erigon/commit/06db10f98f54dc439f16664cabb989c00008d84f) - 2026-10-27
+* [Commit] [db/state: existence filters stay mmap'd (MADV_RANDOM) by default below 20 GiB of memory (#25340)](https://github.com/erigontech/erigon/commit/58758a3588cf6b7181d1ee96ae666e1843a6ffa2) - 2026-10-27
+* [Commit] [execution/p2p: move the body retry off a timed-out peer (#25337)](https://github.com/erigontech/erigon/commit/3e22f877cbecddceebd3541aff16f4f49e490203) - 2026-10-27
 ## Q3 2026
 
 

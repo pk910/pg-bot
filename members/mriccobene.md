@@ -38,6 +38,7 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_gen, rpc_perf: write and replay JSONL patterns](https://github.com/erigontech/rpc-tests/pull/633#pullrequestreview-5610384006) - 2026-10-22
 * [Review] [Review on: rpc_pattern_convert: convert Vegeta patterns to JSONL](https://github.com/erigontech/rpc-tests/pull/634#pullrequestreview-5610385542) - 2026-10-22
 * [Review] [Review on: .claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637#pullrequestreview-5610390993) - 2026-10-22
+* [Review] [Review on: integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step](https://github.com/erigontech/rpc-tests/pull/642#pullrequestreview-5664017784) - 2026-10-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -50,6 +51,9 @@ Team: Erigon
 * [Commit] [qa-tests: upgrade lighthouse version to v8.3.0 (#25157)](https://github.com/erigontech/erigon/commit/1012dbba65f03127391a48314ea0ab5a9598f221) - 2026-10-22
 * [Review] [Review on: Update LIGHTHOUSE_VERSION to v8.3.2](https://github.com/erigontech/erigon/pull/25247#pullrequestreview-5626685302) - 2026-10-23
 * [Review] [Review on: QA: add an optional Reth run to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25288#pullrequestreview-5647953431) - 2026-10-26
+* [Pull Request] [qa-tests: upload goroutine stacks on workflow failure](https://github.com/erigontech/erigon/pull/25434) - 2026-10-27
+* [Pull Request] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode](https://github.com/erigontech/erigon/pull/25431) - 2026-10-27
+* [Commit] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode (#25431)](https://github.com/erigontech/erigon/commit/fac3dfde06f6cec9b72be5921005136e28b7096b) - 2026-10-27
 ## Q3 2026
 
 

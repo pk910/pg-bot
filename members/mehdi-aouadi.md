@@ -23,6 +23,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Sign inclusion lists with the inclusion list epoch's fork version](https://github.com/Consensys-Incorporated/teku/issues/11571) - 2026-10-23
 * [Issue] [Set the IL deadline to 9s into the slot](https://github.com/Consensys-Incorporated/teku/issues/11570) - 2026-10-23
 * [Pull Request] [update IL signing fork calculation comment](https://github.com/Consensys-Incorporated/teku/pull/11579) - 2026-10-26
+* [Issue] [FOCIL <> Frame Transactions (EIP-8141)](https://github.com/Consensys-Incorporated/teku/issues/11590) - 2026-10-27
+* [Issue] [Validate and select bids on the inclusion list view at the deadline](https://github.com/Consensys-Incorporated/teku/issues/11592) - 2026-10-27
+* [Issue] [Do not prefer an unsatisfied payload as head during its own slot](https://github.com/Consensys-Incorporated/teku/issues/11591) - 2026-10-27
 ## Q3 2026
 
 

@@ -69,6 +69,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-client-clis): print traces as a compact table](https://github.com/ethereum/execution-specs/pull/3869#pullrequestreview-5634455605) - 2026-10-23
 * [Review] [Review on: feat(test-cli): `evaluate` command](https://github.com/ethereum/execution-specs/pull/3905#pullrequestreview-5660275947) - 2026-10-26
 * [Review] [Review on: perf(test-consume): run enginex tests grouped by fixture file](https://github.com/ethereum/execution-specs/pull/3914#pullrequestreview-5658699803) - 2026-10-26
+* [Pull Request] [feat(docs): add fork-status table to the readme](https://github.com/ethereum/execution-specs/pull/3924) - 2026-10-27
+* [Review] [Review on: chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota)](https://github.com/ethereum/execution-specs/pull/3921#pullrequestreview-5671704545) - 2026-10-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

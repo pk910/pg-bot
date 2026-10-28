@@ -27,6 +27,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [eez: derive EEZ chains from their L1 settlement](https://github.com/erigontech/erigon/pull/25077) - 2026-10-19
 * [Review] [Review on: eez: run Erigon as an EEZ follower](https://github.com/erigontech/erigon/pull/25154#pullrequestreview-5644321652) - 2026-10-25
 * [Pull Request] [rpc/jsonrpc: drop the unreachable nil-receipt check in getLogsV3](https://github.com/erigontech/erigon/pull/25396) - 2026-10-26
+* [Commit] [rpc/jsonrpc: drop the unreachable nil-receipt check in getLogsV3 (#25396)](https://github.com/erigontech/erigon/commit/15b2fabab918eba4e490c280333a666d6ac4d229) - 2026-10-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

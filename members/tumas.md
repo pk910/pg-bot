@@ -37,6 +37,11 @@ Team: Grandine
 * [Review] [Review on: Optimize trusted state transition function](https://github.com/grandinetech/grandine/pull/920#pullrequestreview-5627127487) - 2026-10-23
 * [Review] [Review on: Keep blocks waiting for data marked as in-processing so duties wait for them](https://github.com/grandinetech/grandine/pull/1010#pullrequestreview-5654556811) - 2026-10-26
 * [Review] [Review on: Prune invalid execution payload envelopes from cache and storage](https://github.com/grandinetech/grandine/pull/963#pullrequestreview-5651155516) - 2026-10-26
+* [Review] [Review on: Updated Rust to 1.99.1](https://github.com/grandinetech/grandine/pull/1014#pullrequestreview-5669568562) - 2026-10-27
+* [Review] [Review on: Implement aggregate-level greedy attestation packing for Gloas](https://github.com/grandinetech/grandine/pull/1003#pullrequestreview-5668364209) - 2026-10-27
+* [Pull Request] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013) - 2026-10-27
+* [Pull Request] [Shuffle inline when already on a Rayon worker](https://github.com/grandinetech/grandine/pull/1012) - 2026-10-27
+* [Commit] [Shuffle inline when already on a Rayon worker](https://github.com/grandinetech/grandine/commit/eff42ba1a5e4138b2da48d8579f481b57e1ff303) - 2026-10-27
 ## Q3 2026
 
 

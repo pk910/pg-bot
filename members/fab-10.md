@@ -95,11 +95,22 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756#pullrequestreview-5649646158) - 2026-10-26
 * [Commit] [Support inclusion list transactions in block creation (EIP-7805) (#11549)](https://github.com/besu-eth/besu/commit/4facca230e3430a61f7915d7b316c6b4ef5b0f0a) - 2026-10-26
 * [Commit] [EIP-8070: Add the eth/72 GetCells and Cells messages (#11644)](https://github.com/besu-eth/besu/commit/d8c1a5930b88fd706cde66b51530ddc8de0ccad4) - 2026-10-26
+* [Review] [Review on: Hash keccak-256 with a per-thread digest instead of cloning one per call](https://github.com/besu-eth/besu/pull/11686#pullrequestreview-5672255552) - 2026-10-27
+* [Review] [Review on: Allow sequenced TX pool to only retain transactions for a short period of time (i.e. < the current 1 hour minimum)](https://github.com/besu-eth/besu/pull/11588#pullrequestreview-5671868145) - 2026-10-27
+* [Review] [Review on: fix: default --Xpos-block-finalization-timeout-ms to 0](https://github.com/besu-eth/besu/pull/11774#pullrequestreview-5667297356) - 2026-10-27
+* [Pull Request] [ Skip the timing baseline update for a commit pushed without a pull request](https://github.com/besu-eth/besu/pull/11776) - 2026-10-27
+* [Review] [Review on:  Skip the timing baseline update for a commit pushed without a pull request](https://github.com/besu-eth/besu/pull/11776#pullrequestreview-5665705231) - 2026-10-27
+* [Commit] [ Skip the timing baseline update for a commit pushed without a pull request (#11776)](https://github.com/besu-eth/besu/commit/4f1c92e778d39bb9ebda0551c766454dfee1ede1) - 2026-10-27
+* [Commit] [Bound transaction gossip message decoding by per-message caps (#164)](https://github.com/besu-eth/besu/commit/2d2d8f9a8b3f81d5d310af9f0da49d2c297bc316) - 2026-10-27
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5589116627) - 2026-10-20
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Besu: add BlockException.INVALID_SLOT_NUMBER mapping](https://github.com/ethereum/execution-specs/pull/3920) - 2026-10-27
+* [Commit] [Besu: add BlockException.INVALID_SLOT_NUMBER mapping (#3920)](https://github.com/ethereum/execution-specs/commit/e8f4536a8af6f1b8300a223fe3cf4c3c82c979e8) - 2026-10-27
 ## Q3 2026
 
 

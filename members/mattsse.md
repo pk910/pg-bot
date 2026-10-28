@@ -399,6 +399,7 @@ Team: Reth
 * [Commit] [fix(db): bound safe-no-sync rollback with a sync period (#28163)](https://github.com/paradigmxyz/reth/commit/5fc3a81d34cd160859d7203f5b6607c4c7e70fbd) - 2026-10-26
 * [Commit] [fix(static-file): name segment and anchor in unwind error (#28164)](https://github.com/paradigmxyz/reth/commit/adfcad70cf5216c549649140881ef4f46d0b5e25) - 2026-10-26
 * [Commit] [fix(engine): retain recreated account state in cache (#28148)](https://github.com/paradigmxyz/reth/commit/3c8b4e84357882802722f6adfdfde8f6167399d5) - 2026-10-26
+* [Pull Request] [fix(payload): race empty payload by default for eth](https://github.com/paradigmxyz/reth/pull/28170) - 2026-10-27
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

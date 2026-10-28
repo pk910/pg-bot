@@ -130,6 +130,18 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the body back-fill (#11734)](https://github.com/besu-eth/besu/commit/577423f0020a4f0860dcbb3a6b5c5bc7a59a4c37) - 2026-10-26
 * [Commit] [SNAP2: Abort only the batches whose commit has not started (#11733)](https://github.com/besu-eth/besu/commit/7c8e2e3c12a3ce50d9d8de19acd5d312657f5e2a) - 2026-10-26
 * [Commit] [SNAP2: Add the header back-fill (#11707)](https://github.com/besu-eth/besu/commit/ac1b44afc986e5945e934953a7c1e0c994d082ab) - 2026-10-26
+* [Pull Request] [SNAP2: Add the chain of a sync attempt](https://github.com/besu-eth/besu/pull/11783) - 2026-10-27
+* [Review] [Review on: Preload and commit only the state a block changes](https://github.com/besu-eth/besu/pull/11758#pullrequestreview-5662895331) - 2026-10-27
+* [Pull Request] [SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782) - 2026-10-27
+* [Pull Request] [Replace the supplier of a metric registered again on OpenTelemetry](https://github.com/besu-eth/besu/pull/11773) - 2026-10-27
+* [Review] [Review on: Replace the supplier of a metric registered again on OpenTelemetry](https://github.com/besu-eth/besu/pull/11773#pullrequestreview-5667237736) - 2026-10-27
+* [Pull Request] [SNAP2: Run the body back-fill in the background](https://github.com/besu-eth/besu/pull/11777) - 2026-10-27
+* [Review] [Review on: SNAP2: Run the body back-fill in the background](https://github.com/besu-eth/besu/pull/11777#pullrequestreview-5667487027) - 2026-10-27
+* [Pull Request] [SNAP2: Add the bytecode queue of the state download](https://github.com/besu-eth/besu/pull/11772) - 2026-10-27
+* [Review] [Review on: SNAP2: Add the bytecode queue of the state download](https://github.com/besu-eth/besu/pull/11772#pullrequestreview-5663618989) - 2026-10-27
+* [Commit] [Replace the supplier of a metric registered again on OpenTelemetry (#11773)](https://github.com/besu-eth/besu/commit/e69518378a459ff19c7252b4cbabcdf4d08c606c) - 2026-10-27
+* [Commit] [SNAP2: Add the bytecode queue of the state download (#11772)](https://github.com/besu-eth/besu/commit/e8dc9a84070de6fd768af9ac6f9f743d34de5ea0) - 2026-10-27
+* [Commit] [SNAP2: Add the writes of the state download (#11761)](https://github.com/besu-eth/besu/commit/286e370db83b4e16c440a180dd47be92557bfdd3) - 2026-10-27
 ## Q3 2026
 
 

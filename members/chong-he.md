@@ -38,6 +38,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add gzip compression to HTTP metrics endpoints](https://github.com/sigp/lighthouse/pull/10338#pullrequestreview-5608584977) - 2026-10-22
 * [Review] [Review on: Add CLI parameters for ePBS builder configuration (#10185)](https://github.com/sigp/lighthouse/pull/10374#pullrequestreview-5660616423) - 2026-10-26
 * [Pull Request] [CI audit failure](https://github.com/sigp/lighthouse/pull/10441) - 2026-10-26
+* [Pull Request] [Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474) - 2026-10-28
+* [Review] [Review on: Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474#pullrequestreview-5676776232) - 2026-10-28
 ## Q3 2026
 
 

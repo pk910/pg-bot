@@ -184,6 +184,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Preload and commit only the state a block changes, and build trie keys without streams](https://github.com/besu-eth/besu/pull/11758) - 2026-10-26
 * [Commit] [Use the native secp256k1 ECDH key agreement from besu-native 2.1.0 (#11648)](https://github.com/besu-eth/besu/commit/fd83c1ba775a0d5229e2cd72c5408a5582929654) - 2026-10-26
 * [Commit] [Record memory and storage updates on EVM v2 only for a tracer that sees operations (#11690)](https://github.com/besu-eth/besu/commit/fc46028fa6d4baf225429803437729cc04440069) - 2026-10-26
+* [Review] [Review on: SNAP2: Add the chain of a sync attempt](https://github.com/besu-eth/besu/pull/11783#pullrequestreview-5669331712) - 2026-10-27
+* [Review] [Review on: Preload and commit only the state a block changes](https://github.com/besu-eth/besu/pull/11758#pullrequestreview-5665957491) - 2026-10-27
+* [Review] [Review on: SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782#pullrequestreview-5668260560) - 2026-10-27
+* [Review] [Review on:  Skip the timing baseline update for a commit pushed without a pull request](https://github.com/besu-eth/besu/pull/11776#pullrequestreview-5667186556) - 2026-10-27
+* [Review] [Review on: Replace the supplier of a metric registered again on OpenTelemetry](https://github.com/besu-eth/besu/pull/11773#pullrequestreview-5666874703) - 2026-10-27
+* [Review] [Review on: SNAP2: Run the body back-fill in the background](https://github.com/besu-eth/besu/pull/11777#pullrequestreview-5666859926) - 2026-10-27
+* [Pull Request] [Concatenate trie keys without tuweni's stream](https://github.com/besu-eth/besu/pull/11771) - 2026-10-27
+* [Review] [Review on: Store a valid block after replying to newPayload](https://github.com/besu-eth/besu/pull/11682#pullrequestreview-5662504165) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

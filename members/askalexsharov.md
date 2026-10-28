@@ -519,9 +519,29 @@ Team: Erigon
 * [Commit] [execution/state: write view reuses the code hash stored in the version map (#25327)](https://github.com/erigontech/erigon/commit/120713e9eeac3560d025f94d831cfab5e73a7115) - 2026-10-26
 * [Commit] [execution/cache: publish takes a code update's hash from its account update (#25329)](https://github.com/erigontech/erigon/commit/82e4be8e4f779433fa2a2152386501f7de66f7c0) - 2026-10-26
 * [Commit] [execution: review fixes for parallel exec (#25328)](https://github.com/erigontech/erigon/commit/f43942f98a09640de359c5adae870a2b508e8602) - 2026-10-26
+* [Pull Request] [execution/state, db/state/execctx: serve commitment base reads from the state cache](https://github.com/erigontech/erigon/pull/25452) - 2026-10-28
+* [Review] [Review on: execution/state, db/state/execctx: serve commitment base reads from the state cache](https://github.com/erigontech/erigon/pull/25452#pullrequestreview-5677034328) - 2026-10-28
+* [Pull Request] [common: auto-increase gomaxprocs to handle mmap page-faults](https://github.com/erigontech/erigon/pull/25416) - 2026-10-27
+* [Review] [Review on: common: auto-increase gomaxprocs to handle mmap page-faults](https://github.com/erigontech/erigon/pull/25416#pullrequestreview-5664382448) - 2026-10-27
+* [Review] [Review on: execution/vm: cache successful expensive precompiles](https://github.com/erigontech/erigon/pull/25037#pullrequestreview-5664259198) - 2026-10-27
+* [Review] [Review on: rlp, types: parse stored logs in place](https://github.com/erigontech/erigon/pull/25399#pullrequestreview-5676723042) - 2026-10-28
+* [Review] [Review on: cmd/integration: let integration apply table-creating migrations without creating databases](https://github.com/erigontech/erigon/pull/25438#pullrequestreview-5676606359) - 2026-10-28
+* [Pull Request] [txnprovider/txpool: keep the local flag of unwound txns](https://github.com/erigontech/erigon/pull/25350) - 2026-10-28
+* [Review] [Review on: [r3.8] node/eth: limit embedded MCP to --http.api namespaces](https://github.com/erigontech/erigon/pull/25449#pullrequestreview-5676565436) - 2026-10-28
+* [Commit] [txnprovider/txpool: keep the local flag of unwound txns (#25350)](https://github.com/erigontech/erigon/commit/a32605a21c2ae1ca36c928af6a68a50afc8c9950) - 2026-10-28
+* [Commit] [execution/vm/vmgen: add README (#25233)](https://github.com/erigontech/erigon/commit/5912a2183a0401cd5a848a1017c2f81ec9e98a75) - 2026-10-27
+* [Commit] [execution: a value transfer is not charged at validation (#25309)](https://github.com/erigontech/erigon/commit/818f174e0791b2899a29d07b012f032639f54c2b) - 2026-10-27
+* [Commit] [rpc/jsonrpc: trace_*, debug_executionWitness and overlay run on the versioned state (#25383)](https://github.com/erigontech/erigon/commit/d879f19cf7e3458a48f8e3c12f00e06b8c8958e9) - 2026-10-27
+* [Commit] [execution/stagedsync: index readers by address and check the exact cell per write (#25347)](https://github.com/erigontech/erigon/commit/2e3807bbc752f355173132c9cf597ea76bfcfa29) - 2026-10-27
+* [Commit] [cl/phase1/network/services: bound the seen sync contributions set (#25349)](https://github.com/erigontech/erigon/commit/f873959d6c4ee80016ca4479b769cdf5d0320d6a) - 2026-10-27
+* [Commit] [txnprovider/txpool: check blob pool limits before KZG verification (#25356)](https://github.com/erigontech/erigon/commit/af7fb950211432267a6de7ce9fc7402ab142973d) - 2026-10-27
+* [Commit] [node/app: drop golang.org/x/exp constraints import (#25369)](https://github.com/erigontech/erigon/commit/b9f4608f0dc851261f276f0be37a38f560d5a504) - 2026-10-27
+* [Commit] [exec: move "intern tables" from `evm` to `ibs` object (#25368)](https://github.com/erigontech/erigon/commit/53f6159bfe2cb1fd1ff87b336b31e31c935fe03b) - 2026-10-27
+* [Commit] [common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes (#25364)](https://github.com/erigontech/erigon/commit/9e4058eada52bc487617f07f5b6df2584b9a7880) - 2026-10-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26
+* [Commit] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error (#643)](https://github.com/erigontech/rpc-tests/commit/421d9f10abf41428641946f1636d9036f13762ba) - 2026-10-27
 ## Q3 2026
 
 

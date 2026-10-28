@@ -68,6 +68,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5657673653) - 2026-10-26
 * [Review] [Review on: Update dependency ty to v0.0.92](https://github.com/ethereum/consensus-specs/pull/5760#pullrequestreview-5647273386) - 2026-10-26
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5759#pullrequestreview-5647170323) - 2026-10-26
+* [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5675852002) - 2026-10-27
+* [Pull Request] [Only mark slashable validators as seen in `attester_slashing` gossip](https://github.com/ethereum/consensus-specs/pull/5777) - 2026-10-27
+* [Pull Request] [Use the parent's payload status in sidecar gossip validation](https://github.com/ethereum/consensus-specs/pull/5775) - 2026-10-27
+* [Pull Request] [Fix block access list hash in EL block hash test helper](https://github.com/ethereum/consensus-specs/pull/5773) - 2026-10-27
+* [Pull Request] [Note that proposers should accept higher bids from the same builder](https://github.com/ethereum/consensus-specs/pull/5774) - 2026-10-27
+* [Pull Request] [Ignore `voluntary_exit` gossip with pending partial withdrawals](https://github.com/ethereum/consensus-specs/pull/5764) - 2026-10-27
+* [Pull Request] [Use `committee_index` for the attestation subnet in Electra](https://github.com/ethereum/consensus-specs/pull/5768) - 2026-10-27
+* [Pull Request] [Return no data column sidecars for a block without blobs](https://github.com/ethereum/consensus-specs/pull/5767) - 2026-10-27
+* [Pull Request] [Skip seen bitsets of a different length in `is_non_strict_superset`](https://github.com/ethereum/consensus-specs/pull/5766) - 2026-10-27
+* [Pull Request] [Bind column sidecars to the block in Fulu `is_data_available`](https://github.com/ethereum/consensus-specs/pull/5765) - 2026-10-27
+* [Commit] [Fix block access list hash in EL block hash test helper (#5773)](https://github.com/ethereum/consensus-specs/commit/8a80ffa82bd49aac0dd6db17f9e8150aa257fbc2) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

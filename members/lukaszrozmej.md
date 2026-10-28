@@ -732,6 +732,35 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(rpc): classify pruned processed orphan blocks as unavailable history](https://github.com/NethermindEth/nethermind/pull/15190#pullrequestreview-5652446623) - 2026-10-26
 * [Review] [Review on: fix(debug): check numeric block body before replay state](https://github.com/NethermindEth/nethermind/pull/14616#pullrequestreview-5653745132) - 2026-10-26
 * [Commit] [fix(network): fetch full blobs when too few eth/72 peers to sample (#15179)](https://github.com/NethermindEth/nethermind/commit/57023d12763b488a61ca1b8522d1cf127f0af558) - 2026-10-26
+* [Pull Request] [refactor(abi)!: replace Nethermind.Abi with the Span-based ABI codec](https://github.com/NethermindEth/nethermind/pull/15263) - 2026-10-27
+* [Review] [Review on: refactor(abi)!: replace Nethermind.Abi with the Span-based ABI codec](https://github.com/NethermindEth/nethermind/pull/15263#pullrequestreview-5664669464) - 2026-10-27
+* [Pull Request] [perf(flat): skip snapshot layer lookups that miss with split-block filters](https://github.com/NethermindEth/nethermind/pull/15282) - 2026-10-27
+* [Review] [Review on: fix(trie): return the traverse stack of a parallel bulk set job empty](https://github.com/NethermindEth/nethermind/pull/15290#pullrequestreview-5672886754) - 2026-10-27
+* [Pull Request] [perf(zkevm): skip zero limbs and alignment tests in the SP1 guest's memory words](https://github.com/NethermindEth/nethermind/pull/15284) - 2026-10-27
+* [Review] [Review on: perf(zkevm): skip zero limbs and alignment tests in the SP1 guest's memory words](https://github.com/NethermindEth/nethermind/pull/15284#pullrequestreview-5673369385) - 2026-10-27
+* [Pull Request] [perf(zkevm): read only the code bytes the SP1 guest's fused handlers test](https://github.com/NethermindEth/nethermind/pull/15283) - 2026-10-27
+* [Review] [Review on: perf(zkevm): read only the code bytes the SP1 guest's fused handlers test](https://github.com/NethermindEth/nethermind/pull/15283#pullrequestreview-5673370669) - 2026-10-27
+* [Pull Request] [perf(zkevm): read the jump look-back as aligned words on SP1](https://github.com/NethermindEth/nethermind/pull/15279) - 2026-10-27
+* [Review] [Review on: perf(zkevm): read the jump look-back as aligned words on SP1](https://github.com/NethermindEth/nethermind/pull/15279#pullrequestreview-5673365939) - 2026-10-27
+* [Pull Request] [perf(zkevm): store the SP1 SHA-256 initial state as immediates](https://github.com/NethermindEth/nethermind/pull/15294) - 2026-10-27
+* [Pull Request] [perf(zkevm): round the SP1 jump look-back's word and bias bases once](https://github.com/NethermindEth/nethermind/pull/15293) - 2026-10-27
+* [Pull Request] [ci(codeql): run security-extended query suite](https://github.com/NethermindEth/nethermind/pull/15287) - 2026-10-27
+* [Review] [Review on: ci(codeql): run security-extended query suite](https://github.com/NethermindEth/nethermind/pull/15287#pullrequestreview-5673368971) - 2026-10-27
+* [Pull Request] [fix(bal): accept more than 65,535 changes per account](https://github.com/NethermindEth/nethermind/pull/15276) - 2026-10-27
+* [Review] [Review on: fix(bal): accept more than 65,535 changes per account](https://github.com/NethermindEth/nethermind/pull/15276#pullrequestreview-5673367082) - 2026-10-27
+* [Pull Request] [fix(blockchain): ignore prefetched ancestors of another block in BLOCKHASH](https://github.com/NethermindEth/nethermind/pull/15275) - 2026-10-27
+* [Review] [Review on: fix(blockchain): ignore prefetched ancestors of another block in BLOCKHASH](https://github.com/NethermindEth/nethermind/pull/15275#pullrequestreview-5673367995) - 2026-10-27
+* [Pull Request] [perf(zkevm): carry the SP1 guest's dispatch table as its address in words](https://github.com/NethermindEth/nethermind/pull/15292) - 2026-10-27
+* [Pull Request] [perf(collections): search only the used part of ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/15277) - 2026-10-27
+* [Review] [Review on: docs(rpc-bench): add annotated assembly recipe for perf](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5666894097) - 2026-10-27
+* [Commit] [perf(collections): search only the used part of ArrayPoolList (#15277)](https://github.com/NethermindEth/nethermind/commit/9945c329cc2688d365f928fc017bceeef6b50e3f) - 2026-10-27
+* [Commit] [docs(rpc-bench): add annotated assembly recipe for perf (#15193)](https://github.com/NethermindEth/nethermind/commit/02d1fb0bf7c4ba19f70ba7eb4821184712abc2d6) - 2026-10-27
+* [Commit] [refactor(init): remove Init.MemoryHint and use fixed memory defaults (#15154)](https://github.com/NethermindEth/nethermind/commit/a6932b9514361687b4bad7fe1fcfe192af315cc9) - 2026-10-27
+* [Commit] [fix(merge): return the payload id before the empty block is built (#15180)](https://github.com/NethermindEth/nethermind/commit/4c5aed6dc6d7366f18a589e2249ba2d7ecbccbb1) - 2026-10-27
+* [Commit] [feat(rpc): keep the suggested block access list of bad blocks (#15157)](https://github.com/NethermindEth/nethermind/commit/ce7d8a1d6b139aee7fdefe45e2cca5605b798b13) - 2026-10-27
+* [Commit] [fix(crypto): allocate the Blake2 f[1] word that the SIMD paths read (#15254)](https://github.com/NethermindEth/nethermind/commit/8d318a358082154c8d568ecd421d71ec3b0521c7) - 2026-10-27
+* [Commit] [feat(rpc): add overlay_getLogs and overlay_callConstructor (#15181)](https://github.com/NethermindEth/nethermind/commit/0ff63d39205071821f4269e506cb1bd53bf43bb6) - 2026-10-27
+* [Commit] [fix(docgen): document remaining converter shapes and null members (#15064)](https://github.com/NethermindEth/nethermind/commit/eef616466b307bddc4b4b5476f015f81834dabb0) - 2026-10-27
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -764,6 +793,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(sp1): unroll memcpy's doubleword loops to 64 bytes](https://github.com/NethermindEth/bflat-riscv64/commit/180b5c49a5880ee470e662ff6a2841fb3a85403b) - 2026-10-19
 * [Pull Request] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/pull/62) - 2026-10-21
 * [Commit] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/commit/c77bba88e92a83f3f3242aaf9976aaf9110db909) - 2026-10-21
+* [Pull Request] [riscv32: build Airbender guests (--arch riscv32 --libc airbender)](https://github.com/NethermindEth/bflat-riscv64/pull/66) - 2026-10-27
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02
@@ -811,6 +841,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fixup/11/upstream: perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/pull/34) - 2026-10-21
 * [Commit] [test(jit): exercise stack object zero initialization](https://github.com/NethermindEth/dotnet-riscv/commit/62ef835af8a9e85097e8707dac6756c20d77209e) - 2026-10-21
 * [Commit] [perf(riscv64): perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/commit/0277c7439b50990636f16244fa3d7c280af16cee) - 2026-10-21
+* [Pull Request] [riscv32: the RV32IM target for the Airbender zkVM (RISCV32=1 on upstream-perf)](https://github.com/NethermindEth/dotnet-riscv/pull/36) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

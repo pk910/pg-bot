@@ -43,10 +43,21 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Dedup gossip payload envelopes against fork choice after a restart](https://github.com/sigp/lighthouse/pull/10414) - 2026-10-21
 * [Pull Request] [Blame only the peer that served a column for a skipped slot](https://github.com/sigp/lighthouse/pull/10417) - 2026-10-21
 * [Pull Request] [Charge a faulty batch to the peer that served the faulty part](https://github.com/sigp/lighthouse/pull/10416) - 2026-10-21
+* [Pull Request] [Verify the envelope payload's block hash in gossip validation](https://github.com/sigp/lighthouse/pull/10465) - 2026-10-27
+* [Pull Request] [Insert Gloas data column bid only after slot validation](https://github.com/sigp/lighthouse/pull/10466) - 2026-10-27
+* [Review] [Review on: Exclude slashed validators in FCR's get_proposer_score](https://github.com/sigp/lighthouse/pull/10380#pullrequestreview-5663373812) - 2026-10-27
+* [Pull Request] [Reject Gloas index 1 attestations to an invalidated payload](https://github.com/sigp/lighthouse/pull/10464) - 2026-10-27
+* [Pull Request] [Cap gloas_child_peers keys per peer](https://github.com/sigp/lighthouse/pull/10463) - 2026-10-27
+* [Pull Request] [Check the block proposer in block verification, not signature verification](https://github.com/sigp/lighthouse/pull/10461) - 2026-10-27
+* [Pull Request] [Range sync authenticate proposers first](https://github.com/sigp/lighthouse/pull/10462) - 2026-10-27
+* [Issue] [Light client cache not cleared on payload invalidation](https://github.com/sigp/lighthouse/issues/10458) - 2026-10-27
+* [Issue] [Spec-compliant partial DataColumnsByRoot responses are penalised](https://github.com/sigp/lighthouse/issues/10457) - 2026-10-27
+* [Issue] [Valid blocks rejected as NotFinalizedDescendant after an unclean shutdown](https://github.com/sigp/lighthouse/issues/10456) - 2026-10-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 
 * [Pull Request] [Derive the EIP-8025 public input from the committed bid](https://github.com/ethereum/consensus-specs/pull/5753) - 2026-10-21
+* [Pull Request] [Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770) - 2026-10-27
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 ## Q3 2026

@@ -59,6 +59,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Isolate zkVM crates in a separate workspace](https://github.com/grandinetech/grandine/pull/1008) - 2026-10-26
 * [Commit] [Upgrade jwt-simple to address crypto-bigint timing](https://github.com/grandinetech/grandine/commit/7092dfa4bbd218d6d5cb82a9fd933c353a48a41a) - 2026-10-26
 * [Commit] [Isolate zkVM crates in a separate workspace](https://github.com/grandinetech/grandine/commit/76244599be18a8d0dc6f8e6616dc2e3f8c93a52c) - 2026-10-26
+* [Review] [Review on: Shuffle inline when already on a Rayon worker](https://github.com/grandinetech/grandine/pull/1012#pullrequestreview-5665640271) - 2026-10-27
 ## Q3 2026
 
 

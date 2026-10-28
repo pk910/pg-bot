@@ -53,6 +53,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5655795912) - 2026-10-26
 * [Review] [Review on: Close inbound RPC streams whose response cannot be written](https://github.com/Consensys-Incorporated/teku/pull/11569#pullrequestreview-5652169401) - 2026-10-26
 * [Commit] [Verify attestation signatures before saving them for future processing (#11560)](https://github.com/Consensys-Incorporated/teku/commit/13b325afb29dd75d4763d36adf77d2b2b061a820) - 2026-10-26
+* [Review] [Review on: Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587#pullrequestreview-5670323587) - 2026-10-27
+* [Review] [Review on: Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585#pullrequestreview-5670104600) - 2026-10-27
+* [Commit] [Send payload attestations when the payload is available (#11509)](https://github.com/Consensys-Incorporated/teku/commit/77c72c1d692e09a98fce7e67bee09060042a73df) - 2026-10-27
+* [Commit] [DataColumnSidecarArchiveReconstructor improvements + tests + wiring (#11508)](https://github.com/Consensys-Incorporated/teku/commit/2c35574b3373cbe8ad121a768d98f066aec05b73) - 2026-10-27
 ## Q3 2026
 
 

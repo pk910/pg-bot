@@ -60,6 +60,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Skip initcode hashing and code cache lookup for CREATE (#5058)](https://github.com/status-im/nimbus-eth1/commit/1d9ca13a3bb26fd0963277ea1726ec8ce62b9749) - 2026-10-23
 * [Pull Request] [Borrowed txFrame and com as untraced pointers in worker tasks](https://github.com/status-im/nimbus-eth1/pull/5081) - 2026-10-24
 * [Commit] [Borrowed txFrame and com as untraced pointers in worker tasks (#5081)](https://github.com/status-im/nimbus-eth1/commit/3fbc7a9b6bf9d1386e576ee95dcef6ee289ec19c) - 2026-10-25
+* [Pull Request] [Add debug-sto-static-lookup option to toggle storage static vid lookups](https://github.com/status-im/nimbus-eth1/pull/5106) - 2026-10-27
 ## Q3 2026
 
 

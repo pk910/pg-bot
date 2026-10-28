@@ -347,6 +347,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci: migrate EVM benchmark comparison to C# (#15146)](https://github.com/NethermindEth/nethermind/commit/c1a1a8eb40b0afd4d6897a879baffe7d2c1cc5f8) - 2026-10-26
 * [Commit] [ci: migrate build stall watchdog to C# (#15145)](https://github.com/NethermindEth/nethermind/commit/a798b95cc031e31473bc0f33ab09b61893401e9b) - 2026-10-26
 * [Commit] [refactor(ci): migrate release version and image checks to C# (#15152)](https://github.com/NethermindEth/nethermind/commit/e0e7aac3cf952f903bf0a5a0bd251b416b50bff0) - 2026-10-26
+* [Review] [Review on: refactor(abi)!: replace Nethermind.Abi with the Span-based ABI codec](https://github.com/NethermindEth/nethermind/pull/15263#pullrequestreview-5664608163) - 2026-10-27
+* [Commit] [perf(ci): apply review feedback on migrated CI scripts (#15246)](https://github.com/NethermindEth/nethermind/commit/d48833af88ec4224c86afadd1c596e8f619c406b) - 2026-10-27
+* [Commit] [refactor(ci): name C# scripts in lowercase kebab-case (#15247)](https://github.com/NethermindEth/nethermind/commit/e2f890e1797008d6df0bda2435518cf8a114717b) - 2026-10-27
+* [Commit] [perf(bal): de-duplicate written code hashes with a set (#15250)](https://github.com/NethermindEth/nethermind/commit/c3a4d9beb851737af71dddb8d91202a13a37acc7) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

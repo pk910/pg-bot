@@ -141,6 +141,8 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump matplotlib from 3.10.8 to 3.10.9 in /scripts/bench-reth-charts in the chart-weekly group across 1 directory](https://github.com/paradigmxyz/reth/pull/28075#pullrequestreview-5654467498) - 2026-10-26
 * [Commit] [fix(evm): keep precompile cache across big-block segments (#28162)](https://github.com/paradigmxyz/reth/commit/4c1584b78d17dcf30ab80336fba7286894feb9bb) - 2026-10-26
 * [Commit] [ci: replace Cargo Dependabot with a weekly cargo update PR (#28157)](https://github.com/paradigmxyz/reth/commit/9d0769c3e812f5e64c57cadd4cc2b1648953623c) - 2026-10-26
+* [Pull Request] [chore(deps): bump evm2](https://github.com/paradigmxyz/reth/pull/28169) - 2026-10-27
+* [Review] [Review on: ci(docker): give each target its own cargo cache to stop nightly races](https://github.com/paradigmxyz/reth/pull/28166#pullrequestreview-5666290967) - 2026-10-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

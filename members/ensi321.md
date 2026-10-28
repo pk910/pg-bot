@@ -55,9 +55,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: stop leaking loggers and db mocks per fork choice test case (#10469)](https://github.com/ChainSafe/lodestar/commit/950d6b9392f3e17ed3441f9ca27fe09394c99991) - 2026-10-24
 * [Commit] [fix: cap payload DA wait at the slot duration of the payload's fork (#10433)](https://github.com/ChainSafe/lodestar/commit/7b74bdf8cc9bf6932d3e8461b85a52d2602e1437) - 2026-10-26
 * [Commit] [fix: stop flooring the import-time seen timestamp of a block (#10453)](https://github.com/ChainSafe/lodestar/commit/3c46867203c9785e9f00d8131ca7a168122d18ae) - 2026-10-26
+* [Pull Request] [fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485) - 2026-10-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 
+* [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5665981455) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14

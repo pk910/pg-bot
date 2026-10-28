@@ -144,6 +144,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756) - 2026-10-26
 * [Review] [Review on: Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756#pullrequestreview-5650075662) - 2026-10-26
 * [Commit] [Remove compromised eMudhra roots from the Docker image (#11756)](https://github.com/besu-eth/besu/commit/239703b11063bafabb2887e8fbe4eddd50e3c461) - 2026-10-26
+* [Pull Request] [Rotate CHANGELOG for 26.10.2](https://github.com/besu-eth/besu/pull/11786) - 2026-10-27
+* [Pull Request] [Test stalled WebSocket responses against a real Vert.x server](https://github.com/besu-eth/besu/pull/11785) - 2026-10-27
+* [Commit] [Bound the width of a legacy transaction's v scalar at decode (#178) (#186)](https://github.com/besu-eth/besu/commit/97702f79eca1f103271c9326e66257923ebbd27f) - 2026-10-27
+* [Commit] [Bound BFT block-header base fee to values that fit in a long (GHSA-6pcq-hcgg-5q76) (#169)](https://github.com/besu-eth/besu/commit/18c3946c17bf5772fe3f22df7543d2f98e6df50a) - 2026-10-27
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

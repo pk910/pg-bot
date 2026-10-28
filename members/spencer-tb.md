@@ -111,6 +111,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-consume): revert HIVE_SKIP_GENESIS_INIT (#3910)](https://github.com/ethereum/execution-specs/pull/3912#pullrequestreview-5656938488) - 2026-10-26
 * [Review] [Review on: feat(test-consume): deselect pre-merge fork tests for ethrex](https://github.com/ethereum/execution-specs/pull/3908#pullrequestreview-5650310939) - 2026-10-26
 * [Review] [Review on: fix(tooling,spec-tools): stop fill-pypy running out of memory on synthetic BPO forks](https://github.com/ethereum/execution-specs/pull/3909#pullrequestreview-5650330460) - 2026-10-26
+* [Pull Request] [feat(test-forks,tests): list the EIP-7906 instructions as valid opcodes from Bogota](https://github.com/ethereum/execution-specs/pull/3923) - 2026-10-27
+* [Review] [Review on: feat(test-consume): split oversized enginex pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3919#pullrequestreview-5667239643) - 2026-10-27
+* [Review] [Review on: feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365#pullrequestreview-5667033691) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -155,11 +158,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: hiveproxy: probe client readiness at shorter intervals](https://github.com/ethereum/hive/pull/1627#pullrequestreview-5620432960) - 2026-10-22
 * [Review] [Review on: clients/nimbus-el: map HIVE_SYNC_LOOP_INTERVAL_MS to the beacon sync loop interval](https://github.com/ethereum/hive/pull/1635#pullrequestreview-5612593887) - 2026-10-22
 * [Review] [Review on: cmd/hiveview, cmd/hq: add run end time to listing](https://github.com/ethereum/hive/pull/1634#pullrequestreview-5612307956) - 2026-10-22
+* [Pull Request] [clients: add EIP-8253 zero-nonce storage accounts to execution layer client mappers](https://github.com/ethereum/hive/pull/1641) - 2026-10-27
+* [Review] [Review on: clients/go-ethereum, clients/reth: load the genesis at startup when there is nothing to import](https://github.com/ethereum/hive/pull/1639#pullrequestreview-5670668249) - 2026-10-27
+* [Review] [Review on: simulators/ethereum/eels: add consume-wirex simulator](https://github.com/ethereum/hive/pull/1640#pullrequestreview-5667076576) - 2026-10-27
+* [Commit] [clients: add EIP-8253 zero-nonce storage accounts to execution layer client mappers (#1641)](https://github.com/ethereum/hive/commit/1a66c6d90c486b428de99fe0c1daee71c3965603) - 2026-10-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19
 * [Commit] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs (#28020)](https://github.com/paradigmxyz/reth/commit/fd936f92556167b25dce5899c2d52384c6c60d0f) - 2026-10-20
 * [Commit] [chore(hive): run the eels simulators from the published execution-specs images (#28021)](https://github.com/paradigmxyz/reth/commit/b51bb683f8767b4127a361d1ad404f4d6c5cd1e7) - 2026-10-24
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Fix block access list hash in EL block hash test helper](https://github.com/ethereum/consensus-specs/pull/5773#pullrequestreview-5670305724) - 2026-10-27
 ## Q3 2026
 
 

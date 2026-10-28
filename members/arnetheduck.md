@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22
 * [Pull Request] [mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9360) - 2026-10-23
+* [Pull Request] [docs: unified quick start updates](https://github.com/status-im/nimbus-eth2/pull/9394) - 2026-10-27
 ## Q3 2026
 
 

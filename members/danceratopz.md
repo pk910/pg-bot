@@ -70,6 +70,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-consume): let clients skip a separate genesis init in engine and enginex (#3910)](https://github.com/ethereum/execution-specs/commit/dc1bb6bd9a38d91a22b73f045e8feee62d166ada) - 2026-10-26
 * [Commit] [fix(tooling,spec-tools): stop fill-pypy running out of memory on synthetic BPO forks (#3909)](https://github.com/ethereum/execution-specs/commit/e27f097ec7b3e6e8ee9c2c1873c183e8f7da7a6e) - 2026-10-26
 * [Commit] [feat(test-consume): deselect pre-merge fork tests for ethrex (#3908)](https://github.com/ethereum/execution-specs/commit/ce5ddd2fde75a24ca5c491d0904b3dfbdb6dc0ed) - 2026-10-26
+* [Review] [Review on: feat(docs): add fork-status table to the readme](https://github.com/ethereum/execution-specs/pull/3924#pullrequestreview-5675559540) - 2026-10-27
+* [Pull Request] [feat(test-consume): split oversized enginex pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3919) - 2026-10-27
+* [Review] [Review on: feat(test-consume): split oversized enginex pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3919#pullrequestreview-5667073132) - 2026-10-27
+* [Review] [Review on: feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365#pullrequestreview-5662979057) - 2026-10-27
+* [Pull Request] [fix(test-client-clis): map reth's evm2 exception messages](https://github.com/ethereum/execution-specs/pull/3918) - 2026-10-27
+* [Commit] [feat(test-consume): split oversized enginex pre-alloc groups (#3919)](https://github.com/ethereum/execution-specs/commit/ed3d45de1ea3b9f52fe846e4bd17b7d0da39d5e7) - 2026-10-27
+* [Commit] [feat(test-consume): add consume wirex, a devp2p full-sync simulator (#3365)](https://github.com/ethereum/execution-specs/commit/bf11865cb07983079283359150d22b9b609a4c08) - 2026-10-27
+* [Commit] [fix(test-client-clis): map reth's evm2 exception messages (#3918)](https://github.com/ethereum/execution-specs/commit/2c0c8e7d2010771621e9ae34f68a0d2d3e738aa1) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -90,6 +98,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [hiveproxy: probe client readiness at shorter intervals (#1627)](https://github.com/ethereum/hive/commit/e1ad81006c63555915e05a121df3e68953fa9138) - 2026-10-22
 * [Commit] [cmd/hiveview, cmd/hq: add run end time to listing (#1634)](https://github.com/ethereum/hive/commit/7dbf2ac372a48796d1309dd0101883a5a5225508) - 2026-10-22
 * [Pull Request] [clients/go-ethereum, clients/reth: load the genesis at startup when there is nothing to import](https://github.com/ethereum/hive/pull/1639) - 2026-10-26
+* [Pull Request] [simulators/ethereum/eels: add consume-wirex simulator](https://github.com/ethereum/hive/pull/1640) - 2026-10-27
+* [Commit] [simulators/ethereum/eels: add consume-wirex simulator (#1640)](https://github.com/ethereum/hive/commit/ffcfaa2b6d24d823555d9689a82f781060bc00c5) - 2026-10-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -97,6 +107,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [params: allow BPO forks to activate after Amsterdam](https://github.com/ethereum/go-ethereum/pull/35975) - 2026-10-19
 
 * [Commit] [params: allow BPO forks to activate after Amsterdam (#35975)](https://github.com/ethereum/go-ethereum/commit/748cca24b5ece979f709f38b311f0cb993e10838) - 2026-10-21
+* [Pull Request] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy](https://github.com/ethereum/go-ethereum/pull/36025) - 2026-10-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 
@@ -112,6 +123,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386) - 2026-10-26
+* [Review] [Review on: cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386#pullrequestreview-5665290873) - 2026-10-27
 ## Q3 2026
 
 

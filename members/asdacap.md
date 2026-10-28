@@ -52,6 +52,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases](https://github.com/NethermindEth/nethermind/pull/15237#pullrequestreview-5650550059) - 2026-10-26
 * [Review] [Review on: fix(consensus): skip block production quietly when parent state is unavailable while preparing](https://github.com/NethermindEth/nethermind/pull/15226#pullrequestreview-5650600797) - 2026-10-26
 * [Review] [Review on: fix(pruning): reclaim blocks db space left by pinned blob files after history pruning](https://github.com/NethermindEth/nethermind/pull/15242#pullrequestreview-5650530099) - 2026-10-26
+* [Review] [Review on: fix(ethstats): keep retrying when the server is unavailable at startup](https://github.com/NethermindEth/nethermind/pull/15285#pullrequestreview-5676195749) - 2026-10-28
+* [Pull Request] [perf(rlp): encode through a length stack instead of recomputing lengths](https://github.com/NethermindEth/nethermind/pull/15271) - 2026-10-27
+* [Review] [Review on: fix(pruning): reclaim blocks db space left by pinned blob files after history pruning](https://github.com/NethermindEth/nethermind/pull/15242#pullrequestreview-5676030714) - 2026-10-27
+* [Review] [Review on: perf(flat): skip snapshot layer lookups that miss with split-block filters](https://github.com/NethermindEth/nethermind/pull/15282#pullrequestreview-5667266007) - 2026-10-27
 ## Q3 2026
 
 

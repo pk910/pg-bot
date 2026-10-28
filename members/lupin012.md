@@ -151,6 +151,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: add an optional Reth run to RPC Performance Tests Latest (#25288)](https://github.com/erigontech/erigon/commit/c2d084ccbff919b53fe14e493f7d140e77ce31f8) - 2026-10-26
 * [Commit] [db/snapshotsync/freezeblocks, rpc: hash eth_getLogs receipt txns by txNum in block files (#25283)](https://github.com/erigontech/erigon/commit/391edfe5c5081ad5847c6884947c55c147b2fe19) - 2026-10-26
 * [Commit] [rpc: a batch of eth_sendRawTransactionSync calls runs concurrently (#25325)](https://github.com/erigontech/erigon/commit/bd44688a83ef037b799590e675570ff525ba9dec) - 2026-10-26
+* [Review] [Review on: rpc/jsonrpc: reject transaction index outside the block](https://github.com/erigontech/erigon/pull/25355#pullrequestreview-5666255600) - 2026-10-27
+* [Pull Request] [execution/tracing/tracers/native: take the prestate code hash from the state](https://github.com/erigontech/erigon/pull/25445) - 2026-10-27
+* [Pull Request] [execution/state: publish each tx's origins once](https://github.com/erigontech/erigon/pull/25439) - 2026-10-27
+* [Review] [Review on: qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode](https://github.com/erigontech/erigon/pull/25431#pullrequestreview-5666474124) - 2026-10-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -206,6 +210,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc_pattern_convert: convert Vegeta patterns to JSONL (#634)](https://github.com/erigontech/rpc-tests/commit/fc4a0c6a944361446bddcd9549d5f2359f95436a) - 2026-10-22
 * [Commit] [perf/pattern: describe the directories and the historical patterns, add heavy_parent.jsonl and eth_call_2000000.jsonl (#641)](https://github.com/erigontech/rpc-tests/commit/cf4e29d016f6747153d388c1ebe249aed491dfee) - 2026-10-23
 * [Pull Request] [integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step](https://github.com/erigontech/rpc-tests/pull/642) - 2026-10-24
+* [Review] [Review on: mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643#pullrequestreview-5665812638) - 2026-10-27
+* [Commit] [integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step (#642)](https://github.com/erigontech/rpc-tests/commit/f717015b0abcb0f1a423fc5aed97749dd33ac404) - 2026-10-27
 ## Q3 2026
 
 

@@ -81,6 +81,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(spec-specs,tests): derive Bogota base fee from slot spacing (EIPs#12552)](https://github.com/ethereum/execution-specs/pull/3873#pullrequestreview-5603293353) - 2026-10-21
 * [Review] [Review on: chore(tooling): require uv 0.13.4 and bump setup-uv to v10.3.0](https://github.com/ethereum/execution-specs/pull/3880#pullrequestreview-5601709434) - 2026-10-21
 * [Commit] [fix(tooling): build the docker images on uv's trixie base (#3882)](https://github.com/ethereum/execution-specs/commit/ffcd76e982e5e5064231257234ee852a24f612c7) - 2026-10-21
+* [Pull Request] [chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota)](https://github.com/ethereum/execution-specs/pull/3921) - 2026-10-27
+* [Review] [Review on: Besu: add BlockException.INVALID_SLOT_NUMBER mapping](https://github.com/ethereum/execution-specs/pull/3920#pullrequestreview-5671343543) - 2026-10-27
+* [Commit] [chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota) (#3921)](https://github.com/ethereum/execution-specs/commit/7f2f4c9bf6d73b09ecb8b24eb14d08bf0cf0247b) - 2026-10-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

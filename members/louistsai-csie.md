@@ -57,6 +57,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-tools,tests): price the branch a conditional or switch runs](https://github.com/ethereum/execution-specs/pull/3898) - 2026-10-23
 * [Review] [Review on: refactor(tests): build EIP-8141 frame transaction from helper](https://github.com/ethereum/execution-specs/pull/3799#pullrequestreview-5624910827) - 2026-10-23
 * [Commit] [feat(test-execution): verify transaction receipts against the network (#3886)](https://github.com/ethereum/execution-specs/commit/97166d93ff7d0250e1528cf42bebb9814f131476) - 2026-10-23
+* [Review] [Review on: fix(test-client-clis): map reth's evm2 exception messages](https://github.com/ethereum/execution-specs/pull/3918#pullrequestreview-5663558292) - 2026-10-27
+* [Pull Request] [feat(test-execution): verify block access lists against the network](https://github.com/ethereum/execution-specs/pull/3915) - 2026-10-27
+* [Review] [Review on: feat(test-execution): verify block access lists against the network](https://github.com/ethereum/execution-specs/pull/3915#pullrequestreview-5663382934) - 2026-10-27
+* [Review] [Review on: feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911#pullrequestreview-5663312645) - 2026-10-27
 ## Q3 2026
 
 

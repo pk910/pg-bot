@@ -60,6 +60,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5588095817) - 2026-10-20
 * [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5661007738) - 2026-10-27
 * [Review] [Review on: fix: preserve repeated blob matches in getBlobs](https://github.com/ChainSafe/lodestar/pull/9333#pullrequestreview-5660884967) - 2026-10-27
+* [Pull Request] [feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490) - 2026-10-28
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5677049695) - 2026-10-28
+* [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5663962390) - 2026-10-27
+* [Review] [Review on: fix: use the envelope's own payload status for `execution_optimistic`](https://github.com/ChainSafe/lodestar/pull/10484#pullrequestreview-5663710399) - 2026-10-27
+* [Review] [Review on: fix: return each gloas block once from fork choice block summaries](https://github.com/ChainSafe/lodestar/pull/10483#pullrequestreview-5663728075) - 2026-10-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -82,6 +87,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat(fuzz): add a minimize command for the fuzz platform (#808)](https://github.com/ChainSafe/lodestar-z/commit/1010e78c41f4250f54ae12c27b8e213276f8dfd2) - 2026-10-26
 * [Commit] [test(fuzz): seed the two opaque SSZ targets (#806)](https://github.com/ChainSafe/lodestar-z/commit/c32954f467538086d79970e7fb14fa371d1efb20) - 2026-10-26
 * [Commit] [ci: replay every fuzz seed before publishing the image (#807)](https://github.com/ChainSafe/lodestar-z/commit/ac7f5af48354e1519a73ead82cb017e93d531d5d) - 2026-10-26
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5676341852) - 2026-10-28
+* [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5662295257) - 2026-10-27
 ## Q3 2026
 
 

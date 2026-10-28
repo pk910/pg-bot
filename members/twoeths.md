@@ -85,6 +85,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: re-check fatal peers after the envelope state lookup](https://github.com/ChainSafe/lodestar/pull/10420#pullrequestreview-5646991635) - 2026-10-26
 * [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5650369230) - 2026-10-26
 * [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649743059) - 2026-10-26
+* [Review] [Review on: fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416#pullrequestreview-5665703355) - 2026-10-27
+* [Review] [Review on: fix: route pending deposits by withdrawal credentials at the gloas fork](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-5666172202) - 2026-10-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

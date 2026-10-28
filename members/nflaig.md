@@ -345,6 +345,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Unavailable payload data holds the serial import queue for up to a slot](https://github.com/ChainSafe/lodestar/issues/10481) - 2026-10-26
 * [Commit] [fix: bound engine getBlobs retries and request blobs before newPayload (#10329)](https://github.com/ChainSafe/lodestar/commit/d2b5232209eb655dede579f38876fb221701e57e) - 2026-10-26
 * [Commit] [fix: use the correct PTC duties dependent root for the Gloas fork epoch (#10468)](https://github.com/ChainSafe/lodestar/commit/fa491bf50f9e217f3c08754a470d11e6e2a08793) - 2026-10-26
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5677004766) - 2026-10-28
+* [Review] [Review on: fix(api): type historical summaries proof nodes as Bytes32](https://github.com/ChainSafe/lodestar/pull/10487#pullrequestreview-5671590080) - 2026-10-27
+* [Pull Request] [fix: keep the engine off an unsatisfied payload at envelope import](https://github.com/ChainSafe/lodestar/pull/10486) - 2026-10-27
+* [Pull Request] [fix: use the envelope's own payload status for `execution_optimistic`](https://github.com/ChainSafe/lodestar/pull/10484) - 2026-10-27
+* [Pull Request] [fix: return each gloas block once from fork choice block summaries](https://github.com/ChainSafe/lodestar/pull/10483) - 2026-10-27
+* [Commit] [fix: do not prefer an unsatisfied payload as head during its own slot (#10416)](https://github.com/ChainSafe/lodestar/commit/44a2c437106065c4de0b23be55c72d8f82209d32) - 2026-10-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -361,6 +367,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Round slot component durations to the nearest millisecond](https://github.com/ethereum/consensus-specs/pull/5756) - 2026-10-23
 * [Commit] [Round slot component durations to the nearest millisecond (#5756)](https://github.com/ethereum/consensus-specs/commit/3dad3d5183756fc64c51e73d8b21026dd2330f22) - 2026-10-23
 * [Review] [Review on: Separate builder and validator deposits at the Gloas fork](https://github.com/ethereum/consensus-specs/pull/5736#pullrequestreview-5655587298) - 2026-10-26
+* [Pull Request] [Require bids to exceed the highest bid seen by a minimum increment](https://github.com/ethereum/consensus-specs/pull/5776) - 2026-10-27
+* [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5666285205) - 2026-10-27
+* [Pull Request] [Do not prefer an unsatisfied payload as head during its own slot](https://github.com/ethereum/consensus-specs/pull/5769) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

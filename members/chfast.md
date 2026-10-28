@@ -85,6 +85,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests](https://github.com/erigontech/erigon/pull/25385#pullrequestreview-5652711205) - 2026-10-26
 * [Pull Request] [execution/stagedsync, execution/state: keep a fee recipient's cells an estimate until calcFees writes them](https://github.com/erigontech/erigon/pull/25397) - 2026-10-26
 * [Commit] [execution/state, execution/stagedsync, execution/tests: restore parallel-execution regression tests (#25385)](https://github.com/erigontech/erigon/commit/bb3dd36b8dd6026cdb5df7aba7c2b8c36ed88085) - 2026-10-26
+* [Review] [Review on: execution/engineapi: check the payload header against its parent before the transaction work](https://github.com/erigontech/erigon/pull/25299#pullrequestreview-5662814084) - 2026-10-27
+* [Pull Request] [execution/state: remove an earlier run's cell when a net-zero storage write is flushed](https://github.com/erigontech/erigon/pull/25450) - 2026-10-27
+* [Pull Request] [execution/state: keep an account read as absent when the tx loads it](https://github.com/erigontech/erigon/pull/25424) - 2026-10-27
+* [Commit] [execution/state: keep an account read as absent when the tx loads it (#25424)](https://github.com/erigontech/erigon/commit/ced7966a10f52d78679f4041c6c75ebf37ed485b) - 2026-10-27
+* [Commit] [execution/stagedsync, execution/state: keep a fee recipient's cells an estimate until calcFees writes them (#25397)](https://github.com/erigontech/erigon/commit/b2bf7be73a37c4f01f2172732892758e2bea0441) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -167,11 +172,25 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evm: Fast path for growing the memory by one word (#1777)](https://github.com/ipsilon/evmone/commit/3955cd0bc376ad4f753b6884c484a1ce0be969eb) - 2026-10-26
 * [Commit] [evm: Tell the compiler the alignment of the memory data (#1778)](https://github.com/ipsilon/evmone/commit/95aaf76cec54d04c9c14a9db0b48e789d7b5a909) - 2026-10-26
 * [Commit] [evm: Load a whole CALLDATALOAD word directly from the input (#1776)](https://github.com/ipsilon/evmone/commit/41e50b732ad109a375d87954d0ef788bb0723b83) - 2026-10-26
+* [Pull Request] [evm: Leave the memory a write overwrites unzeroed](https://github.com/ipsilon/evmone/pull/1788) - 2026-10-27
+* [Pull Request] [evm: Find the execution state by comparing pointers](https://github.com/ipsilon/evmone/pull/1787) - 2026-10-27
+* [Pull Request] [baseline: Use the native word size for the JUMPDEST bitset](https://github.com/ipsilon/evmone/pull/1786) - 2026-10-27
+* [Pull Request] [baseline: Keep the jumpdest analysis in ExecutionState](https://github.com/ipsilon/evmone/pull/1781) - 2026-10-27
+* [Pull Request] [advanced: Keep the analysis pointer in AdvancedExecutionState](https://github.com/ipsilon/evmone/pull/1782) - 2026-10-27
+* [Pull Request] [baseline: Test a bitset bit by shifting it down](https://github.com/ipsilon/evmone/pull/1785) - 2026-10-27
+* [Pull Request] [evm: Compute the memory growth by one word with one multiplication](https://github.com/ipsilon/evmone/pull/1783) - 2026-10-27
+* [Pull Request] [baseline: Declare the instruction gas cost as int64_t](https://github.com/ipsilon/evmone/pull/1784) - 2026-10-27
+* [Commit] [baseline: Use the native word size for the JUMPDEST bitset (#1786)](https://github.com/ipsilon/evmone/commit/67f1357f53f5d3b379e36df8717706fd8d1d5bb5) - 2026-10-27
+* [Commit] [baseline: Keep the jumpdest analysis in ExecutionState (#1781)](https://github.com/ipsilon/evmone/commit/f667ed9d47397640ec12a68f64c1cf00e48146cb) - 2026-10-27
+* [Commit] [baseline: Test a bitset bit by shifting it down (#1785)](https://github.com/ipsilon/evmone/commit/a40d000dc16b0b95ae632b7f923926267711b039) - 2026-10-27
+* [Commit] [baseline: Declare the instruction gas cost as int64_t (#1784)](https://github.com/ipsilon/evmone/commit/ba5d2fde6cec5ff332ac3341282d43e9a939fa0a) - 2026-10-27
+* [Commit] [evm: Compute the memory growth by one word with one multiplication (#1783)](https://github.com/ipsilon/evmone/commit/0aa60b4f24f4728e0af32e51c23be984c5042cfe) - 2026-10-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 
 * [Commit] [feat(test-benchmark): add stacked storage commit benchmark (#3811)](https://github.com/ethereum/execution-specs/commit/30418b707cf32ce03823224a5717f4d09da6eaef) - 2026-10-19
 * [Pull Request] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911) - 2026-10-26
+* [Commit] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark (#3911)](https://github.com/ethereum/execution-specs/commit/01358ac29ed1bb44bddb608a05bfe8466497cb8b) - 2026-10-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026

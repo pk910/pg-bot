@@ -285,6 +285,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [qa: investigate Lighthouse checkpoint download timeouts during mainnet snapshot sync](https://github.com/erigontech/erigon/issues/25373) - 2026-10-26
 * [Commit] [execution: test reorg recovery across snapshot publication and pruning (#24857)](https://github.com/erigontech/erigon/commit/29757b6e923ff5c89d12bc470fb78cb798931e87) - 2026-10-26
 * [Commit] [cl: enable Gloas FULL-parent payload preparation (#24938)](https://github.com/erigontech/erigon/commit/8c345acb788562875679f976cd09fa6d294e3ccd) - 2026-10-26
+* [Review] [Review on: execution/vm: cache successful expensive precompiles](https://github.com/erigontech/erigon/pull/25037#pullrequestreview-5665989966) - 2026-10-27
+* [Review] [Review on: execution/execmodule: answer ACCEPTED when a payload needs more than one state step](https://github.com/erigontech/erigon/pull/25382#pullrequestreview-5665145352) - 2026-10-27
+* [Review] [Review on: execution, txpool: replace AA with EIP-8141 frames and EIP-8250 keyed nonces](https://github.com/erigontech/erigon/pull/25243#pullrequestreview-5664530113) - 2026-10-27
+* [Review] [Review on: cl: answer attestation_data from fork choice without waiting for the head state](https://github.com/erigontech/erigon/pull/25359#pullrequestreview-5665588360) - 2026-10-27
+* [Pull Request] [cl: persist beacon blocks only after fork choice accepts them](https://github.com/erigontech/erigon/pull/25442) - 2026-10-27
+* [Review] [Review on: cl: persist beacon blocks only after fork choice accepts them](https://github.com/erigontech/erigon/pull/25442#pullrequestreview-5670859547) - 2026-10-27
+* [Review] [Review on: cl: give envelope disk I/O its own lock](https://github.com/erigontech/erigon/pull/25436#pullrequestreview-5669367057) - 2026-10-27
+* [Review] [Review on: cl/phase1/forkchoice: count FULL votes for optimistically imported payloads](https://github.com/erigontech/erigon/pull/25435#pullrequestreview-5669213300) - 2026-10-27
+* [Review] [Review on: execution/state: do not keep an absence recorded at a destruct that kept the balance](https://github.com/erigontech/erigon/pull/25410#pullrequestreview-5665232250) - 2026-10-27
+* [Review] [Review on: [r3.8] Dockerfile: distrust the CA roots behind the eMudhra intermediate key compromise](https://github.com/erigontech/erigon/pull/25429#pullrequestreview-5666910839) - 2026-10-27
+* [Review] [Review on: execution/p2p: reload header walk peers when all are exhausted and keep header ranges in flight](https://github.com/erigontech/erigon/pull/25414#pullrequestreview-5665275045) - 2026-10-27
+* [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5668348581) - 2026-10-27
+* [Review] [Review on: execution/state: keep an account read as absent when the tx loads it](https://github.com/erigontech/erigon/pull/25424#pullrequestreview-5665838807) - 2026-10-27
+* [Review] [Review on: Added myself as a codeowner for docs](https://github.com/erigontech/erigon/pull/25426#pullrequestreview-5665383546) - 2026-10-27
+* [Review] [Review on: execution: drop unused FlushVersionedWrites and executeBlock parameters](https://github.com/erigontech/erigon/pull/25433#pullrequestreview-5667517624) - 2026-10-27
+* [Review] [Review on: [r3.8] go.mod: bump mcp-go, x/tools, gqlparser, gqlgen, go-echarts, chi and secp256k1](https://github.com/erigontech/erigon/pull/25430#pullrequestreview-5666965691) - 2026-10-27
+* [Review] [Review on: [r3.8] Added myself as a codeowner for docs](https://github.com/erigontech/erigon/pull/25427#pullrequestreview-5665643914) - 2026-10-27
+* [Issue] [execution, txpool: measure and improve frame transaction performance](https://github.com/erigontech/erigon/issues/25448) - 2026-10-27
+* [Issue] [txnprovider/txpool: implement EIP-8141 frame eviction ordering](https://github.com/erigontech/erigon/issues/25444) - 2026-10-27
+* [Issue] [vm: merge gas_table.go and operations_acl.go into gas.go](https://github.com/erigontech/erigon/issues/25440) - 2026-10-27
+* [Commit] [execution: honor cancellation in EVM workers and block warmup (#21495)](https://github.com/erigontech/erigon/commit/362b7eaf5244ac71e1d818175d863f0fa8c0e437) - 2026-10-27
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

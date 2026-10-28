@@ -230,6 +230,27 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(blockchain): keep the tx pool from evicting the NonceGap tx in DevBlockProducerTests (#15239)](https://github.com/NethermindEth/nethermind/commit/eb45711e88460119fc406090d95ac48ff7c87fb8) - 2026-10-26
 * [Commit] [test(discovery): drive Kademlia pacing test with a fake clock (#15228)](https://github.com/NethermindEth/nethermind/commit/1a5bd38323f9ba9bf6abe726f418cbdc95ce16e0) - 2026-10-26
 * [Commit] [feat(mcp): add opt-in read-only MCP server plugin (#13978)](https://github.com/NethermindEth/nethermind/commit/edb6764a1f549d053c033e87a528e3549dd0c0ca) - 2026-10-26
+* [Pull Request] [fix(era1): release the export lock when admin_exportHistory rejects its arguments](https://github.com/NethermindEth/nethermind/pull/15311) - 2026-10-28
+* [Pull Request] [fix(config): remove unknown AuRaMerge.Enabled key from chiado_archive.json](https://github.com/NethermindEth/nethermind/pull/15313) - 2026-10-28
+* [Pull Request] [fix(healthchecks): stop waiting for free disk space on shutdown](https://github.com/NethermindEth/nethermind/pull/15312) - 2026-10-28
+* [Pull Request] [fix(txpool): mark blob txs restored from persistent storage as known](https://github.com/NethermindEth/nethermind/pull/15309) - 2026-10-28
+* [Pull Request] [fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15310) - 2026-10-28
+* [Pull Request] [test(e2e): log container output and retry read-only RPC calls once on ResponseEnded](https://github.com/NethermindEth/nethermind/pull/15291) - 2026-10-27
+* [Issue] [Txs dropped by the pool on a new head raise no EvictedPending event](https://github.com/NethermindEth/nethermind/issues/15304) - 2026-10-28
+* [Issue] [Flaky test: getPayloadV1_should_return_error_if_called_after_cleanup_timer races the background empty block build](https://github.com/NethermindEth/nethermind/issues/15306) - 2026-10-28
+* [Issue] [Flaky test: StreamingSnapshotInitializerTests.InitializeAsync_CorruptArchive_DeletesDatabaseWithoutThrowing fails in TearDown](https://github.com/NethermindEth/nethermind/issues/15305) - 2026-10-28
+* [Issue] [Blob txs restored from persistent storage are not known after a restart](https://github.com/NethermindEth/nethermind/issues/15303) - 2026-10-28
+* [Issue] [History.Pruning=UseAncientBarriers prunes nothing when the sync pivot comes from the CL](https://github.com/NethermindEth/nethermind/issues/15302) - 2026-10-28
+* [Issue] [Old bodies sync can finish before the barrier block's body is stored](https://github.com/NethermindEth/nethermind/issues/15301) - 2026-10-28
+* [Issue] [chiado_archive.json sets a non-existent AuRaMerge.Enabled key](https://github.com/NethermindEth/nethermind/issues/15300) - 2026-10-28
+* [Issue] [Startup wait for free disk space (LowStorageCheckAwaitOnStartup) ignores shutdown](https://github.com/NethermindEth/nethermind/issues/15299) - 2026-10-28
+* [Issue] [admin_exportHistory with an invalid range reports success and keeps the export lock until restart](https://github.com/NethermindEth/nethermind/issues/15298) - 2026-10-28
+* [Issue] [RlpxPeerTests.Start_stop fails intermittently with PortInUseException](https://github.com/NethermindEth/nethermind/issues/15260) - 2026-10-27
+* [Issue] [E2E tests fail intermittently with ResponseEnded on the first JSON-RPC call after the node is ready](https://github.com/NethermindEth/nethermind/issues/15259) - 2026-10-27
+* [Commit] [fix(rpc): return false from eth_uninstallFilter for an unknown filter id (#15261)](https://github.com/NethermindEth/nethermind/commit/b2167c42e8d90db5682c47c1b958ff7d93831960) - 2026-10-27
+* [Commit] [test(network): bind an OS-assigned port in RlpxPeerTests.Start_stop (#15262)](https://github.com/NethermindEth/nethermind/commit/4ea72902de9ec4e0f0b58dabaa98c4cfde456df6) - 2026-10-27
+* [Commit] [fix(consensus): skip block production quietly when parent state is unavailable while preparing (#15226)](https://github.com/NethermindEth/nethermind/commit/919eff8b17c18a50fd6922904c4b1aefb74aa711) - 2026-10-27
+* [Commit] [fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases (#15237)](https://github.com/NethermindEth/nethermind/commit/b0b9d1b515b101c26eba7b324336d39dd80824f5) - 2026-10-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

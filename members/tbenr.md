@@ -99,6 +99,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5655936183) - 2026-10-26
 * [Commit] [Inbound rpc stream backstops (#11578)](https://github.com/Consensys-Incorporated/teku/commit/f07609073679ef48ca5c13b48694af627772df4b) - 2026-10-26
 * [Commit] [Close inbound RPC streams whose response cannot be written (#11569)](https://github.com/Consensys-Incorporated/teku/commit/5a715d1b8797e30c0d697db4531e1f39a3b05803) - 2026-10-26
+* [Pull Request] [Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587) - 2026-10-27
+* [Review] [Review on: Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587#pullrequestreview-5673419907) - 2026-10-27
+* [Review] [Review on: DataColumnSidecarArchiveReconstructor improvements + tests + wiring](https://github.com/Consensys-Incorporated/teku/pull/11508#pullrequestreview-5663753435) - 2026-10-27
+* [Pull Request] [Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585) - 2026-10-27
+* [Pull Request] [Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589) - 2026-10-27
+* [Pull Request] [Gloas envelope content hash](https://github.com/Consensys-Incorporated/teku/pull/11588) - 2026-10-27
+* [Review] [Review on: Don't query mev-boost status after Gloas upgrade](https://github.com/Consensys-Incorporated/teku/pull/11583#pullrequestreview-5668459056) - 2026-10-27
+* [Issue] [Prune slot-keyed tables with range deletes instead of per-key tombstones](https://github.com/Consensys-Incorporated/teku/issues/11586) - 2026-10-27
+* [Issue] [Unbounded RocksDB seeks over pruned data column sidecars saturate RPC storage throttle](https://github.com/Consensys-Incorporated/teku/issues/11584) - 2026-10-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
@@ -120,6 +129,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Use the JDK's intrinsified SHA-256 for pubsub message digests (#544)](https://github.com/libp2p/jvm-libp2p/commit/4658f22ff4e54c15a854f487031bcfa17e450b7f) - 2026-10-21
 * [Review] [Review on: Release 1.4.0](https://github.com/libp2p/jvm-libp2p/pull/546#pullrequestreview-5610800578) - 2026-10-22
 * [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
+* [Issue] [Track upstream netty/quiche fixes for QUIC streams after STOP_SENDING](https://github.com/libp2p/jvm-libp2p/issues/549) - 2026-10-27
 ## Q3 2026
 
 

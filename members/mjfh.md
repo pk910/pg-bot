@@ -33,6 +33,10 @@ Team: Nimbus
 * [Pull Request] [Snap2 run on empty state db](https://github.com/status-im/nimbus-eth1/pull/5086) - 2026-10-25
 * [Pull Request] [Provide for empty state DB when running snap sync](https://github.com/status-im/nimbus-eth1/pull/5089) - 2026-10-26
 * [Commit] [Provide for empty state DB when running snap sync (#5089)](https://github.com/status-im/nimbus-eth1/commit/f231b21fb5e7fd2df9d65c21ffdf92d9e3885b5c) - 2026-10-26
+* [Review] [Review on: beacon sync: start the daemon promptly and replay a dropped CL head](https://github.com/status-im/nimbus-eth1/pull/5042#pullrequestreview-5670662924) - 2026-10-27
+* [Review] [Review on: beacon sync: cancel the session when the last sync peer serves an invalid block](https://github.com/status-im/nimbus-eth1/pull/5041#pullrequestreview-5670960596) - 2026-10-27
+* [Pull Request] [Snap2 state take over and restart](https://github.com/status-im/nimbus-eth1/pull/5098) - 2026-10-27
+* [Commit] [Snap2 state take over and restart (#5098)](https://github.com/status-im/nimbus-eth1/commit/fff52de2bae500284928bffce5f37c2b6127d035) - 2026-10-27
 ## Q3 2026
 
 

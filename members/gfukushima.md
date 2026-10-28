@@ -35,6 +35,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [fix anchor reference](https://github.com/Consensys-Incorporated/teku/pull/11576) - 2026-10-26
 * [Review] [Review on: Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563#pullrequestreview-5647846130) - 2026-10-26
 * [Commit] [fix anchor reference (#11576)](https://github.com/Consensys-Incorporated/teku/commit/0f2bb08640ee8a62462e8d83aca2557f6fd342c6) - 2026-10-27
+* [Commit] [Reject RPC data column sidecars whose fork digest doesn't match their slot fork (#11575)](https://github.com/Consensys-Incorporated/teku/commit/126e9eaad62678d8c762136e9e54926881461085) - 2026-10-27
 ## Q3 2026
 
 

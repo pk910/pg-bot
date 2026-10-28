@@ -265,6 +265,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: feat(txpool): track EIP-8151 ecrecover signers as frame-tx code dependencies](https://github.com/NethermindEth/nethermind/pull/15252#pullrequestreview-5655387935) - 2026-10-26
 * [Review] [Review on: fix(rpc): enforce buffered ByNumber per-transaction deadlines](https://github.com/NethermindEth/nethermind/pull/14587#pullrequestreview-5650771767) - 2026-10-26
 * [Review] [Review on: fix(debug): check numeric block body before replay state](https://github.com/NethermindEth/nethermind/pull/14616#pullrequestreview-5650771597) - 2026-10-26
+* [Pull Request] [feat!: add EIP-8141 max_fee budget for frame transactions](https://github.com/NethermindEth/nethermind/pull/14374) - 2026-10-27
+* [Commit] [feat!: add EIP-8141 max_fee budget for frame transactions (#14374)](https://github.com/NethermindEth/nethermind/commit/2818877f0fee90bc88ee1917baa36c670ad0479f) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05

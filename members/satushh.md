@@ -45,6 +45,12 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Update changelog for v7.3.1](https://github.com/OffchainLabs/prysm/pull/17766#pullrequestreview-5626090704) - 2026-10-23
 * [Review] [Review on: Upgrade libp2p](https://github.com/OffchainLabs/prysm/pull/17769#pullrequestreview-5628764127) - 2026-10-23
 * [Review] [Review on: Fix flaky `TestDataColumnSidecarsByRangeRPCHandler`](https://github.com/OffchainLabs/prysm/pull/17767#pullrequestreview-5627173576) - 2026-10-23
+* [Review] [Review on: Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786#pullrequestreview-5671786516) - 2026-10-27
+* [Review] [Review on: Add `SaveBlindedExecutionPayloadEnvelope` with typed save outcomes](https://github.com/OffchainLabs/prysm/pull/17674#pullrequestreview-5668213425) - 2026-10-27
+* [Review] [Review on: Bump `methodical-ssz` to `c3f77ce44447`](https://github.com/OffchainLabs/prysm/pull/17778#pullrequestreview-5669061978) - 2026-10-27
+* [Review] [Review on: Add local Gloas execution block hash computation](https://github.com/OffchainLabs/prysm/pull/17676#pullrequestreview-5667831525) - 2026-10-27
+* [Commit] [Add `SaveBlindedExecutionPayloadEnvelope` with typed save outcomes (#17674)](https://github.com/OffchainLabs/prysm/commit/eb681c1d13b57c2d0c5da27a63bb41ac9d071e1a) - 2026-10-27
+* [Commit] [Add local Gloas execution block hash computation (#17676)](https://github.com/OffchainLabs/prysm/commit/37b74c24908ab3382f2f79772a404b710253d8c9) - 2026-10-27
 ## Q3 2026
 
 

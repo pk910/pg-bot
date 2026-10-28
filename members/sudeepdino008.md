@@ -20,6 +20,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/seg: fix compressor hang on superstrings send after ctx cancel (#24962)](https://github.com/erigontech/erigon/commit/b2f3fb11d2bc11cddf4194c46193a1b095f87035) - 2026-10-19
 * [Pull Request] [[tiering v2 - 14.1]  pre-EIP-8246 (remove selfdestruct burn) BAL burn fix and offline-BAL store repair](https://github.com/erigontech/erigon/pull/25266) - 2026-10-23
 * [Pull Request] [[tiering v2 - 15] seg retire: tiered commitment merges for the lookback prep](https://github.com/erigontech/erigon/pull/25338) - 2026-10-25
+* [Pull Request] [[tiering v2 - 16] db/state, node: --tiering.cold-io-max-mbps caps demotion copies and cold merges](https://github.com/erigontech/erigon/pull/25443) - 2026-10-27
+* [Commit] [execution/stagedsync: raise ancient blocks prune limit on initial cycle (#25367)](https://github.com/erigontech/erigon/commit/6d800751a3c8b3ab32f1e8870d1ccabe9fccfabe) - 2026-10-27
 ## Q3 2026
 
 

@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: fix anchor reference](https://github.com/Consensys-Incorporated/teku/pull/11576#pullrequestreview-5647896518) - 2026-10-26
 * [Review] [Review on: Unhide builder options and add p2p specific ones](https://github.com/Consensys-Incorporated/teku/pull/11563#pullrequestreview-5647867663) - 2026-10-26
 * [Commit] [Unhide builder options and add p2p specific ones (#11563)](https://github.com/Consensys-Incorporated/teku/commit/0d05806280d37c44de8c90aaaba14da2e2811961) - 2026-10-26
+* [Pull Request] [Don't query mev-boost status after Gloas upgrade](https://github.com/Consensys-Incorporated/teku/pull/11583) - 2026-10-27
+* [Commit] [Don't query mev-boost status after Gloas upgrade (#11583)](https://github.com/Consensys-Incorporated/teku/commit/23ce83cc645509b8f1fde376dacbaf609871399b) - 2026-10-27
 ## Q3 2026
 
 

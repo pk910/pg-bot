@@ -21,6 +21,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: check tx gas limit against cumulative gas used before Amsterdam (#4980)](https://github.com/status-im/nimbus-eth1/commit/bb47dad7b38a763e950e25f3b2882ba7245f72f2) - 2026-10-15
 * [Pull Request] [fix: import bal_utils in process_block_parallel](https://github.com/status-im/nimbus-eth1/pull/5093) - 2026-10-26
 * [Commit] [feat: add testing_buildBlockV1 rpc (#4903)](https://github.com/status-im/nimbus-eth1/commit/04feabb5397f61e02f681ed1dcb1d4af32073c92) - 2026-10-26
+* [Pull Request] [fix: respond to engine_getPayload immediately with the best available payload](https://github.com/status-im/nimbus-eth1/pull/5099) - 2026-10-27
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat: show why inclusion list transactions were omitted](https://github.com/ethpandaops/dora/pull/884) - 2026-10-01
 
@@ -84,6 +85,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: report correct scheduled and missed blocks for the current epoch in the epoch API](https://github.com/ethpandaops/dora/pull/926) - 2026-10-26
 * [Review] [Review on: build(deps): bump the dependencies group with 3 updates](https://github.com/ethpandaops/dora/pull/923#pullrequestreview-5651712939) - 2026-10-26
 * [Commit] [fix: count remaining slots as scheduled in the epoch API (#926)](https://github.com/ethpandaops/dora/commit/9e8ac527d1ec7d6312bed933f9d7bcf145d74716) - 2026-10-26
+* [Review] [Review on: Execution proofs: fix signature hashing and Prysm events, allow mock proofs on devnets](https://github.com/ethpandaops/dora/pull/929#pullrequestreview-5668197082) - 2026-10-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -203,6 +205,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(docker): include contrib in Docker build context](https://github.com/paradigmxyz/reth/pull/28092) - 2026-10-23
 * [Commit] [fix(docker): include contrib in Docker build context (#28092)](https://github.com/paradigmxyz/reth/commit/21ee0fc8603b5c25ae8a2ffc6f29589ef4b90906) - 2026-10-23
+
+* [Pull Request] [fix(payload): respond to engine_getPayload immediately](https://github.com/paradigmxyz/reth/pull/28165) - 2026-10-27
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [fix: default --Xpos-block-finalization-timeout-ms to 0](https://github.com/besu-eth/besu/pull/11774) - 2026-10-27
+* [Commit] [fix: default --Xpos-block-finalization-timeout-ms to 0 (#11774)](https://github.com/besu-eth/besu/commit/aa06c4f8dfc461e483d46c6a1ac72b5bfef8d945) - 2026-10-27
 ## Q3 2026
 
 
