@@ -267,6 +267,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(debug): check numeric block body before replay state](https://github.com/NethermindEth/nethermind/pull/14616#pullrequestreview-5650771597) - 2026-10-26
 * [Pull Request] [feat!: add EIP-8141 max_fee budget for frame transactions](https://github.com/NethermindEth/nethermind/pull/14374) - 2026-10-27
 * [Commit] [feat!: add EIP-8141 max_fee budget for frame transactions (#14374)](https://github.com/NethermindEth/nethermind/commit/2818877f0fee90bc88ee1917baa36c670ad0479f) - 2026-10-27
+* [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5686123795) - 2026-10-28
+* [Review] [Review on: fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338#pullrequestreview-5686122934) - 2026-10-28
+* [Commit] [Enforce grouped NUnit assertions (#15245)](https://github.com/NethermindEth/nethermind/commit/26ed2374168943fd6a318a7a087b6aef94f2fd88) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -290,6 +293,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: reserve the zero data_hash for the signature hash](https://github.com/ethereum/EIPs/pull/12518) - 2026-10-15
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
 * [Pull Request] [Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590) - 2026-10-26
+* [Review] [Review on: Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590#pullrequestreview-5682129445) - 2026-10-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

@@ -16,6 +16,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Add a mechanism for providing a restart-resilient confirmed root (#5673)](https://github.com/ethereum/consensus-specs/commit/11a5d6f551a4d3bcb4f2afb7612287292c92de22) - 2026-10-05
 * [Review] [Review on: Fix fork choice compliance test runner failure](https://github.com/ethereum/consensus-specs/pull/5747#pullrequestreview-5551131324) - 2026-10-16
 
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5682695549) - 2026-10-28
+* [Commit] [Precisely compute committee weight in FCR (#5670)](https://github.com/ethereum/consensus-specs/commit/cc68498a51ceb7b1fb80b1c595ef5597ca4b3c2c) - 2026-10-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958#pullrequestreview-5653413928) - 2026-10-26
 ## Q3 2026

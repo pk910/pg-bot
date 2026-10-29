@@ -538,6 +538,34 @@ Team: Erigon
 * [Commit] [node/app: drop golang.org/x/exp constraints import (#25369)](https://github.com/erigontech/erigon/commit/b9f4608f0dc851261f276f0be37a38f560d5a504) - 2026-10-27
 * [Commit] [exec: move "intern tables" from `evm` to `ibs` object (#25368)](https://github.com/erigontech/erigon/commit/53f6159bfe2cb1fd1ff87b336b31e31c935fe03b) - 2026-10-27
 * [Commit] [common/log/v3, db/downloader, cl/beacon/handler: fix three CI flakes (#25364)](https://github.com/erigontech/erigon/commit/9e4058eada52bc487617f07f5b6df2584b9a7880) - 2026-10-27
+* [Pull Request] [db/kv/backup: auto-compact at 3x bloat and 5 GB free](https://github.com/erigontech/erigon/pull/25493) - 2026-10-29
+* [Review] [Review on: db/kv/backup: auto-compact at 3x bloat and 5 GB free](https://github.com/erigontech/erigon/pull/25493#pullrequestreview-5692223281) - 2026-10-29
+* [Review] [Review on: cl/beacon/handler: fix pending parent retry test flake](https://github.com/erigontech/erigon/pull/25481#pullrequestreview-5691951156) - 2026-10-29
+* [Pull Request] [execution/stagedsync: index parallel-exec readers by address and path](https://github.com/erigontech/erigon/pull/25480) - 2026-10-28
+* [Review] [Review on: execution/stagedsync: index parallel-exec readers by address and path](https://github.com/erigontech/erigon/pull/25480#pullrequestreview-5691248033) - 2026-10-29
+* [Pull Request] [execution: recover a block's EIP-7702 authorities in the block pre-pass](https://github.com/erigontech/erigon/pull/25494) - 2026-10-29
+* [Review] [Review on: execution: recover a block's EIP-7702 authorities in the block pre-pass](https://github.com/erigontech/erigon/pull/25494#pullrequestreview-5691835141) - 2026-10-29
+* [Review] [Review on: txnprovider/txpool: count earlier txns of a batch against sender and blob limits](https://github.com/erigontech/erigon/pull/25354#pullrequestreview-5692069583) - 2026-10-29
+* [Review] [Review on: cl/beacon: preserve actionable production failures](https://github.com/erigontech/erigon/pull/23393#pullrequestreview-5691962042) - 2026-10-29
+* [Pull Request] [go.mod: bump gnark-crypto to v0.22.0](https://github.com/erigontech/erigon/pull/25459) - 2026-10-28
+* [Pull Request] [[prototype] execution/exec: read a BAL block's cold file pages in io_uring batches](https://github.com/erigontech/erigon/pull/25486) - 2026-10-28
+* [Review] [Review on: execution/state: keep the access list's value of a slot that a re-run writes net-zero](https://github.com/erigontech/erigon/pull/25466#pullrequestreview-5681542102) - 2026-10-28
+* [Pull Request] [execution/vm: cache precompile calls below 2,000 gas](https://github.com/erigontech/erigon/pull/25479) - 2026-10-28
+* [Review] [Review on: execution/vm: cache precompile calls below 2,000 gas](https://github.com/erigontech/erigon/pull/25479#pullrequestreview-5684943938) - 2026-10-28
+* [Pull Request] [execution/state: HistoryReaderV3 reads through SharedDomains' AsOfGetter](https://github.com/erigontech/erigon/pull/25453) - 2026-10-28
+* [Review] [Review on: rpc/jsonrpc: read base block state in historical eth_simulateV1](https://github.com/erigontech/erigon/pull/25464#pullrequestreview-5680350951) - 2026-10-28
+* [Review] [Review on: bsc/chain, cmd/utils, execution/chain: add the BSC mainnet chain spec](https://github.com/erigontech/erigon/pull/25470#pullrequestreview-5681412863) - 2026-10-28
+* [Issue] [execution/stagedsync: recover EIP-7702 authorities in the Senders stage (table + snapshot files)](https://github.com/erigontech/erigon/issues/25495) - 2026-10-29
+* [Commit] [go.mod: bump gnark-crypto to v0.22.0 (#25459)](https://github.com/erigontech/erigon/commit/b83572c1bbf0b9156ffaef1b4e3abe611e908df9) - 2026-10-29
+* [Commit] [execution/vm: cache precompile calls below 2,000 gas (#25479)](https://github.com/erigontech/erigon/commit/07905e9035f1a052e307b6731e2aafe3ce05e2c6) - 2026-10-28
+* [Commit] [execution/state: HistoryReaderV3 reads through SharedDomains' AsOfGetter (#25453)](https://github.com/erigontech/erigon/commit/9a0fdba196882406949feb2f58d713e0ec61b0ac) - 2026-10-28
+* [Commit] [execution/stagedsync, execution/exec: recover BAL-block senders in the exec workers (#25223)](https://github.com/erigontech/erigon/commit/659ad3499e5479a9fb85fa50dff2cc13175b1918) - 2026-10-28
+* [Commit] [execution/vm: cache successful expensive precompiles (#25037)](https://github.com/erigontech/erigon/commit/e1ee3c313c2b2ce73c3d593e874b49d76cf24a71) - 2026-10-28
+* [Commit] [go.mod: bump go-bitfield, roaring, x/net, grpc, flock, xstrings, go-nat-pmp, mcp-go (#25457)](https://github.com/erigontech/erigon/commit/f3ec0f0d04b56cda110175deb8662523608cc9c8) - 2026-10-28
+* [Commit] [rpc/jsonrpc: reject transaction index outside the block (#25355)](https://github.com/erigontech/erigon/commit/c07f702a3ffff0720b0337cc396de113c4ef1899) - 2026-10-28
+* [Commit] [db/integrity: receipt no-dups checks skipped the last block of each chunk and the tip (#25411)](https://github.com/erigontech/erigon/commit/c8836a1978f51e627ac0ee81d348b1e2257387a5) - 2026-10-28
+* [Commit] [cmd: seg integrity checks every item by default (#25420)](https://github.com/erigontech/erigon/commit/a6b1941d0435ddb45c9ea1b699a13ef17a4e4323) - 2026-10-28
+* [Commit] [exec: commitment did read accounts by GetAsOf without StateCache (#25452)](https://github.com/erigontech/erigon/commit/a053ad87e8999afc7c53d00511db0ac2f22a845a) - 2026-10-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

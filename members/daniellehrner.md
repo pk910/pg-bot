@@ -192,6 +192,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: SNAP2: Run the body back-fill in the background](https://github.com/besu-eth/besu/pull/11777#pullrequestreview-5666859926) - 2026-10-27
 * [Pull Request] [Concatenate trie keys without tuweni's stream](https://github.com/besu-eth/besu/pull/11771) - 2026-10-27
 * [Review] [Review on: Store a valid block after replying to newPayload](https://github.com/besu-eth/besu/pull/11682#pullrequestreview-5662504165) - 2026-10-27
+* [Pull Request] [Remove the total difficulty cache](https://github.com/besu-eth/besu/pull/11790) - 2026-10-28
+* [Pull Request] [Take the results of prewarmed transactions whose reads still hold](https://github.com/besu-eth/besu/pull/11797) - 2026-10-28
+* [Review] [Review on: Derive RocksDB max open files from total memory minus the max heap](https://github.com/besu-eth/besu/pull/11762#pullrequestreview-5689579259) - 2026-10-28
+* [Pull Request] [Drop the thread's sha256 digest when an input fails halfway](https://github.com/besu-eth/besu/pull/11794) - 2026-10-28
+* [Review] [Review on: Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754#pullrequestreview-5685684800) - 2026-10-28
+* [Review] [Review on: SNAP2: Add the sync storage on Forest](https://github.com/besu-eth/besu/pull/11791#pullrequestreview-5684300313) - 2026-10-28
+* [Review] [Review on: Hash keccak-256 with a per-thread digest instead of cloning one per call](https://github.com/besu-eth/besu/pull/11686#pullrequestreview-5682666843) - 2026-10-28
+* [Review] [Review on: SNAP2: Ignore the abort of a batch whose commit has started](https://github.com/besu-eth/besu/pull/11792#pullrequestreview-5682790049) - 2026-10-28
+* [Review] [Review on: SNAP2: Add the state download](https://github.com/besu-eth/besu/pull/11788#pullrequestreview-5682591310) - 2026-10-28
+* [Review] [Review on: SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782#pullrequestreview-5681518960) - 2026-10-28
+* [Commit] [Drop the thread's sha256 digest when an input fails halfway (#11794)](https://github.com/besu-eth/besu/commit/fc08297e201ed0ae5f0f0e3615852466a09e89e0) - 2026-10-28
+* [Commit] [Hash keccak-256 with a per-thread digest instead of cloning one per call (#11686)](https://github.com/besu-eth/besu/commit/5abc125f9fe4b6145d26d929f6718dc59ab5d725) - 2026-10-28
+* [Commit] [Preload and commit only the state a block changes (#11758)](https://github.com/besu-eth/besu/commit/a59b0e4af86660d32cd336b0cded9ac1148f63b6) - 2026-10-28
+* [Commit] [Store a valid block after replying to newPayload (#11682)](https://github.com/besu-eth/besu/commit/af0dbfab9c1e5a3e0d2a1d6e89a20cf916d551b3) - 2026-10-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

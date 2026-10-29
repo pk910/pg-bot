@@ -73,6 +73,7 @@ Team: Grandine
 * [Commit] [Keep blocks waiting for data marked as in-processing so duties wait for them](https://github.com/grandinetech/grandine/commit/8bc84d045ac76bf974dab5717544ba72f0bf5183) - 2026-10-26
 * [Review] [Review on: Updated crates](https://github.com/grandinetech/grandine/pull/1015#pullrequestreview-5670389217) - 2026-10-27
 * [Review] [Review on: Updated crates](https://github.com/grandinetech/grandine/pull/1011#pullrequestreview-5663585925) - 2026-10-27
+* [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5684405302) - 2026-10-28
 ## Q3 2026
 
 

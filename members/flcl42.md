@@ -45,6 +45,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(rpc): align four JSON-RPC behaviours with execution-apis](https://github.com/NethermindEth/nethermind/pull/14978#pullrequestreview-5604606425) - 2026-10-21
 * [Review] [Review on: perf(flat): store trie nodes in a pointer-linked node record buffer](https://github.com/NethermindEth/nethermind/pull/14952#pullrequestreview-5609111630) - 2026-10-22
 * [Review] [Review on: perf(collections): search only the used part of ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/15277#pullrequestreview-5667123140) - 2026-10-27
+* [Review] [Review on: fix(logging): mask sensitive log fields and remove credential leaks](https://github.com/NethermindEth/nethermind/pull/14301#pullrequestreview-5682265933) - 2026-10-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

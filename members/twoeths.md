@@ -87,6 +87,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: stop flooring the import-time seen timestamp of a block](https://github.com/ChainSafe/lodestar/pull/10453#pullrequestreview-5649743059) - 2026-10-26
 * [Review] [Review on: fix: do not prefer an unsatisfied payload as head during its own slot](https://github.com/ChainSafe/lodestar/pull/10416#pullrequestreview-5665703355) - 2026-10-27
 * [Review] [Review on: fix: route pending deposits by withdrawal credentials at the gloas fork](https://github.com/ChainSafe/lodestar/pull/10428#pullrequestreview-5666172202) - 2026-10-27
+* [Pull Request] [fix: verify cached envelope signature on publish](https://github.com/ChainSafe/lodestar/pull/10499) - 2026-10-28
+* [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5681923814) - 2026-10-28
+* [Review] [Review on: fix: retry post-gloas getBlobs after a failed attempt](https://github.com/ChainSafe/lodestar/pull/10479#pullrequestreview-5681785137) - 2026-10-28
+* [Review] [Review on: refactor: remove non-spec `none` broadcast validation level](https://github.com/ChainSafe/lodestar/pull/10500#pullrequestreview-5680447678) - 2026-10-28
+* [Commit] [fix: verify cached envelope signature on publish (#10499)](https://github.com/ChainSafe/lodestar/commit/4671dbfa392b4a031410489251ebb6a0aab05b2d) - 2026-10-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

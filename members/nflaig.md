@@ -351,6 +351,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: use the envelope's own payload status for `execution_optimistic`](https://github.com/ChainSafe/lodestar/pull/10484) - 2026-10-27
 * [Pull Request] [fix: return each gloas block once from fork choice block summaries](https://github.com/ChainSafe/lodestar/pull/10483) - 2026-10-27
 * [Commit] [fix: do not prefer an unsatisfied payload as head during its own slot (#10416)](https://github.com/ChainSafe/lodestar/commit/44a2c437106065c4de0b23be55c72d8f82209d32) - 2026-10-27
+* [Pull Request] [fix: allow builders to raise their bid by a minimum increment](https://github.com/ChainSafe/lodestar/pull/10504) - 2026-10-28
+* [Review] [Review on: fix: allow builders to raise their bid by a minimum increment](https://github.com/ChainSafe/lodestar/pull/10504#pullrequestreview-5686972937) - 2026-10-28
+* [Review] [Review on: fix: verify cached envelope signature on publish](https://github.com/ChainSafe/lodestar/pull/10499#pullrequestreview-5681906943) - 2026-10-28
+* [Review] [Review on: chore(deps): bump qs from 6.16.0 to 6.16.1](https://github.com/ChainSafe/lodestar/pull/10503#pullrequestreview-5681378271) - 2026-10-28
+* [Review] [Review on: fix: return 400 when sync committee message validator is not in the sync committee](https://github.com/ChainSafe/lodestar/pull/10502#pullrequestreview-5681368311) - 2026-10-28
+* [Review] [Review on: chore: use biome for markdown and yaml, drop prettier](https://github.com/ChainSafe/lodestar/pull/10492#pullrequestreview-5680974844) - 2026-10-28
+* [Pull Request] [feat: add `payload_status` to debug chain heads](https://github.com/ChainSafe/lodestar/pull/10501) - 2026-10-28
+* [Pull Request] [refactor: remove non-spec `none` broadcast validation level](https://github.com/ChainSafe/lodestar/pull/10500) - 2026-10-28
+* [Review] [Review on: chore: handle floating promises reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10493#pullrequestreview-5678202247) - 2026-10-28
+* [Review] [Review on: chore: enable useMathMinMax outside state-transition](https://github.com/ChainSafe/lodestar/pull/10497#pullrequestreview-5678252382) - 2026-10-28
+* [Review] [Review on: chore: fix non-null asserted optional chain reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10496#pullrequestreview-5678309812) - 2026-10-28
+* [Review] [Review on: chore: resolve misused promises reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10494#pullrequestreview-5678269552) - 2026-10-28
+* [Review] [Review on: chore: avoid unsafe optional chaining reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10495#pullrequestreview-5678229534) - 2026-10-28
+* [Commit] [fix: keep the engine off an unsatisfied payload at envelope import (#10486)](https://github.com/ChainSafe/lodestar/commit/b41e3a7363c2e7721bcd586a9b4aa172118cfb1c) - 2026-10-28
+* [Commit] [fix: return each gloas block once from fork choice block summaries (#10483)](https://github.com/ChainSafe/lodestar/commit/11ed27d39c9ed025e91c11d9ef7c601e415a9a3d) - 2026-10-28
+* [Commit] [fix: use the envelope's own payload status for `execution_optimistic` (#10484)](https://github.com/ChainSafe/lodestar/commit/f33a955402994aaef6158dbc1d849d44b8764523) - 2026-10-28
+* [Commit] [refactor: remove non-spec `none` broadcast validation level (#10500)](https://github.com/ChainSafe/lodestar/commit/a46d0194c5ccb641ac5373e5cf0274ebb72cf560) - 2026-10-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -370,6 +387,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Require bids to exceed the highest bid seen by a minimum increment](https://github.com/ethereum/consensus-specs/pull/5776) - 2026-10-27
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5666285205) - 2026-10-27
 * [Pull Request] [Do not prefer an unsatisfied payload as head during its own slot](https://github.com/ethereum/consensus-specs/pull/5769) - 2026-10-27
+* [Pull Request] [Seed the anchor in `payload_inclusion_list_satisfaction`](https://github.com/ethereum/consensus-specs/pull/5780) - 2026-10-28
+* [Pull Request] [Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781) - 2026-10-28
+* [Commit] [Seed the anchor in `payload_inclusion_list_satisfaction` (#5780)](https://github.com/ethereum/consensus-specs/commit/ec366e768bbf8670b161bb18acdaea5ca2ace812) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

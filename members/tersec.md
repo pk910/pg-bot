@@ -38,6 +38,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [test with Nim 2.4 (#5066)](https://github.com/status-im/nimbus-eth1/commit/9561944393656c1f5ad585cc316c3e8f35bc35be) - 2026-10-26
 * [Commit] [treat InvalidCmpOp and UnreachableElse warnings as errors (#4763)](https://github.com/status-im/nimbus-eth1/commit/c3066632c3be1d45c24aedcc93f3014a8f62d484) - 2026-10-26
 * [Commit] [temporarily disable flaky/glitchy nix CI (#5088)](https://github.com/status-im/nimbus-eth1/commit/b56c5e6043e33f4100d8c92de0a73bd1274640fc) - 2026-10-26
+* [Pull Request] [update to Nim 2.2.14](https://github.com/status-im/nimbus-eth1/pull/5111) - 2026-10-28
+* [Pull Request] [switch Nim version check to simple >=](https://github.com/status-im/nimbus-eth1/pull/5108) - 2026-10-28
+* [Commit] [update to Nim 2.2.14 (#5111)](https://github.com/status-im/nimbus-eth1/commit/64523a79401c581b03bb32f7c9a373edccd7a4e5) - 2026-10-28
+* [Commit] [switch Nim version check to simple >= (#5108)](https://github.com/status-im/nimbus-eth1/commit/a37448affff0ccde0cdf3299348490e73ef37361) - 2026-10-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
@@ -111,6 +115,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add beacon-API submitBuilderPreferences](https://github.com/status-im/nimbus-eth2/pull/9292#pullrequestreview-5648518575) - 2026-10-26
 * [Review] [Review on: implement getNodeVersionV2](https://github.com/status-im/nimbus-eth2/pull/9383#pullrequestreview-5650214810) - 2026-10-26
 * [Review] [Review on: Allow using builder bid for block production on getPayload no result or timeout](https://github.com/status-im/nimbus-eth2/pull/9284#pullrequestreview-5652652889) - 2026-10-26
+* [Review] [Review on: replay stored payload envelopes into fork choice on restart](https://github.com/status-im/nimbus-eth2/pull/9344#pullrequestreview-5692282074) - 2026-10-29
+* [Pull Request] [update to Nim 2.2.14](https://github.com/status-im/nimbus-eth2/pull/9405) - 2026-10-28
+* [Review] [Review on: wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397#pullrequestreview-5680652027) - 2026-10-28
+* [Pull Request] [switch Nim version check to simple >=](https://github.com/status-im/nimbus-eth2/pull/9398) - 2026-10-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

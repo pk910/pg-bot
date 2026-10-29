@@ -143,6 +143,8 @@ Team: Reth
 * [Commit] [ci: replace Cargo Dependabot with a weekly cargo update PR (#28157)](https://github.com/paradigmxyz/reth/commit/9d0769c3e812f5e64c57cadd4cc2b1648953623c) - 2026-10-26
 * [Pull Request] [chore(deps): bump evm2](https://github.com/paradigmxyz/reth/pull/28169) - 2026-10-27
 * [Review] [Review on: ci(docker): give each target its own cargo cache to stop nightly races](https://github.com/paradigmxyz/reth/pull/28166#pullrequestreview-5666290967) - 2026-10-27
+* [Review] [Review on: chore: backport CI fixes from main to tempo/v1.16.0](https://github.com/paradigmxyz/reth/pull/28179#pullrequestreview-5679958151) - 2026-10-28
+* [Commit] [chore(deps): bump evm2 (#28169)](https://github.com/paradigmxyz/reth/commit/966010c905449163ef161530a5ee95ac1e0c8487) - 2026-10-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

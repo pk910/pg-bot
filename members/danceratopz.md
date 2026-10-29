@@ -78,6 +78,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-consume): split oversized enginex pre-alloc groups (#3919)](https://github.com/ethereum/execution-specs/commit/ed3d45de1ea3b9f52fe846e4bd17b7d0da39d5e7) - 2026-10-27
 * [Commit] [feat(test-consume): add consume wirex, a devp2p full-sync simulator (#3365)](https://github.com/ethereum/execution-specs/commit/bf11865cb07983079283359150d22b9b609a4c08) - 2026-10-27
 * [Commit] [fix(test-client-clis): map reth's evm2 exception messages (#3918)](https://github.com/ethereum/execution-specs/commit/2c0c8e7d2010771621e9ae34f68a0d2d3e738aa1) - 2026-10-27
+* [Pull Request] [fix(test-rpc,test-consume): sign each engine api retry anew and bound wirex engine requests](https://github.com/ethereum/execution-specs/pull/3933) - 2026-10-28
+* [Review] [Review on: feat(docs): split protocol history into stable and unstable fork tables](https://github.com/ethereum/execution-specs/pull/3924#pullrequestreview-5680642959) - 2026-10-28
+* [Pull Request] [chore(ci): publish forks/bogota docs as the default dev branch](https://github.com/ethereum/execution-specs/pull/3925) - 2026-10-28
+* [Commit] [chore(ci): publish forks/bogota docs as the default dev branch (#3925)](https://github.com/ethereum/execution-specs/commit/75955fb5c103b04090b322a571fdebc93b872810) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -100,6 +104,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients/go-ethereum, clients/reth: load the genesis at startup when there is nothing to import](https://github.com/ethereum/hive/pull/1639) - 2026-10-26
 * [Pull Request] [simulators/ethereum/eels: add consume-wirex simulator](https://github.com/ethereum/hive/pull/1640) - 2026-10-27
 * [Commit] [simulators/ethereum/eels: add consume-wirex simulator (#1640)](https://github.com/ethereum/hive/commit/ffcfaa2b6d24d823555d9689a82f781060bc00c5) - 2026-10-27
+* [Commit] [clients/go-ethereum, clients/reth, clients/erigon: load the genesis at startup when there is nothing to import (#1639)](https://github.com/ethereum/hive/commit/46fb6f4d0a46f6b4a023ed979fe4f694ececa17c) - 2026-10-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 

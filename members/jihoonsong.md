@@ -40,6 +40,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add EIP-8198 to Heze](https://github.com/ethereum/consensus-specs/pull/5718#pullrequestreview-5627110774) - 2026-10-23
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5647952058) - 2026-10-26
 * [Pull Request] [Support FOCIL and Frames interaction](https://github.com/ethereum/consensus-specs/pull/5772) - 2026-10-27
+* [Commit] [Scale rewards and churn with `SLOT_DURATION_MS` (#5757)](https://github.com/ethereum/consensus-specs/commit/85f190b9d741811b7bfdee622c7d808b245666ac) - 2026-10-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

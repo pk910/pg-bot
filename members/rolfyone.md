@@ -164,6 +164,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Send payload attestations when the payload is available](https://github.com/Consensys-Incorporated/teku/pull/11509#pullrequestreview-5674659249) - 2026-10-27
 * [Review] [Review on: Reject RPC data column sidecars whose fork digest doesn't match their slot fork](https://github.com/Consensys-Incorporated/teku/pull/11575#pullrequestreview-5662806986) - 2026-10-27
 * [Pull Request] [Route pending deposits by credentials at Gloas builder onboarding](https://github.com/Consensys-Incorporated/teku/pull/11582) - 2026-10-27
+* [Review] [Review on: Store light client bootstraps and fix gaps after checkpoint sync](https://github.com/Consensys-Incorporated/teku/pull/11572#pullrequestreview-5689440207) - 2026-10-28
+* [Review] [Review on: Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589#pullrequestreview-5689500634) - 2026-10-28
+* [Review] [Review on: Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564#pullrequestreview-5677474364) - 2026-10-28
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

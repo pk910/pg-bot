@@ -57,6 +57,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585#pullrequestreview-5670104600) - 2026-10-27
 * [Commit] [Send payload attestations when the payload is available (#11509)](https://github.com/Consensys-Incorporated/teku/commit/77c72c1d692e09a98fce7e67bee09060042a73df) - 2026-10-27
 * [Commit] [DataColumnSidecarArchiveReconstructor improvements + tests + wiring (#11508)](https://github.com/Consensys-Incorporated/teku/commit/2c35574b3373cbe8ad121a768d98f066aec05b73) - 2026-10-27
+* [Pull Request] [Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595) - 2026-10-28
+* [Review] [Review on: Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595#pullrequestreview-5689279604) - 2026-10-28
+* [Review] [Review on: Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589#pullrequestreview-5689062461) - 2026-10-28
+* [Review] [Review on: Compute snappy frame checksums with bulk CRC32C updates](https://github.com/Consensys-Incorporated/teku/pull/11593#pullrequestreview-5688862124) - 2026-10-28
+* [Review] [Review on: Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587#pullrequestreview-5683448886) - 2026-10-28
+* [Review] [Review on: Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585#pullrequestreview-5680326215) - 2026-10-28
 ## Q3 2026
 
 

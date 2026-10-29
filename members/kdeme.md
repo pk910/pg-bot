@@ -121,6 +121,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Add read-only option to CoreDb API for rocksdb usage](https://github.com/status-im/nimbus-eth1/issues/5102) - 2026-10-27
 * [Commit] [stateless: decode witness nodes in a single pass (#5096)](https://github.com/status-im/nimbus-eth1/commit/8db5c7d154df32539272ea4b496ec65393e24bbf) - 2026-10-27
 * [Commit] [stateless: skip the pre-execution decode and validation of the BAL (#5097)](https://github.com/status-im/nimbus-eth1/commit/73b7a5467a36c4128399361fd340cced3aed6d5b) - 2026-10-27
+* [Review] [Review on: Add parity trace api](https://github.com/status-im/nimbus-eth1/pull/4993#pullrequestreview-5686952111) - 2026-10-28
+* [Review] [Review on: stateless: require the sibling node of a collapsed branch](https://github.com/status-im/nimbus-eth1/pull/5047#pullrequestreview-5683369441) - 2026-10-28
+* [Commit] [snap sync: reject a ByteCodes reply with more codes than requested (#5105)](https://github.com/status-im/nimbus-eth1/commit/1d38f5e5a52988453065b2c643bbd3dc371b73a0) - 2026-10-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

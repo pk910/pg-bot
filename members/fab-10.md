@@ -102,6 +102,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on:  Skip the timing baseline update for a commit pushed without a pull request](https://github.com/besu-eth/besu/pull/11776#pullrequestreview-5665705231) - 2026-10-27
 * [Commit] [ Skip the timing baseline update for a commit pushed without a pull request (#11776)](https://github.com/besu-eth/besu/commit/4f1c92e778d39bb9ebda0551c766454dfee1ede1) - 2026-10-27
 * [Commit] [Bound transaction gossip message decoding by per-message caps (#164)](https://github.com/besu-eth/besu/commit/2d2d8f9a8b3f81d5d310af9f0da49d2c297bc316) - 2026-10-27
+* [Review] [Review on: FOCIL: Validate inclusion lists during block processing](https://github.com/besu-eth/besu/pull/11768#pullrequestreview-5687590774) - 2026-10-28
+* [Review] [Review on: Drop the thread's sha256 digest when an input fails halfway](https://github.com/besu-eth/besu/pull/11794#pullrequestreview-5686695871) - 2026-10-28
+* [Review] [Review on: Hash keccak-256 with a per-thread digest instead of cloning one per call](https://github.com/besu-eth/besu/pull/11686#pullrequestreview-5683402782) - 2026-10-28
+* [Review] [Review on: Make plugin discovery deterministic and identify a plugin by its class name](https://github.com/besu-eth/besu/pull/11640#pullrequestreview-5683210309) - 2026-10-28
+* [Review] [Review on: Enable the transaction pool after the plugins have started (#11665)](https://github.com/besu-eth/besu/pull/11666#pullrequestreview-5683018991) - 2026-10-28
+* [Issue] [FOCIL: avoid the cold reads of the inclusion list senders on the critical path](https://github.com/besu-eth/besu/issues/11796) - 2026-10-28
+* [Issue] [FOCIL: pre-validate the inclusion list transactions in parallel with the block execution](https://github.com/besu-eth/besu/issues/11795) - 2026-10-28
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

@@ -56,6 +56,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: cap payload DA wait at the slot duration of the payload's fork (#10433)](https://github.com/ChainSafe/lodestar/commit/7b74bdf8cc9bf6932d3e8461b85a52d2602e1437) - 2026-10-26
 * [Commit] [fix: stop flooring the import-time seen timestamp of a block (#10453)](https://github.com/ChainSafe/lodestar/commit/3c46867203c9785e9f00d8131ca7a168122d18ae) - 2026-10-26
 * [Pull Request] [fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485) - 2026-10-27
+* [Review] [Review on: fix: verify cached envelope signature on publish](https://github.com/ChainSafe/lodestar/pull/10499#pullrequestreview-5682183431) - 2026-10-28
+* [Review] [Review on: fix: keep the engine off an unsatisfied payload at envelope import](https://github.com/ChainSafe/lodestar/pull/10486#pullrequestreview-5680563760) - 2026-10-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

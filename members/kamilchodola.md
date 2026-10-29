@@ -87,6 +87,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244) - 2026-10-26
 * [Commit] [perf(tracing): skip stack push reports for a prestate trace (#15183)](https://github.com/NethermindEth/nethermind/commit/3c32a3a61223bc55d40cf6d0e1f880f364a92ba2) - 2026-10-26
 * [Commit] [perf(tracing): apply debug_traceCall state overrides at the call without merkleizing them (#15182)](https://github.com/NethermindEth/nethermind/commit/b012a730d472c36e0c30f03502ac6db667c5c3ad) - 2026-10-26
+* [Review] [Review on: fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338#pullrequestreview-5680905343) - 2026-10-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

@@ -32,6 +32,9 @@ Team: Grandine
 * [Pull Request] [Updated Rust to 1.99.1](https://github.com/grandinetech/grandine/pull/1014) - 2026-10-27
 * [Commit] [Updated Rust to 1.99.1](https://github.com/grandinetech/grandine/commit/52cd677117b5d93bf477fe4843148070b0303444) - 2026-10-27
 * [Commit] [Updated crates](https://github.com/grandinetech/grandine/commit/22b2bd5b59276646abd89cf9cde9b07a4e1818ec) - 2026-10-27
+* [Commit] [Reverting back to im](https://github.com/grandinetech/grandine/commit/2ea7671f95e0f7d45cfda34c505104ffe133aa19) - 2026-10-28
+* [Commit] [Updated crates](https://github.com/grandinetech/grandine/commit/1ef133830f087ac7bec0c52690032ebe44420711) - 2026-10-28
+* [Commit] [Improved Eth Docker section in the book](https://github.com/grandinetech/grandine/commit/3051737a6836f859cdd075a53cd8870011a6ca37) - 2026-10-28
 ## Q3 2026
 
 

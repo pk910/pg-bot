@@ -108,6 +108,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Don't query mev-boost status after Gloas upgrade](https://github.com/Consensys-Incorporated/teku/pull/11583#pullrequestreview-5668459056) - 2026-10-27
 * [Issue] [Prune slot-keyed tables with range deletes instead of per-key tombstones](https://github.com/Consensys-Incorporated/teku/issues/11586) - 2026-10-27
 * [Issue] [Unbounded RocksDB seeks over pruned data column sidecars saturate RPC storage throttle](https://github.com/Consensys-Incorporated/teku/issues/11584) - 2026-10-27
+* [Review] [Review on: Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595#pullrequestreview-5688905591) - 2026-10-28
+* [Review] [Review on: Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589#pullrequestreview-5689577683) - 2026-10-28
+* [Pull Request] [Compute snappy frame checksums with bulk CRC32C updates](https://github.com/Consensys-Incorporated/teku/pull/11593) - 2026-10-28
+* [Review] [Review on: Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587#pullrequestreview-5684167375) - 2026-10-28
+* [Review] [Review on: Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585#pullrequestreview-5680899811) - 2026-10-28
+* [Commit] [Compute snappy frame checksums with bulk CRC32C updates (#11593)](https://github.com/Consensys-Incorporated/teku/commit/a6e0e9aec18520b13071a8db4aea13e5ccbee2a3) - 2026-10-28
+* [Commit] [Accumulate decoded snappy frames into a single buffer (#11587)](https://github.com/Consensys-Incorporated/teku/commit/0ead06d581e84440522854aace89c9d635d1f0f5) - 2026-10-28
+* [Commit] [Bound RocksDB range seeks and skip pruned data column slots (#11585)](https://github.com/Consensys-Incorporated/teku/commit/65f2772aa29a7e8037f5c1f7f4136c53e63d73cc) - 2026-10-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

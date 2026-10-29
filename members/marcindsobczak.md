@@ -133,6 +133,29 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(blockchain): ignore prefetched ancestors of another block in BLOCKHASH](https://github.com/NethermindEth/nethermind/pull/15275#pullrequestreview-5667760412) - 2026-10-27
 * [Review] [Review on: perf(collections): search only the used part of ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/15277#pullrequestreview-5668192806) - 2026-10-27
 * [Review] [Review on: docs(rpc-bench): add annotated assembly recipe for perf](https://github.com/NethermindEth/nethermind/pull/15193#pullrequestreview-5665202787) - 2026-10-27
+* [Review] [Review on: fix(era1): release the export lock when admin_exportHistory rejects its arguments](https://github.com/NethermindEth/nethermind/pull/15311#pullrequestreview-5681802570) - 2026-10-28
+* [Review] [Review on: test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter](https://github.com/NethermindEth/nethermind/pull/15356#pullrequestreview-5688811746) - 2026-10-28
+* [Review] [Review on: fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15310#pullrequestreview-5681770248) - 2026-10-28
+* [Review] [Review on: fix(logindex): do not floor the forward batch at the receipts barrier](https://github.com/NethermindEth/nethermind/pull/15320#pullrequestreview-5682366471) - 2026-10-28
+* [Review] [Review on: fix(txpool): mark blob txs restored from persistent storage as known](https://github.com/NethermindEth/nethermind/pull/15309#pullrequestreview-5679704010) - 2026-10-28
+* [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684018172) - 2026-10-28
+* [Review] [Review on: feat(eip-8250): select the account nonce with empty nonce_keys and add single-use keys](https://github.com/NethermindEth/nethermind/pull/14791#pullrequestreview-5679922183) - 2026-10-28
+* [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5687484146) - 2026-10-28
+* [Review] [Review on: fix(logging): mask sensitive log fields and remove credential leaks](https://github.com/NethermindEth/nethermind/pull/14301#pullrequestreview-5681092075) - 2026-10-28
+* [Review] [Review on: perf(zkevm): carry the SP1 guest's dispatch table as its address in words](https://github.com/NethermindEth/nethermind/pull/15292#pullrequestreview-5681112425) - 2026-10-28
+* [Review] [Review on: perf(zkevm): lean world state for zkVM guests](https://github.com/NethermindEth/nethermind/pull/15341#pullrequestreview-5685914624) - 2026-10-28
+* [Review] [Review on: perf(db): parse rocksdb statistics without per-tick allocation](https://github.com/NethermindEth/nethermind/pull/15346#pullrequestreview-5685935950) - 2026-10-28
+* [Review] [Review on: test(snapshot): ignore handler failures racing the test server shutdown](https://github.com/NethermindEth/nethermind/pull/15314#pullrequestreview-5682163820) - 2026-10-28
+* [Review] [Review on: fix(monitoring): run metrics update actions when only CountersEnabled is set](https://github.com/NethermindEth/nethermind/pull/15331#pullrequestreview-5683373351) - 2026-10-28
+* [Review] [Review on: fix(taiko): keep the built block hash in L1Origin on repeated payload attributes](https://github.com/NethermindEth/nethermind/pull/15322#pullrequestreview-5684072544) - 2026-10-28
+* [Review] [Review on: test(eest): bump fixtures to tests@v21.0.2](https://github.com/NethermindEth/nethermind/pull/15354#pullrequestreview-5687194464) - 2026-10-28
+* [Review] [Review on: docs(agents): rule out stale conformance tests before changing the client](https://github.com/NethermindEth/nethermind/pull/15357#pullrequestreview-5687788705) - 2026-10-28
+* [Review] [Review on: perf(zkevm): round the SP1 jump look-back's word and bias bases once](https://github.com/NethermindEth/nethermind/pull/15293#pullrequestreview-5683198439) - 2026-10-28
+* [Review] [Review on: perf(zkevm): hash SSZ merkle trees in SP1's SHA-256 word order](https://github.com/NethermindEth/nethermind/pull/15355#pullrequestreview-5689281616) - 2026-10-28
+* [Review] [Review on: ci: require CI owner sign-off for CI definition changes](https://github.com/NethermindEth/nethermind/pull/15361#pullrequestreview-5688483610) - 2026-10-28
+* [Commit] [fix(core): reject hex strings that are not 32 bytes in ValueHash256(string) (#15359)](https://github.com/NethermindEth/nethermind/commit/d7da01c753076921911a8b0420cc017b5acd0ab4) - 2026-10-28
+* [Commit] [test: group the assertions that NUnit2045 rejects on master (#15362)](https://github.com/NethermindEth/nethermind/commit/66cd875bfe4ee8538eb531e31c9e0538f070fc0c) - 2026-10-28
+* [Commit] [test(trie): move the bulk set failure tests into the bulk set test file (#15330)](https://github.com/NethermindEth/nethermind/commit/250d457b96067c0476c2f3ac51568e7aa1740f2d) - 2026-10-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

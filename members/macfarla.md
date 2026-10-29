@@ -148,6 +148,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Test stalled WebSocket responses against a real Vert.x server](https://github.com/besu-eth/besu/pull/11785) - 2026-10-27
 * [Commit] [Bound the width of a legacy transaction's v scalar at decode (#178) (#186)](https://github.com/besu-eth/besu/commit/97702f79eca1f103271c9326e66257923ebbd27f) - 2026-10-27
 * [Commit] [Bound BFT block-header base fee to values that fit in a long (GHSA-6pcq-hcgg-5q76) (#169)](https://github.com/besu-eth/besu/commit/18c3946c17bf5772fe3f22df7543d2f98e6df50a) - 2026-10-27
+* [Review] [Review on: Apply strict replay protection only to JSON-RPC transactions](https://github.com/besu-eth/besu/pull/11466#pullrequestreview-5691814455) - 2026-10-29
+* [Review] [Review on: Apply the server trace step limit to trace_rawTransaction](https://github.com/besu-eth/besu/pull/11438#pullrequestreview-5691674381) - 2026-10-29
+* [Pull Request] [Remove redundant arity = "1" from non-boolean CLI options](https://github.com/besu-eth/besu/pull/11798) - 2026-10-29
+* [Review] [Review on: Remove the total difficulty cache](https://github.com/besu-eth/besu/pull/11790#pullrequestreview-5691499471) - 2026-10-29
+* [Review] [Review on: Align eth_getProof storage keys and errors with execution-apis](https://github.com/besu-eth/besu/pull/11668#pullrequestreview-5679268283) - 2026-10-28
+* [Review] [Review on: Support Amsterdam hardfork at genesis on Ephemery](https://github.com/besu-eth/besu/pull/11728#pullrequestreview-5678164021) - 2026-10-28
+* [Commit] [Remove redundant arity = "1" from non-boolean CLI options (#11798)](https://github.com/besu-eth/besu/commit/9206bc973c9418e8f9aab2cfeaa7c6e03babf3e2) - 2026-10-29
+* [Commit] [Upgrade Vert.x to 5.2.2 (#11770)](https://github.com/besu-eth/besu/commit/e4af83aeca20b24bf2f251d574707f404476c3da) - 2026-10-28
+* [Commit] [Rotate CHANGELOG for 26.10.2 (#11786)](https://github.com/besu-eth/besu/commit/083223785735bb78de4c3c6288d571641b03373e) - 2026-10-28
+* [Commit] [Test stalled WebSocket responses against a real Vert.x server (#11785)](https://github.com/besu-eth/besu/commit/a8c2fa924d60e11837262028c74096c216adcca7) - 2026-10-28
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

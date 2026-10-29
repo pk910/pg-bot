@@ -79,6 +79,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Skip seen bitsets of a different length in `is_non_strict_superset`](https://github.com/ethereum/consensus-specs/pull/5766) - 2026-10-27
 * [Pull Request] [Bind column sidecars to the block in Fulu `is_data_available`](https://github.com/ethereum/consensus-specs/pull/5765) - 2026-10-27
 * [Commit] [Fix block access list hash in EL block hash test helper (#5773)](https://github.com/ethereum/consensus-specs/commit/8a80ffa82bd49aac0dd6db17f9e8150aa257fbc2) - 2026-10-27
+* [Review] [Review on: Add EIP-8450 post-quantum validator key registry](https://github.com/ethereum/consensus-specs/pull/5782#pullrequestreview-5689918484) - 2026-10-28
+* [Pull Request] [Use proposal slot for parent choice in `prepare_execution_payload`](https://github.com/ethereum/consensus-specs/pull/5763) - 2026-10-28
+* [Review] [Review on: Bind column sidecars to the block in Fulu `is_data_available`](https://github.com/ethereum/consensus-specs/pull/5765#pullrequestreview-5689159288) - 2026-10-28
+* [Review] [Review on: Seed the anchor in `payload_inclusion_list_satisfaction`](https://github.com/ethereum/consensus-specs/pull/5780#pullrequestreview-5688894126) - 2026-10-28
+* [Review] [Review on: Scale rewards and churn with `SLOT_DURATION_MS`](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5686170916) - 2026-10-28
+* [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5686073565) - 2026-10-28
+* [Commit] [Use proposal slot for parent choice in `prepare_execution_payload` (#5763)](https://github.com/ethereum/consensus-specs/commit/1bdf4b8be5261f1dfc8b8d949f065965a782c763) - 2026-10-28
+* [Commit] [Return no data column sidecars for a block without blobs (#5767)](https://github.com/ethereum/consensus-specs/commit/aa12f5bed83c4ddbe651d35fc80312cf0beab144) - 2026-10-28
+* [Commit] [Use `committee_index` for the attestation subnet in Electra (#5768)](https://github.com/ethereum/consensus-specs/commit/33d1d34cb7feb9650e9a60ea9f193645bd1f2a51) - 2026-10-28
+* [Commit] [Bind column sidecars to the block in Fulu `is_data_available` (#5765)](https://github.com/ethereum/consensus-specs/commit/12210d748a0a467e61f54196b7e8afc80dd58dbb) - 2026-10-28
+* [Commit] [Ignore `voluntary_exit` gossip with pending partial withdrawals (#5764)](https://github.com/ethereum/consensus-specs/commit/a6d447369e47193f406261afdea167d3fc997e2a) - 2026-10-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

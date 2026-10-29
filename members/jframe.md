@@ -39,6 +39,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix(eth): reject unordered pooled transaction responses](https://github.com/besu-eth/besu/pull/11551#pullrequestreview-5646980392) - 2026-10-26
 * [Pull Request] [Bonsai archive proofs: ongoing sync](https://github.com/besu-eth/besu/pull/11787) - 2026-10-27
 * [Review] [Review on: SNAP2: Add the bytecode queue of the state download](https://github.com/besu-eth/besu/pull/11772#pullrequestreview-5663505511) - 2026-10-27
+* [Review] [Review on: SNAP2: Add the chain of a sync attempt](https://github.com/besu-eth/besu/pull/11783#pullrequestreview-5677646266) - 2026-10-28
+* [Review] [Review on: SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782#pullrequestreview-5677294776) - 2026-10-28
+* [Review] [Review on: Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673#pullrequestreview-5678552728) - 2026-10-28
 ## Q3 2026
 
 

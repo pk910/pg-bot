@@ -306,6 +306,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [txnprovider/txpool: implement EIP-8141 frame eviction ordering](https://github.com/erigontech/erigon/issues/25444) - 2026-10-27
 * [Issue] [vm: merge gas_table.go and operations_acl.go into gas.go](https://github.com/erigontech/erigon/issues/25440) - 2026-10-27
 * [Commit] [execution: honor cancellation in EVM workers and block warmup (#21495)](https://github.com/erigontech/erigon/commit/362b7eaf5244ac71e1d818175d863f0fa8c0e437) - 2026-10-27
+* [Pull Request] [cl/beacon/handler: fix pending parent retry test flake](https://github.com/erigontech/erigon/pull/25481) - 2026-10-28
+* [Review] [Review on: cl: persist beacon blocks only after fork choice accepts them](https://github.com/erigontech/erigon/pull/25442#pullrequestreview-5680036175) - 2026-10-28
+* [Review] [Review on: go.mod: bump gnark-crypto to v0.22.0](https://github.com/erigontech/erigon/pull/25459#pullrequestreview-5683671870) - 2026-10-28
+* [Review] [Review on: execution/state: publish each tx's origins once](https://github.com/erigontech/erigon/pull/25439#pullrequestreview-5681917983) - 2026-10-28
+* [Review] [Review on: execution/state: keep the access list's value of a slot that a re-run writes net-zero](https://github.com/erigontech/erigon/pull/25466#pullrequestreview-5681815699) - 2026-10-28
+* [Review] [Review on: [r3.8] execution/stagedsync: defer same-sender successors until validation](https://github.com/erigontech/erigon/pull/25471#pullrequestreview-5682862349) - 2026-10-28
+* [Review] [Review on: execution/vm: cache precompile calls below 2,000 gas](https://github.com/erigontech/erigon/pull/25479#pullrequestreview-5684906367) - 2026-10-28
+* [Review] [Review on: cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise](https://github.com/erigontech/erigon/pull/25475#pullrequestreview-5683804219) - 2026-10-28
+* [Review] [Review on: execution/state, execution/stagedsync: notify the txpool of an account's full state after a partial write](https://github.com/erigontech/erigon/pull/25441#pullrequestreview-5680362933) - 2026-10-28
+* [Review] [Review on: [r3.8] cl, execution: head state publish, Gloas payload_attributes event, builder, busy FCU and migration fixes](https://github.com/erigontech/erigon/pull/25461#pullrequestreview-5681024459) - 2026-10-28
+* [Review] [Review on: build(deps): bump qs from 6.16.0 to 6.17.0 in /docs/site](https://github.com/erigontech/erigon/pull/25477#pullrequestreview-5683018497) - 2026-10-28
+* [Issue] [cl: skip index writes for ignored published blocks](https://github.com/erigontech/erigon/issues/25483) - 2026-10-28
+* [Issue] [cl/das: check blob limits and gossip columns reconstructed from EL blobs](https://github.com/erigontech/erigon/issues/25478) - 2026-10-28
+* [Commit] [cl/beacon/handler: fix pending parent retry test flake (#25481)](https://github.com/erigontech/erigon/commit/3d61103b24cccc44f02c92e2cf46d36c35c74c6d) - 2026-10-29
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -321,6 +335,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [docs: remove Willian Mitsuda from active membership](https://github.com/protocolguild/documentation/pull/569) - 2026-10-07
 * [Pull Request] [docs: remove Ilya Mikheev from active membership](https://github.com/protocolguild/documentation/pull/570) - 2026-10-07
 * [Pull Request] [Add Oleksandr Lystopad from Erigon](https://github.com/protocolguild/documentation/pull/572) - 2026-10-08
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(test-client-clis): map Erigon frame transaction rejections](https://github.com/ethereum/execution-specs/pull/3931) - 2026-10-28
+* [Issue] [tests: clarify oversized legacy chain-ID exception expectations](https://github.com/ethereum/execution-specs/issues/3930) - 2026-10-28
 ## Q3 2026
 
 

@@ -761,6 +761,43 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(crypto): allocate the Blake2 f[1] word that the SIMD paths read (#15254)](https://github.com/NethermindEth/nethermind/commit/8d318a358082154c8d568ecd421d71ec3b0521c7) - 2026-10-27
 * [Commit] [feat(rpc): add overlay_getLogs and overlay_callConstructor (#15181)](https://github.com/NethermindEth/nethermind/commit/0ff63d39205071821f4269e506cb1bd53bf43bb6) - 2026-10-27
 * [Commit] [fix(docgen): document remaining converter shapes and null members (#15064)](https://github.com/NethermindEth/nethermind/commit/eef616466b307bddc4b4b5476f015f81834dabb0) - 2026-10-27
+* [Pull Request] [perf(zkevm): run the guest's ADDMOD and SP1's MULMOD on their stack slots](https://github.com/NethermindEth/nethermind/pull/15377) - 2026-10-29
+* [Pull Request] [perf(sync): download block access lists for executed blocks in full sync](https://github.com/NethermindEth/nethermind/pull/15378) - 2026-10-29
+* [Review] [Review on: test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter](https://github.com/NethermindEth/nethermind/pull/15356#pullrequestreview-5685944570) - 2026-10-28
+* [Review] [Review on: fix(consensus): log pruned-state block reward misses in ProcessingStats at Debug](https://github.com/NethermindEth/nethermind/pull/15368#pullrequestreview-5690913908) - 2026-10-28
+* [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684526658) - 2026-10-28
+* [Review] [Review on: test(ethereum-tests): cover EIP-7906 assert frames in state tests](https://github.com/NethermindEth/nethermind/pull/15210#pullrequestreview-5690828076) - 2026-10-28
+* [Review] [Review on: perf(history): cache as-of reads per block across scopes](https://github.com/NethermindEth/nethermind/pull/15307#pullrequestreview-5680841989) - 2026-10-28
+* [Pull Request] [fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358) - 2026-10-28
+* [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5689184188) - 2026-10-28
+* [Pull Request] [fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338) - 2026-10-28
+* [Review] [Review on: fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338#pullrequestreview-5683779171) - 2026-10-28
+* [Pull Request] [perf(zkevm): read the branch RLP scratch of a depth by value](https://github.com/NethermindEth/nethermind/pull/15374) - 2026-10-28
+* [Pull Request] [perf(zkevm): lean world state for zkVM guests](https://github.com/NethermindEth/nethermind/pull/15341) - 2026-10-28
+* [Review] [Review on: perf(zkevm): lean world state for zkVM guests](https://github.com/NethermindEth/nethermind/pull/15341#pullrequestreview-5683775073) - 2026-10-28
+* [Pull Request] [perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370) - 2026-10-28
+* [Review] [Review on: perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370#pullrequestreview-5689141882) - 2026-10-28
+* [Review] [Review on: perf(db): parse rocksdb statistics without per-tick allocation](https://github.com/NethermindEth/nethermind/pull/15346#pullrequestreview-5684318847) - 2026-10-28
+* [Review] [Review on: test(snapshot): ignore handler failures racing the test server shutdown](https://github.com/NethermindEth/nethermind/pull/15314#pullrequestreview-5684406892) - 2026-10-28
+* [Review] [Review on: fix(monitoring): run metrics update actions when only CountersEnabled is set](https://github.com/NethermindEth/nethermind/pull/15331#pullrequestreview-5684458132) - 2026-10-28
+* [Review] [Review on: fix(taiko): keep the built block hash in L1Origin on repeated payload attributes](https://github.com/NethermindEth/nethermind/pull/15322#pullrequestreview-5684432654) - 2026-10-28
+* [Pull Request] [test(eest): bump fixtures to tests@v21.0.2](https://github.com/NethermindEth/nethermind/pull/15354) - 2026-10-28
+* [Review] [Review on: test(eest): bump fixtures to tests@v21.0.2](https://github.com/NethermindEth/nethermind/pull/15354#pullrequestreview-5690144993) - 2026-10-28
+* [Review] [Review on: docs(agents): rule out stale conformance tests before changing the client](https://github.com/NethermindEth/nethermind/pull/15357#pullrequestreview-5684891925) - 2026-10-28
+* [Pull Request] [perf(zkevm): hash SSZ merkle trees in SP1's SHA-256 word order](https://github.com/NethermindEth/nethermind/pull/15355) - 2026-10-28
+* [Review] [Review on: perf(zkevm): hash SSZ merkle trees in SP1's SHA-256 word order](https://github.com/NethermindEth/nethermind/pull/15355#pullrequestreview-5685543861) - 2026-10-28
+* [Commit] [perf(zkevm): hash SSZ merkle trees in SP1's SHA-256 word order (#15355)](https://github.com/NethermindEth/nethermind/commit/bcc05df6ebb0aae1168846800ac996a65b3ca93d) - 2026-10-28
+* [Commit] [perf(zkevm): load and store the SP1 guest's half-word-aligned memory words in halves (#15286)](https://github.com/NethermindEth/nethermind/commit/bcbce3cff4c02872398d54dbd2a8a19a329e1990) - 2026-10-28
+* [Commit] [refactor(abi)!: replace Nethermind.Abi with the Span-based ABI codec (#15263)](https://github.com/NethermindEth/nethermind/commit/db94d9a5e097ba7f4558a2a53e46f56f0b4d6eb7) - 2026-10-28
+* [Commit] [perf(zkevm): read only the code bytes the SP1 guest's fused handlers test (#15283)](https://github.com/NethermindEth/nethermind/commit/abbfe673211356de98d54668d6b19ad411f41433) - 2026-10-28
+* [Commit] [perf(flat): skip snapshot layer lookups that miss with split-block filters (#15282)](https://github.com/NethermindEth/nethermind/commit/6aa205c2bb4438bf28a0cb2f05161878c45c1d15) - 2026-10-28
+* [Commit] [perf(zkevm): read the jump look-back as aligned words on SP1 (#15279)](https://github.com/NethermindEth/nethermind/commit/67d24f6aa94d7f3634151784af464e7762b98b60) - 2026-10-28
+* [Commit] [fix(bal): accept more than 65,535 changes per account (#15276)](https://github.com/NethermindEth/nethermind/commit/e8ce4c79f1f3bece2fa099bcf699e9d6a4a4c49a) - 2026-10-28
+* [Commit] [fix(blockchain): ignore prefetched ancestors of another block in BLOCKHASH (#15275)](https://github.com/NethermindEth/nethermind/commit/75b387c485ca14570ef05db52361366cc9e88ad6) - 2026-10-28
+* [Commit] [ci(codeql): run security-extended query suite (#15287)](https://github.com/NethermindEth/nethermind/commit/318045dbf11115da62c0721a475707e2a996cef8) - 2026-10-28
+* [Commit] [perf(zkevm): skip zero limbs and alignment tests in the SP1 guest's memory words (#15284)](https://github.com/NethermindEth/nethermind/commit/dc666cc990048babcd9de00ab16344e79cfd2b88) - 2026-10-28
+* [Commit] [perf(zkevm): store the SP1 SHA-256 initial state as immediates (#15294)](https://github.com/NethermindEth/nethermind/commit/5a598b07e15ee54af2330510960ec9e455b56cab) - 2026-10-28
+* [Commit] [ci: fall back to the .NET CDN when the SDK download fails (#15209)](https://github.com/NethermindEth/nethermind/commit/1c5d3fafe403fb4cab42763c45db808329e111e8) - 2026-10-28
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -842,6 +879,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(jit): exercise stack object zero initialization](https://github.com/NethermindEth/dotnet-riscv/commit/62ef835af8a9e85097e8707dac6756c20d77209e) - 2026-10-21
 * [Commit] [perf(riscv64): perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/commit/0277c7439b50990636f16244fa3d7c280af16cee) - 2026-10-21
 * [Pull Request] [riscv32: the RV32IM target for the Airbender zkVM (RISCV32=1 on upstream-perf)](https://github.com/NethermindEth/dotnet-riscv/pull/36) - 2026-10-27
+* [Pull Request] [fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37) - 2026-10-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05
@@ -857,6 +895,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Replace the eager secured-trie path walk with a node-local check and a lazy check](https://github.com/ethereum/execution-specs/issues/3885) - 2026-10-22
 
+* [Pull Request] [fix(test-specs): add an empty system contract to the BAL in a system-contract-empty test](https://github.com/ethereum/execution-specs/pull/3929) - 2026-10-28
+* [Issue] [Amsterdam invalid-transaction fixtures contain a second violation in the block access list](https://github.com/ethereum/execution-specs/issues/3928) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: add the state-gas allowance of call frames](https://github.com/ethereum/EIPs/pull/12582) - 2026-10-24
 * [Pull Request] [Update EIP-2780: credit state-gas refills to the reservoir and add a legacy share](https://github.com/ethereum/EIPs/pull/12581) - 2026-10-24

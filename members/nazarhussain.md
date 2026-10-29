@@ -65,6 +65,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: harden assertPeerRelevance](https://github.com/ChainSafe/lodestar/pull/10443#pullrequestreview-5663962390) - 2026-10-27
 * [Review] [Review on: fix: use the envelope's own payload status for `execution_optimistic`](https://github.com/ChainSafe/lodestar/pull/10484#pullrequestreview-5663710399) - 2026-10-27
 * [Review] [Review on: fix: return each gloas block once from fork choice block summaries](https://github.com/ChainSafe/lodestar/pull/10483#pullrequestreview-5663728075) - 2026-10-27
+* [Pull Request] [chore: use biome for markdown and yaml, drop prettier](https://github.com/ChainSafe/lodestar/pull/10492) - 2026-10-28
+* [Review] [Review on: chore: use biome for markdown and yaml, drop prettier](https://github.com/ChainSafe/lodestar/pull/10492#pullrequestreview-5680999313) - 2026-10-28
+* [Pull Request] [chore: handle floating promises reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10493) - 2026-10-28
+* [Review] [Review on: chore: handle floating promises reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10493#pullrequestreview-5678242224) - 2026-10-28
+* [Pull Request] [chore: enable useMathMinMax outside state-transition](https://github.com/ChainSafe/lodestar/pull/10497) - 2026-10-28
+* [Pull Request] [chore: fix non-null asserted optional chain reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10496) - 2026-10-28
+* [Pull Request] [chore: resolve misused promises reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10494) - 2026-10-28
+* [Pull Request] [chore: avoid unsafe optional chaining reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10495) - 2026-10-28
+* [Review] [Review on: chore: remove general workflow plugins from project settings](https://github.com/ChainSafe/lodestar/pull/10491#pullrequestreview-5677632233) - 2026-10-28
+* [Commit] [chore: use biome for markdown and yaml, drop prettier (#10492)](https://github.com/ChainSafe/lodestar/commit/c0cca9aa48c2807b228694689ae4db583d0be68d) - 2026-10-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -91,6 +101,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5676341852) - 2026-10-28
 * [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5662295257) - 2026-10-27
+* [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5680072157) - 2026-10-28
 ## Q3 2026
 
 

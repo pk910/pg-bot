@@ -53,6 +53,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Light client cache not cleared on payload invalidation](https://github.com/sigp/lighthouse/issues/10458) - 2026-10-27
 * [Issue] [Spec-compliant partial DataColumnsByRoot responses are penalised](https://github.com/sigp/lighthouse/issues/10457) - 2026-10-27
 * [Issue] [Valid blocks rejected as NotFinalizedDescendant after an unclean shutdown](https://github.com/sigp/lighthouse/issues/10456) - 2026-10-27
+* [Issue] [EIP-7805: FOCIL - tracking issue](https://github.com/sigp/lighthouse/issues/10485) - 2026-10-28
+* [Issue] [Heze (Hegotá) tracking issue](https://github.com/sigp/lighthouse/issues/10484) - 2026-10-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 
@@ -60,6 +62,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770) - 2026-10-27
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Add optional confirmedBlockHash to ForkchoiceStateV1](https://github.com/ethereum/execution-apis/pull/963) - 2026-10-28
 ## Q3 2026
 
 

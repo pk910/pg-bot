@@ -16,6 +16,7 @@ Team: Erigon
 * [Pull Request] [execution/state: force versionMap ⟺ noMaterialize](https://github.com/erigontech/erigon/pull/24844) - 2026-10-25
 * [Commit] [execution/state: force versionMap ⟺ noMaterialize (#24844)](https://github.com/erigontech/erigon/commit/19206bc031d48ceea9641032e0953249defe910b) - 2026-10-25
 * [Commit] [execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967) (#24133)](https://github.com/erigontech/erigon/commit/69816a3bf9bc4ce36617ad49280908206e469359) - 2026-10-25
+* [Pull Request] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState](https://github.com/erigontech/erigon/pull/25491) - 2026-10-28
 ## Q3 2026
 
 

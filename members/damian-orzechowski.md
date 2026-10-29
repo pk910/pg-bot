@@ -34,6 +34,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(engine): wait for committing ancestors before repeated invalid verdicts](https://github.com/NethermindEth/nethermind/pull/15021#pullrequestreview-5652957028) - 2026-10-26
 * [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248#pullrequestreview-5652997663) - 2026-10-26
 * [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5653535524) - 2026-10-26
+* [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684603234) - 2026-10-28
 ## Q3 2026
 
 

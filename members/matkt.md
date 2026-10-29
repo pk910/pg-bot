@@ -142,6 +142,17 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [Replace the supplier of a metric registered again on OpenTelemetry (#11773)](https://github.com/besu-eth/besu/commit/e69518378a459ff19c7252b4cbabcdf4d08c606c) - 2026-10-27
 * [Commit] [SNAP2: Add the bytecode queue of the state download (#11772)](https://github.com/besu-eth/besu/commit/e8dc9a84070de6fd768af9ac6f9f743d34de5ea0) - 2026-10-27
 * [Commit] [SNAP2: Add the writes of the state download (#11761)](https://github.com/besu-eth/besu/commit/286e370db83b4e16c440a180dd47be92557bfdd3) - 2026-10-27
+* [Review] [Review on: Derive RocksDB max open files from total memory minus the max heap](https://github.com/besu-eth/besu/pull/11762#pullrequestreview-5682870166) - 2026-10-28
+* [Review] [Review on: Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754#pullrequestreview-5680528482) - 2026-10-28
+* [Pull Request] [SNAP2: Add the sync storage on Forest](https://github.com/besu-eth/besu/pull/11791) - 2026-10-28
+* [Review] [Review on: SNAP2: Add the chain of a sync attempt](https://github.com/besu-eth/besu/pull/11783#pullrequestreview-5680562382) - 2026-10-28
+* [Pull Request] [SNAP2: Ignore the abort of a batch whose commit has started](https://github.com/besu-eth/besu/pull/11792) - 2026-10-28
+* [Pull Request] [SNAP2: Add the state download](https://github.com/besu-eth/besu/pull/11788) - 2026-10-28
+* [Review] [Review on: SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782#pullrequestreview-5680558634) - 2026-10-28
+* [Pull Request] [SNAP2: Add the pivot moves of the state download](https://github.com/besu-eth/besu/pull/11789) - 2026-10-28
+* [Commit] [SNAP2: Add the chain of a sync attempt (#11783)](https://github.com/besu-eth/besu/commit/eea7ad27ae1b65f862d8fac02240cf6744bf2c0c) - 2026-10-28
+* [Commit] [SNAP2: Set the chain head of a sync (#11782)](https://github.com/besu-eth/besu/commit/f593b9ed8fe391ac7b3633d0870d29e8c4a53416) - 2026-10-28
+* [Commit] [SNAP2: Run the body back-fill in the background (#11777)](https://github.com/besu-eth/besu/commit/b13f03bc858eccadbc0bcdc91fe5e3bb047c10f1) - 2026-10-28
 ## Q3 2026
 
 

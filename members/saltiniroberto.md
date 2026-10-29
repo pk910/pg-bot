@@ -8,6 +8,11 @@ Team: Dependable Distributed Systems (DDS)
 
 ## Contributions
 
+## Q4 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5680132522) - 2026-10-28
 ## Q3 2026
 
 

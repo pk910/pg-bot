@@ -78,6 +78,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Parse INCLUSION_LIST_DUE_BPS in the validator client](https://github.com/status-im/nimbus-eth2/pull/9382) - 2026-10-26
 * [Pull Request] [Fix winservice cast under --mm:orc](https://github.com/status-im/nimbus-eth2/pull/9392) - 2026-10-27
 * [Pull Request] [Implement reportDiff with generics instead of a macro](https://github.com/status-im/nimbus-eth2/pull/9389) - 2026-10-27
+* [Pull Request] [Use stew hasField](https://github.com/status-im/nimbus-eth2/pull/9406) - 2026-10-28
+* [Pull Request] [Drop custom assign overload](https://github.com/status-im/nimbus-eth2/pull/9400) - 2026-10-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

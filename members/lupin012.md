@@ -155,6 +155,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [execution/tracing/tracers/native: take the prestate code hash from the state](https://github.com/erigontech/erigon/pull/25445) - 2026-10-27
 * [Pull Request] [execution/state: publish each tx's origins once](https://github.com/erigontech/erigon/pull/25439) - 2026-10-27
 * [Review] [Review on: qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode](https://github.com/erigontech/erigon/pull/25431#pullrequestreview-5666474124) - 2026-10-27
+* [Pull Request] [cl/beacon/handler: fix flaky timing in wait tests](https://github.com/erigontech/erigon/pull/25492) - 2026-10-28
+* [Review] [Review on: db/kv, rpc/jsonrpc: add TemporalTx.IndexJoin for AND-of-OR index queries](https://github.com/erigontech/erigon/pull/25342#pullrequestreview-5688551365) - 2026-10-28
+* [Commit] [execution/state: publish each tx's origins once (#25439)](https://github.com/erigontech/erigon/commit/5709c66569d47c0d2038f69a1fbd6a033047079d) - 2026-10-28
+* [Commit] [execution/tracing/tracers/native: take the prestate code hash from the state (#25445)](https://github.com/erigontech/erigon/commit/c1dd7374c64ba3fe5ac82194a685e69c213d84ef) - 2026-10-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -212,6 +216,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step](https://github.com/erigontech/rpc-tests/pull/642) - 2026-10-24
 * [Review] [Review on: mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643#pullrequestreview-5665812638) - 2026-10-27
 * [Commit] [integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step (#642)](https://github.com/erigontech/rpc-tests/commit/f717015b0abcb0f1a423fc5aed97749dd33ac404) - 2026-10-27
+* [Pull Request] [rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644) - 2026-10-28
 ## Q3 2026
 
 

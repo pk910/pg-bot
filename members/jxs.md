@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Flesh out CODEOWNERS a bit more](https://github.com/sigp/lighthouse/pull/10394#pullrequestreview-5588023858) - 2026-10-20
 * [Pull Request] [Remove `AppRequestId` in favor of `Option<SyncRequestId>`](https://github.com/sigp/lighthouse/pull/10398) - 2026-10-20
 * [Review] [Review on: Remove `AppRequestId` in favor of `Option<SyncRequestId>`](https://github.com/sigp/lighthouse/pull/10398#pullrequestreview-5589194943) - 2026-10-20
+* [Pull Request] [reclaim timed-out inbound RPC substreams](https://github.com/sigp/lighthouse/pull/10486) - 2026-10-28
 [sigp/enr](https://github.com/sigp/enr)
 * [Review] [Review on: Replace Decodable impl with Enr::decode returning enr::Error](https://github.com/sigp/enr/pull/93#pullrequestreview-5557791526) - 2026-10-17
 ## Q3 2026

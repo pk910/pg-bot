@@ -251,6 +251,68 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(network): bind an OS-assigned port in RlpxPeerTests.Start_stop (#15262)](https://github.com/NethermindEth/nethermind/commit/4ea72902de9ec4e0f0b58dabaa98c4cfde456df6) - 2026-10-27
 * [Commit] [fix(consensus): skip block production quietly when parent state is unavailable while preparing (#15226)](https://github.com/NethermindEth/nethermind/commit/919eff8b17c18a50fd6922904c4b1aefb74aa711) - 2026-10-27
 * [Commit] [fix(flat): root persisted snapshot, trie node log and verify-trie paths like the databases (#15237)](https://github.com/NethermindEth/nethermind/commit/b0b9d1b515b101c26eba7b324336d39dd80824f5) - 2026-10-27
+* [Pull Request] [fix(blockchain): keep known safe and finalized blocks when forkchoice sends a zero hash](https://github.com/NethermindEth/nethermind/pull/15367) - 2026-10-28
+* [Review] [Review on: fix(blockchain): keep known safe and finalized blocks when forkchoice sends a zero hash](https://github.com/NethermindEth/nethermind/pull/15367#pullrequestreview-5690276570) - 2026-10-28
+* [Review] [Review on: fix(era1): release the export lock when admin_exportHistory rejects its arguments](https://github.com/NethermindEth/nethermind/pull/15311#pullrequestreview-5689513315) - 2026-10-28
+* [Pull Request] [test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter](https://github.com/NethermindEth/nethermind/pull/15356) - 2026-10-28
+* [Review] [Review on: test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter](https://github.com/NethermindEth/nethermind/pull/15356#pullrequestreview-5689392640) - 2026-10-28
+* [Review] [Review on: fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15310#pullrequestreview-5681904254) - 2026-10-28
+* [Pull Request] [fix(consensus): log pruned-state block reward misses in ProcessingStats at Debug](https://github.com/NethermindEth/nethermind/pull/15368) - 2026-10-28
+* [Pull Request] [fix(logindex): do not floor the forward batch at the receipts barrier](https://github.com/NethermindEth/nethermind/pull/15320) - 2026-10-28
+* [Review] [Review on: fix(logindex): do not floor the forward batch at the receipts barrier](https://github.com/NethermindEth/nethermind/pull/15320#pullrequestreview-5682558329) - 2026-10-28
+* [Review] [Review on: fix(txpool): mark blob txs restored from persistent storage as known](https://github.com/NethermindEth/nethermind/pull/15309#pullrequestreview-5689514245) - 2026-10-28
+* [Pull Request] [fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333) - 2026-10-28
+* [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684128722) - 2026-10-28
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5684012508) - 2026-10-28
+* [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5683985488) - 2026-10-28
+* [Review] [Review on: fix(evm): report the unpaid opcode cost on out-of-gas struct-log steps](https://github.com/NethermindEth/nethermind/pull/15273#pullrequestreview-5684014937) - 2026-10-28
+* [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5687170422) - 2026-10-28
+* [Review] [Review on: fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338#pullrequestreview-5685059705) - 2026-10-28
+* [Review] [Review on: fix(logging): mask sensitive log fields and remove credential leaks](https://github.com/NethermindEth/nethermind/pull/14301#pullrequestreview-5684690617) - 2026-10-28
+* [Review] [Review on: perf(zkevm): carry the SP1 guest's dispatch table as its address in words](https://github.com/NethermindEth/nethermind/pull/15292#pullrequestreview-5683892686) - 2026-10-28
+* [Review] [Review on: perf(zkevm): lean world state for zkVM guests](https://github.com/NethermindEth/nethermind/pull/15341#pullrequestreview-5684796596) - 2026-10-28
+* [Review] [Review on: perf(db): parse rocksdb statistics without per-tick allocation](https://github.com/NethermindEth/nethermind/pull/15346#pullrequestreview-5683771947) - 2026-10-28
+* [Pull Request] [test(snapshot): ignore handler failures racing the test server shutdown](https://github.com/NethermindEth/nethermind/pull/15314) - 2026-10-28
+* [Review] [Review on: test(snapshot): ignore handler failures racing the test server shutdown](https://github.com/NethermindEth/nethermind/pull/15314#pullrequestreview-5682344280) - 2026-10-28
+* [Pull Request] [fix(monitoring): run metrics update actions when only CountersEnabled is set](https://github.com/NethermindEth/nethermind/pull/15331) - 2026-10-28
+* [Review] [Review on: fix(monitoring): run metrics update actions when only CountersEnabled is set](https://github.com/NethermindEth/nethermind/pull/15331#pullrequestreview-5683924039) - 2026-10-28
+* [Pull Request] [fix(taiko): keep the built block hash in L1Origin on repeated payload attributes](https://github.com/NethermindEth/nethermind/pull/15322) - 2026-10-28
+* [Review] [Review on: fix(taiko): keep the built block hash in L1Origin on repeated payload attributes](https://github.com/NethermindEth/nethermind/pull/15322#pullrequestreview-5684201064) - 2026-10-28
+* [Review] [Review on: test(eest): bump fixtures to tests@v21.0.2](https://github.com/NethermindEth/nethermind/pull/15354#pullrequestreview-5687228540) - 2026-10-28
+* [Review] [Review on: docs(agents): rule out stale conformance tests before changing the client](https://github.com/NethermindEth/nethermind/pull/15357#pullrequestreview-5687092640) - 2026-10-28
+* [Review] [Review on: perf(zkevm): round the SP1 jump look-back's word and bias bases once](https://github.com/NethermindEth/nethermind/pull/15293#pullrequestreview-5683978762) - 2026-10-28
+* [Review] [Review on: perf(zkevm): hash SSZ merkle trees in SP1's SHA-256 word order](https://github.com/NethermindEth/nethermind/pull/15355#pullrequestreview-5687204470) - 2026-10-28
+* [Issue] [TransportMemoryPoolTests concurrent timer test times out on macOS runners](https://github.com/NethermindEth/nethermind/issues/15344) - 2026-10-28
+* [Issue] [ProcessingStats logs ERROR 'Error when calculating block rewards' (MissingTrieNodeException) when a delayed report reads state Hybrid pruning already removed](https://github.com/NethermindEth/nethermind/issues/15364) - 2026-10-28
+* [Issue] [Log index forward sync fails with 'buffer size is too small' when the stored index ends below the receipts barrier](https://github.com/NethermindEth/nethermind/issues/15316) - 2026-10-28
+* [Issue] [eth_subscribe transactionReceipts with an empty transactionHashes list never delivers receipts](https://github.com/NethermindEth/nethermind/issues/15325) - 2026-10-28
+* [Issue] [Metrics update actions never run when only Metrics.CountersEnabled is set](https://github.com/NethermindEth/nethermind/issues/15328) - 2026-10-28
+* [Issue] [Taiko: repeated forkchoiceUpdated with the same payload attributes overwrites the stored L1Origin block hash with zero](https://github.com/NethermindEth/nethermind/issues/15318) - 2026-10-28
+* [Issue] [Flat state snap serving is 2.7-4.6x slower than HalfPath (GetAccountRange ~0.4 s / GetStorageRanges ~0.7 s per 2 MB response)](https://github.com/NethermindEth/nethermind/issues/15365) - 2026-10-28
+* [Issue] [eth_config reports a negative activationTime for fork timestamps of 2^31 or more](https://github.com/NethermindEth/nethermind/issues/15326) - 2026-10-28
+* [Issue] [eth_getFilterLogs returns 4444 Pruned history unavailable for a range beyond the head or an unset safe/finalized block](https://github.com/NethermindEth/nethermind/issues/15324) - 2026-10-28
+* [Issue] [Shutter encrypted gas used metric is not updated when the encrypted gas limit is reached](https://github.com/NethermindEth/nethermind/issues/15319) - 2026-10-28
+* [Issue] [Taiko batch lookup scan does not stop once proposal ids drop below the requested batch](https://github.com/NethermindEth/nethermind/issues/15317) - 2026-10-28
+* [Issue] [engine_getBlobsV2/V3 serve blob pool data while the node reports syncing, unlike engine_getBlobsV4](https://github.com/NethermindEth/nethermind/issues/15337) - 2026-10-28
+* [Issue] [Reorganizations metric is never updated](https://github.com/NethermindEth/nethermind/issues/15327) - 2026-10-28
+* [Issue] [Default JWT secret is written under the working directory instead of the keystore directory used by the node key](https://github.com/NethermindEth/nethermind/issues/15329) - 2026-10-28
+* [Commit] [fix(blockchain): keep known safe and finalized blocks when forkchoice sends a zero hash (#15367)](https://github.com/NethermindEth/nethermind/commit/73edc6d2a3942e16cb3bc208dd14170405da88e3) - 2026-10-29
+* [Commit] [fix(era1): release the export lock when admin_exportHistory rejects its arguments (#15311)](https://github.com/NethermindEth/nethermind/commit/72a6b56fa7da859debae09a561ae7c4aa1680dd4) - 2026-10-29
+* [Commit] [test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter (#15356)](https://github.com/NethermindEth/nethermind/commit/b94c5510d3941438e148f85a94654aa19dad936d) - 2026-10-29
+* [Commit] [fix(consensus): log pruned-state block reward misses in ProcessingStats at Debug (#15368)](https://github.com/NethermindEth/nethermind/commit/bdbf8323c74dad822cdb1f16cdf9c6c1986be172) - 2026-10-29
+* [Commit] [fix(logindex): do not floor the forward batch at the receipts barrier (#15320)](https://github.com/NethermindEth/nethermind/commit/887aad26093938df5f6cd3d627b4ed0d36a4c840) - 2026-10-29
+* [Commit] [fix(txpool): mark blob txs restored from persistent storage as known (#15309)](https://github.com/NethermindEth/nethermind/commit/ff193ac860f71c831af36b81d2c9c63eb06584a7) - 2026-10-29
+* [Commit] [fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription (#15333)](https://github.com/NethermindEth/nethermind/commit/52994534912c506931c5c779dcd2caa0dcb1ff4c) - 2026-10-29
+* [Commit] [test(snapshot): ignore handler failures racing the test server shutdown (#15314)](https://github.com/NethermindEth/nethermind/commit/db76d9af84ac335e356d6d817485483fe4d575c4) - 2026-10-28
+* [Commit] [fix(monitoring): run metrics update actions when only CountersEnabled is set (#15331)](https://github.com/NethermindEth/nethermind/commit/d747fb705da7e4e55ba61c3217bc3c8ee873cd7c) - 2026-10-28
+* [Commit] [fix(taiko): keep the built block hash in L1Origin on repeated payload attributes (#15322)](https://github.com/NethermindEth/nethermind/commit/a33bb75aae99c3578a28c761ff9f80694d12957c) - 2026-10-28
+* [Commit] [fix(rpc): report eth_config fork activation as uint64 (#15334)](https://github.com/NethermindEth/nethermind/commit/c40f1969edd9bbb7b1103231b4ff45faaa49f1c8) - 2026-10-28
+* [Commit] [fix(rpc): validate eth_getFilterLogs range like eth_getLogs (#15332)](https://github.com/NethermindEth/nethermind/commit/5618bd87e49719c8fe4959caae3ca01f5d9515c5) - 2026-10-28
+* [Commit] [fix(shutter): report encrypted gas used when the gas limit is reached (#15323)](https://github.com/NethermindEth/nethermind/commit/155780ceadad0db94ff5e533e65de47526cbcb3a) - 2026-10-28
+* [Commit] [fix(taiko): stop batch lookup scan once proposal ids drop below the batch (#15321)](https://github.com/NethermindEth/nethermind/commit/dc530673f46a12476d92a1602c99b24fbb891ff8) - 2026-10-28
+* [Commit] [test(merge): wait for the stored payload before raising the cleanup timer (#15315)](https://github.com/NethermindEth/nethermind/commit/e3d6ebdf1822416e2b462c350c83b099677124d9) - 2026-10-28
+* [Commit] [fix(config): remove unknown AuRaMerge.Enabled key from chiado_archive.json (#15313)](https://github.com/NethermindEth/nethermind/commit/6cb13d24105791298fa98091347d2a84c17e3337) - 2026-10-28
+* [Commit] [fix(healthchecks): stop waiting for free disk space on shutdown (#15312)](https://github.com/NethermindEth/nethermind/commit/d3cc6bc67c65b0506503c2b98b575103d62676ab) - 2026-10-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

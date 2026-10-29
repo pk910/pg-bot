@@ -56,6 +56,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(rlp): encode through a length stack instead of recomputing lengths](https://github.com/NethermindEth/nethermind/pull/15271) - 2026-10-27
 * [Review] [Review on: fix(pruning): reclaim blocks db space left by pinned blob files after history pruning](https://github.com/NethermindEth/nethermind/pull/15242#pullrequestreview-5676030714) - 2026-10-27
 * [Review] [Review on: perf(flat): skip snapshot layer lookups that miss with split-block filters](https://github.com/NethermindEth/nethermind/pull/15282#pullrequestreview-5667266007) - 2026-10-27
+* [Pull Request] [test(merge): wait for the resent block's commit before building on it](https://github.com/NethermindEth/nethermind/pull/15379) - 2026-10-29
+* [Pull Request] [test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376) - 2026-10-29
+* [Pull Request] [perf(db): parse rocksdb statistics without per-tick allocation](https://github.com/NethermindEth/nethermind/pull/15346) - 2026-10-28
+* [Commit] [perf(flat): store trie nodes in a pointer-linked node record buffer (#14952)](https://github.com/NethermindEth/nethermind/commit/763af0ee80e23947855778ad495142abe7a88561) - 2026-10-29
+* [Commit] [perf(db): parse rocksdb statistics without per-tick allocation (#15346)](https://github.com/NethermindEth/nethermind/commit/24327091c7c593482ba108477139f5d02933b156) - 2026-10-28
 ## Q3 2026
 
 

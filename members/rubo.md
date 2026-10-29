@@ -100,6 +100,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(ci): name C# scripts in lowercase kebab-case](https://github.com/NethermindEth/nethermind/pull/15247#pullrequestreview-5653398276) - 2026-10-26
 * [Commit] [fix(zkevm): move the SP1 guest to SP1 v6.9.0 (#15125)](https://github.com/NethermindEth/nethermind/commit/e5424c2858faee6d832d6094c26aeed6c483f90d) - 2026-10-26
 * [Commit] [chore(deps): update .NET packages (#15211)](https://github.com/NethermindEth/nethermind/commit/ed62f06dbdb1486f8a325324eb280fefbae2a377) - 2026-10-26
+* [Pull Request] [chore(deps): update RocksDB to 11.12](https://github.com/NethermindEth/nethermind/pull/15366) - 2026-10-28
+* [Pull Request] [refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15369) - 2026-10-28
+* [Review] [Review on: refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15369#pullrequestreview-5689160755) - 2026-10-28
+* [Commit] [refactor(discovery)!: serialize discv4 messages into spans instead of DotNetty buffers (#15360)](https://github.com/NethermindEth/nethermind/commit/556296d9e074c7910d4ad8eafe896f605c488008) - 2026-10-28
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

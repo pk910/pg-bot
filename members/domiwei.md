@@ -347,6 +347,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/network/services, cl/phase1/core/state: cache a small bid validation view instead of a full state (#25331)](https://github.com/erigontech/erigon/commit/d415191993ff701a32c19ff204db90d4874e1eca) - 2026-10-27
 * [Commit] [cl/phase1/forkchoice: verify execution payload envelopes before taking the fork-choice lock (#25332)](https://github.com/erigontech/erigon/commit/deb4444c38ef82a0d6857b1439f6e825f73175cc) - 2026-10-27
 * [Commit] [execution/builder, txnprovider/txpool: stop building empty blocks when the top pending txns are nonce-too-high (#25334)](https://github.com/erigontech/erigon/commit/20862a77832d2596d85f3ce1ebd75217827a953a) - 2026-10-27
+* [Pull Request] [[r3.8] cl: give envelope disk I/O its own lock](https://github.com/erigontech/erigon/pull/25484) - 2026-10-28
+* [Pull Request] [[r3.8] cl: Beacon API fixes for Gloas envelopes, pending queues and state encoding](https://github.com/erigontech/erigon/pull/25462) - 2026-10-28
+* [Pull Request] [[r3.8] cl/beacon/handler: fix flaky TestPayloadPreparationCollectionWithExecutionModule](https://github.com/erigontech/erigon/pull/25485) - 2026-10-28
+* [Pull Request] [cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise](https://github.com/erigontech/erigon/pull/25475) - 2026-10-28
+* [Review] [Review on: cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise](https://github.com/erigontech/erigon/pull/25475#pullrequestreview-5686527262) - 2026-10-28
+* [Pull Request] [[r3.8] cl, execution: head state publish, Gloas payload_attributes event, builder, busy FCU and migration fixes](https://github.com/erigontech/erigon/pull/25461) - 2026-10-28
+* [Pull Request] [cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict](https://github.com/erigontech/erigon/pull/25469) - 2026-10-28
+* [Commit] [execution/state, execution/stagedsync: notify the txpool of an account's full state after a partial write (#25441)](https://github.com/erigontech/erigon/commit/da6d8c2be0e590ebcb42a9e8b1680d0d6864cc77) - 2026-10-28
+* [Commit] [cl/clparams, cl/persistence, cl/phase1/stages: keep beacon blocks the specs require (#25412)](https://github.com/erigontech/erigon/commit/c5c60151c33c5f8a00656ce936c5f0ae6fa59f11) - 2026-10-28
+* [Commit] [cl: give envelope disk I/O its own lock (#25436)](https://github.com/erigontech/erigon/commit/8a5bf399da8ea8ca267db49330c1b08c82eecf15) - 2026-10-28
+* [Commit] [cl: answer attestation_data from fork choice without waiting for the head state (#25359)](https://github.com/erigontech/erigon/commit/0e470b97840af24f4472ac06215073f2fef18d9c) - 2026-10-28
 ## Q3 2026
 
 

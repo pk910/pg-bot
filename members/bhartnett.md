@@ -61,6 +61,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Borrowed txFrame and com as untraced pointers in worker tasks](https://github.com/status-im/nimbus-eth1/pull/5081) - 2026-10-24
 * [Commit] [Borrowed txFrame and com as untraced pointers in worker tasks (#5081)](https://github.com/status-im/nimbus-eth1/commit/3fbc7a9b6bf9d1386e576ee95dcef6ee289ec19c) - 2026-10-25
 * [Pull Request] [Add debug-sto-static-lookup option to toggle storage static vid lookups](https://github.com/status-im/nimbus-eth1/pull/5106) - 2026-10-27
+* [Pull Request] [Mixed rdb cache keys](https://github.com/status-im/nimbus-eth1/pull/5107) - 2026-10-28
+* [Pull Request] [Skip the static vid lookup for small storage tries](https://github.com/status-im/nimbus-eth1/pull/5109) - 2026-10-28
+* [Commit] [Mixed rdb cache keys (#5107)](https://github.com/status-im/nimbus-eth1/commit/987d891ce33f719e1428477b2a01478504238a02) - 2026-10-28
+* [Commit] [Skip the static vid lookup for small storage tries (#5109)](https://github.com/status-im/nimbus-eth1/commit/b7495107926b8dd2b8bde81278e54a25587976e0) - 2026-10-28
+* [Commit] [Add debug cli option to toggle storage static vid lookups (#5106)](https://github.com/status-im/nimbus-eth1/commit/0ba2bc1fc5bd12f37cefed763f0d54ae1c579608) - 2026-10-28
 ## Q3 2026
 
 

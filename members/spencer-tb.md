@@ -114,6 +114,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-forks,tests): list the EIP-7906 instructions as valid opcodes from Bogota](https://github.com/ethereum/execution-specs/pull/3923) - 2026-10-27
 * [Review] [Review on: feat(test-consume): split oversized enginex pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3919#pullrequestreview-5667239643) - 2026-10-27
 * [Review] [Review on: feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365#pullrequestreview-5667033691) - 2026-10-27
+* [Review] [Review on: chore(ci): publish forks/bogota docs as the default dev branch](https://github.com/ethereum/execution-specs/pull/3925#pullrequestreview-5682470112) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

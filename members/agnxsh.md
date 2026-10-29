@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Adopt compute_max_data_column_sidecar_size](https://github.com/status-im/nimbus-eth2/pull/9237#pullrequestreview-5454662629) - 2026-10-08
 * [Pull Request] [add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285) - 2026-10-15
 * [Pull Request] [add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351) - 2026-10-22
+* [Pull Request] [wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397) - 2026-10-28
 ## Q3 2026
 
 

@@ -71,6 +71,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: perf(test-consume): run enginex tests grouped by fixture file](https://github.com/ethereum/execution-specs/pull/3914#pullrequestreview-5658699803) - 2026-10-26
 * [Pull Request] [feat(docs): add fork-status table to the readme](https://github.com/ethereum/execution-specs/pull/3924) - 2026-10-27
 * [Review] [Review on: chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota)](https://github.com/ethereum/execution-specs/pull/3921#pullrequestreview-5671704545) - 2026-10-27
+* [Pull Request] [chore(specs): Add meta-EIP to BPO1 fork](https://github.com/ethereum/execution-specs/pull/3932) - 2026-10-28
+* [Review] [Review on: feat(docs): split protocol history into stable and unstable fork tables](https://github.com/ethereum/execution-specs/pull/3924#pullrequestreview-5682749482) - 2026-10-28
+* [Commit] [feat(docs): split protocol history into stable and unstable fork tables (#3924)](https://github.com/ethereum/execution-specs/commit/873ecb3e982ad4311a91cea5aaf2bbb83d306db1) - 2026-10-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

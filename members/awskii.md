@@ -256,6 +256,20 @@ Team: Erigon
 * [Commit] [cmd/capcli, freezeblocks: remove a replaced blob segment's index and torrents before compressing the new one (#25380)](https://github.com/erigontech/erigon/commit/06db10f98f54dc439f16664cabb989c00008d84f) - 2026-10-27
 * [Commit] [db/state: existence filters stay mmap'd (MADV_RANDOM) by default below 20 GiB of memory (#25340)](https://github.com/erigontech/erigon/commit/58758a3588cf6b7181d1ee96ae666e1843a6ffa2) - 2026-10-27
 * [Commit] [execution/p2p: move the body retry off a timed-out peer (#25337)](https://github.com/erigontech/erigon/commit/3e22f877cbecddceebd3541aff16f4f49e490203) - 2026-10-27
+* [Pull Request] [cmd/integration, db/state: fast PBT convert, manifest attach and resume](https://github.com/erigontech/erigon/pull/25467) - 2026-10-28
+* [Review] [Review on: db/state: store inverted index values as txNum chunks](https://github.com/erigontech/erigon/pull/25304#pullrequestreview-5682314884) - 2026-10-28
+* [Review] [Review on: txnprovider/txpool: count earlier txns of a batch against sender and blob limits](https://github.com/erigontech/erigon/pull/25354#pullrequestreview-5682732963) - 2026-10-28
+* [Pull Request] [cl/antiquary: call RemoveOverlaps for caplin blocks and blobs](https://github.com/erigontech/erigon/pull/25489) - 2026-10-28
+* [Pull Request] [db/snapshotsync: open every caplin segment as EL does](https://github.com/erigontech/erigon/pull/25488) - 2026-10-28
+* [Pull Request] [db/snapshotsync: take caplin SegmentsMax from the visible set, as EL does](https://github.com/erigontech/erigon/pull/25487) - 2026-10-28
+* [Review] [Review on: execution/state: HistoryReaderV3 reads through SharedDomains' AsOfGetter](https://github.com/erigontech/erigon/pull/25453#pullrequestreview-5682114988) - 2026-10-28
+* [Review] [Review on: mmap: report and fix snapshot files left without MADV_RANDOM](https://github.com/erigontech/erigon/pull/22967#pullrequestreview-5682111144) - 2026-10-28
+* [Pull Request] [bsc/chain, cmd/utils, execution/chain: add the BSC mainnet chain spec](https://github.com/erigontech/erigon/pull/25470) - 2026-10-28
+* [Pull Request] [execution: treat state ahead of TxNums as TooFarAway in ValidateChain](https://github.com/erigontech/erigon/pull/25472) - 2026-10-28
+* [Review] [Review on: [wip] db/kv/mdbx, execution/execmodule: online defrag of chaindata after initial-cycle prune](https://github.com/erigontech/erigon/pull/23959#pullrequestreview-5682736340) - 2026-10-28
+* [Issue] [execution/execmodule: ValidateChain leaves SharedDomains open when ValidatePayload returns before adopting them](https://github.com/erigontech/erigon/issues/25455) - 2026-10-28
+* [Issue] [execution/engineapi: a batch download over an execution lag stops before UpdateForkChoice](https://github.com/erigontech/erigon/issues/25454) - 2026-10-28
+* [Commit] [cl/phase1: rate history ETA by downloaded blocks, not skipped slots (#25421)](https://github.com/erigontech/erigon/commit/8ba49e21e9aee4887d0cda2eaadd83fc34cb24f7) - 2026-10-28
 ## Q3 2026
 
 

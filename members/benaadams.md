@@ -351,6 +351,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(ci): apply review feedback on migrated CI scripts (#15246)](https://github.com/NethermindEth/nethermind/commit/d48833af88ec4224c86afadd1c596e8f619c406b) - 2026-10-27
 * [Commit] [refactor(ci): name C# scripts in lowercase kebab-case (#15247)](https://github.com/NethermindEth/nethermind/commit/e2f890e1797008d6df0bda2435518cf8a114717b) - 2026-10-27
 * [Commit] [perf(bal): de-duplicate written code hashes with a set (#15250)](https://github.com/NethermindEth/nethermind/commit/c3a4d9beb851737af71dddb8d91202a13a37acc7) - 2026-10-27
+* [Review] [Review on: chore(deps): update RocksDB to 11.12](https://github.com/NethermindEth/nethermind/pull/15366#pullrequestreview-5691647899) - 2026-10-29
+* [Review] [Review on: fix(blockchain): keep known safe and finalized blocks when forkchoice sends a zero hash](https://github.com/NethermindEth/nethermind/pull/15367#pullrequestreview-5691648011) - 2026-10-29
+* [Review] [Review on: fix(era1): release the export lock when admin_exportHistory rejects its arguments](https://github.com/NethermindEth/nethermind/pull/15311#pullrequestreview-5691648411) - 2026-10-29
+* [Review] [Review on: refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15369#pullrequestreview-5691648721) - 2026-10-29
+* [Review] [Review on: test(rpc): bound the concurrent pool timer test by time so slow runners finish inside CancelAfter](https://github.com/NethermindEth/nethermind/pull/15356#pullrequestreview-5691648600) - 2026-10-29
+* [Review] [Review on: fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15310#pullrequestreview-5691648303) - 2026-10-29
+* [Review] [Review on: fix(consensus): log pruned-state block reward misses in ProcessingStats at Debug](https://github.com/NethermindEth/nethermind/pull/15368#pullrequestreview-5691648841) - 2026-10-29
+* [Review] [Review on: fix(logindex): do not floor the forward batch at the receipts barrier](https://github.com/NethermindEth/nethermind/pull/15320#pullrequestreview-5691648201) - 2026-10-29
+* [Review] [Review on: fix(txpool): mark blob txs restored from persistent storage as known](https://github.com/NethermindEth/nethermind/pull/15309#pullrequestreview-5691648498) - 2026-10-29
+* [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5691648112) - 2026-10-29
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5691649527) - 2026-10-29
+* [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5691649421) - 2026-10-29
+* [Review] [Review on: fix(evm): report the unpaid opcode cost on out-of-gas struct-log steps](https://github.com/NethermindEth/nethermind/pull/15273#pullrequestreview-5691649317) - 2026-10-29
+* [Review] [Review on: test(ethereum-tests): cover EIP-7906 assert frames in state tests](https://github.com/NethermindEth/nethermind/pull/15210#pullrequestreview-5691649234) - 2026-10-29
+* [Review] [Review on: refactor(eip7906): drop TXDIFF and move EVENTDATACOPY to 0xb7](https://github.com/NethermindEth/nethermind/pull/15033#pullrequestreview-5691649138) - 2026-10-29
+* [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5691647709) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

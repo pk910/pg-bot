@@ -92,6 +92,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: CI audit failure](https://github.com/sigp/lighthouse/pull/10441#pullrequestreview-5659671828) - 2026-10-26
 * [Review] [Review on: Apply validator custody from genesis on pre-genesis registration](https://github.com/sigp/lighthouse/pull/10404#pullrequestreview-5676654983) - 2026-10-28
 * [Review] [Review on: Reject empty builder auth_data at VC config load](https://github.com/sigp/lighthouse/pull/10435#pullrequestreview-5676489989) - 2026-10-28
+* [Pull Request] [Add missing gossip check for Gloas blocks built on Empty](https://github.com/sigp/lighthouse/pull/10491) - 2026-10-29
+* [Review] [Review on: Only de-bounce the full reprocess queue log](https://github.com/sigp/lighthouse/pull/10483#pullrequestreview-5691156713) - 2026-10-28
+* [Issue] [Slow fork choice persistence causes block proposal timeouts](https://github.com/sigp/lighthouse/issues/10490) - 2026-10-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

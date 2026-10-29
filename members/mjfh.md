@@ -37,6 +37,9 @@ Team: Nimbus
 * [Review] [Review on: beacon sync: cancel the session when the last sync peer serves an invalid block](https://github.com/status-im/nimbus-eth1/pull/5041#pullrequestreview-5670960596) - 2026-10-27
 * [Pull Request] [Snap2 state take over and restart](https://github.com/status-im/nimbus-eth1/pull/5098) - 2026-10-27
 * [Commit] [Snap2 state take over and restart (#5098)](https://github.com/status-im/nimbus-eth1/commit/fff52de2bae500284928bffce5f37c2b6127d035) - 2026-10-27
+* [Review] [Review on: snap sync: reject a ByteCodes reply with more codes than requested](https://github.com/status-im/nimbus-eth1/pull/5105#pullrequestreview-5686189146) - 2026-10-28
+* [Pull Request] [Snap2 avoid some race conditions](https://github.com/status-im/nimbus-eth1/pull/5110) - 2026-10-28
+* [Commit] [Snap2 avoid some race conditions (#5110)](https://github.com/status-im/nimbus-eth1/commit/1b66061420801a6e3aef12efeb140c4fb888ccf4) - 2026-10-28
 ## Q3 2026
 
 

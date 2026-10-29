@@ -90,6 +90,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [execution/state: keep an account read as absent when the tx loads it](https://github.com/erigontech/erigon/pull/25424) - 2026-10-27
 * [Commit] [execution/state: keep an account read as absent when the tx loads it (#25424)](https://github.com/erigontech/erigon/commit/ced7966a10f52d78679f4041c6c75ebf37ed485b) - 2026-10-27
 * [Commit] [execution/stagedsync, execution/state: keep a fee recipient's cells an estimate until calcFees writes them (#25397)](https://github.com/erigontech/erigon/commit/b2bf7be73a37c4f01f2172732892758e2bea0441) - 2026-10-27
+* [Pull Request] [execution/state: keep the access list's value of a slot that a re-run writes net-zero](https://github.com/erigontech/erigon/pull/25466) - 2026-10-28
+* [Review] [Review on: execution/state: keep the access list's value of a slot that a re-run writes net-zero](https://github.com/erigontech/erigon/pull/25466#pullrequestreview-5681992252) - 2026-10-28
+* [Commit] [execution/state: remove an earlier run's cell when a net-zero storage write is flushed (#25450)](https://github.com/erigontech/erigon/commit/f2b4dfd6f3de6fa6c255af211d3c7908bbd01bd3) - 2026-10-28
+* [Commit] [execution/state: do not keep an absence recorded at a destruct that kept the balance (#25410)](https://github.com/erigontech/erigon/commit/27f65f93cf5f88ca710f2ef6973ee60724d73b82) - 2026-10-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -185,6 +189,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [baseline: Test a bitset bit by shifting it down (#1785)](https://github.com/ipsilon/evmone/commit/a40d000dc16b0b95ae632b7f923926267711b039) - 2026-10-27
 * [Commit] [baseline: Declare the instruction gas cost as int64_t (#1784)](https://github.com/ipsilon/evmone/commit/ba5d2fde6cec5ff332ac3341282d43e9a939fa0a) - 2026-10-27
 * [Commit] [evm: Compute the memory growth by one word with one multiplication (#1783)](https://github.com/ipsilon/evmone/commit/0aa60b4f24f4728e0af32e51c23be984c5042cfe) - 2026-10-27
+* [Pull Request] [baseline: Return zero gas when instruction checks fail](https://github.com/ipsilon/evmone/pull/1791) - 2026-10-28
+* [Pull Request] [evm: Add Gas::charge() for the gas checks](https://github.com/ipsilon/evmone/pull/1789) - 2026-10-28
+* [Pull Request] [evm: Use the wrapping subtraction in Gas::charge() with Clang](https://github.com/ipsilon/evmone/pull/1790) - 2026-10-28
+* [Issue] [baseline: Weight the computed goto with the opcode frequencies](https://github.com/ipsilon/evmone/issues/1792) - 2026-10-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

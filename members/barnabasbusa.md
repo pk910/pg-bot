@@ -202,6 +202,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [`engine_forkchoiceUpdatedV5` blocks on executing the inclusion list, CL proposes with a stale payload id](https://github.com/NethermindEth/nethermind/issues/15172) - 2026-10-23
 
+* [Commit] [fix(merge): respond to engine_getPayload immediately (#15272)](https://github.com/NethermindEth/nethermind/commit/6223323cc9947b728cb100ba562835ee22baaa98) - 2026-10-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(docker): include contrib in Docker build context](https://github.com/paradigmxyz/reth/pull/28092) - 2026-10-23
 * [Commit] [fix(docker): include contrib in Docker build context (#28092)](https://github.com/paradigmxyz/reth/commit/21ee0fc8603b5c25ae8a2ffc6f29589ef4b90906) - 2026-10-23
