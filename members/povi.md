@@ -74,6 +74,8 @@ Team: Grandine
 * [Review] [Review on: Updated crates](https://github.com/grandinetech/grandine/pull/1015#pullrequestreview-5670389217) - 2026-10-27
 * [Review] [Review on: Updated crates](https://github.com/grandinetech/grandine/pull/1011#pullrequestreview-5663585925) - 2026-10-27
 * [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5684405302) - 2026-10-28
+* [Pull Request] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020) - 2026-10-29
+* [Review] [Review on: Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/pull/1021#pullrequestreview-5699515377) - 2026-10-29
 ## Q3 2026
 
 

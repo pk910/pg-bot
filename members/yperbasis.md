@@ -320,6 +320,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl: skip index writes for ignored published blocks](https://github.com/erigontech/erigon/issues/25483) - 2026-10-28
 * [Issue] [cl/das: check blob limits and gossip columns reconstructed from EL blobs](https://github.com/erigontech/erigon/issues/25478) - 2026-10-28
 * [Commit] [cl/beacon/handler: fix pending parent retry test flake (#25481)](https://github.com/erigontech/erigon/commit/3d61103b24cccc44f02c92e2cf46d36c35c74c6d) - 2026-10-29
+* [Review] [Review on: execution/state: hold the BAL builder's account balances by value](https://github.com/erigontech/erigon/pull/25507#pullrequestreview-5695887457) - 2026-10-29
+* [Pull Request] [cl/beacon: cover production error priority and cancellation](https://github.com/erigontech/erigon/pull/25524) - 2026-10-29
+* [Review] [Review on: [r3.8] db/state, db/datastruct/btindex, node/eth: state .bt files in memory, existence filters mmap'd below 20 GiB](https://github.com/erigontech/erigon/pull/25511#pullrequestreview-5696403705) - 2026-10-29
+* [Pull Request] [cl: harden block persistence and head publication](https://github.com/erigontech/erigon/pull/25533) - 2026-10-29
+* [Pull Request] [cl: enforce peer bans for invalid backfill envelopes](https://github.com/erigontech/erigon/pull/25528) - 2026-10-29
+* [Review] [Review on: cl: enforce peer bans for invalid backfill envelopes](https://github.com/erigontech/erigon/pull/25528#pullrequestreview-5700286653) - 2026-10-29
+* [Pull Request] [protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515) - 2026-10-29
+* [Review] [Review on: protocol, txpool: implement EIP-8272 recent roots](https://github.com/erigontech/erigon/pull/25515#pullrequestreview-5699958254) - 2026-10-29
+* [Review] [Review on: cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise](https://github.com/erigontech/erigon/pull/25475#pullrequestreview-5695078786) - 2026-10-29
+* [Review] [Review on: cl/beacon/handler: check blob data on the legacy envelope POST route](https://github.com/erigontech/erigon/pull/25531#pullrequestreview-5699362754) - 2026-10-29
+* [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict](https://github.com/erigontech/erigon/pull/25469#pullrequestreview-5697040168) - 2026-10-29
+* [Review] [Review on: txnprovider/txpool: publish resolved fees before reloading txns](https://github.com/erigontech/erigon/pull/25333#pullrequestreview-5700798460) - 2026-10-29
+* [Issue] [cl: consolidate accepted-block persistence and head publication](https://github.com/erigontech/erigon/issues/25544) - 2026-10-29
+* [Issue] [txpool: add EIP-8272 admission margin and dependency indexes](https://github.com/erigontech/erigon/issues/25537) - 2026-10-29
+* [Issue] [execution/stagedsync: intermittent race in apply-loop panic test](https://github.com/erigontech/erigon/issues/25534) - 2026-10-29
+* [Issue] [bind: WaitDeployed misclassifies frame transactions as deployments](https://github.com/erigontech/erigon/issues/25527) - 2026-10-29
+* [Commit] [cl/beacon: preserve actionable production failures (#23393)](https://github.com/erigontech/erigon/commit/94c700ef84699210d7bf1e4dafdfa9a006aebcc6) - 2026-10-29
+* [Commit] [cl: persist beacon blocks only after fork choice accepts them (#25442)](https://github.com/erigontech/erigon/commit/8519369efd04b46d5cb25c10df046f60ca92ae57) - 2026-10-29
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

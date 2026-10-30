@@ -80,6 +80,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Implement reportDiff with generics instead of a macro](https://github.com/status-im/nimbus-eth2/pull/9389) - 2026-10-27
 * [Pull Request] [Use stew hasField](https://github.com/status-im/nimbus-eth2/pull/9406) - 2026-10-28
 * [Pull Request] [Drop custom assign overload](https://github.com/status-im/nimbus-eth2/pull/9400) - 2026-10-28
+* [Pull Request] [Use minilru cache for light client](https://github.com/status-im/nimbus-eth2/pull/9415) - 2026-10-29
+* [Pull Request] [Update Nix flake to Nim 2.2.14](https://github.com/status-im/nimbus-eth2/pull/9414) - 2026-10-29
+* [Pull Request] [Add ASAN/UBSAN/TSAN to CI](https://github.com/status-im/nimbus-eth2/pull/9411) - 2026-10-29
+* [Pull Request] [Init deltas in fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9409) - 2026-10-29
+* [Pull Request] [Replace forks templates with staticCase](https://github.com/status-im/nimbus-eth2/pull/9408) - 2026-10-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 
@@ -89,6 +94,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7773: Add EIP-7495 and EIP-7916 to Glamsterdam](https://github.com/ethereum/EIPs/pull/12449) - 2026-10-07
 
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5613519186) - 2026-10-22
+* [Review] [Review on: Update EIP-6466: Clarify authority recovery and failed creation](https://github.com/ethereum/EIPs/pull/12531#pullrequestreview-5695757484) - 2026-10-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Use RLP consumeList API for lists allowing additional elements](https://github.com/status-im/nimbus-eth1/pull/4958) - 2026-10-11
 * [Pull Request] [Bump nim-eth](https://github.com/status-im/nimbus-eth1/pull/4957) - 2026-10-10

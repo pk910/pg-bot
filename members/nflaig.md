@@ -368,6 +368,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: return each gloas block once from fork choice block summaries (#10483)](https://github.com/ChainSafe/lodestar/commit/11ed27d39c9ed025e91c11d9ef7c601e415a9a3d) - 2026-10-28
 * [Commit] [fix: use the envelope's own payload status for `execution_optimistic` (#10484)](https://github.com/ChainSafe/lodestar/commit/f33a955402994aaef6158dbc1d849d44b8764523) - 2026-10-28
 * [Commit] [refactor: remove non-spec `none` broadcast validation level (#10500)](https://github.com/ChainSafe/lodestar/commit/a46d0194c5ccb641ac5373e5cf0274ebb72cf560) - 2026-10-28
+* [Review] [Review on: fix: decode gloas deposit requests without the electra limit](https://github.com/ChainSafe/lodestar/pull/10515#pullrequestreview-5707530696) - 2026-10-30
+* [Review] [Review on: chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513#pullrequestreview-5707510604) - 2026-10-30
+* [Pull Request] [feat: re-prepare the next slot payload on the PTC verdict](https://github.com/ChainSafe/lodestar/pull/10508) - 2026-10-29
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5693351309) - 2026-10-29
+* [Pull Request] [fix: retain inclusion lists one slot past the request window](https://github.com/ChainSafe/lodestar/pull/10507) - 2026-10-29
+* [Pull Request] [fix: record the inclusion list verdict when a payload turns VALID on forkchoiceUpdated](https://github.com/ChainSafe/lodestar/pull/10506) - 2026-10-29
+* [Issue] [Payload envelope peer scoring and range sync caching fixes](https://github.com/ChainSafe/lodestar/issues/10510) - 2026-10-29
+* [Issue] [Don't penalize peers for invalid payload envelope signatures in range sync](https://github.com/ChainSafe/lodestar/issues/10509) - 2026-10-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -390,6 +398,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Seed the anchor in `payload_inclusion_list_satisfaction`](https://github.com/ethereum/consensus-specs/pull/5780) - 2026-10-28
 * [Pull Request] [Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781) - 2026-10-28
 * [Commit] [Seed the anchor in `payload_inclusion_list_satisfaction` (#5780)](https://github.com/ethereum/consensus-specs/commit/ec366e768bbf8670b161bb18acdaea5ca2ace812) - 2026-10-28
+* [Pull Request] [Bound envelope transaction count by the bid's gas limit](https://github.com/ethereum/consensus-specs/pull/5786) - 2026-10-29
+* [Review] [Review on: Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744#pullrequestreview-5699397590) - 2026-10-29
+* [Pull Request] [Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784) - 2026-10-29
+* [Review] [Review on: Clarify envelope backfill handling](https://github.com/ethereum/consensus-specs/pull/5771#pullrequestreview-5696648666) - 2026-10-29
+* [Pull Request] [Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 

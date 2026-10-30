@@ -566,6 +566,29 @@ Team: Erigon
 * [Commit] [db/integrity: receipt no-dups checks skipped the last block of each chunk and the tip (#25411)](https://github.com/erigontech/erigon/commit/c8836a1978f51e627ac0ee81d348b1e2257387a5) - 2026-10-28
 * [Commit] [cmd: seg integrity checks every item by default (#25420)](https://github.com/erigontech/erigon/commit/a6b1941d0435ddb45c9ea1b699a13ef17a4e4323) - 2026-10-28
 * [Commit] [exec: commitment did read accounts by GetAsOf without StateCache (#25452)](https://github.com/erigontech/erigon/commit/a053ad87e8999afc7c53d00511db0ac2f22a845a) - 2026-10-28
+* [Pull Request] [cmd/rpcdaemon, execution/engineapi: listen on IPv6 addresses, enable nosprintfhostport](https://github.com/erigontech/erigon/pull/25549) - 2026-10-30
+* [Review] [Review on: db/state: store inverted index values as txNum chunks](https://github.com/erigontech/erigon/pull/25304#pullrequestreview-5707084316) - 2026-10-30
+* [Review] [Review on: cl/antiquary: merge beaconblocks into 100k segments with EL's Merger](https://github.com/erigontech/erigon/pull/25519#pullrequestreview-5707525206) - 2026-10-30
+* [Pull Request] [db/migrations: make the newer-DB error actionable](https://github.com/erigontech/erigon/pull/25501) - 2026-10-29
+* [Review] [Review on: rpc/ethapi, rpc/jsonrpc: rebuild the overridden precompile set per bundle in eth_callMany and debug_traceCallMany](https://github.com/erigontech/erigon/pull/25343#pullrequestreview-5706907298) - 2026-10-30
+* [Review] [Review on: db/snapshotsync/freezeblocks: keep the grown txn buffer in txnRlpBufPool](https://github.com/erigontech/erigon/pull/25398#pullrequestreview-5706904616) - 2026-10-30
+* [Review] [Review on: execution/p2p: validate block bodies before fetching more](https://github.com/erigontech/erigon/pull/23800#pullrequestreview-5707376161) - 2026-10-30
+* [Pull Request] [execution/state: hold the BAL builder's account balances by value](https://github.com/erigontech/erigon/pull/25507) - 2026-10-29
+* [Review] [Review on: cl/beacon: cover production error priority and cancellation](https://github.com/erigontech/erigon/pull/25524#pullrequestreview-5707343673) - 2026-10-30
+* [Review] [Review on: rpc/mcp: propagate eth_syncing errors in network status](https://github.com/erigontech/erigon/pull/25451#pullrequestreview-5707280710) - 2026-10-30
+* [Review] [Review on: [r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213#pullrequestreview-5693673332) - 2026-10-29
+* [Pull Request] [[r3.8] db/migrations: make the newer-DB error actionable](https://github.com/erigontech/erigon/pull/25502) - 2026-10-29
+* [Review] [Review on: execution/state: publish each origin once in PublishOrigins](https://github.com/erigontech/erigon/pull/25505#pullrequestreview-5706892229) - 2026-10-30
+* [Pull Request] [Revert "execution/stagedsync: keep pruning ChangeSets3 under --exec.no-prune"](https://github.com/erigontech/erigon/pull/25548) - 2026-10-30
+* [Pull Request] [execution/stagedsync, cmd/utils: revert "keep pruning ChangeSets3 under --exec.no-prune"](https://github.com/erigontech/erigon/pull/25547) - 2026-10-30
+* [Pull Request] [execution/stagedsync: serial executor for a lone BAL block of few state-bound txs](https://github.com/erigontech/erigon/pull/25546) - 2026-10-30
+* [Review] [Review on: db/kv, rpc/jsonrpc: add TemporalTx.IndexJoin for AND-of-OR index queries](https://github.com/erigontech/erigon/pull/25342#pullrequestreview-5707017166) - 2026-10-30
+* [Review] [Review on: tracers/native, rpc/jsonstream: stream prestateTracer result](https://github.com/erigontech/erigon/pull/25545#pullrequestreview-5706987124) - 2026-10-30
+* [Review] [Review on: cl/beacon/handler: fix flaky timing in wait tests](https://github.com/erigontech/erigon/pull/25492#pullrequestreview-5706898628) - 2026-10-30
+* [Pull Request] [execution/exec, execution/stagedsync: fix READ_AHEAD_WAIT deadlock on validation with unwind](https://github.com/erigontech/erigon/pull/25532) - 2026-10-29
+* [Commit] [db/migrations: make the newer-DB error actionable (#25501)](https://github.com/erigontech/erigon/commit/dfaccc76411df0b0b6377665b5ec36b52ecf893c) - 2026-10-30
+* [Commit] [execution/stagedsync: keep pruning ChangeSets3 under --exec.no-prune (#25465)](https://github.com/erigontech/erigon/commit/6955d1985e90b0dc1646e1ea68beb9aae1d3b2c4) - 2026-10-29
+* [Commit] [db/kv/backup: auto-compact at 3x bloat and 5 GB free (#25493)](https://github.com/erigontech/erigon/commit/d4e318c110b7edae5bb95f2c56b9b83842794d32) - 2026-10-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

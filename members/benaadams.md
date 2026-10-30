@@ -367,6 +367,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test(ethereum-tests): cover EIP-7906 assert frames in state tests](https://github.com/NethermindEth/nethermind/pull/15210#pullrequestreview-5691649234) - 2026-10-29
 * [Review] [Review on: refactor(eip7906): drop TXDIFF and move EVENTDATACOPY to 0xb7](https://github.com/NethermindEth/nethermind/pull/15033#pullrequestreview-5691649138) - 2026-10-29
 * [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5691647709) - 2026-10-29
+* [Review] [Review on: perf(sync): download block access lists for executed blocks in full sync](https://github.com/NethermindEth/nethermind/pull/15378#pullrequestreview-5695738633) - 2026-10-29
+* [Review] [Review on: test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376#pullrequestreview-5695735887) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the keccak tail's partial bytes in aligned pieces](https://github.com/NethermindEth/nethermind/pull/15384#pullrequestreview-5695737909) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255#pullrequestreview-5412844219) - 2026-10-05
 

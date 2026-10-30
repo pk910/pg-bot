@@ -60,6 +60,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 * [Pull Request] [Derive the EIP-8025 public input from the committed bid](https://github.com/ethereum/consensus-specs/pull/5753) - 2026-10-21
 * [Pull Request] [Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770) - 2026-10-27
+* [Pull Request] [Add Heze inclusion list fork choice tests](https://github.com/ethereum/consensus-specs/pull/5787) - 2026-10-29
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Pull Request] [feat: beacon state witness from the top-level state leaves](https://github.com/eth-act/zkboost/pull/89) - 2026-10-14
 

@@ -116,6 +116,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Compute snappy frame checksums with bulk CRC32C updates (#11593)](https://github.com/Consensys-Incorporated/teku/commit/a6e0e9aec18520b13071a8db4aea13e5ccbee2a3) - 2026-10-28
 * [Commit] [Accumulate decoded snappy frames into a single buffer (#11587)](https://github.com/Consensys-Incorporated/teku/commit/0ead06d581e84440522854aace89c9d635d1f0f5) - 2026-10-28
 * [Commit] [Bound RocksDB range seeks and skip pruned data column slots (#11585)](https://github.com/Consensys-Incorporated/teku/commit/65f2772aa29a7e8037f5c1f7f4136c53e63d73cc) - 2026-10-28
+* [Pull Request] [Read the validator registry from packed bytes in epoch processing](https://github.com/Consensys-Incorporated/teku/pull/11597) - 2026-10-29
+* [Review] [Review on: Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595#pullrequestreview-5698769948) - 2026-10-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 
@@ -138,6 +140,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Release 1.4.0](https://github.com/libp2p/jvm-libp2p/pull/546#pullrequestreview-5610800578) - 2026-10-22
 * [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
 * [Issue] [Track upstream netty/quiche fixes for QUIC streams after STOP_SENDING](https://github.com/libp2p/jvm-libp2p/issues/549) - 2026-10-27
+* [Pull Request] [Log remote-triggered QUIC failures at debug instead of error](https://github.com/libp2p/jvm-libp2p/pull/550) - 2026-10-29
 ## Q3 2026
 
 

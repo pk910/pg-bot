@@ -75,6 +75,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: avoid unsafe optional chaining reported by biome 2.6](https://github.com/ChainSafe/lodestar/pull/10495) - 2026-10-28
 * [Review] [Review on: chore: remove general workflow plugins from project settings](https://github.com/ChainSafe/lodestar/pull/10491#pullrequestreview-5677632233) - 2026-10-28
 * [Commit] [chore: use biome for markdown and yaml, drop prettier (#10492)](https://github.com/ChainSafe/lodestar/commit/c0cca9aa48c2807b228694689ae4db583d0be68d) - 2026-10-28
+* [Pull Request] [feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10514) - 2026-10-30
+* [Pull Request] [feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516) - 2026-10-30
+* [Pull Request] [refactor: add native component seams for fork choice, state engine and validation](https://github.com/ChainSafe/lodestar/pull/10512) - 2026-10-29
+* [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5699876833) - 2026-10-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -102,6 +106,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5676341852) - 2026-10-28
 * [Review] [Review on: Precisely compute committee weight in FCR](https://github.com/ethereum/consensus-specs/pull/5670#pullrequestreview-5662295257) - 2026-10-27
 * [Review] [Review on: Verify the envelope payload's block hash in gossip validation](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5680072157) - 2026-10-28
+* [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5698929592) - 2026-10-29
+* [Pull Request] [Run fast confirmation each slot in recently activated validator test](https://github.com/ethereum/consensus-specs/pull/5783) - 2026-10-29
+* [Commit] [Run fast confirmation each slot in recently activated validator test (#5783)](https://github.com/ethereum/consensus-specs/commit/8e7f4dc7128ac850299599a548dcd06a1ca0a8cd) - 2026-10-29
 ## Q3 2026
 
 

@@ -86,6 +86,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: build(deps): bump the dependencies group with 3 updates](https://github.com/ethpandaops/dora/pull/923#pullrequestreview-5651712939) - 2026-10-26
 * [Commit] [fix: count remaining slots as scheduled in the epoch API (#926)](https://github.com/ethpandaops/dora/commit/9e8ac527d1ec7d6312bed933f9d7bcf145d74716) - 2026-10-26
 * [Review] [Review on: Execution proofs: fix signature hashing and Prysm events, allow mock proofs on devnets](https://github.com/ethpandaops/dora/pull/929#pullrequestreview-5668197082) - 2026-10-27
+* [Review] [Review on: Bump spamoor for bogota-devnet-2 frame transactions (max_fee, ASSERT)](https://github.com/ethpandaops/dora/pull/920#pullrequestreview-5697031867) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -107,6 +108,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: bump sops to 3.13.3](https://github.com/ethpandaops/template-devnets/pull/196) - 2026-10-08
 * [Commit] [chore: bump sops to 3.13.3 (#196)](https://github.com/ethpandaops/template-devnets/commit/50365257e4b61f50a3587cd189c7677ed4dd6e04) - 2026-10-08
 * [Commit] [chore: run watchtower every 15 min with per-host staggered offset](https://github.com/ethpandaops/template-devnets/commit/e045b158886d827a465d206bfef993c6da15a686) - 2026-10-13
+* [Pull Request] [chore: derive ingress usernames from the network name](https://github.com/ethpandaops/template-devnets/pull/199) - 2026-10-29
+* [Commit] [chore: derive ingress usernames from the network name (#199)](https://github.com/ethpandaops/template-devnets/commit/43769c9a91067859b864e4a305e163dc8ca9b17d) - 2026-10-29
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 
@@ -124,6 +127,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441688831) - 2026-10-07
 * [Pull Request] [fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958) - 2026-10-26
 * [Commit] [fix: remove getPayload timeout and require an immediate response (#958)](https://github.com/ethereum/execution-apis/commit/3284ee80c3da3e516c53782dde75157cccf1ebdc) - 2026-10-26
+* [Pull Request] [feat: reuse the built payload when only inclusion list transactions change](https://github.com/ethereum/execution-apis/pull/964) - 2026-10-29
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [feat: emit inclusion_list SSE event](https://github.com/sigp/lighthouse/pull/10228) - 2026-10-06
 * [Pull Request] [fix: produce inclusion lists in the first Heze slot](https://github.com/sigp/lighthouse/pull/10230) - 2026-10-06

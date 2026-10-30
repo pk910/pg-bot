@@ -206,6 +206,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Hash keccak-256 with a per-thread digest instead of cloning one per call (#11686)](https://github.com/besu-eth/besu/commit/5abc125f9fe4b6145d26d929f6718dc59ab5d725) - 2026-10-28
 * [Commit] [Preload and commit only the state a block changes (#11758)](https://github.com/besu-eth/besu/commit/a59b0e4af86660d32cd336b0cded9ac1148f63b6) - 2026-10-28
 * [Commit] [Store a valid block after replying to newPayload (#11682)](https://github.com/besu-eth/besu/commit/af0dbfab9c1e5a3e0d2a1d6e89a20cf916d551b3) - 2026-10-28
+* [Review] [Review on: SNAP2: Add the pivot moves of the state download](https://github.com/besu-eth/besu/pull/11789#pullrequestreview-5699292157) - 2026-10-29
+* [Pull Request] [Speed up large-block import: sender recovery, BAL lookup and roots](https://github.com/besu-eth/besu/pull/11812) - 2026-10-29
+* [Review] [Review on: SNAP2: Add the SNAP2 sync](https://github.com/besu-eth/besu/pull/11805#pullrequestreview-5702996682) - 2026-10-29
+* [Review] [Review on: Do not rerun a failed BAL-parallel block sequentially](https://github.com/besu-eth/besu/pull/11802#pullrequestreview-5693777167) - 2026-10-29
+* [Review] [Review on: SNAP2: Store the block access lists and the floor of a sync](https://github.com/besu-eth/besu/pull/11804#pullrequestreview-5695389747) - 2026-10-29
+* [Pull Request] [Fix storage clears and re-created accounts in the JOURNALED world updater](https://github.com/besu-eth/besu/pull/11811) - 2026-10-29
+* [Pull Request] [Keep reverted parallel results and simplify the conflict check](https://github.com/besu-eth/besu/pull/11806) - 2026-10-29
+* [Pull Request] [Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809) - 2026-10-29
+* [Pull Request] [Chain same-sender transactions in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11808) - 2026-10-29
+* [Review] [Review on: SNAP2: Add the sync storage on Forest](https://github.com/besu-eth/besu/pull/11791#pullrequestreview-5694898392) - 2026-10-29
+* [Pull Request] [Fix flaky EngineJsonRpcServiceLimitConnectionsTest](https://github.com/besu-eth/besu/pull/11801) - 2026-10-29
+* [Pull Request] [Check gasUsed of empty Amsterdam blocks in light body validation](https://github.com/besu-eth/besu/pull/11800) - 2026-10-29
+* [Commit] [Fix flaky EngineJsonRpcServiceLimitConnectionsTest (#11801)](https://github.com/besu-eth/besu/commit/12c1a2e6d89061925b748b75393f04ab509a68d5) - 2026-10-29
+* [Commit] [Remove the total difficulty cache (#11790)](https://github.com/besu-eth/besu/commit/b9514a9bb14491d06e213f0f1155208bb6d80b7a) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

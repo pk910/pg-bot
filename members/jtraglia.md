@@ -90,6 +90,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use `committee_index` for the attestation subnet in Electra (#5768)](https://github.com/ethereum/consensus-specs/commit/33d1d34cb7feb9650e9a60ea9f193645bd1f2a51) - 2026-10-28
 * [Commit] [Bind column sidecars to the block in Fulu `is_data_available` (#5765)](https://github.com/ethereum/consensus-specs/commit/12210d748a0a467e61f54196b7e8afc80dd58dbb) - 2026-10-28
 * [Commit] [Ignore `voluntary_exit` gossip with pending partial withdrawals (#5764)](https://github.com/ethereum/consensus-specs/commit/a6d447369e47193f406261afdea167d3fc997e2a) - 2026-10-28
+* [Review] [Review on: Assert support_discount <= maximum_support in FCR](https://github.com/ethereum/consensus-specs/pull/5788#pullrequestreview-5705814094) - 2026-10-29
+* [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5698109174) - 2026-10-29
+* [Review] [Review on: Clarify envelope backfill handling](https://github.com/ethereum/consensus-specs/pull/5771#pullrequestreview-5698661821) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

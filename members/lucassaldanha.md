@@ -106,6 +106,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Publish the bare Docker release tags from the jdk25 job only](https://github.com/Consensys-Incorporated/teku/pull/11580) - 2026-10-26
 * [Review] [Review on: Remove the compromised eMudhra roots from the Docker images](https://github.com/Consensys-Incorporated/teku/pull/11577#pullrequestreview-5660158645) - 2026-10-26
 * [Commit] [Publish the bare Docker release tags from the jdk25 job only (#11580)](https://github.com/Consensys-Incorporated/teku/commit/a2dedbb4e36e831af5f23b39e16562642604e7ad) - 2026-10-26
+* [Issue] [Unbounded beacon node event-stream response exhausts validator client heap and exits](https://github.com/Consensys-Incorporated/teku/issues/11600) - 2026-10-29
+* [Issue] [Unbounded beacon node response body crashes the validator client](https://github.com/Consensys-Incorporated/teku/issues/11602) - 2026-10-29
+* [Issue] [A missing slashing-protection record makes the validator client sign a conflicting attestation](https://github.com/Consensys-Incorporated/teku/issues/11601) - 2026-10-29
+* [Issue] [Builder bid `blob_kzg_commitments` above `max_blobs_per_block` is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11599) - 2026-10-29
+* [Issue] [Doppelganger detection ends all-clear after zero liveness probes when the beacon node is unreachable](https://github.com/Consensys-Incorporated/teku/issues/11598) - 2026-10-29
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

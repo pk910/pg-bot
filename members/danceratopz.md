@@ -82,6 +82,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(docs): split protocol history into stable and unstable fork tables](https://github.com/ethereum/execution-specs/pull/3924#pullrequestreview-5680642959) - 2026-10-28
 * [Pull Request] [chore(ci): publish forks/bogota docs as the default dev branch](https://github.com/ethereum/execution-specs/pull/3925) - 2026-10-28
 * [Commit] [chore(ci): publish forks/bogota docs as the default dev branch (#3925)](https://github.com/ethereum/execution-specs/commit/75955fb5c103b04090b322a571fdebc93b872810) - 2026-10-28
+* [Pull Request] [feat(test-consume): omit the genesis alloc from enginex and wirex client logs](https://github.com/ethereum/execution-specs/pull/3937) - 2026-10-29
+* [Pull Request] [feat(test-consume): fail a wirex test once a fully served client stalls](https://github.com/ethereum/execution-specs/pull/3938) - 2026-10-29
+* [Review] [Review on: feat(test-consume): fail a wirex test once a fully served client stalls](https://github.com/ethereum/execution-specs/pull/3938#pullrequestreview-5696646747) - 2026-10-29
+* [Review] [Review on: fix(test-client-clis): map Erigon frame transaction rejections](https://github.com/ethereum/execution-specs/pull/3931#pullrequestreview-5694751707) - 2026-10-29
+* [Commit] [fix(test-rpc,test-consume): sign each engine api retry anew and bound wirex engine requests (#3933)](https://github.com/ethereum/execution-specs/commit/bc95a31e98a8ebdcb6d2f3d6f456c64d5fe58f74) - 2026-10-29
+* [Commit] [feat(test-consume): omit the genesis alloc from enginex and wirex client logs (#3937)](https://github.com/ethereum/execution-specs/commit/a6e74f3c5020c2ef3fb8d83d7f0b0b1873f358e3) - 2026-10-29
+* [Commit] [feat(test-consume): fail a wirex test once a fully served client stalls (#3938)](https://github.com/ethereum/execution-specs/commit/11ca5f3641f9efb1646c525fa156e9dcc368777c) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -105,6 +112,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [simulators/ethereum/eels: add consume-wirex simulator](https://github.com/ethereum/hive/pull/1640) - 2026-10-27
 * [Commit] [simulators/ethereum/eels: add consume-wirex simulator (#1640)](https://github.com/ethereum/hive/commit/ffcfaa2b6d24d823555d9689a82f781060bc00c5) - 2026-10-27
 * [Commit] [clients/go-ethereum, clients/reth, clients/erigon: load the genesis at startup when there is nothing to import (#1639)](https://github.com/ethereum/hive/commit/46fb6f4d0a46f6b4a023ed979fe4f694ececa17c) - 2026-10-28
+* [Pull Request] [clients/besu: turn off the default flight recording](https://github.com/ethereum/hive/pull/1644) - 2026-10-29
+* [Review] [Review on: clients/erigon: bump Go builder image to 1.26.8](https://github.com/ethereum/hive/pull/1645#pullrequestreview-5705446338) - 2026-10-29
+* [Pull Request] [clients: omit the genesis alloc from the dump when HIVE_OMIT_GENESIS_ALLOC is set](https://github.com/ethereum/hive/pull/1643) - 2026-10-29
+* [Commit] [clients/besu: turn off the default flight recording (#1644)](https://github.com/ethereum/hive/commit/db1ad92b2c60799b5fd332123a40b02197ff5474) - 2026-10-29
+* [Commit] [clients: omit the genesis alloc from the dump when HIVE_OMIT_GENESIS_ALLOC is set (#1643)](https://github.com/ethereum/hive/commit/bbe551b23306a27cc359dcbd58b0149c81fb60bc) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -116,6 +128,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 
+* [Pull Request] [Load the KZG trusted setup in the background behind an opt-in flag](https://github.com/besu-eth/besu/pull/11813) - 2026-10-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/status-im/nimbus-eth1/pull/5012) - 2026-10-19
 

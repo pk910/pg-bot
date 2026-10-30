@@ -270,6 +270,23 @@ Team: Erigon
 * [Issue] [execution/execmodule: ValidateChain leaves SharedDomains open when ValidatePayload returns before adopting them](https://github.com/erigontech/erigon/issues/25455) - 2026-10-28
 * [Issue] [execution/engineapi: a batch download over an execution lag stops before UpdateForkChoice](https://github.com/erigontech/erigon/issues/25454) - 2026-10-28
 * [Commit] [cl/phase1: rate history ETA by downloaded blocks, not skipped slots (#25421)](https://github.com/erigontech/erigon/commit/8ba49e21e9aee4887d0cda2eaadd83fc34cb24f7) - 2026-10-28
+* [Pull Request] [cl/antiquary: merge beaconblocks into 100k segments with EL's Merger](https://github.com/erigontech/erigon/pull/25519) - 2026-10-29
+* [Review] [Review on: db/migrations: make the newer-DB error actionable](https://github.com/erigontech/erigon/pull/25501#pullrequestreview-5696084267) - 2026-10-29
+* [Review] [Review on: cl/phase1/network: keep block ranges in flight in the backward beacon downloader](https://github.com/erigontech/erigon/pull/25417#pullrequestreview-5696041508) - 2026-10-29
+* [Review] [Review on: [r3.8] db/migrations: make the newer-DB error actionable](https://github.com/erigontech/erigon/pull/25502#pullrequestreview-5696084643) - 2026-10-29
+* [Pull Request] [db/state, cmd/integration: step-aligned commitment rebuild that writes whole steps to files](https://github.com/erigontech/erigon/pull/25517) - 2026-10-29
+* [Pull Request] [cl/phase1/network: retry a failed prefetched range with a 10 s deadline per attempt](https://github.com/erigontech/erigon/pull/25518) - 2026-10-29
+* [Review] [Review on: cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise](https://github.com/erigontech/erigon/pull/25475#pullrequestreview-5696083771) - 2026-10-29
+* [Review] [Review on: cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict](https://github.com/erigontech/erigon/pull/25469#pullrequestreview-5696083330) - 2026-10-29
+* [Commit] [execution/state: keep VersionMap origin storage in a typed concurrent map (#25500)](https://github.com/erigontech/erigon/commit/6af3b7583bb449f07ad965e3cd06a8aed9e1bb87) - 2026-10-29
+* [Commit] [cmd/integration, execution/state/genesiswrite: stage_exec unwind guard, genesis over an empty reader (#25506)](https://github.com/erigontech/erigon/commit/b92271c451851b8cf297a7c17bfb49031916aecd) - 2026-10-29
+* [Commit] [execution/stagedsync: restore the recipient dependency of value transfers (#25508)](https://github.com/erigontech/erigon/commit/40e732955f00dff4253ca89e87016dae47568c50) - 2026-10-29
+* [Commit] [db/state: commitment rebuild tests share one rebuild-from-scratch tail (#25504)](https://github.com/erigontech/erigon/commit/85d89f409592965fa070e4ef5bbc755ff1e2fb9b) - 2026-10-29
+* [Commit] [rpc/jsonrpc, execution/commitment: fold paired tests into tables (#25503)](https://github.com/erigontech/erigon/commit/2897322d7d24fd64bef1c67bc914687ed6a5f42b) - 2026-10-29
+* [Commit] [execution/state: hold the account fields ApplyWrites collects by value (#25498)](https://github.com/erigontech/erigon/commit/130801fbc93afee6f1c302ba3ea7505fc1a57a36) - 2026-10-29
+* [Commit] [execution/state: reuse one VersionedWrite per write-view iterator call (#25499)](https://github.com/erigontech/erigon/commit/b629107e63df71db8a2eeb7010b74a384deb72dc) - 2026-10-29
+* [Commit] [execution: treat state ahead of TxNums as TooFarAway in ValidateChain (#25472)](https://github.com/erigontech/erigon/commit/49398092927170e959c2a39b875dbc183bc58a86) - 2026-10-29
+* [Commit] [db/state/execctx, execution/exec: keep the lent code buffer across a worker's tasks (#25497)](https://github.com/erigontech/erigon/commit/586bbc0f6b166af4badc2245254581a73fd44c2a) - 2026-10-29
 ## Q3 2026
 
 

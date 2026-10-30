@@ -86,6 +86,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(consumoor): retry transient ClickHouse write failures in place instead of nacking (#930)](https://github.com/ethpandaops/xatu/commit/0f39220df8384985b618ee7f36ea3de57be6604b) - 2026-10-23
 * [Pull Request] [fix(clickhouse): describe canonical_execution_transaction value as wei](https://github.com/ethpandaops/xatu/pull/931) - 2026-10-26
 * [Commit] [fix(clickhouse): describe canonical_execution_transaction value as wei (#931)](https://github.com/ethpandaops/xatu/commit/e8f1dcdfd824f4e9688e02b8690456a0bd3ed435) - 2026-10-26
+* [Pull Request] [feat: detect the Silver consensus client](https://github.com/ethpandaops/xatu/pull/932) - 2026-10-30
+* [Commit] [feat: detect the Silver consensus client (#932)](https://github.com/ethpandaops/xatu/commit/580fb942cacddf159af7623ff7a087019e911aa8) - 2026-10-30
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -95,6 +97,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452308035) - 2026-10-08
 
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/contributoor/pull/258#pullrequestreview-5596854590) - 2026-10-21
+* [Pull Request] [feat: detect the Silver consensus client](https://github.com/ethpandaops/contributoor/pull/259) - 2026-10-30
+* [Commit] [Merge pull request #259 from ethpandaops/feat/silver-client](https://github.com/ethpandaops/contributoor/commit/a4a8e99c218405240dbb8a0b5dc76132c3d97b66) - 2026-10-30
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
 * [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
@@ -138,6 +142,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [style: design system polish (cards, radius, controls, type, surfaces, charts)](https://github.com/ethpandaops/lab/pull/458) - 2026-10-21
 * [Commit] [style: design system polish (cards, radius, controls, type, surfaces, charts) (#458)](https://github.com/ethpandaops/lab/commit/a1819fb1df7dfd2d4a676a638e1cabe4a211d60a) - 2026-10-22
+* [Pull Request] [feat(ethereum): add the Silver consensus client](https://github.com/ethpandaops/lab/pull/459) - 2026-10-30
+* [Commit] [feat(ethereum): add the Silver consensus client (#459)](https://github.com/ethpandaops/lab/commit/8b36190526c78f87959fdc69464c56db2acd7411) - 2026-10-30
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

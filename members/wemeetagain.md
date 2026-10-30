@@ -106,6 +106,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: remove general workflow plugins from project settings](https://github.com/ChainSafe/lodestar/pull/10491) - 2026-10-28
 * [Issue] [Combine lodestar and lodestar-z repos](https://github.com/ChainSafe/lodestar/issues/10498) - 2026-10-28
 * [Commit] [chore: remove general workflow plugins from project settings (#10491)](https://github.com/ChainSafe/lodestar/commit/a6892012c4c669ccc9bf335db0a5e41618575744) - 2026-10-28
+* [Pull Request] [chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513) - 2026-10-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -156,6 +157,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: benchmark low-balance sync committees](https://github.com/ChainSafe/lodestar-z/pull/804#pullrequestreview-5648484114) - 2026-10-26
 * [Review] [Review on: ci: replay every fuzz seed before publishing the image](https://github.com/ChainSafe/lodestar-z/pull/807#pullrequestreview-5648505989) - 2026-10-26
 * [Pull Request] [fix: surface stf diagnostic messages](https://github.com/ChainSafe/lodestar-z/pull/813) - 2026-10-28
+* [Review] [Review on: fix: surface stf diagnostic messages](https://github.com/ChainSafe/lodestar-z/pull/813#pullrequestreview-5697215293) - 2026-10-29
+* [Commit] [fix: surface stf diagnostic messages (#813)](https://github.com/ChainSafe/lodestar-z/commit/ff956b2273a9ceff798b6d19bb0a5e7c1aa7833f) - 2026-10-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

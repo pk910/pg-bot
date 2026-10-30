@@ -403,6 +403,13 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump evm2](https://github.com/paradigmxyz/reth/pull/28169#pullrequestreview-5686107057) - 2026-10-28
 * [Review] [Review on: fix(rpc): error on unknown block in trace_replayBlockTransactions](https://github.com/paradigmxyz/reth/pull/28160#pullrequestreview-5684245841) - 2026-10-28
 * [Commit] [fix(rpc): reserve blob fees in call allowance (#28113)](https://github.com/paradigmxyz/reth/commit/a2907466e5beb2bb3e739b2e47c7cef23d0cfbe9) - 2026-10-28
+* [Review] [Review on: chore: bump version to 2.9.0](https://github.com/paradigmxyz/reth/pull/28204#pullrequestreview-5696688235) - 2026-10-29
+* [Pull Request] [fix(provider): heal stale receipts prune checkpoints](https://github.com/paradigmxyz/reth/pull/28201) - 2026-10-29
+* [Pull Request] [fix(net): keep trusted ids that fail startup DNS](https://github.com/paradigmxyz/reth/pull/28202) - 2026-10-29
+* [Pull Request] [fix(net): apply netrestrict to startup peers](https://github.com/paradigmxyz/reth/pull/28198) - 2026-10-29
+* [Pull Request] [fix(net): promote known peers on hostname trust](https://github.com/paradigmxyz/reth/pull/28199) - 2026-10-29
+* [Pull Request] [fix(cli): raise fd limit before opening storage](https://github.com/paradigmxyz/reth/pull/28197) - 2026-10-29
+* [Review] [Review on: fix(rpc): return -32001 for eth_getBlockAccessList before Amsterdam](https://github.com/paradigmxyz/reth/pull/28189#pullrequestreview-5695475153) - 2026-10-29
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -158,6 +158,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Upgrade Vert.x to 5.2.2 (#11770)](https://github.com/besu-eth/besu/commit/e4af83aeca20b24bf2f251d574707f404476c3da) - 2026-10-28
 * [Commit] [Rotate CHANGELOG for 26.10.2 (#11786)](https://github.com/besu-eth/besu/commit/083223785735bb78de4c3c6288d571641b03373e) - 2026-10-28
 * [Commit] [Test stalled WebSocket responses against a real Vert.x server (#11785)](https://github.com/besu-eth/besu/commit/a8c2fa924d60e11837262028c74096c216adcca7) - 2026-10-28
+* [Review] [Review on: fix: preserve nonce-too-low details in eth_sendRawTransaction](https://github.com/besu-eth/besu/pull/11799#pullrequestreview-5692559868) - 2026-10-29
+* [Review] [Review on: [neutral] Extract TopLevelTransactionSupport from MainnetTransactionProcessor](https://github.com/besu-eth/besu/pull/11735#pullrequestreview-5692489288) - 2026-10-29
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

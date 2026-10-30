@@ -153,6 +153,21 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the chain of a sync attempt (#11783)](https://github.com/besu-eth/besu/commit/eea7ad27ae1b65f862d8fac02240cf6744bf2c0c) - 2026-10-28
 * [Commit] [SNAP2: Set the chain head of a sync (#11782)](https://github.com/besu-eth/besu/commit/f593b9ed8fe391ac7b3633d0870d29e8c4a53416) - 2026-10-28
 * [Commit] [SNAP2: Run the body back-fill in the background (#11777)](https://github.com/besu-eth/besu/commit/b13f03bc858eccadbc0bcdc91fe5e3bb047c10f1) - 2026-10-28
+* [Review] [Review on: SNAP2: Add the pivot moves of the state download](https://github.com/besu-eth/besu/pull/11789#pullrequestreview-5703706309) - 2026-10-29
+* [Pull Request] [SNAP2: Add the SNAP2 sync](https://github.com/besu-eth/besu/pull/11805) - 2026-10-29
+* [Pull Request] [Do not rerun a failed BAL-parallel block sequentially](https://github.com/besu-eth/besu/pull/11802) - 2026-10-29
+* [Review] [Review on: Do not rerun a failed BAL-parallel block sequentially](https://github.com/besu-eth/besu/pull/11802#pullrequestreview-5693990904) - 2026-10-29
+* [Pull Request] [SNAP2: Store the block access lists and the floor of a sync](https://github.com/besu-eth/besu/pull/11804) - 2026-10-29
+* [Review] [Review on: SNAP2: Store the block access lists and the floor of a sync](https://github.com/besu-eth/besu/pull/11804#pullrequestreview-5696531040) - 2026-10-29
+* [Review] [Review on: Track a transaction's state in a journal on EVM v2](https://github.com/besu-eth/besu/pull/11754#pullrequestreview-5694065201) - 2026-10-29
+* [Review] [Review on: SNAP2: Add the sync storage on Forest](https://github.com/besu-eth/besu/pull/11791#pullrequestreview-5693364667) - 2026-10-29
+* [Review] [Review on: SNAP2: Add the state download](https://github.com/besu-eth/besu/pull/11788#pullrequestreview-5693436365) - 2026-10-29
+* [Review] [Review on: SNAP2: Ignore the abort of a batch whose commit has started](https://github.com/besu-eth/besu/pull/11792#pullrequestreview-5693163620) - 2026-10-29
+* [Pull Request] [SNAP2: Add --sync-mode=SNAP2](https://github.com/besu-eth/besu/pull/11803) - 2026-10-29
+* [Commit] [SNAP2: Store the block access lists and the floor of a sync (#11804)](https://github.com/besu-eth/besu/commit/d442fa5e344f91e8db1a3f46255b6d56ea1332da) - 2026-10-29
+* [Commit] [SNAP2: Add the sync storage on Forest (#11791)](https://github.com/besu-eth/besu/commit/4a268c9e403d78c9bf635eb872c3080fcf95030a) - 2026-10-29
+* [Commit] [SNAP2: Add the state download (#11788)](https://github.com/besu-eth/besu/commit/d68a1dce2cf5dfbf106c38d2c8fcf20d5db6bab5) - 2026-10-29
+* [Commit] [SNAP2: Ignore the abort of a batch whose commit has started (#11792)](https://github.com/besu-eth/besu/commit/150512c659dc96bbde492f73a4f2babe43e4abb5) - 2026-10-29
 ## Q3 2026
 
 

@@ -60,6 +60,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [2026-10-27 Contributor Call](https://github.com/besu-eth/besu/issues/11766) - 2026-10-26
 * [Pull Request] [[behaviour change: Bogota/futureEips/experimentalEips execute POST_TX frames and define 0xb6-0xb8] Transaction assertions with POST_TX frames (EIP-7906)](https://github.com/besu-eth/besu/pull/11784) - 2026-10-27
 * [Commit] [Reject QBFT RoundChange on the free checks before executing the block (#140)](https://github.com/besu-eth/besu/commit/0758badf6673e5bc649303c95783141f83d46dc9) - 2026-10-27
+* [Pull Request] [refactor(graphql): remove core GraphQL, bundle the external GraphQL plugin (deprecated)](https://github.com/besu-eth/besu/pull/11815) - 2026-10-29
+* [Review] [Review on: Skip executing blocks built by this node in engine_newPayload](https://github.com/besu-eth/besu/pull/11767#pullrequestreview-5698978046) - 2026-10-29
+* [Issue] [Bound and clean up trace files written by debug_standardTraceBlockToFile](https://github.com/besu-eth/besu/issues/11814) - 2026-10-29
+* [Commit] [refactor: extract TopLevelTransactionSupport from MainnetTransactionProcessor (#11735)](https://github.com/besu-eth/besu/commit/89c6cb9a2848dbee35a305a45cd0af12dab14ce2) - 2026-10-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(client-clis): add besu EIP-8250 keyed nonce exception mappings](https://github.com/ethereum/execution-specs/pull/3805) - 2026-10-13
 

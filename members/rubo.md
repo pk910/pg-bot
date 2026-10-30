@@ -104,6 +104,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15369) - 2026-10-28
 * [Review] [Review on: refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15369#pullrequestreview-5689160755) - 2026-10-28
 * [Commit] [refactor(discovery)!: serialize discv4 messages into spans instead of DotNetty buffers (#15360)](https://github.com/NethermindEth/nethermind/commit/556296d9e074c7910d4ad8eafe896f605c488008) - 2026-10-28
+* [Review] [Review on: test(ethereum-tests): cover EIP-7906 assert frames in state tests](https://github.com/NethermindEth/nethermind/pull/15210#pullrequestreview-5703607024) - 2026-10-29
+* [Pull Request] [ci(zkevm): drop the commit from the guest release notes](https://github.com/NethermindEth/nethermind/pull/15394) - 2026-10-29
+* [Pull Request] [refactor(network)!: serialize base p2p messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15395) - 2026-10-29
+* [Review] [Review on: refactor(network)!: serialize base p2p messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15395#pullrequestreview-5705717931) - 2026-10-29
+* [Pull Request] [fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt](https://github.com/NethermindEth/nethermind/pull/15402) - 2026-10-29
+* [Review] [Review on: perf(zkevm): align the word loads of the zero-byte count](https://github.com/NethermindEth/nethermind/pull/15393#pullrequestreview-5699214919) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the keccak tail's partial bytes in aligned pieces](https://github.com/NethermindEth/nethermind/pull/15384#pullrequestreview-5699239467) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the branch RLP scratch of a depth by value](https://github.com/NethermindEth/nethermind/pull/15374#pullrequestreview-5699226682) - 2026-10-29
+* [Commit] [ci(zkevm): drop the commit from the guest release notes (#15394)](https://github.com/NethermindEth/nethermind/commit/b207b57c8bf1ad68e17bfca193606227bce47cb0) - 2026-10-30
+* [Commit] [fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt (#15402)](https://github.com/NethermindEth/nethermind/commit/a7ab42efd28f1597eb7840b201d472cab3fcf67a) - 2026-10-29
+* [Commit] [refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers (#15369)](https://github.com/NethermindEth/nethermind/commit/ec9d4253a0324fe918ed75cba50961e8d4a72ade) - 2026-10-29
+* [Commit] [chore(deps): update RocksDB to 11.12 (#15366)](https://github.com/NethermindEth/nethermind/commit/d97e12bb201fe6b65c526a17e4e9fa55be945a48) - 2026-10-29
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

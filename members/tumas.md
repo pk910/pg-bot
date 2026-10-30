@@ -42,6 +42,9 @@ Team: Grandine
 * [Pull Request] [Simplify duty caching in the separate validator client](https://github.com/grandinetech/grandine/pull/1013) - 2026-10-27
 * [Pull Request] [Shuffle inline when already on a Rayon worker](https://github.com/grandinetech/grandine/pull/1012) - 2026-10-27
 * [Commit] [Shuffle inline when already on a Rayon worker](https://github.com/grandinetech/grandine/commit/eff42ba1a5e4138b2da48d8579f481b57e1ff303) - 2026-10-27
+* [Pull Request] [Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/pull/1021) - 2026-10-29
+* [Review] [Review on: Delta database implementation](https://github.com/grandinetech/grandine/pull/906#pullrequestreview-5697443934) - 2026-10-29
+* [Commit] [Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/commit/ffeed873c72570b1fcddf13222cfb3c45a25021b) - 2026-10-29
 ## Q3 2026
 
 

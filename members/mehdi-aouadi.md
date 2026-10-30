@@ -26,6 +26,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [FOCIL <> Frame Transactions (EIP-8141)](https://github.com/Consensys-Incorporated/teku/issues/11590) - 2026-10-27
 * [Issue] [Validate and select bids on the inclusion list view at the deadline](https://github.com/Consensys-Incorporated/teku/issues/11592) - 2026-10-27
 * [Issue] [Do not prefer an unsatisfied payload as head during its own slot](https://github.com/Consensys-Incorporated/teku/issues/11591) - 2026-10-27
+* [Pull Request] [handle inclusion list timing for execution payload bids](https://github.com/Consensys-Incorporated/teku/pull/11596) - 2026-10-29
 ## Q3 2026
 
 

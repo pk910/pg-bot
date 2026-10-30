@@ -35,6 +35,7 @@ Team: Grandine
 * [Commit] [Reverting back to im](https://github.com/grandinetech/grandine/commit/2ea7671f95e0f7d45cfda34c505104ffe133aa19) - 2026-10-28
 * [Commit] [Updated crates](https://github.com/grandinetech/grandine/commit/1ef133830f087ac7bec0c52690032ebe44420711) - 2026-10-28
 * [Commit] [Improved Eth Docker section in the book](https://github.com/grandinetech/grandine/commit/3051737a6836f859cdd075a53cd8870011a6ca37) - 2026-10-28
+* [Pull Request] [Try imbl](https://github.com/grandinetech/grandine/pull/1019) - 2026-10-29
 ## Q3 2026
 
 

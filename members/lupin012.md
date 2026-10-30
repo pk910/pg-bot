@@ -159,6 +159,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: db/kv, rpc/jsonrpc: add TemporalTx.IndexJoin for AND-of-OR index queries](https://github.com/erigontech/erigon/pull/25342#pullrequestreview-5688551365) - 2026-10-28
 * [Commit] [execution/state: publish each tx's origins once (#25439)](https://github.com/erigontech/erigon/commit/5709c66569d47c0d2038f69a1fbd6a033047079d) - 2026-10-28
 * [Commit] [execution/tracing/tracers/native: take the prestate code hash from the state (#25445)](https://github.com/erigontech/erigon/commit/c1dd7374c64ba3fe5ac82194a685e69c213d84ef) - 2026-10-28
+* [Pull Request] [execution/state: publish each origin once in PublishOrigins](https://github.com/erigontech/erigon/pull/25505) - 2026-10-29
+* [Pull Request] [tracers/native, rpc/jsonstream: stream prestateTracer result](https://github.com/erigontech/erigon/pull/25545) - 2026-10-29
+* [Pull Request] [.github/workflows: run several peer clients in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25541) - 2026-10-29
+* [Commit] [rpc/ethapi, rpc/jsonrpc: rebuild the overridden precompile set per bundle in eth_callMany and debug_traceCallMany (#25343)](https://github.com/erigontech/erigon/commit/ee80d83f2fd9070c9e518662796bf8c71ea7da97) - 2026-10-30
+* [Commit] [db/snapshotsync/freezeblocks: keep the grown txn buffer in txnRlpBufPool (#25398)](https://github.com/erigontech/erigon/commit/6e11cd751b1a48376ab98007eced5c8de6718173) - 2026-10-30
+* [Commit] [execution/state: publish each origin once in PublishOrigins (#25505)](https://github.com/erigontech/erigon/commit/a937a94be00eb64c56c35849fb87e83b048d693c) - 2026-10-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

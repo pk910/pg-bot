@@ -30,6 +30,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248) - 2026-10-26
 * [Commit] [build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149 (#15248)](https://github.com/NethermindEth/nethermind/commit/76ff2473d895d04e55e6a056b8520d1403bad0af) - 2026-10-26
 * [Pull Request] [zkvm: Build the guests with the new bflat and the signed runtime packages](https://github.com/NethermindEth/nethermind/pull/15295) - 2026-10-27
+* [Pull Request] [build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408) - 2026-10-30
+* [Commit] [zkvm: Build the guests with the new bflat and the signed runtime packages (#15295)](https://github.com/NethermindEth/nethermind/commit/347f5df2deeb4eaf4edd147e3d1d672d76d3c036) - 2026-10-29
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

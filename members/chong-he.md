@@ -40,6 +40,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [CI audit failure](https://github.com/sigp/lighthouse/pull/10441) - 2026-10-26
 * [Pull Request] [Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474) - 2026-10-28
 * [Review] [Review on: Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474#pullrequestreview-5676776232) - 2026-10-28
+* [Review] [Review on: Bump libz-sys to 1.1.31](https://github.com/sigp/lighthouse/pull/10499#pullrequestreview-5706474686) - 2026-10-29
+* [Issue] [`lighthouse vm move` cannot move web3signer keys](https://github.com/sigp/lighthouse/issues/10501) - 2026-10-30
 ## Q3 2026
 
 

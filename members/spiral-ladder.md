@@ -49,6 +49,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(api): type historical summaries proof nodes as Bytes32](https://github.com/ChainSafe/lodestar/pull/10487) - 2026-10-27
 * [Commit] [fix(api): type historical summaries proof nodes as Bytes32 (#10487)](https://github.com/ChainSafe/lodestar/commit/e4b4f615e68c1a4ea7c57632e6ed8d824624573f) - 2026-10-27
 * [Review] [Review on: fix: return 400 when sync committee message validator is not in the sync committee](https://github.com/ChainSafe/lodestar/pull/10502#pullrequestreview-5681295089) - 2026-10-28
+* [Pull Request] [feat(api): serve block root proofs against historical summaries](https://github.com/ChainSafe/lodestar/pull/10511) - 2026-10-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
@@ -93,6 +94,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [test: remove assertion-free sanity tests (#803)](https://github.com/ChainSafe/lodestar-z/commit/268208de4f5aa559e2fb542fd3643e534d81004c) - 2026-10-23
 * [Review] [Review on: test(fuzz): seed the two opaque SSZ targets](https://github.com/ChainSafe/lodestar-z/pull/806#pullrequestreview-5646592330) - 2026-10-26
 * [Review] [Review on: chore: release 2.2.0](https://github.com/ChainSafe/lodestar-z/pull/800#pullrequestreview-5649581128) - 2026-10-26
+* [Pull Request] [chore: bump ere.zig to ere v0.19.6](https://github.com/ChainSafe/lodestar-z/pull/818) - 2026-10-29
+* [Pull Request] [test(ssz): share tree view tests across view types](https://github.com/ChainSafe/lodestar-z/pull/816) - 2026-10-29
+* [Review] [Review on: fix: surface stf diagnostic messages](https://github.com/ChainSafe/lodestar-z/pull/813#pullrequestreview-5692874050) - 2026-10-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rename `lc` to `light_client` in all light client function names](https://github.com/ethereum/consensus-specs/pull/5712) - 2026-10-05
 

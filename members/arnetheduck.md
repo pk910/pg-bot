@@ -26,6 +26,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stats: import script fixes (#5060)](https://github.com/status-im/nimbus-eth1/commit/8a8e2dd73c9da2a5bafa1dcb58664a3f3a460f91) - 2026-10-23
 * [Commit] [vendor: check/bump (#5069)](https://github.com/status-im/nimbus-eth1/commit/9333dbaca90e52f74db7fefe56fe7f45df4d581a) - 2026-10-24
 * [Review] [Review on: stateless: require the sibling node of a collapsed branch](https://github.com/status-im/nimbus-eth1/pull/5047#pullrequestreview-5680913764) - 2026-10-28
+* [Pull Request] [ledger: simplify updates](https://github.com/status-im/nimbus-eth1/pull/5118) - 2026-10-29
+* [Review] [Review on: persist aristo frames into KVT](https://github.com/status-im/nimbus-eth1/pull/5104#pullrequestreview-5700116049) - 2026-10-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

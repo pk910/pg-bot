@@ -54,6 +54,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: upload goroutine stacks on workflow failure](https://github.com/erigontech/erigon/pull/25434) - 2026-10-27
 * [Pull Request] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode](https://github.com/erigontech/erigon/pull/25431) - 2026-10-27
 * [Commit] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode (#25431)](https://github.com/erigontech/erigon/commit/fac3dfde06f6cec9b72be5921005136e28b7096b) - 2026-10-27
+* [Commit] [qa-tests: upload goroutine stacks on workflow failure (#25434)](https://github.com/erigontech/erigon/commit/b33bb3ee16179e730fd1637a2d8d82088f53b5e3) - 2026-10-29
 ## Q3 2026
 
 

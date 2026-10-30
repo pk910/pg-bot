@@ -109,6 +109,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Enable the transaction pool after the plugins have started (#11665)](https://github.com/besu-eth/besu/pull/11666#pullrequestreview-5683018991) - 2026-10-28
 * [Issue] [FOCIL: avoid the cold reads of the inclusion list senders on the critical path](https://github.com/besu-eth/besu/issues/11796) - 2026-10-28
 * [Issue] [FOCIL: pre-validate the inclusion list transactions in parallel with the block execution](https://github.com/besu-eth/besu/issues/11795) - 2026-10-28
+* [Pull Request] [Use the timing baseline of besu-eth/besu in a repository without one](https://github.com/besu-eth/besu/pull/11810) - 2026-10-29
+* [Review] [Review on: Use the timing baseline of besu-eth/besu in a repository without one](https://github.com/besu-eth/besu/pull/11810#pullrequestreview-5696294025) - 2026-10-29
+* [Issue] [Measure how effective the engine_newPayload sender precomputation is, and evaluate its parallelism](https://github.com/besu-eth/besu/issues/11807) - 2026-10-29
+* [Commit] [FOCIL: Validate inclusion lists during block processing (#11768)](https://github.com/besu-eth/besu/commit/6e52da86fed1ffb95e3b707d905b5ab16410c921) - 2026-10-29
+* [Commit] [Tell a failed artifact lookup from a run without the timing baseline (#11810)](https://github.com/besu-eth/besu/commit/7f08e68a3cc891a3b642f8353b9770cf6ba7d5a0) - 2026-10-29
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

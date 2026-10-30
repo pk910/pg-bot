@@ -270,6 +270,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(consensus): stop block production at the EIP-2780 minimum transaction gas](https://github.com/NethermindEth/nethermind/pull/15358#pullrequestreview-5686123795) - 2026-10-28
 * [Review] [Review on: fix(config): accept removed memory hint settings as obsolete no-ops](https://github.com/NethermindEth/nethermind/pull/15338#pullrequestreview-5686122934) - 2026-10-28
 * [Commit] [Enforce grouped NUnit assertions (#15245)](https://github.com/NethermindEth/nethermind/commit/26ed2374168943fd6a318a7a087b6aef94f2fd88) - 2026-10-28
+* [Review] [Review on: feat(rlp): add declarative FluentRlp encoding and decoding](https://github.com/NethermindEth/nethermind/pull/15387#pullrequestreview-5697413870) - 2026-10-29
+* [Review] [Review on: perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388#pullrequestreview-5697429209) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -294,6 +296,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/pull/12552#pullrequestreview-5587550301) - 2026-10-20
 * [Pull Request] [Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590) - 2026-10-26
 * [Review] [Review on: Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590#pullrequestreview-5682129445) - 2026-10-28
+* [Review] [Review on: Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590#pullrequestreview-5704514264) - 2026-10-29
+* [Pull Request] [Update EIP-8288: reuse proofs before recursive aggregation](https://github.com/ethereum/EIPs/pull/12595) - 2026-10-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

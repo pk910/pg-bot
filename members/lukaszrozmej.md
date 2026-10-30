@@ -798,6 +798,37 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): skip zero limbs and alignment tests in the SP1 guest's memory words (#15284)](https://github.com/NethermindEth/nethermind/commit/dc666cc990048babcd9de00ab16344e79cfd2b88) - 2026-10-28
 * [Commit] [perf(zkevm): store the SP1 SHA-256 initial state as immediates (#15294)](https://github.com/NethermindEth/nethermind/commit/5a598b07e15ee54af2330510960ec9e455b56cab) - 2026-10-28
 * [Commit] [ci: fall back to the .NET CDN when the SDK download fails (#15209)](https://github.com/NethermindEth/nethermind/commit/1c5d3fafe403fb4cab42763c45db808329e111e8) - 2026-10-28
+* [Pull Request] [perf(zkevm): run calls without value through a guest handler that reads their operands in place](https://github.com/NethermindEth/nethermind/pull/15404) - 2026-10-29
+* [Pull Request] [perf(zkevm): run CODECOPY through the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15398) - 2026-10-29
+* [Pull Request] [perf(zkevm): write RLP hashes as aligned words on strict-alignment guests](https://github.com/NethermindEth/nethermind/pull/15399) - 2026-10-29
+* [Review] [Review on: fix(producers): count a pool tx that has not run at its base cost in the sender chain](https://github.com/NethermindEth/nethermind/pull/15391#pullrequestreview-5698822044) - 2026-10-29
+* [Pull Request] [perf(zkevm): read the bloom index bits big-endian on the guest](https://github.com/NethermindEth/nethermind/pull/15400) - 2026-10-29
+* [Pull Request] [fix(zkevm): look up the ADDMOD fast path's next handler with HandlerAt](https://github.com/NethermindEth/nethermind/pull/15396) - 2026-10-29
+* [Pull Request] [perf(zkevm): align the word loads of the zero-byte count](https://github.com/NethermindEth/nethermind/pull/15393) - 2026-10-29
+* [Review] [Review on: perf(zkevm): align the word loads of the zero-byte count](https://github.com/NethermindEth/nethermind/pull/15393#pullrequestreview-5700262960) - 2026-10-29
+* [Review] [Review on: perf(sync): download block access lists for executed blocks in full sync](https://github.com/NethermindEth/nethermind/pull/15378#pullrequestreview-5694205104) - 2026-10-29
+* [Review] [Review on: test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376#pullrequestreview-5694075581) - 2026-10-29
+* [Pull Request] [feat(rlp): add declarative FluentRlp encoding and decoding](https://github.com/NethermindEth/nethermind/pull/15387) - 2026-10-29
+* [Review] [Review on: feat(rlp): add declarative FluentRlp encoding and decoding](https://github.com/NethermindEth/nethermind/pull/15387#pullrequestreview-5698465318) - 2026-10-29
+* [Review] [Review on: perf(tracing): recover senders only for the transactions a single-tx trace runs](https://github.com/NethermindEth/nethermind/pull/15375#pullrequestreview-5694806960) - 2026-10-29
+* [Pull Request] [perf(zkevm): read the keccak tail's partial bytes in aligned pieces](https://github.com/NethermindEth/nethermind/pull/15384) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the keccak tail's partial bytes in aligned pieces](https://github.com/NethermindEth/nethermind/pull/15384#pullrequestreview-5697483310) - 2026-10-29
+* [Pull Request] [perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388) - 2026-10-29
+* [Review] [Review on: perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388#pullrequestreview-5697658645) - 2026-10-29
+* [Review] [Review on: perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370#pullrequestreview-5697636789) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the branch RLP scratch of a depth by value](https://github.com/NethermindEth/nethermind/pull/15374#pullrequestreview-5697638041) - 2026-10-29
+* [Commit] [test(eest): bump fixtures to tests@v21.0.2 (#15354)](https://github.com/NethermindEth/nethermind/commit/8a788d47965175aadecda82d6391dd54f1feccd6) - 2026-10-29
+* [Commit] [perf(zkevm): read the branch RLP scratch of a depth by value (#15374)](https://github.com/NethermindEth/nethermind/commit/e2eb85e6dad505bef450c33063e94f2767d14576) - 2026-10-29
+* [Commit] [perf(zkevm): read the keccak tail's partial bytes in aligned pieces (#15384)](https://github.com/NethermindEth/nethermind/commit/45fc4c2388d4458a8854168fce2c461dcce227fc) - 2026-10-29
+* [Commit] [perf(zkevm): call memmove directly from Bytes.Copy on SP1 (#15388)](https://github.com/NethermindEth/nethermind/commit/306e04313e86dbd9abb8eafc965f34a95703556a) - 2026-10-29
+* [Commit] [perf(zkevm): carry the SP1 guest's dispatch table as its address in words (#15292)](https://github.com/NethermindEth/nethermind/commit/49f70887b86298d34defa6aa75d132145862da6b) - 2026-10-29
+* [Commit] [perf(zkevm): make no call in the scanned-jump handler (#15389)](https://github.com/NethermindEth/nethermind/commit/29ddc7323392ae249b004e64aa85a8c787887e16) - 2026-10-29
+* [Commit] [ci: run every master push to completion (#15382)](https://github.com/NethermindEth/nethermind/commit/1b02a97eeaa9b248c6c8c694c8873d5e3ed2e0eb) - 2026-10-29
+* [Commit] [perf(zkevm): run the guest's ADDMOD and SP1's MULMOD on their stack slots (#15377)](https://github.com/NethermindEth/nethermind/commit/f9b9cc83daa4655d677796ae516aeb36a575ea0a) - 2026-10-29
+* [Commit] [perf(precompiles): test ModExp's length bounds with word reads (#15383)](https://github.com/NethermindEth/nethermind/commit/fc9abf09fa8eaaf291edba560073514743facadc) - 2026-10-29
+* [Commit] [perf(zkevm): round the SP1 jump look-back's word and bias bases once (#15293)](https://github.com/NethermindEth/nethermind/commit/945a80aab1da0bc95a6a4156bf71a27fe6e3f263) - 2026-10-29
+* [Commit] [fix(config): accept removed memory hint settings as obsolete no-ops (#15338)](https://github.com/NethermindEth/nethermind/commit/969229d99dc10ffbdfef465dfd6c620f7fd916ad) - 2026-10-29
+* [Commit] [fix(consensus): stop block production at the EIP-2780 minimum transaction gas (#15358)](https://github.com/NethermindEth/nethermind/commit/2df8a728389a8320a7b04b07cfdf30500ec62a56) - 2026-10-29
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -897,6 +928,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 * [Pull Request] [fix(test-specs): add an empty system contract to the BAL in a system-contract-empty test](https://github.com/ethereum/execution-specs/pull/3929) - 2026-10-28
 * [Issue] [Amsterdam invalid-transaction fixtures contain a second violation in the block access list](https://github.com/ethereum/execution-specs/issues/3928) - 2026-10-28
+* [Commit] [fix(test-specs): add an empty system contract to the BAL in a system-contract-empty test (#3929)](https://github.com/ethereum/execution-specs/commit/833d65127c2843e8b5603ebb2c42a16f649566ea) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: add the state-gas allowance of call frames](https://github.com/ethereum/EIPs/pull/12582) - 2026-10-24
 * [Pull Request] [Update EIP-2780: credit state-gas refills to the reservoir and add a legacy share](https://github.com/ethereum/EIPs/pull/12581) - 2026-10-24

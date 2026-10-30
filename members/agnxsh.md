@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add better metering for getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/9285) - 2026-10-15
 * [Pull Request] [add inclusion list publisher](https://github.com/status-im/nimbus-eth2/pull/9351) - 2026-10-22
 * [Pull Request] [wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397) - 2026-10-28
+* [Pull Request] [extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413) - 2026-10-29
 ## Q3 2026
 
 

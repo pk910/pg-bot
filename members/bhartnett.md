@@ -66,6 +66,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Mixed rdb cache keys (#5107)](https://github.com/status-im/nimbus-eth1/commit/987d891ce33f719e1428477b2a01478504238a02) - 2026-10-28
 * [Commit] [Skip the static vid lookup for small storage tries (#5109)](https://github.com/status-im/nimbus-eth1/commit/b7495107926b8dd2b8bde81278e54a25587976e0) - 2026-10-28
 * [Commit] [Add debug cli option to toggle storage static vid lookups (#5106)](https://github.com/status-im/nimbus-eth1/commit/0ba2bc1fc5bd12f37cefed763f0d54ae1c579608) - 2026-10-28
+* [Pull Request] [Cached acc leaf layout](https://github.com/status-im/nimbus-eth1/pull/5117) - 2026-10-29
+* [Commit] [Cached acc leaf layout (#5117)](https://github.com/status-im/nimbus-eth1/commit/ce27bc5afc9b6a4058d0c3d3ab39303dbc7d8a09) - 2026-10-29
 ## Q3 2026
 
 

@@ -35,6 +35,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.3.2-alpha.149](https://github.com/NethermindEth/nethermind/pull/15248#pullrequestreview-5652997663) - 2026-10-26
 * [Review] [Review on: fix(rpc): accept a null account override in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/15224#pullrequestreview-5653535524) - 2026-10-26
 * [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684603234) - 2026-10-28
+* [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5695660936) - 2026-10-29
+* [Review] [Review on: test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376#pullrequestreview-5697478114) - 2026-10-29
 ## Q3 2026
 
 

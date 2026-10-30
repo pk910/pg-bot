@@ -61,6 +61,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(db): parse rocksdb statistics without per-tick allocation](https://github.com/NethermindEth/nethermind/pull/15346) - 2026-10-28
 * [Commit] [perf(flat): store trie nodes in a pointer-linked node record buffer (#14952)](https://github.com/NethermindEth/nethermind/commit/763af0ee80e23947855778ad495142abe7a88561) - 2026-10-29
 * [Commit] [perf(db): parse rocksdb statistics without per-tick allocation (#15346)](https://github.com/NethermindEth/nethermind/commit/24327091c7c593482ba108477139f5d02933b156) - 2026-10-28
+* [Pull Request] [feat(db): add rewrite-db and compact-db commands to apply RocksDB config changes](https://github.com/NethermindEth/nethermind/pull/15406) - 2026-10-30
+* [Pull Request] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407) - 2026-10-30
+* [Review] [Review on: refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks](https://github.com/NethermindEth/nethermind/pull/15407#pullrequestreview-5707575134) - 2026-10-30
+* [Pull Request] [perf(rlp): encode through a length list populated in encode order](https://github.com/NethermindEth/nethermind/pull/15405) - 2026-10-30
+* [Commit] [test(merge): wait for the resent block's commit before building on it (#15379)](https://github.com/NethermindEth/nethermind/commit/5fc80d9c89deac748ee6a5f56a1db4d7031076f9) - 2026-10-29
+* [Commit] [perf(bal): pool plain-transfer BAL slices separately (#15380)](https://github.com/NethermindEth/nethermind/commit/8bf058380b848dbf8dbd61d96d0d2f4165e06341) - 2026-10-29
 ## Q3 2026
 
 

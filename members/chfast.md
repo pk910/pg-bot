@@ -94,6 +94,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/state: keep the access list's value of a slot that a re-run writes net-zero](https://github.com/erigontech/erigon/pull/25466#pullrequestreview-5681992252) - 2026-10-28
 * [Commit] [execution/state: remove an earlier run's cell when a net-zero storage write is flushed (#25450)](https://github.com/erigontech/erigon/commit/f2b4dfd6f3de6fa6c255af211d3c7908bbd01bd3) - 2026-10-28
 * [Commit] [execution/state: do not keep an absence recorded at a destruct that kept the balance (#25410)](https://github.com/erigontech/erigon/commit/27f65f93cf5f88ca710f2ef6973ee60724d73b82) - 2026-10-28
+* [Commit] [execution/state: keep the access list's value of a slot that a re-run writes net-zero (#25466)](https://github.com/erigontech/erigon/commit/253e8e5d4ccb965d4e1f0044cd9f0f2ce2001a3a) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -193,6 +194,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [evm: Add Gas::charge() for the gas checks](https://github.com/ipsilon/evmone/pull/1789) - 2026-10-28
 * [Pull Request] [evm: Use the wrapping subtraction in Gas::charge() with Clang](https://github.com/ipsilon/evmone/pull/1790) - 2026-10-28
 * [Issue] [baseline: Weight the computed goto with the opcode frequencies](https://github.com/ipsilon/evmone/issues/1792) - 2026-10-28
+* [Pull Request] [crypto: Use INTX_REQUIRE instead of assert in modexp](https://github.com/ipsilon/evmone/pull/1794) - 2026-10-29
+* [Pull Request] [evm: Pass the zeroed tail size to the capacity growth](https://github.com/ipsilon/evmone/pull/1796) - 2026-10-29
+* [Pull Request] [evm: Allocate the memory on the first growth](https://github.com/ipsilon/evmone/pull/1795) - 2026-10-29
+* [Pull Request] [evm: Move the memory capacity growth out of line](https://github.com/ipsilon/evmone/pull/1793) - 2026-10-29
+* [Commit] [evm: Move the memory capacity growth out of line (#1793)](https://github.com/ipsilon/evmone/commit/fc9264a15328c4405c44a65d8f801d173929ad0a) - 2026-10-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

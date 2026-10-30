@@ -84,6 +84,11 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota)](https://github.com/ethereum/execution-specs/pull/3921) - 2026-10-27
 * [Review] [Review on: Besu: add BlockException.INVALID_SLOT_NUMBER mapping](https://github.com/ethereum/execution-specs/pull/3920#pullrequestreview-5671343543) - 2026-10-27
 * [Commit] [chore(spec-specs,tests): revert #3920 (heze-devnet-3 on bogota) (#3921)](https://github.com/ethereum/execution-specs/commit/7f2f4c9bf6d73b09ecb8b24eb14d08bf0cf0247b) - 2026-10-27
+* [Pull Request] [feat(tests): fit a tx after a 7702 existing-authority refund](https://github.com/ethereum/execution-specs/pull/3943) - 2026-10-29
+* [Pull Request] [feat(tests): pad forged BALs to the item cap and past it](https://github.com/ethereum/execution-specs/pull/3944) - 2026-10-29
+* [Pull Request] [feat(test-benchmark): add invalid-point and state-root benchmarks](https://github.com/ethereum/execution-specs/pull/3942) - 2026-10-29
+* [Commit] [feat(tests): fit a tx after a 7702 existing-authority refund (#3943)](https://github.com/ethereum/execution-specs/commit/b758df2bcaaa95c04d31e25c94fbfb8d6de756e7) - 2026-10-29
+* [Commit] [feat(tests): pad forged BALs to the item cap and past it (#3944)](https://github.com/ethereum/execution-specs/commit/02aafd78ceb70a15fb75195048dc693b536bd938) - 2026-10-29
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

@@ -40,6 +40,8 @@ Team: Nimbus
 * [Review] [Review on: snap sync: reject a ByteCodes reply with more codes than requested](https://github.com/status-im/nimbus-eth1/pull/5105#pullrequestreview-5686189146) - 2026-10-28
 * [Pull Request] [Snap2 avoid some race conditions](https://github.com/status-im/nimbus-eth1/pull/5110) - 2026-10-28
 * [Commit] [Snap2 avoid some race conditions (#5110)](https://github.com/status-im/nimbus-eth1/commit/1b66061420801a6e3aef12efeb140c4fb888ccf4) - 2026-10-28
+* [Pull Request] [Snap2 maint update plus bal forward fix](https://github.com/status-im/nimbus-eth1/pull/5119) - 2026-10-29
+* [Commit] [Snap2 maint update plus bal forward fix (#5119)](https://github.com/status-im/nimbus-eth1/commit/19a57e7bfa0ee71804e3edfa9b0d3b771511f061) - 2026-10-29
 ## Q3 2026
 
 

@@ -358,6 +358,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/clparams, cl/persistence, cl/phase1/stages: keep beacon blocks the specs require (#25412)](https://github.com/erigontech/erigon/commit/c5c60151c33c5f8a00656ce936c5f0ae6fa59f11) - 2026-10-28
 * [Commit] [cl: give envelope disk I/O its own lock (#25436)](https://github.com/erigontech/erigon/commit/8a5bf399da8ea8ca267db49330c1b08c82eecf15) - 2026-10-28
 * [Commit] [cl: answer attestation_data from fork choice without waiting for the head state (#25359)](https://github.com/erigontech/erigon/commit/0e470b97840af24f4472ac06215073f2fef18d9c) - 2026-10-28
+* [Review] [Review on: cl/phase1/network: keep block ranges in flight in the backward beacon downloader](https://github.com/erigontech/erigon/pull/25417#pullrequestreview-5695227097) - 2026-10-29
+* [Pull Request] [[r3.8] cl: validate gossip attestations and aggregates against the target shuffling](https://github.com/erigontech/erigon/pull/25213) - 2026-10-30
+* [Pull Request] [cl/utils/bls: aggregate public keys with blst batch addition](https://github.com/erigontech/erigon/pull/25542) - 2026-10-29
+* [Pull Request] [cl/phase1/stages, cl/phase1/forkchoice: emit head events before the head-state copy](https://github.com/erigontech/erigon/pull/25543) - 2026-10-29
+* [Pull Request] [cl/beacon/handler: check blob data on the legacy envelope POST route](https://github.com/erigontech/erigon/pull/25531) - 2026-10-29
+* [Pull Request] [cl/beacon/handler, cl/das: store only custody columns of self-built blocks after OnBlock](https://github.com/erigontech/erigon/pull/25540) - 2026-10-29
+* [Commit] [cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise (#25475)](https://github.com/erigontech/erigon/commit/62a9beea6a1a62fbdf7f9d59ba5124a3c38ac29e) - 2026-10-29
+* [Commit] [cl/persistence, cl/phase1, db/kv: persist Gloas execution payload envelope signatures (#25384)](https://github.com/erigontech/erigon/commit/04af12888934aacdf6c785f498e5153ce2e806da) - 2026-10-29
 ## Q3 2026
 
 

@@ -23,6 +23,10 @@ Team: Reth
 * [Pull Request] [chore(deps): bump zstd to 0.14.3](https://github.com/paradigmxyz/reth/pull/28158) - 2026-10-26
 * [Review] [Review on: fix(trie): group proof targets by child](https://github.com/paradigmxyz/reth/pull/28085#pullrequestreview-5651115694) - 2026-10-26
 * [Commit] [chore(deps): bump zstd to 0.14.3 (#28158)](https://github.com/paradigmxyz/reth/commit/c482561cbd6c2831bc4284efe9def441cb771525) - 2026-10-26
+* [Pull Request] [ci: track exported metric names](https://github.com/paradigmxyz/reth/pull/28210) - 2026-10-29
+* [Review] [Review on: chore: move trie DST workload to Bedrock](https://github.com/paradigmxyz/reth/pull/28209#pullrequestreview-5700377087) - 2026-10-29
+* [Review] [Review on: refactor(trie-dst): make controller async](https://github.com/paradigmxyz/reth/pull/28203#pullrequestreview-5699114606) - 2026-10-29
+* [Review] [Review on: chore: bump version to 2.9.0](https://github.com/paradigmxyz/reth/pull/28204#pullrequestreview-5696718347) - 2026-10-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

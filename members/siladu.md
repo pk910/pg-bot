@@ -25,6 +25,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Remove compromised eMudhra roots from the Docker image](https://github.com/besu-eth/besu/pull/11756#pullrequestreview-5649955064) - 2026-10-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557) - 2026-10-04
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: clients/besu: turn off the default flight recording](https://github.com/ethereum/hive/pull/1644#pullrequestreview-5705488735) - 2026-10-29
 ## Q3 2026
 
 

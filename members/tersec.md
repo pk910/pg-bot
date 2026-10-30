@@ -119,6 +119,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [update to Nim 2.2.14](https://github.com/status-im/nimbus-eth2/pull/9405) - 2026-10-28
 * [Review] [Review on: wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397#pullrequestreview-5680652027) - 2026-10-28
 * [Pull Request] [switch Nim version check to simple >=](https://github.com/status-im/nimbus-eth2/pull/9398) - 2026-10-28
+* [Review] [Review on: wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397#pullrequestreview-5695901152) - 2026-10-29
+* [Review] [Review on: extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413#pullrequestreview-5706098025) - 2026-10-29
+* [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5692491683) - 2026-10-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

@@ -63,6 +63,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Compute snappy frame checksums with bulk CRC32C updates](https://github.com/Consensys-Incorporated/teku/pull/11593#pullrequestreview-5688862124) - 2026-10-28
 * [Review] [Review on: Accumulate decoded snappy frames into a single buffer](https://github.com/Consensys-Incorporated/teku/pull/11587#pullrequestreview-5683448886) - 2026-10-28
 * [Review] [Review on: Bound RocksDB range seeks and skip pruned data column slots](https://github.com/Consensys-Incorporated/teku/pull/11585#pullrequestreview-5680326215) - 2026-10-28
+* [Review] [Review on: Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595#pullrequestreview-5699193449) - 2026-10-29
+* [Commit] [Make sidecar archival safe during custody backfill (#11595)](https://github.com/Consensys-Incorporated/teku/commit/34a169122c0a8a530f4cd2632256bda71a0b57b5) - 2026-10-29
 ## Q3 2026
 
 

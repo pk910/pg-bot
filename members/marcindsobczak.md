@@ -156,6 +156,25 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(core): reject hex strings that are not 32 bytes in ValueHash256(string) (#15359)](https://github.com/NethermindEth/nethermind/commit/d7da01c753076921911a8b0420cc017b5acd0ab4) - 2026-10-28
 * [Commit] [test: group the assertions that NUnit2045 rejects on master (#15362)](https://github.com/NethermindEth/nethermind/commit/66cd875bfe4ee8538eb531e31c9e0538f070fc0c) - 2026-10-28
 * [Commit] [test(trie): move the bulk set failure tests into the bulk set test file (#15330)](https://github.com/NethermindEth/nethermind/commit/250d457b96067c0476c2f3ac51568e7aa1740f2d) - 2026-10-28
+* [Pull Request] [perf(producers): benchmark a long single-sender queue through the tx source and picker](https://github.com/NethermindEth/nethermind/pull/15403) - 2026-10-29
+* [Review] [Review on: test(ethereum-tests): cover EIP-7906 assert frames in state tests](https://github.com/NethermindEth/nethermind/pull/15210#pullrequestreview-5703172006) - 2026-10-29
+* [Review] [Review on: ci(zkevm): drop the commit from the guest release notes](https://github.com/NethermindEth/nethermind/pull/15394#pullrequestreview-5703811993) - 2026-10-29
+* [Review] [Review on: refactor(network)!: serialize base p2p messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15395#pullrequestreview-5705629093) - 2026-10-29
+* [Review] [Review on: fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt](https://github.com/NethermindEth/nethermind/pull/15402#pullrequestreview-5705636714) - 2026-10-29
+* [Review] [Review on: perf(zkevm): run CODECOPY through the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15398#pullrequestreview-5705620654) - 2026-10-29
+* [Review] [Review on: perf(zkevm): write RLP hashes as aligned words on strict-alignment guests](https://github.com/NethermindEth/nethermind/pull/15399#pullrequestreview-5705580288) - 2026-10-29
+* [Pull Request] [fix(producers): count a pool tx that has not run at its base cost in the sender chain](https://github.com/NethermindEth/nethermind/pull/15391) - 2026-10-29
+* [Review] [Review on: fix(producers): count a pool tx that has not run at its base cost in the sender chain](https://github.com/NethermindEth/nethermind/pull/15391#pullrequestreview-5700565416) - 2026-10-29
+* [Review] [Review on: fix(zkevm): look up the ADDMOD fast path's next handler with HandlerAt](https://github.com/NethermindEth/nethermind/pull/15396#pullrequestreview-5703664987) - 2026-10-29
+* [Review] [Review on: Add Light Client](https://github.com/NethermindEth/nethermind/pull/14457#pullrequestreview-5701915624) - 2026-10-29
+* [Review] [Review on: perf(zkevm): align the word loads of the zero-byte count](https://github.com/NethermindEth/nethermind/pull/15393#pullrequestreview-5700757748) - 2026-10-29
+* [Review] [Review on: perf(sync): download block access lists for executed blocks in full sync](https://github.com/NethermindEth/nethermind/pull/15378#pullrequestreview-5696185250) - 2026-10-29
+* [Review] [Review on: test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376#pullrequestreview-5694997463) - 2026-10-29
+* [Review] [Review on: perf(tracing): recover senders only for the transactions a single-tx trace runs](https://github.com/NethermindEth/nethermind/pull/15375#pullrequestreview-5698563887) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the keccak tail's partial bytes in aligned pieces](https://github.com/NethermindEth/nethermind/pull/15384#pullrequestreview-5699627216) - 2026-10-29
+* [Review] [Review on: perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388#pullrequestreview-5699620041) - 2026-10-29
+* [Review] [Review on: perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370#pullrequestreview-5695075214) - 2026-10-29
+* [Review] [Review on: perf(zkevm): read the branch RLP scratch of a depth by value](https://github.com/NethermindEth/nethermind/pull/15374#pullrequestreview-5694698701) - 2026-10-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

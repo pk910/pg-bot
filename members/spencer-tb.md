@@ -115,6 +115,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-consume): split oversized enginex pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3919#pullrequestreview-5667239643) - 2026-10-27
 * [Review] [Review on: feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365#pullrequestreview-5667033691) - 2026-10-27
 * [Review] [Review on: chore(ci): publish forks/bogota docs as the default dev branch](https://github.com/ethereum/execution-specs/pull/3925#pullrequestreview-5682470112) - 2026-10-28
+* [Pull Request] [fix(tooling,test-client-clis): stop fill-pypy running out of memory and map geth's frame RLP rejections](https://github.com/ethereum/execution-specs/pull/3941) - 2026-10-29
+* [Pull Request] [fix(test-client-clis): map ethrex and Nethermind max fee rejections](https://github.com/ethereum/execution-specs/pull/3940) - 2026-10-29
+* [Review] [Review on: feat(test-consume): fail a wirex test once a fully served client stalls](https://github.com/ethereum/execution-specs/pull/3938#pullrequestreview-5697079447) - 2026-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -163,6 +166,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/go-ethereum, clients/reth: load the genesis at startup when there is nothing to import](https://github.com/ethereum/hive/pull/1639#pullrequestreview-5670668249) - 2026-10-27
 * [Review] [Review on: simulators/ethereum/eels: add consume-wirex simulator](https://github.com/ethereum/hive/pull/1640#pullrequestreview-5667076576) - 2026-10-27
 * [Commit] [clients: add EIP-8253 zero-nonce storage accounts to execution layer client mappers (#1641)](https://github.com/ethereum/hive/commit/1a66c6d90c486b428de99fe0c1daee71c3965603) - 2026-10-27
+* [Pull Request] [clients/erigon: bump Go builder image to 1.26.8](https://github.com/ethereum/hive/pull/1645) - 2026-10-29
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [chore(hive): regenerate no_sim_build.diff for hive's simulator build configs](https://github.com/paradigmxyz/reth/pull/28020) - 2026-10-19
 * [Pull Request] [chore(hive): run the eels simulators from the published execution-specs images](https://github.com/paradigmxyz/reth/pull/28021) - 2026-10-19

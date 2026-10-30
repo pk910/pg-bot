@@ -313,6 +313,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(merge): wait for the stored payload before raising the cleanup timer (#15315)](https://github.com/NethermindEth/nethermind/commit/e3d6ebdf1822416e2b462c350c83b099677124d9) - 2026-10-28
 * [Commit] [fix(config): remove unknown AuRaMerge.Enabled key from chiado_archive.json (#15313)](https://github.com/NethermindEth/nethermind/commit/6cb13d24105791298fa98091347d2a84c17e3337) - 2026-10-28
 * [Commit] [fix(healthchecks): stop waiting for free disk space on shutdown (#15312)](https://github.com/NethermindEth/nethermind/commit/d3cc6bc67c65b0506503c2b98b575103d62676ab) - 2026-10-28
+* [Pull Request] [fix(sync): ignore a snap checkpoint that outlived a wipe by an older version](https://github.com/NethermindEth/nethermind/pull/15401) - 2026-10-29
+* [Review] [Review on: fix(sync): ignore a snap checkpoint that outlived a wipe by an older version](https://github.com/NethermindEth/nethermind/pull/15401#pullrequestreview-5705327538) - 2026-10-29
+* [Review] [Review on: fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt](https://github.com/NethermindEth/nethermind/pull/15402#pullrequestreview-5705141079) - 2026-10-29
+* [Commit] [fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot (#15310)](https://github.com/NethermindEth/nethermind/commit/9fdeb53304aadd90889af259dd354e69e7cfb829) - 2026-10-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026
