@@ -52,6 +52,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Add `SaveBlindedExecutionPayloadEnvelope` with typed save outcomes (#17674)](https://github.com/OffchainLabs/prysm/commit/eb681c1d13b57c2d0c5da27a63bb41ac9d071e1a) - 2026-10-27
 * [Commit] [Add local Gloas execution block hash computation (#17676)](https://github.com/OffchainLabs/prysm/commit/37b74c24908ab3382f2f79772a404b710253d8c9) - 2026-10-27
 * [Commit] [Add an `Env` retention span to `das.CurrentNeeds` (#17675)](https://github.com/OffchainLabs/prysm/commit/ab15ff70c72a568c870b2de662474685a95de294) - 2026-10-28
+* [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5711919204) - 2026-10-30
+* [Commit] [Backfill Gloas execution payload envelopes alongside blocks (#17394)](https://github.com/OffchainLabs/prysm/commit/90704af22f60312f7263f7828864d0e1868ae93b) - 2026-10-30
 ## Q3 2026
 
 

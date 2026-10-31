@@ -175,6 +175,47 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388#pullrequestreview-5699620041) - 2026-10-29
 * [Review] [Review on: perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370#pullrequestreview-5695075214) - 2026-10-29
 * [Review] [Review on: perf(zkevm): read the branch RLP scratch of a depth by value](https://github.com/NethermindEth/nethermind/pull/15374#pullrequestreview-5694698701) - 2026-10-29
+* [Review] [Review on: feat(sync): resume flat snap sync healing after a graceful shutdown](https://github.com/NethermindEth/nethermind/pull/15423#pullrequestreview-5714919583) - 2026-10-30
+* [Pull Request] [fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15446) - 2026-10-30
+* [Review] [Review on: fix(optimism): fill eth_sendTransaction nonces on a node that forwards to the sequencer](https://github.com/NethermindEth/nethermind/pull/15446#pullrequestreview-5718092648) - 2026-10-30
+* [Review] [Review on: fix(blockchain): count chain reorganizations in BlockTree](https://github.com/NethermindEth/nethermind/pull/15422#pullrequestreview-5715514445) - 2026-10-30
+* [Review] [Review on: test(taiko,shutter): pin the preconf id check, a non-zero built hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5714769146) - 2026-10-30
+* [Pull Request] [perf(producers): reuse one args instance for the candidates the block-production picker rejects](https://github.com/NethermindEth/nethermind/pull/15444) - 2026-10-30
+* [Review] [Review on: perf(producers): reuse one args instance for the candidates the block-production picker rejects](https://github.com/NethermindEth/nethermind/pull/15444#pullrequestreview-5715642336) - 2026-10-30
+* [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408#pullrequestreview-5709825532) - 2026-10-30
+* [Review] [Review on: fix(txpool): raise EvictedPending for a pending tx whose nonce an included tx took](https://github.com/NethermindEth/nethermind/pull/15420#pullrequestreview-5711292582) - 2026-10-30
+* [Review] [Review on: perf(monitoring): skip Prometheus-only metric updates when Metrics.Enabled is false](https://github.com/NethermindEth/nethermind/pull/15410#pullrequestreview-5710488096) - 2026-10-30
+* [Review] [Review on: fix(debug): report Geth error text in the JavaScript tracer's ctx.error](https://github.com/NethermindEth/nethermind/pull/15425#pullrequestreview-5715365696) - 2026-10-30
+* [Review] [Review on: fix(runner): create a new default JWT secret next to the node key](https://github.com/NethermindEth/nethermind/pull/15421#pullrequestreview-5714971006) - 2026-10-30
+* [Review] [Review on: perf(zkevm): hash each witness code while the SP1 guest moves it](https://github.com/NethermindEth/nethermind/pull/15370#pullrequestreview-5715617672) - 2026-10-30
+* [Review] [Review on: perf(zkevm): run CODECOPY through the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15398#pullrequestreview-5710576702) - 2026-10-30
+* [Review] [Review on: perf(zkevm): write RLP hashes as aligned words on strict-alignment guests](https://github.com/NethermindEth/nethermind/pull/15399#pullrequestreview-5715621001) - 2026-10-30
+* [Review] [Review on: perf(zkevm): read the bloom index bits big-endian on the guest](https://github.com/NethermindEth/nethermind/pull/15400#pullrequestreview-5709236918) - 2026-10-30
+* [Review] [Review on: perf(zkevm): run calls without value through a guest handler that reads their operands in place](https://github.com/NethermindEth/nethermind/pull/15404#pullrequestreview-5709663889) - 2026-10-30
+* [Review] [Review on: fix(optimism): fill a missing nonce in eth_sendTransaction](https://github.com/NethermindEth/nethermind/pull/15432#pullrequestreview-5715844125) - 2026-10-30
+* [Pull Request] [test(merge): wait for commits in the V7 empty-block helper and bound WaitForCommitted by the test timeout](https://github.com/NethermindEth/nethermind/pull/15441) - 2026-10-30
+* [Review] [Review on: test(merge): wait for commits in the V7 empty-block helper and bound WaitForCommitted by the test timeout](https://github.com/NethermindEth/nethermind/pull/15441#pullrequestreview-5714878127) - 2026-10-30
+* [Pull Request] [perf(consensus): compute the parent's base fee once per parent in the standard tx filters](https://github.com/NethermindEth/nethermind/pull/15442) - 2026-10-30
+* [Pull Request] [test(state-tests): check the fixture's logs hash next to the post-state root](https://github.com/NethermindEth/nethermind/pull/15443) - 2026-10-30
+* [Review] [Review on: test(state-tests): check the fixture's logs hash next to the post-state root](https://github.com/NethermindEth/nethermind/pull/15443#pullrequestreview-5715253079) - 2026-10-30
+* [Review] [Review on: fix(sync): ignore a snap checkpoint that outlived a wipe by an older version](https://github.com/NethermindEth/nethermind/pull/15401#pullrequestreview-5709285130) - 2026-10-30
+* [Review] [Review on: test(config): check every built-in config for unknown settings](https://github.com/NethermindEth/nethermind/pull/15415#pullrequestreview-5714299399) - 2026-10-30
+* [Review] [Review on: fix(txpool): keep an empty nonce_keys set in the persisted light record](https://github.com/NethermindEth/nethermind/pull/15430#pullrequestreview-5713261497) - 2026-10-30
+* [Review] [Review on: fix(evm): keep a nested precompile's failure off the caller's trace step](https://github.com/NethermindEth/nethermind/pull/15418#pullrequestreview-5714863771) - 2026-10-30
+* [Review] [Review on: test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress](https://github.com/NethermindEth/nethermind/pull/15417#pullrequestreview-5714962494) - 2026-10-30
+* [Review] [Review on: fix(logindex): key the receipts-barrier target on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15414#pullrequestreview-5713326263) - 2026-10-30
+* [Review] [Review on: test(e2e): wait for the payload build before getPayload in the opcode tracing tests](https://github.com/NethermindEth/nethermind/pull/15419#pullrequestreview-5714761545) - 2026-10-30
+* [Review] [Review on: test(flat): wait for the compacted records in the node buffer compaction test](https://github.com/NethermindEth/nethermind/pull/15435#pullrequestreview-5713695321) - 2026-10-30
+* [Review] [Review on: test(e2e): wait for the payload build until the opcode tracing transactions are mined](https://github.com/NethermindEth/nethermind/pull/15436#pullrequestreview-5713723583) - 2026-10-30
+* [Review] [Review on: fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15439#pullrequestreview-5714152125) - 2026-10-30
+* [Pull Request] [fix(network): reject truncated ENR values as malformed records](https://github.com/NethermindEth/nethermind/pull/15438) - 2026-10-30
+* [Pull Request] [fix(network): reject truncated lists in receipts responses as malformed](https://github.com/NethermindEth/nethermind/pull/15437) - 2026-10-30
+* [Pull Request] [fix(sync): reject snap range proofs that leave a boundary extension unexpanded](https://github.com/NethermindEth/nethermind/pull/15431) - 2026-10-30
+* [Commit] [fix(network): reject truncated ENR values as malformed records (#15438)](https://github.com/NethermindEth/nethermind/commit/db10d6ef2d6df725abbef0c75f0db8249937ef72) - 2026-10-30
+* [Commit] [fix(network): reject truncated lists in receipts responses as malformed (#15437)](https://github.com/NethermindEth/nethermind/commit/1345e6640ef4e2dcc44f832f46a0869173df3463) - 2026-10-30
+* [Commit] [fix(sync): reject snap range proofs that leave a boundary extension unexpanded (#15431)](https://github.com/NethermindEth/nethermind/commit/51583bcae0ffbd0222d846d51678cfe82d1965be) - 2026-10-30
+* [Commit] [perf(producers): benchmark a long single-sender queue through the tx source and picker (#15403)](https://github.com/NethermindEth/nethermind/commit/1ec64b1a840e02507599e6d2c7de6e116e1e47ff) - 2026-10-30
+* [Commit] [fix(producers): count a pool tx that has not run at its base cost in the sender chain (#15391)](https://github.com/NethermindEth/nethermind/commit/60ad16d1abb35e501ee1944fa36fe69cb352410a) - 2026-10-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

@@ -220,6 +220,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Check gasUsed of empty Amsterdam blocks in light body validation](https://github.com/besu-eth/besu/pull/11800) - 2026-10-29
 * [Commit] [Fix flaky EngineJsonRpcServiceLimitConnectionsTest (#11801)](https://github.com/besu-eth/besu/commit/12c1a2e6d89061925b748b75393f04ab509a68d5) - 2026-10-29
 * [Commit] [Remove the total difficulty cache (#11790)](https://github.com/besu-eth/besu/commit/b9514a9bb14491d06e213f0f1155208bb6d80b7a) - 2026-10-29
+* [Review] [Review on: Run the devnet tests on standard runners](https://github.com/besu-eth/besu/pull/11819#pullrequestreview-5712665264) - 2026-10-30
+* [Review] [Review on: SNAP2: Add --sync-mode=SNAP2](https://github.com/besu-eth/besu/pull/11803#pullrequestreview-5711816679) - 2026-10-30
+* [Review] [Review on: Run the reference tests on standard runners](https://github.com/besu-eth/besu/pull/11818#pullrequestreview-5711921388) - 2026-10-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

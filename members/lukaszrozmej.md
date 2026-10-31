@@ -829,6 +829,32 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): round the SP1 jump look-back's word and bias bases once (#15293)](https://github.com/NethermindEth/nethermind/commit/945a80aab1da0bc95a6a4156bf71a27fe6e3f263) - 2026-10-29
 * [Commit] [fix(config): accept removed memory hint settings as obsolete no-ops (#15338)](https://github.com/NethermindEth/nethermind/commit/969229d99dc10ffbdfef465dfd6c620f7fd916ad) - 2026-10-29
 * [Commit] [fix(consensus): stop block production at the EIP-2780 minimum transaction gas (#15358)](https://github.com/NethermindEth/nethermind/commit/2df8a728389a8320a7b04b07cfdf30500ec62a56) - 2026-10-29
+* [Pull Request] [perf(zkevm): keep the witness state nodes in the input on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15450) - 2026-10-31
+* [Review] [Review on: test(taiko,shutter): pin the preconf id check, a non-zero built hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5713628914) - 2026-10-30
+* [Review] [Review on: perf(monitoring): skip Prometheus-only metric updates when Metrics.Enabled is false](https://github.com/NethermindEth/nethermind/pull/15410#pullrequestreview-5713648963) - 2026-10-30
+* [Review] [Review on: fix(debug): report Geth error text in the JavaScript tracer's ctx.error](https://github.com/NethermindEth/nethermind/pull/15425#pullrequestreview-5713589895) - 2026-10-30
+* [Review] [Review on: perf(zkevm): run CODECOPY through the guest data-copy handler](https://github.com/NethermindEth/nethermind/pull/15398#pullrequestreview-5709679347) - 2026-10-30
+* [Review] [Review on: perf(zkevm): write RLP hashes as aligned words on strict-alignment guests](https://github.com/NethermindEth/nethermind/pull/15399#pullrequestreview-5709686641) - 2026-10-30
+* [Review] [Review on: perf(zkevm): read the bloom index bits big-endian on the guest](https://github.com/NethermindEth/nethermind/pull/15400#pullrequestreview-5709686903) - 2026-10-30
+* [Review] [Review on: perf(zkevm): run calls without value through a guest handler that reads their operands in place](https://github.com/NethermindEth/nethermind/pull/15404#pullrequestreview-5709760610) - 2026-10-30
+* [Review] [Review on: fix(optimism): fill a missing nonce in eth_sendTransaction](https://github.com/NethermindEth/nethermind/pull/15432#pullrequestreview-5713555834) - 2026-10-30
+* [Review] [Review on: test(config): check every built-in config for unknown settings](https://github.com/NethermindEth/nethermind/pull/15415#pullrequestreview-5713631327) - 2026-10-30
+* [Review] [Review on: fix(ethstats): drop the trailing slash before appending /api](https://github.com/NethermindEth/nethermind/pull/15433#pullrequestreview-5713552177) - 2026-10-30
+* [Review] [Review on: fix(evm): keep a nested precompile's failure off the caller's trace step](https://github.com/NethermindEth/nethermind/pull/15418#pullrequestreview-5713621548) - 2026-10-30
+* [Review] [Review on: test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress](https://github.com/NethermindEth/nethermind/pull/15417#pullrequestreview-5713626146) - 2026-10-30
+* [Review] [Review on: test(e2e): wait for the payload build before getPayload in the opcode tracing tests](https://github.com/NethermindEth/nethermind/pull/15419#pullrequestreview-5713614956) - 2026-10-30
+* [Pull Request] [test(flat): wait for the compacted records in the node buffer compaction test](https://github.com/NethermindEth/nethermind/pull/15435) - 2026-10-30
+* [Pull Request] [test(e2e): wait for the payload build until the opcode tracing transactions are mined](https://github.com/NethermindEth/nethermind/pull/15436) - 2026-10-30
+* [Review] [Review on: fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15439#pullrequestreview-5713504507) - 2026-10-30
+* [Pull Request] [feat(stateless): add a trusted-input zkVM guest, with Airbender performance work](https://github.com/NethermindEth/nethermind/pull/15427) - 2026-10-30
+* [Review] [Review on: fix(network): reject truncated ENR values as malformed records](https://github.com/NethermindEth/nethermind/pull/15438#pullrequestreview-5713536968) - 2026-10-30
+* [Review] [Review on: fix(network): reject truncated lists in receipts responses as malformed](https://github.com/NethermindEth/nethermind/pull/15437#pullrequestreview-5713541624) - 2026-10-30
+* [Review] [Review on: fix(sync): reject snap range proofs that leave a boundary extension unexpanded](https://github.com/NethermindEth/nethermind/pull/15431#pullrequestreview-5713565796) - 2026-10-30
+* [Commit] [test(flat): wait for the compacted records in the node buffer compaction test (#15435)](https://github.com/NethermindEth/nethermind/commit/53dbc4d3fddd48f17be6d0e249f0f0b88fc8d14d) - 2026-10-30
+* [Commit] [test(e2e): wait for the payload build until the opcode tracing transactions are mined (#15436)](https://github.com/NethermindEth/nethermind/commit/d8b7b19b1365ff67294c608c51f9620ead9bb9b1) - 2026-10-30
+* [Commit] [perf(zkevm): lean world state for zkVM guests (#15341)](https://github.com/NethermindEth/nethermind/commit/c965ffc141a47c32d46a924c98dd67962426ec3f) - 2026-10-30
+* [Commit] [fix(zkevm): look up the ADDMOD fast path's next handler with HandlerAt (#15396)](https://github.com/NethermindEth/nethermind/commit/1d4145f8ccdf16c88a68ce63c7f5ffbf35c254dd) - 2026-10-30
+* [Commit] [perf(zkevm): align the word loads of the zero-byte count (#15393)](https://github.com/NethermindEth/nethermind/commit/7b8eca63f96631e83f9ab2cae58983f601bf1371) - 2026-10-30
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

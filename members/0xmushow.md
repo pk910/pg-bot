@@ -11,6 +11,11 @@ Github: [@0xmushow](https://github.com/0xmushow)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/556) - 2026-10-02
+
+[ethereum/protocol-security](https://github.com/ethereum/protocol-security)
+* [Pull Request] [Update Antoine & BBP guidelines](https://github.com/ethereum/protocol-security/pull/63) - 2026-10-30
+* [Commit] [Contact: route vulnerability reports to the Bug Bounty Program](https://github.com/ethereum/protocol-security/commit/89abde9cbdc54a3084720382e5bcda456bf09f88) - 2026-10-30
+* [Commit] [Update Antoine's description & socials.](https://github.com/ethereum/protocol-security/commit/e95b557478953386fa4fe63609777ae01cffc899) - 2026-10-30
 ## Q3 2026
 
 

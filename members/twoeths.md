@@ -92,6 +92,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: retry post-gloas getBlobs after a failed attempt](https://github.com/ChainSafe/lodestar/pull/10479#pullrequestreview-5681785137) - 2026-10-28
 * [Review] [Review on: refactor: remove non-spec `none` broadcast validation level](https://github.com/ChainSafe/lodestar/pull/10500#pullrequestreview-5680447678) - 2026-10-28
 * [Commit] [fix: verify cached envelope signature on publish (#10499)](https://github.com/ChainSafe/lodestar/commit/4671dbfa392b4a031410489251ebb6a0aab05b2d) - 2026-10-28
+* [Review] [Review on: ci: run zig jobs only when zig sources change](https://github.com/ChainSafe/lodestar/pull/10522#pullrequestreview-5710586451) - 2026-10-30
+* [Review] [Review on: test: reuse one node pool across Zig spec test cases](https://github.com/ChainSafe/lodestar/pull/10524#pullrequestreview-5710967635) - 2026-10-30
+* [Review] [Review on: chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513#pullrequestreview-5709334785) - 2026-10-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

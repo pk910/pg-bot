@@ -61,6 +61,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix: update ere and ere-guests to v0.18.2](https://github.com/eth-act/zkevm-benchmark-workload/pull/324) - 2026-10-26
 * [Commit] [feat: update ere-guests to v0.19.0 (#325)](https://github.com/eth-act/zkevm-benchmark-workload/commit/31b385c6a0e5d8edeb5ea88f7e25c523544e6baf) - 2026-10-26
 * [Commit] [fix: update ere and ere-guests to v0.18.2 (#324)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c73929dac38e0fcbfbc1a9e8104c9dc09ff44194) - 2026-10-26
+* [Pull Request] [fix: restore Zesu with ere-guests v0.19.1](https://github.com/eth-act/zkevm-benchmark-workload/pull/327) - 2026-10-30
+* [Commit] [fix: restore Zesu with ere-guests v0.19.1 (#327)](https://github.com/eth-act/zkevm-benchmark-workload/commit/a933977179204293dff0025561af0879c78a9e43) - 2026-10-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 
@@ -70,6 +72,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: fix: drop dead code when merging the ELF verifier archive](https://github.com/eth-act/ere/pull/448#pullrequestreview-5474051941) - 2026-10-09
 
 * [Issue] [`ServerContainer::new` leaks the container and its attach process when startup fails](https://github.com/eth-act/ere/issues/450) - 2026-10-13
+* [Pull Request] [ci: re-enable zisk in the zkVM version check](https://github.com/eth-act/ere/pull/469) - 2026-10-30
+* [Issue] [Upgrade Zisk to v1.4.0-alpha](https://github.com/eth-act/ere/issues/468) - 2026-10-30
+* [Commit] [ci: re-enable zisk in the zkVM version check (#469)](https://github.com/eth-act/ere/commit/6a3f76ebb7bcd0d5b7d793dc1d695f2ec464ca0b) - 2026-10-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
 
@@ -79,6 +84,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [eth-act/zkboost](https://github.com/eth-act/zkboost)
 * [Issue] [Upgrade to ere-guests v0.19.0](https://github.com/eth-act/zkboost/issues/90) - 2026-10-26
+* [Pull Request] [fix: update ere-guests to v0.19.1](https://github.com/eth-act/zkboost/pull/99) - 2026-10-30
+* [Commit] [fix: update ere-guests to v0.19.1 (#99)](https://github.com/eth-act/zkboost/commit/31b9151b164a2e442884d2deabf977c8dc75318c) - 2026-10-30
 ## Q3 2026
 
 

@@ -19,6 +19,15 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add image](https://github.com/protocolguild/protocol-guild-site/commit/84b9492330e7beec9fb5aa844daf66e1802c13f5) - 2026-10-12
 * [Commit] [Create folder](https://github.com/protocolguild/protocol-guild-site/commit/83747f2b9977e245875e6d7d7c235a5be495a00d) - 2026-10-12
 
+* [Commit] [Update DonorSectionDark3.tsx](https://github.com/protocolguild/protocol-guild-site/commit/9f97be30528f091da64fcb4add14d56a2d0ddefe) - 2026-10-30
+* [Commit] [40mm distro](https://github.com/protocolguild/protocol-guild-site/commit/c536e66ff7facdf60c1b36a56ffddb261fe7c5bc) - 2026-10-30
+* [Commit] [Update DonorSectionDark3.tsx](https://github.com/protocolguild/protocol-guild-site/commit/709c50b21935f2ec085bd49043aa53cecc4d6795) - 2026-10-30
+* [Commit] [Update DonorSectionDark2.tsx](https://github.com/protocolguild/protocol-guild-site/commit/03430cadfbce1bed48a2f2df6bec0311e861c87c) - 2026-10-30
+* [Commit] [Add Aligned svg logos](https://github.com/protocolguild/protocol-guild-site/commit/e0153b782d0d3eac514c6aef8f7db707bb5bc93c) - 2026-10-30
+* [Commit] [Delete src/assets/images/donors/aligned.png](https://github.com/protocolguild/protocol-guild-site/commit/4b9dfd674f4b91d66e553ce03cc318b3cf4c173d) - 2026-10-30
+* [Commit] [Delete src/assets/images/donors/aligned-white.png](https://github.com/protocolguild/protocol-guild-site/commit/f5a8b7dbc65d811e69e9d091f4f1a5cac2f0bf1d) - 2026-10-30
+* [Commit] [Update quote](https://github.com/protocolguild/protocol-guild-site/commit/a969bf8bfd5bafd0e5990cb343a9d8cebd7fa125) - 2026-10-30
+* [Commit] [Add Aligned logos](https://github.com/protocolguild/protocol-guild-site/commit/0d6a2a8eb4e5e81c1b4c52df965609fc5d77069c) - 2026-10-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Commit] [Merge pull request #577 from pgbot0101/fix-team-totals](https://github.com/protocolguild/documentation/commit/66458c7f972050b38375d54c6860be6d8b15f8e5) - 2026-10-13
 * [Commit] [Merge pull request #576 from luca-zanolini/update-luca-weight](https://github.com/protocolguild/documentation/commit/011de021bd6a9a4892830395b208120109239ba5) - 2026-10-13

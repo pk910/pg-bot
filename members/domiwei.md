@@ -366,6 +366,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon/handler, cl/das: store only custody columns of self-built blocks after OnBlock](https://github.com/erigontech/erigon/pull/25540) - 2026-10-29
 * [Commit] [cl/das, cl/persistence/beacon_indicies: move earliest_available_slot to the custody group count raise (#25475)](https://github.com/erigontech/erigon/commit/62a9beea6a1a62fbdf7f9d59ba5124a3c38ac29e) - 2026-10-29
 * [Commit] [cl/persistence, cl/phase1, db/kv: persist Gloas execution payload envelope signatures (#25384)](https://github.com/erigontech/erigon/commit/04af12888934aacdf6c785f498e5153ce2e806da) - 2026-10-29
+* [Review] [Review on: lint: enable more bug-finding checks; fix IPv6 listeners](https://github.com/erigontech/erigon/pull/25549#pullrequestreview-5711515129) - 2026-10-30
+* [Review] [Review on: cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557#pullrequestreview-5711515513) - 2026-10-30
+* [Pull Request] [txnprovider/txpool: delete pool DB rows that validateTx rejects on reload](https://github.com/erigontech/erigon/pull/25598) - 2026-10-30
+* [Review] [Review on: cl/das: compute the cells of EL blobs in parallel](https://github.com/erigontech/erigon/pull/25514#pullrequestreview-5711151987) - 2026-10-30
+* [Review] [Review on: cl/phase1/network/registry: let one peer forward a slot of each sync subnet at once](https://github.com/erigontech/erigon/pull/25593#pullrequestreview-5717328757) - 2026-10-30
+* [Pull Request] [cl/cltypes/solid, cl/phase1/core/state/raw: hash participation subtrees in parallel](https://github.com/erigontech/erigon/pull/25596) - 2026-10-30
+* [Pull Request] [cl/phase1/forkchoice: apply fork-choice votes when they are recorded](https://github.com/erigontech/erigon/pull/25595) - 2026-10-30
+* [Pull Request] [cl/phase1/forkchoice: read column availability before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25594) - 2026-10-30
+* [Commit] [db/kv/mdbx: assert the in-commit deadline sync by its fsync, not by wall-clock (#25520)](https://github.com/erigontech/erigon/commit/8f2a51e3b9c85eeefcabf4c1ba3b3dd8c87c529d) - 2026-10-30
+* [Commit] [cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict (#25469)](https://github.com/erigontech/erigon/commit/f2f545aadeda115dd8a273ac924cb14cebd3a688) - 2026-10-30
 ## Q3 2026
 
 

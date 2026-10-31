@@ -28,6 +28,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: stateless: require the sibling node of a collapsed branch](https://github.com/status-im/nimbus-eth1/pull/5047#pullrequestreview-5680913764) - 2026-10-28
 * [Pull Request] [ledger: simplify updates](https://github.com/status-im/nimbus-eth1/pull/5118) - 2026-10-29
 * [Review] [Review on: persist aristo frames into KVT](https://github.com/status-im/nimbus-eth1/pull/5104#pullrequestreview-5700116049) - 2026-10-29
+* [Pull Request] [git: fetch submodules in parallel](https://github.com/status-im/nimbus-eth1/pull/5120) - 2026-10-30
+* [Commit] [git: fetch submodules in parallel (#5120)](https://github.com/status-im/nimbus-eth1/commit/e81d8c589a84662e9687a654344843c23d2a7f0c) - 2026-10-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

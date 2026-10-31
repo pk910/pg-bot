@@ -114,6 +114,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [Measure how effective the engine_newPayload sender precomputation is, and evaluate its parallelism](https://github.com/besu-eth/besu/issues/11807) - 2026-10-29
 * [Commit] [FOCIL: Validate inclusion lists during block processing (#11768)](https://github.com/besu-eth/besu/commit/6e52da86fed1ffb95e3b707d905b5ab16410c921) - 2026-10-29
 * [Commit] [Tell a failed artifact lookup from a run without the timing baseline (#11810)](https://github.com/besu-eth/besu/commit/7f08e68a3cc891a3b642f8353b9770cf6ba7d5a0) - 2026-10-29
+* [Pull Request] [Run the devnet tests on standard runners](https://github.com/besu-eth/besu/pull/11819) - 2026-10-30
+* [Review] [Review on: Run the devnet tests on standard runners](https://github.com/besu-eth/besu/pull/11819#pullrequestreview-5713166311) - 2026-10-30
+* [Pull Request] [Run the reference tests on standard runners](https://github.com/besu-eth/besu/pull/11818) - 2026-10-30
+* [Review] [Review on: Run the reference tests on standard runners](https://github.com/besu-eth/besu/pull/11818#pullrequestreview-5712179593) - 2026-10-30
+* [Commit] [Run the devnet tests on standard runners (#11819)](https://github.com/besu-eth/besu/commit/b32c6a8953d15d21eb7bc8d064f07416acb6ae4b) - 2026-10-30
+* [Commit] [Run the reference tests on standard runners (#11818)](https://github.com/besu-eth/besu/commit/6bf36fa477a2640845fd0671c6c596f9fef346a8) - 2026-10-30
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

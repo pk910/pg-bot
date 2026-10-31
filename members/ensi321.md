@@ -58,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: wait for payload data before taking a serial import queue slot](https://github.com/ChainSafe/lodestar/pull/10485) - 2026-10-27
 * [Review] [Review on: fix: verify cached envelope signature on publish](https://github.com/ChainSafe/lodestar/pull/10499#pullrequestreview-5682183431) - 2026-10-28
 * [Review] [Review on: fix: keep the engine off an unsatisfied payload at envelope import](https://github.com/ChainSafe/lodestar/pull/10486#pullrequestreview-5680563760) - 2026-10-28
+* [Pull Request] [feat: implement EIP-8148 custom sweep threshold in heze](https://github.com/ChainSafe/lodestar/pull/10519) - 2026-10-30
+* [Pull Request] [feat: reduce block retention window to 8192 epochs in heze (EIP-8383)](https://github.com/ChainSafe/lodestar/pull/10518) - 2026-10-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add `equivocation_delay` mutation to fork choice compliance tests (#5572)](https://github.com/ethereum/consensus-specs/commit/fbc43a435db996bafecaa6fbaa74889dfed49086) - 2026-10-07
 

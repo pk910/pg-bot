@@ -21,6 +21,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #587 from tvanepps/add-armada-space-oct-2026](https://github.com/protocolguild/documentation/commit/a1c17968c2f767ee505209259e14481b750c11a2) - 2026-10-16
 * [Commit] [Add Armada x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/commit/c773670be692a3c9f984f23c767bdc8f4e3876e9) - 2026-10-16
 * [Commit] [Add EF livestream to resources](https://github.com/protocolguild/documentation/commit/0c96260ffefce6a072df0d0873233c9fe5816c64) - 2026-10-21
+* [Pull Request] [Remove Scotty Poi](https://github.com/protocolguild/documentation/pull/590) - 2026-10-30
+* [Commit] [Merge pull request #590 from tvanepps/remove-scotty-poi](https://github.com/protocolguild/documentation/commit/2a1611ac0caee881a8604dd03e16c862f28a2b30) - 2026-10-30
+* [Commit] [Remove Scotty Poi](https://github.com/protocolguild/documentation/commit/651479324380d3ad38f2b8a6af75b54ebdfbab58) - 2026-10-30
 ## Q3 2026
 
 

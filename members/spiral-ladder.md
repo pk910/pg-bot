@@ -50,6 +50,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(api): type historical summaries proof nodes as Bytes32 (#10487)](https://github.com/ChainSafe/lodestar/commit/e4b4f615e68c1a4ea7c57632e6ed8d824624573f) - 2026-10-27
 * [Review] [Review on: fix: return 400 when sync committee message validator is not in the sync committee](https://github.com/ChainSafe/lodestar/pull/10502#pullrequestreview-5681295089) - 2026-10-28
 * [Pull Request] [feat(api): serve block root proofs against historical summaries](https://github.com/ChainSafe/lodestar/pull/10511) - 2026-10-29
+* [Pull Request] [ci: run zig jobs only when zig sources change](https://github.com/ChainSafe/lodestar/pull/10522) - 2026-10-30
+* [Review] [Review on: ci: run zig jobs only when zig sources change](https://github.com/ChainSafe/lodestar/pull/10522#pullrequestreview-5710400750) - 2026-10-30
+* [Review] [Review on: test: reuse one node pool across Zig spec test cases](https://github.com/ChainSafe/lodestar/pull/10524#pullrequestreview-5710673247) - 2026-10-30
+* [Review] [Review on: chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513#pullrequestreview-5708069907) - 2026-10-30
+* [Review] [Review on: fix: allow builders to raise their bid by a minimum increment](https://github.com/ChainSafe/lodestar/pull/10504#pullrequestreview-5707657234) - 2026-10-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

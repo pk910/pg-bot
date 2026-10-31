@@ -410,6 +410,8 @@ Team: Reth
 * [Pull Request] [fix(net): promote known peers on hostname trust](https://github.com/paradigmxyz/reth/pull/28199) - 2026-10-29
 * [Pull Request] [fix(cli): raise fd limit before opening storage](https://github.com/paradigmxyz/reth/pull/28197) - 2026-10-29
 * [Review] [Review on: fix(rpc): return -32001 for eth_getBlockAccessList before Amsterdam](https://github.com/paradigmxyz/reth/pull/28189#pullrequestreview-5695475153) - 2026-10-29
+* [Review] [Review on: ci: send nightly docker and scheduled bench failures to incident.io](https://github.com/paradigmxyz/reth/pull/28185#pullrequestreview-5718344541) - 2026-10-30
+* [Commit] [fix(net): promote known peers on hostname trust (#28199)](https://github.com/paradigmxyz/reth/commit/f97f603f6dc8fee5103b880e7a8041a61bd05f67) - 2026-10-30
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

@@ -338,6 +338,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [bind: WaitDeployed misclassifies frame transactions as deployments](https://github.com/erigontech/erigon/issues/25527) - 2026-10-29
 * [Commit] [cl/beacon: preserve actionable production failures (#23393)](https://github.com/erigontech/erigon/commit/94c700ef84699210d7bf1e4dafdfa9a006aebcc6) - 2026-10-29
 * [Commit] [cl: persist beacon blocks only after fork choice accepts them (#25442)](https://github.com/erigontech/erigon/commit/8519369efd04b46d5cb25c10df046f60ca92ae57) - 2026-10-29
+* [Review] [Review on: execution/exec, execution/stagedsync: fix READ_AHEAD_WAIT deadlock on validation with unwind](https://github.com/erigontech/erigon/pull/25532#pullrequestreview-5711167050) - 2026-10-30
+* [Review] [Review on: execution/protocol: decide the service-tx fee exemption per application, not on the message](https://github.com/erigontech/erigon/pull/25558#pullrequestreview-5711331426) - 2026-10-30
+* [Review] [Review on: db, execution: keep embedded state-cache reads on the selected view](https://github.com/erigontech/erigon/pull/23485#pullrequestreview-5709910303) - 2026-10-30
+* [Review] [Review on: cl/beacon/handler, cl/das: store only custody columns of self-built blocks after OnBlock](https://github.com/erigontech/erigon/pull/25540#pullrequestreview-5714404159) - 2026-10-30
+* [Pull Request] [execution, rpc: implement EIP-7906 transaction assertions](https://github.com/erigontech/erigon/pull/25602) - 2026-10-30
+* [Issue] [txpool: evaluate bounded parallel validation for frame and ordinary transactions](https://github.com/erigontech/erigon/issues/25579) - 2026-10-30
+* [Commit] [cl: harden block persistence and head publication (#25533)](https://github.com/erigontech/erigon/commit/96dc49d61b09e7191475914f977b0ab9955cf18c) - 2026-10-30
+* [Commit] [cl: enforce peer bans for invalid backfill envelopes (#25528)](https://github.com/erigontech/erigon/commit/c66b2f6735a799cd07ff6bc68ca1c62feea80ade) - 2026-10-30
+* [Commit] [execution/p2p: validate block bodies before fetching more (#23800)](https://github.com/erigontech/erigon/commit/5100a36d156a37c2db95080ea3de2d1b33eb62bd) - 2026-10-30
+* [Commit] [cl/phase1/execution_client: reject RLP-wrapped typed transactions (#25529)](https://github.com/erigontech/erigon/commit/e304051f5cfc9671ff6be7672c37bb14efd4d684) - 2026-10-30
+* [Commit] [execution/stagedsync: join scheduler before draining workers (#25535)](https://github.com/erigontech/erigon/commit/4dbfdcf86102ef4ede8c68de5a3400002ce7c695) - 2026-10-30
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 
@@ -357,6 +368,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-client-clis): map Erigon frame transaction rejections](https://github.com/ethereum/execution-specs/pull/3931) - 2026-10-28
 * [Issue] [tests: clarify oversized legacy chain-ID exception expectations](https://github.com/ethereum/execution-specs/issues/3930) - 2026-10-28
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8141: clarify EXTCODEHASH restrictions for precompiles](https://github.com/ethereum/EIPs/pull/12596) - 2026-10-30
 ## Q3 2026
 
 

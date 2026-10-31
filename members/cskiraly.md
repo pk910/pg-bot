@@ -44,6 +44,7 @@ Team: Codex DAS
 * [Pull Request] [triedb/pathdb: delete the journal before a rollback](https://github.com/ethereum/go-ethereum/pull/36041) - 2026-10-29
 * [Pull Request] [miner: set the block hash on receipts once the block is assembled](https://github.com/ethereum/go-ethereum/pull/36039) - 2026-10-29
 * [Commit] [internal/build: ask git for the commit, with fallback to reading .git (#35965)](https://github.com/ethereum/go-ethereum/commit/a0cba163b1f17f6044df84502ff13036dffb5de1) - 2026-10-29
+* [Commit] [p2p/discover: compare the traffic meters after closing the nodes (#36043)](https://github.com/ethereum/go-ethereum/commit/2321bba45b7ff7d3f453b96700074148306a8bb8) - 2026-10-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08

@@ -122,11 +122,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397#pullrequestreview-5695901152) - 2026-10-29
 * [Review] [Review on: extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413#pullrequestreview-5706098025) - 2026-10-29
 * [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5692491683) - 2026-10-29
+* [Review] [Review on: extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413#pullrequestreview-5711106625) - 2026-10-30
+* [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5707978143) - 2026-10-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5457955347) - 2026-10-08
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8148: Store sweep threshold in withdrawal credentials](https://github.com/ethereum/EIPs/pull/12598#pullrequestreview-5711053661) - 2026-10-30
 ## Q3 2026
 
 

@@ -42,6 +42,8 @@ Team: Nimbus
 * [Commit] [Snap2 avoid some race conditions (#5110)](https://github.com/status-im/nimbus-eth1/commit/1b66061420801a6e3aef12efeb140c4fb888ccf4) - 2026-10-28
 * [Pull Request] [Snap2 maint update plus bal forward fix](https://github.com/status-im/nimbus-eth1/pull/5119) - 2026-10-29
 * [Commit] [Snap2 maint update plus bal forward fix (#5119)](https://github.com/status-im/nimbus-eth1/commit/19a57e7bfa0ee71804e3edfa9b0d3b771511f061) - 2026-10-29
+* [Pull Request] [Snap2 some corrections](https://github.com/status-im/nimbus-eth1/pull/5121) - 2026-10-30
+* [Commit] [Snap2 some corrections (#5121)](https://github.com/status-im/nimbus-eth1/commit/84ea322400576bf346a726d2c2515c38450c1371) - 2026-10-30
 ## Q3 2026
 
 

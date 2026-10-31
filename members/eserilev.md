@@ -62,6 +62,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add the InclusionListsByIndices req/resp protocol](https://github.com/sigp/lighthouse/pull/10072#pullrequestreview-5668769753) - 2026-10-27
 * [Review] [Review on: Add inclusion list publishing endpoint to the Beacon API](https://github.com/sigp/lighthouse/pull/10174#pullrequestreview-5689565826) - 2026-10-28
 * [Pull Request] [Bump libz-sys to 1.1.31](https://github.com/sigp/lighthouse/pull/10499) - 2026-10-29
+* [Pull Request] [Don't penalize custody backfill peers for withheld Gloas payloads](https://github.com/sigp/lighthouse/pull/10510) - 2026-10-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Clear pending builder payments of slashed proposers](https://github.com/ethereum/consensus-specs/pull/5719#pullrequestreview-5486802221) - 2026-10-12
 ## Q3 2026

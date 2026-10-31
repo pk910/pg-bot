@@ -376,6 +376,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: record the inclusion list verdict when a payload turns VALID on forkchoiceUpdated](https://github.com/ChainSafe/lodestar/pull/10506) - 2026-10-29
 * [Issue] [Payload envelope peer scoring and range sync caching fixes](https://github.com/ChainSafe/lodestar/issues/10510) - 2026-10-29
 * [Issue] [Don't penalize peers for invalid payload envelope signatures in range sync](https://github.com/ChainSafe/lodestar/issues/10509) - 2026-10-29
+* [Review] [Review on: chore(deps): bump systeminformation from 5.31.7 to 5.33.16](https://github.com/ChainSafe/lodestar/pull/10520#pullrequestreview-5710274849) - 2026-10-30
+* [Pull Request] [test: reuse one node pool across Zig spec test cases](https://github.com/ChainSafe/lodestar/pull/10524) - 2026-10-30
+* [Review] [Review on: fix: decode gloas deposit requests without the electra limit](https://github.com/ChainSafe/lodestar/pull/10515#pullrequestreview-5707971702) - 2026-10-30
+* [Review] [Review on: fix: allow builders to raise their bid by a minimum increment](https://github.com/ChainSafe/lodestar/pull/10504#pullrequestreview-5707681313) - 2026-10-30
+* [Pull Request] [fix: bound the envelope transaction count by the bid's gas limit](https://github.com/ChainSafe/lodestar/pull/10517) - 2026-10-30
+* [Commit] [test: reuse one node pool across Zig spec test cases (#10524)](https://github.com/ChainSafe/lodestar/commit/122e5d5f2190bcbd00e2610dd66db26382cc05e2) - 2026-10-30
+* [Commit] [chore: merge lodestar-z into lodestar (#10513)](https://github.com/ChainSafe/lodestar/commit/c1ee822deff1b5c58fdf8224e34bc5523e17bc33) - 2026-10-30
+* [Commit] [chore(ci): scan x86_64 musl native binaries for AVX portability](https://github.com/ChainSafe/lodestar/commit/8c90803dda1ce20a6a5844f22f0a29e57c725477) - 2026-10-30
+* [Commit] [chore(ci): scan release native bindings for AVX portability](https://github.com/ChainSafe/lodestar/commit/2c77bd5f28ff52a11ca02a17f4c9a2374e70a481) - 2026-10-30
+* [Commit] [chore(ci): set ssz_static optimize mode explicitly](https://github.com/ChainSafe/lodestar/commit/f18881ff524d96f81b91fed86bb9cb8282192c7a) - 2026-10-30
+* [Commit] [docs: add Zig 0.16.0 to build prerequisites](https://github.com/ChainSafe/lodestar/commit/9b4882c9ffb1796efaac9d44180d5e69e9134617) - 2026-10-30
+* [Commit] [chore(ci): run ssz_static spec tests in Debug](https://github.com/ChainSafe/lodestar/commit/eeef7efde97d184bd815a1953419e0bef64e8262) - 2026-10-30
+* [Commit] [chore: skip native publish when version already exists on npm](https://github.com/ChainSafe/lodestar/commit/94168d692b6bc43e8f3fbe40fa81b9a79d12de1e) - 2026-10-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

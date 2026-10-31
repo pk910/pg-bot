@@ -28,6 +28,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [version: release go-ethereum v1.17.9 stable (#35990)](https://github.com/ethereum/go-ethereum/commit/9dffe6e976cbbb87a84c5fd395448f0950290def) - 2026-10-21
 * [Review] [Review on:  eth: add request-latency peer-drop protection](https://github.com/ethereum/go-ethereum/pull/34771#pullrequestreview-5617224200) - 2026-10-22
 * [Review] [Review on: core, params: revert schedule amsterdam fork on hoodi](https://github.com/ethereum/go-ethereum/pull/36001#pullrequestreview-5626049645) - 2026-10-23
+* [Pull Request] [eth, cmd/devp2p: revert index major cells response](https://github.com/ethereum/go-ethereum/pull/36047) - 2026-10-30
 ## Q3 2026
 
 

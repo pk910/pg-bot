@@ -76,6 +76,8 @@ Team: Grandine
 * [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5684405302) - 2026-10-28
 * [Pull Request] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020) - 2026-10-29
 * [Review] [Review on: Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/pull/1021#pullrequestreview-5699515377) - 2026-10-29
+* [Pull Request] [Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/pull/1022) - 2026-10-30
+* [Commit] [Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/commit/48ec7eb99184c37ef29ade716255b1baac7693aa) - 2026-10-30
 ## Q3 2026
 
 

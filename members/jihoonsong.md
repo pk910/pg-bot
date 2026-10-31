@@ -41,6 +41,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Bring the EIP-8198 feature spec up to date](https://github.com/ethereum/consensus-specs/pull/5757#pullrequestreview-5647952058) - 2026-10-26
 * [Pull Request] [Support FOCIL and Frames interaction](https://github.com/ethereum/consensus-specs/pull/5772) - 2026-10-27
 * [Commit] [Scale rewards and churn with `SLOT_DURATION_MS` (#5757)](https://github.com/ethereum/consensus-specs/commit/85f190b9d741811b7bfdee622c7d808b245666ac) - 2026-10-28
+* [Review] [Review on: Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784#pullrequestreview-5718057165) - 2026-10-30
+* [Review] [Review on: Do not prefer an unsatisfied payload as head during its own slot](https://github.com/ethereum/consensus-specs/pull/5769#pullrequestreview-5717013892) - 2026-10-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 

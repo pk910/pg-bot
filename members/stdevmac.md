@@ -317,6 +317,56 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(sync): ignore a snap checkpoint that outlived a wipe by an older version](https://github.com/NethermindEth/nethermind/pull/15401#pullrequestreview-5705327538) - 2026-10-29
 * [Review] [Review on: fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt](https://github.com/NethermindEth/nethermind/pull/15402#pullrequestreview-5705141079) - 2026-10-29
 * [Commit] [fix(history): key the ancient-barrier pruning cutoff on the tree sync pivot (#15310)](https://github.com/NethermindEth/nethermind/commit/9fdeb53304aadd90889af259dd354e69e7cfb829) - 2026-10-29
+* [Pull Request] [feat(sync): resume flat snap sync healing after a graceful shutdown](https://github.com/NethermindEth/nethermind/pull/15423) - 2026-10-30
+* [Review] [Review on: feat(sync): resume flat snap sync healing after a graceful shutdown](https://github.com/NethermindEth/nethermind/pull/15423#pullrequestreview-5711038950) - 2026-10-30
+* [Pull Request] [fix(blockchain): count chain reorganizations in BlockTree](https://github.com/NethermindEth/nethermind/pull/15422) - 2026-10-30
+* [Review] [Review on: build: drop the unused dotnet-tools NuGet feed](https://github.com/NethermindEth/nethermind/pull/15447#pullrequestreview-5719584289) - 2026-10-30
+* [Pull Request] [test(taiko,shutter): pin the preconf id check, a non-zero built hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416) - 2026-10-30
+* [Review] [Review on: test(taiko,shutter): pin the preconf id check, a non-zero built hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5718478686) - 2026-10-30
+* [Pull Request] [fix(txpool): raise EvictedPending for a pending tx whose nonce an included tx took](https://github.com/NethermindEth/nethermind/pull/15420) - 2026-10-30
+* [Review] [Review on: fix(txpool): raise EvictedPending for a pending tx whose nonce an included tx took](https://github.com/NethermindEth/nethermind/pull/15420#pullrequestreview-5711038588) - 2026-10-30
+* [Pull Request] [perf(monitoring): skip Prometheus-only metric updates when Metrics.Enabled is false](https://github.com/NethermindEth/nethermind/pull/15410) - 2026-10-30
+* [Review] [Review on: perf(monitoring): skip Prometheus-only metric updates when Metrics.Enabled is false](https://github.com/NethermindEth/nethermind/pull/15410#pullrequestreview-5714278345) - 2026-10-30
+* [Pull Request] [fix(debug): report Geth error text in the JavaScript tracer's ctx.error](https://github.com/NethermindEth/nethermind/pull/15425) - 2026-10-30
+* [Review] [Review on: fix(debug): report Geth error text in the JavaScript tracer's ctx.error](https://github.com/NethermindEth/nethermind/pull/15425#pullrequestreview-5711318187) - 2026-10-30
+* [Pull Request] [fix(runner): create a new default JWT secret next to the node key](https://github.com/NethermindEth/nethermind/pull/15421) - 2026-10-30
+* [Review] [Review on: fix(runner): create a new default JWT secret next to the node key](https://github.com/NethermindEth/nethermind/pull/15421#pullrequestreview-5715940412) - 2026-10-30
+* [Pull Request] [fix(optimism): fill a missing nonce in eth_sendTransaction](https://github.com/NethermindEth/nethermind/pull/15432) - 2026-10-30
+* [Review] [Review on: fix(optimism): fill a missing nonce in eth_sendTransaction](https://github.com/NethermindEth/nethermind/pull/15432#pullrequestreview-5711039369) - 2026-10-30
+* [Review] [Review on: fix(sync): ignore a snap checkpoint that outlived a wipe by an older version](https://github.com/NethermindEth/nethermind/pull/15401#pullrequestreview-5707806704) - 2026-10-30
+* [Pull Request] [test(config): check every built-in config for unknown settings](https://github.com/NethermindEth/nethermind/pull/15415) - 2026-10-30
+* [Review] [Review on: test(config): check every built-in config for unknown settings](https://github.com/NethermindEth/nethermind/pull/15415#pullrequestreview-5714814425) - 2026-10-30
+* [Pull Request] [fix(ethstats): drop the trailing slash before appending /api](https://github.com/NethermindEth/nethermind/pull/15433) - 2026-10-30
+* [Pull Request] [fix(txpool): keep an empty nonce_keys set in the persisted light record](https://github.com/NethermindEth/nethermind/pull/15430) - 2026-10-30
+* [Review] [Review on: fix(txpool): keep an empty nonce_keys set in the persisted light record](https://github.com/NethermindEth/nethermind/pull/15430#pullrequestreview-5714276304) - 2026-10-30
+* [Pull Request] [fix(evm): keep a nested precompile's failure off the caller's trace step](https://github.com/NethermindEth/nethermind/pull/15418) - 2026-10-30
+* [Review] [Review on: fix(evm): keep a nested precompile's failure off the caller's trace step](https://github.com/NethermindEth/nethermind/pull/15418#pullrequestreview-5715446556) - 2026-10-30
+* [Pull Request] [test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress](https://github.com/NethermindEth/nethermind/pull/15417) - 2026-10-30
+* [Review] [Review on: test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress](https://github.com/NethermindEth/nethermind/pull/15417#pullrequestreview-5715447015) - 2026-10-30
+* [Pull Request] [fix(logindex): key the receipts-barrier target on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15414) - 2026-10-30
+* [Review] [Review on: fix(logindex): key the receipts-barrier target on the tree sync pivot](https://github.com/NethermindEth/nethermind/pull/15414#pullrequestreview-5714276930) - 2026-10-30
+* [Pull Request] [test(e2e): wait for the payload build before getPayload in the opcode tracing tests](https://github.com/NethermindEth/nethermind/pull/15419) - 2026-10-30
+* [Issue] [JavaScript tracer reports EvmExceptionType names in ctx.error instead of Geth error text](https://github.com/NethermindEth/nethermind/issues/15424) - 2026-10-30
+* [Issue] [EthStats retries ws://host:port//api when the configured http(s) URL has no path](https://github.com/NethermindEth/nethermind/issues/15429) - 2026-10-30
+* [Issue] [Optimism eth_sendTransaction without a nonce forwards the transaction with nonce 0](https://github.com/NethermindEth/nethermind/issues/15428) - 2026-10-30
+* [Issue] [TxPool: blob-carrying frame tx with empty nonce_keys loses its key set in the persisted light record and is dropped under EIP-8250](https://github.com/NethermindEth/nethermind/issues/15426) - 2026-10-30
+* [Issue] [debug_traceTransaction struct logs mark the calling CALL step "out of gas" when a precompile runs out of gas in a nested call](https://github.com/NethermindEth/nethermind/issues/15411) - 2026-10-30
+* [Issue] [Log index backward sync never completes when the sync pivot comes from the CL and ancient barriers are set](https://github.com/NethermindEth/nethermind/issues/15413) - 2026-10-30
+* [Issue] [Flaky E2E test: RetrospectiveExecution_CapturesOpcodes_OnEip7928Chain tx not mined within 21 blocks](https://github.com/NethermindEth/nethermind/issues/15412) - 2026-10-30
+* [Commit] [fix(blockchain): count chain reorganizations in BlockTree (#15422)](https://github.com/NethermindEth/nethermind/commit/4bcb9e30986a86061fc8b7efe33abeeaa31f745a) - 2026-10-31
+* [Commit] [feat(sync): resume flat snap sync healing after a graceful shutdown (#15423)](https://github.com/NethermindEth/nethermind/commit/c31aa568866cfa726881a05c5fd0b189a07a0a1b) - 2026-10-31
+* [Commit] [fix(txpool): raise EvictedPending for a pending tx whose nonce an included tx took (#15420)](https://github.com/NethermindEth/nethermind/commit/1f6469e64eedad9fea5ccc1cd0d92ad9a468c3ab) - 2026-10-30
+* [Commit] [perf(monitoring): skip Prometheus-only metric updates when Metrics.Enabled is false (#15410)](https://github.com/NethermindEth/nethermind/commit/3add4f851adad0e78f67e803f3caaf29ec929e7c) - 2026-10-30
+* [Commit] [fix(debug): report Geth error text in the JavaScript tracer's ctx.error (#15425)](https://github.com/NethermindEth/nethermind/commit/d4a30a5b73fc7b85a83ce52a5450cbb496ac44fa) - 2026-10-30
+* [Commit] [fix(runner): create a new default JWT secret next to the node key (#15421)](https://github.com/NethermindEth/nethermind/commit/3a11914fa1432b896bf4fe9ec830416b41253304) - 2026-10-30
+* [Commit] [test(config): check every built-in config for unknown settings (#15415)](https://github.com/NethermindEth/nethermind/commit/4f209a7476c8b58c979346f29901f856300842aa) - 2026-10-30
+* [Commit] [fix(ethstats): drop the trailing slash before appending /api (#15433)](https://github.com/NethermindEth/nethermind/commit/b78eb0415b5cf73d8b64c6cb777c4721ff72bbe5) - 2026-10-30
+* [Commit] [fix(optimism): fill a missing nonce in eth_sendTransaction (#15432)](https://github.com/NethermindEth/nethermind/commit/2b67599e2e17b8e7948714bcc0bd229f76c3877b) - 2026-10-30
+* [Commit] [fix(txpool): keep an empty nonce_keys set in the persisted light record (#15430)](https://github.com/NethermindEth/nethermind/commit/e9d7656d64d94c6b9ddea9d3eb97ec31d15531c2) - 2026-10-30
+* [Commit] [fix(evm): keep a nested precompile's failure off the caller's trace step (#15418)](https://github.com/NethermindEth/nethermind/commit/13cd4721a6dd620db31a5fcec7cb494cd4ee5037) - 2026-10-30
+* [Commit] [test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress (#15417)](https://github.com/NethermindEth/nethermind/commit/13b66e8d7cf4ca0f9697cf6be7511b79af851a1b) - 2026-10-30
+* [Commit] [fix(logindex): key the receipts-barrier target on the tree sync pivot (#15414)](https://github.com/NethermindEth/nethermind/commit/d5dc3854f3e5e39470230f5546d9d5fa04015ed2) - 2026-10-30
+* [Commit] [fix(sync): ignore a snap checkpoint that outlived a wipe by an older version (#15401)](https://github.com/NethermindEth/nethermind/commit/81c45d36564ce9f7902eb39b7bf0d4ea562684e4) - 2026-10-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

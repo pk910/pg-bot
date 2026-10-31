@@ -117,6 +117,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients: omit the genesis alloc from the dump when HIVE_OMIT_GENESIS_ALLOC is set](https://github.com/ethereum/hive/pull/1643) - 2026-10-29
 * [Commit] [clients/besu: turn off the default flight recording (#1644)](https://github.com/ethereum/hive/commit/db1ad92b2c60799b5fd332123a40b02197ff5474) - 2026-10-29
 * [Commit] [clients: omit the genesis alloc from the dump when HIVE_OMIT_GENESIS_ALLOC is set (#1643)](https://github.com/ethereum/hive/commit/bbe551b23306a27cc359dcbd58b0149c81fb60bc) - 2026-10-29
+* [Pull Request] [clients/nethermind: turn off dynamic PGO](https://github.com/ethereum/hive/pull/1646) - 2026-10-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -142,6 +143,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386) - 2026-10-26
 * [Review] [Review on: cmd/utils, node/cli, docs: add --override.genesis to start from a genesis file](https://github.com/erigontech/erigon/pull/25386#pullrequestreview-5665290873) - 2026-10-27
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(init): add a hidden option for the KZG precompute level](https://github.com/NethermindEth/nethermind/pull/15434) - 2026-10-30
 ## Q3 2026
 
 

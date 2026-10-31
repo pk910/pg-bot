@@ -98,6 +98,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-7723: Allow SFI decisions on ACDT](https://github.com/ethereum/EIPs/pull/12570) - 2026-10-23
 * [Review] [Review on: Update EIP-7723: Define devnet scope process and feature devnets](https://github.com/ethereum/EIPs/pull/12452#pullrequestreview-5625636554) - 2026-10-23
 * [Commit] [Update EIP-8198: derive base fee responsiveness from slot timing](https://github.com/ethereum/EIPs/commit/7d2a68f2b62ad73bd2a5dc2de647d7229aa0d2e1) - 2026-10-23
+* [Pull Request] [Update EIP-8148: Store sweep threshold in withdrawal credentials](https://github.com/ethereum/EIPs/pull/12598) - 2026-10-30
+* [Pull Request] [Update EIP-8148: Specify contract input, log and eth_config key](https://github.com/ethereum/EIPs/pull/12597) - 2026-10-30
+* [Commit] [Update EIP-8148: Store sweep threshold in withdrawal credentials](https://github.com/ethereum/EIPs/commit/298dd6799a35591506e8d202c23be6aafdc27c14) - 2026-10-30
+* [Commit] [Update EIP-8148: Specify contract input, log and eth_config key](https://github.com/ethereum/EIPs/commit/2484d1e8eec504adb89a4bc921b91cc855eca81f) - 2026-10-30
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [fix: make the hcloud token optional when no hetzner nodes are defined](https://github.com/ethpandaops/template-devnets/pull/194) - 2026-10-02
 * [Commit] [fix: make the hcloud token optional when no hetzner nodes are defined (#194)](https://github.com/ethpandaops/template-devnets/commit/87dcea546c7381dd740132bd8b48152697816fbf) - 2026-10-02
@@ -145,6 +149,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add EIP-8198 to Heze with slot duration fixes](https://github.com/ethereum/consensus-specs/pull/5743) - 2026-10-15
 * [Pull Request] [Rebind cached functions in copies of the spec](https://github.com/ethereum/consensus-specs/pull/5742) - 2026-10-15
 * [Commit] [Apply config overrides to cached spec functions (#5742)](https://github.com/ethereum/consensus-specs/commit/065bcd5c6ad96186cd2c0ac1c435f620a0b25373) - 2026-10-22
+* [Pull Request] [Store EIP-8148 sweep threshold in withdrawal credentials](https://github.com/ethereum/consensus-specs/pull/5790) - 2026-10-30
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add beacon API error check playbook](https://github.com/ethpandaops/assertoor/pull/241) - 2026-10-13
 * [Pull Request] [feat: aggregate and regex-match series in check_http_metrics](https://github.com/ethpandaops/assertoor/pull/240) - 2026-10-13

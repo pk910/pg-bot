@@ -27,6 +27,9 @@ Team: Consensus R&D (EF)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Align titles and descriptions of Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12561#pullrequestreview-5600488448) - 2026-10-21
 * [Pull Request] [Update EIP-8450: Misc changes](https://github.com/ethereum/EIPs/pull/12592) - 2026-10-28
+* [Pull Request] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/pull/12599) - 2026-10-30
+* [Review] [Review on: Update EIP-8450: BLS-authorized key changes, builders, crypto interface](https://github.com/ethereum/EIPs/pull/12592#pullrequestreview-5712564925) - 2026-10-30
+* [Commit] [Update EIP-8450: BLS-authorized key changes, builders, crypto interface](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93) - 2026-10-30
 ## Q3 2026
 
 

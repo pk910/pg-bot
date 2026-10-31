@@ -107,6 +107,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Combine lodestar and lodestar-z repos](https://github.com/ChainSafe/lodestar/issues/10498) - 2026-10-28
 * [Commit] [chore: remove general workflow plugins from project settings (#10491)](https://github.com/ChainSafe/lodestar/commit/a6892012c4c669ccc9bf335db0a5e41618575744) - 2026-10-28
 * [Pull Request] [chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513) - 2026-10-29
+* [Review] [Review on: chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513#pullrequestreview-5707940134) - 2026-10-30
+* [Commit] [Merge remote-tracking branch 'origin/codex/combine-lodestar-z' into codex/combine-lodestar-z](https://github.com/ChainSafe/lodestar/commit/d2034faa0fe7db2f8cefc2b7887d6fb348c6a8bd) - 2026-10-30
+* [Commit] [refactor: move native workspace package to root bindings](https://github.com/ChainSafe/lodestar/commit/2f5b77b43b375d4b47ba78dcf7bf0037cc8f6a04) - 2026-10-30
+* [Commit] [docs: describe Zig sources as modules](https://github.com/ChainSafe/lodestar/commit/0ec9e1442197f3683b4a8263bb36e6af8d85af72) - 2026-10-30
+* [Commit] [fix: surface stf diagnostic messages (#813)](https://github.com/ChainSafe/lodestar/commit/91e246aa7bfe71c5e955fff2f2b79d20a3836514) - 2026-10-30
+* [Commit] [fix(native): use zapi 4.2.0 for platform package resolution](https://github.com/ChainSafe/lodestar/commit/b44b8fc6937b27f7215982b897efb2fc0270f54f) - 2026-10-30
+* [Commit] [chore(ci): clarify Zig and native job names](https://github.com/ChainSafe/lodestar/commit/6be8b7823af4f2655d6a07e88f9cf1159d5db4c2) - 2026-10-30
+* [Commit] [docs: remove threat model document](https://github.com/ChainSafe/lodestar/commit/3f946fd8389f4f40511701aebbde5adb0c628e81) - 2026-10-30
+* [Commit] [chore(ci): unify workflows and reuse workspace build artifacts](https://github.com/ChainSafe/lodestar/commit/20aa2b53798bd48b16f7d3a7cc9f3a6bfda0e904) - 2026-10-30
+* [Commit] [chore: centralize CI Zig version and remove unused examples](https://github.com/ChainSafe/lodestar/commit/f98d69998696a6603e77f7e129f6ce7e13236cca) - 2026-10-30
+* [Commit] [fix(ci): install Zig in remaining workspace build workflows](https://github.com/ChainSafe/lodestar/commit/cc05460141c9480125dfc8694919b7e704033262) - 2026-10-30
+* [Commit] [docs: fix native package spellcheck errors](https://github.com/ChainSafe/lodestar/commit/c4562e7737e57402740ea08817098cf9e126ecb3) - 2026-10-30
+* [Commit] [chore: remove Gemini configuration and style guide](https://github.com/ChainSafe/lodestar/commit/9ec3537a1aa1c893a4f605059d30dd1695f23fd8) - 2026-10-30
+* [Commit] [docs: consolidate Zig contribution guidelines](https://github.com/ChainSafe/lodestar/commit/97b7fed0741ded75d9ba83a28b2d5db680f7d620) - 2026-10-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
@@ -159,6 +173,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: surface stf diagnostic messages](https://github.com/ChainSafe/lodestar-z/pull/813) - 2026-10-28
 * [Review] [Review on: fix: surface stf diagnostic messages](https://github.com/ChainSafe/lodestar-z/pull/813#pullrequestreview-5697215293) - 2026-10-29
 * [Commit] [fix: surface stf diagnostic messages (#813)](https://github.com/ChainSafe/lodestar-z/commit/ff956b2273a9ceff798b6d19bb0a5e7c1aa7833f) - 2026-10-29
+* [Commit] [Add notice about repo archiving and new development link](https://github.com/ChainSafe/lodestar-z/commit/0b0a9af337898ebccbc0d37fd008bbb7452d9430) - 2026-10-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Derive EIP-8198 slot timing from fork configuration](https://github.com/ethereum/consensus-specs/pull/5710) - 2026-10-02
 * [Review] [Review on: Return slot durations as tuples in `get_slot_durations`](https://github.com/ethereum/consensus-specs/pull/5717#pullrequestreview-5431156589) - 2026-10-06

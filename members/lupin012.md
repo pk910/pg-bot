@@ -165,6 +165,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/ethapi, rpc/jsonrpc: rebuild the overridden precompile set per bundle in eth_callMany and debug_traceCallMany (#25343)](https://github.com/erigontech/erigon/commit/ee80d83f2fd9070c9e518662796bf8c71ea7da97) - 2026-10-30
 * [Commit] [db/snapshotsync/freezeblocks: keep the grown txn buffer in txnRlpBufPool (#25398)](https://github.com/erigontech/erigon/commit/6e11cd751b1a48376ab98007eced5c8de6718173) - 2026-10-30
 * [Commit] [execution/state: publish each origin once in PublishOrigins (#25505)](https://github.com/erigontech/erigon/commit/a937a94be00eb64c56c35849fb87e83b048d693c) - 2026-10-30
+* [Commit] [.github/workflows: run several peer clients in RPC Performance Tests Latest (#25541)](https://github.com/erigontech/erigon/commit/76252cce0f82fa46d3e0c647712ca7948c304c8e) - 2026-10-30
+* [Commit] [tracers/native, rpc/jsonstream: stream prestateTracer result (#25545)](https://github.com/erigontech/erigon/commit/a74d2b8646db47baba851deae2943005644e7da3) - 2026-10-30
+* [Commit] [cl/beacon/handler: fix flaky timing in wait tests (#25492)](https://github.com/erigontech/erigon/commit/51efdcb8bc78db9954283aa7eff65274d3c9e0b4) - 2026-10-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

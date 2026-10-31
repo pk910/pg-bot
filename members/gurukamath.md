@@ -36,6 +36,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): adapt the EIP-8250 tests to the rebased EIP-8141 branch](https://github.com/ethereum/execution-specs/pull/3897#pullrequestreview-5654036544) - 2026-10-26
 * [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936) - 2026-10-29
 * [Review] [Review on: chore(specs): Add meta-EIP to BPO1 fork](https://github.com/ethereum/execution-specs/pull/3932#pullrequestreview-5696000476) - 2026-10-29
+* [Review] [Review on: feat(tests): add EIP-8141 VERIFY-frame static context and transient storage tests](https://github.com/ethereum/execution-specs/pull/3939#pullrequestreview-5712043599) - 2026-10-30
 ## Q3 2026
 
 

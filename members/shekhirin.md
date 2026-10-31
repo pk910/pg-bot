@@ -27,6 +27,9 @@ Team: Reth
 * [Review] [Review on: chore: move trie DST workload to Bedrock](https://github.com/paradigmxyz/reth/pull/28209#pullrequestreview-5700377087) - 2026-10-29
 * [Review] [Review on: refactor(trie-dst): make controller async](https://github.com/paradigmxyz/reth/pull/28203#pullrequestreview-5699114606) - 2026-10-29
 * [Review] [Review on: chore: bump version to 2.9.0](https://github.com/paradigmxyz/reth/pull/28204#pullrequestreview-5696718347) - 2026-10-29
+* [Review] [Review on: feat(tracing): export OTLP spans to local files](https://github.com/paradigmxyz/reth/pull/28215#pullrequestreview-5715893569) - 2026-10-30
+* [Pull Request] [chore: rename dst feature to fuzz](https://github.com/paradigmxyz/reth/pull/28211) - 2026-10-30
+* [Commit] [chore: rename dst feature to fuzz (#28211)](https://github.com/paradigmxyz/reth/commit/df4777824b6672f5a57c1c1f13bb8fc4ff639f0c) - 2026-10-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

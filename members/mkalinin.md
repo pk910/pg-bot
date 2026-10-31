@@ -21,6 +21,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Assert support_discount <= maximum_support in FCR](https://github.com/ethereum/consensus-specs/pull/5788) - 2026-10-29
 * [Review] [Review on: Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784#pullrequestreview-5702143994) - 2026-10-29
 * [Review] [Review on: Run fast confirmation each slot in recently activated validator test](https://github.com/ethereum/consensus-specs/pull/5783#pullrequestreview-5697261132) - 2026-10-29
+* [Pull Request] [Initial fork choice spec for EIP8453: Decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791) - 2026-10-30
+* [Pull Request] [Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789) - 2026-10-30
+* [Commit] [Assert support_discount <= maximum_support in FCR (#5788)](https://github.com/ethereum/consensus-specs/commit/f993cf2108f7061a0b7c59a194d60d2f40fc299e) - 2026-10-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958#pullrequestreview-5653413928) - 2026-10-26
 ## Q3 2026

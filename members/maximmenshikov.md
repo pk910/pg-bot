@@ -32,6 +32,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [zkvm: Build the guests with the new bflat and the signed runtime packages](https://github.com/NethermindEth/nethermind/pull/15295) - 2026-10-27
 * [Pull Request] [build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408) - 2026-10-30
 * [Commit] [zkvm: Build the guests with the new bflat and the signed runtime packages (#15295)](https://github.com/NethermindEth/nethermind/commit/347f5df2deeb4eaf4edd147e3d1d672d76d3c036) - 2026-10-29
+* [Commit] [build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153 (#15408)](https://github.com/NethermindEth/nethermind/commit/9c885a92a7d5318e05872261514f11f6f78ba66a) - 2026-10-30
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -128,6 +129,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [build.sh: Report the correct module name on build failure](https://github.com/NethermindEth/bflat-riscv64/commit/eb3e9f7f38c1f107d957e0ab3e5b23a28e5442fc) - 2026-10-27
 * [Commit] [modules: require BFLAT_DOTNET instead of defaulting a .NET line](https://github.com/NethermindEth/bflat-riscv64/commit/a61ad8c2eb2a7d89b00070f0f538711ae9935ea4) - 2026-10-27
 * [Commit] [modules: drop security-stub and share zkvm_zisk entry with zisk_sim](https://github.com/NethermindEth/bflat-riscv64/commit/fffce40a0eea8b0edfd8089477107cf53d65bb75) - 2026-10-27
+* [Pull Request] [riscv32: Airbender guests on the platform architecture, and an image with the riscv32 SDK](https://github.com/NethermindEth/bflat-riscv64/pull/67) - 2026-10-31
 ## Q3 2026
 
 

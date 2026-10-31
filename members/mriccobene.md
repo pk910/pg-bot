@@ -55,6 +55,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode](https://github.com/erigontech/erigon/pull/25431) - 2026-10-27
 * [Commit] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode (#25431)](https://github.com/erigontech/erigon/commit/fac3dfde06f6cec9b72be5921005136e28b7096b) - 2026-10-27
 * [Commit] [qa-tests: upload goroutine stacks on workflow failure (#25434)](https://github.com/erigontech/erigon/commit/b33bb3ee16179e730fd1637a2d8d82088f53b5e3) - 2026-10-29
+* [Commit] [qa-tests: run Geth in RPC performance tests daily (#25580)](https://github.com/erigontech/erigon/commit/ff9dd98a10385046ea5de4b0cd7b93c4296beac8) - 2026-10-30
 ## Q3 2026
 
 

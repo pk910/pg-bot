@@ -589,6 +589,44 @@ Team: Erigon
 * [Commit] [db/migrations: make the newer-DB error actionable (#25501)](https://github.com/erigontech/erigon/commit/dfaccc76411df0b0b6377665b5ec36b52ecf893c) - 2026-10-30
 * [Commit] [execution/stagedsync: keep pruning ChangeSets3 under --exec.no-prune (#25465)](https://github.com/erigontech/erigon/commit/6955d1985e90b0dc1646e1ea68beb9aae1d3b2c4) - 2026-10-29
 * [Commit] [db/kv/backup: auto-compact at 3x bloat and 5 GB free (#25493)](https://github.com/erigontech/erigon/commit/d4e318c110b7edae5bb95f2c56b9b83842794d32) - 2026-10-29
+* [Pull Request] [txnprovider/txpool: request an announced txn from one peer at a time](https://github.com/erigontech/erigon/pull/25571) - 2026-10-30
+* [Review] [Review on: txnprovider/txpool: request an announced txn from one peer at a time](https://github.com/erigontech/erigon/pull/25571#pullrequestreview-5708888187) - 2026-10-30
+* [Pull Request] [common/crypto: keccak cache hits only load the bucket](https://github.com/erigontech/erigon/pull/25607) - 2026-10-31
+* [Pull Request] [execution: charge the sender of a value call or creation at validation](https://github.com/erigontech/erigon/pull/25601) - 2026-10-30
+* [Pull Request] [rpc/jsonrpc: return block-level log indexes from erigon_getLatestLogs](https://github.com/erigontech/erigon/pull/25573) - 2026-10-30
+* [Pull Request] [execution: charge the sender of a zero-value creation at validation](https://github.com/erigontech/erigon/pull/25599) - 2026-10-30
+* [Review] [Review on: cmd/utils/app: prune ChangeSets3 in seg retire](https://github.com/erigontech/erigon/pull/25516#pullrequestreview-5708456793) - 2026-10-30
+* [Review] [Review on: lint: enable more bug-finding checks; fix IPv6 listeners](https://github.com/erigontech/erigon/pull/25549#pullrequestreview-5720251032) - 2026-10-31
+* [Pull Request] [execution/vm: cache point additions](https://github.com/erigontech/erigon/pull/25606) - 2026-10-31
+* [Pull Request] [db/state: shard the in-memory latest state by key hash](https://github.com/erigontech/erigon/pull/25582) - 2026-10-30
+* [Pull Request] [db/seg: return an error instead of a nil decompressor for corrupt files](https://github.com/erigontech/erigon/pull/25561) - 2026-10-30
+* [Pull Request] [db/downloader: reject snapshot names that escape the snapshot dir](https://github.com/erigontech/erigon/pull/25562) - 2026-10-30
+* [Review] [Review on: db/downloader: reject snapshot names that escape the snapshot dir](https://github.com/erigontech/erigon/pull/25562#pullrequestreview-5708887451) - 2026-10-30
+* [Review] [Review on: db/state/execctx: do not fill by-hash code or code size from a codeHash read out of the uncommitted batch](https://github.com/erigontech/erigon/pull/25600#pullrequestreview-5720551468) - 2026-10-31
+* [Review] [Review on: execution/engineapi: cache a fork choice BadBlock from the block downloader](https://github.com/erigontech/erigon/pull/25589#pullrequestreview-5720556414) - 2026-10-31
+* [Review] [Review on: execution/execmodule: revert attaching the state cache to ProcessFrozenBlocks (#25555)](https://github.com/erigontech/erigon/pull/25597#pullrequestreview-5720554635) - 2026-10-31
+* [Pull Request] [execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590) - 2026-10-30
+* [Review] [Review on: cl/das/utils: set up KZG before the recovery slot test starts its timer](https://github.com/erigontech/erigon/pull/25603#pullrequestreview-5720546469) - 2026-10-31
+* [Pull Request] [p2p/protocols/eth: stop GetBlockBodies answer at the first unknown block](https://github.com/erigontech/erigon/pull/25568) - 2026-10-30
+* [Review] [Review on: p2p/protocols/eth: stop GetBlockBodies answer at the first unknown block](https://github.com/erigontech/erigon/pull/25568#pullrequestreview-5708822692) - 2026-10-30
+* [Pull Request] [rpc/jsonrpc: resolve fromBlock=latest to the head block in erigon_getLogs](https://github.com/erigontech/erigon/pull/25575) - 2026-10-30
+* [Pull Request] [rpc/jsonrpc: reject non-canonical hashes in debug_getModifiedAccountsByHash](https://github.com/erigontech/erigon/pull/25574) - 2026-10-30
+* [Pull Request] [cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557) - 2026-10-30
+* [Review] [Review on: cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557#pullrequestreview-5720301925) - 2026-10-31
+* [Pull Request] [execution/protocol: decide the service-tx fee exemption per application, not on the message](https://github.com/erigontech/erigon/pull/25558) - 2026-10-30
+* [Review] [Review on: execution/protocol: decide the service-tx fee exemption per application, not on the message](https://github.com/erigontech/erigon/pull/25558#pullrequestreview-5720259637) - 2026-10-31
+* [Review] [Review on: rpc/mcp: stop log scans at the requested match limit](https://github.com/erigontech/erigon/pull/25591#pullrequestreview-5720268890) - 2026-10-31
+* [Commit] [execution: recover a block's EIP-7702 authorities in the block pre-pass (#25494)](https://github.com/erigontech/erigon/commit/34e34dfaae86ee54400959eff9f3a415ee7b608f) - 2026-10-31
+* [Commit] [db/seg: return an error instead of a nil decompressor for corrupt files (#25561)](https://github.com/erigontech/erigon/commit/230c8be0413b5892ff51e4da049030cf739fba5f) - 2026-10-31
+* [Commit] [db/downloader: reject snapshot names that escape the snapshot dir (#25562)](https://github.com/erigontech/erigon/commit/9a00540d0151e673f5dc4e6c8bd38c68ca9410a8) - 2026-10-31
+* [Commit] [p2p/protocols/eth: stop GetBlockBodies answer at the first unknown block (#25568)](https://github.com/erigontech/erigon/commit/4765ff8fb14f4626c78f9374bb59756b56aceced) - 2026-10-31
+* [Commit] [rpc/jsonrpc: reject non-canonical hashes in debug_getModifiedAccountsByHash (#25574)](https://github.com/erigontech/erigon/commit/7136874700c654d657136fbb22866b66243edda3) - 2026-10-31
+* [Commit] [rpc/jsonrpc: resolve fromBlock=latest to the head block in erigon_getLogs (#25575)](https://github.com/erigontech/erigon/commit/115edef22cdb4e4c03201b3582a68f04da8124b7) - 2026-10-31
+* [Commit] [db/state: store inverted index values as txNum chunks (#25304)](https://github.com/erigontech/erigon/commit/03900c129141ef410cfecab1cfdd46d3d3563f67) - 2026-10-30
+* [Commit] [execution/state: hold the BAL builder's account balances by value (#25507)](https://github.com/erigontech/erigon/commit/e2cad4e37f0473745a861f1136bd36844c336267) - 2026-10-30
+* [Commit] [db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB) (#23844)](https://github.com/erigontech/erigon/commit/85b2122a29367098afa6da7f9836b39f72729ee7) - 2026-10-30
+* [Commit] [db/kv, db/migrations: drop the unused CodeCache table (#25463)](https://github.com/erigontech/erigon/commit/39cba791fa996366e86299c478bb7b08cff13406) - 2026-10-30
+* [Commit] [Revert "execution/stagedsync: keep pruning ChangeSets3 under --exec.no-prune" (#25548)](https://github.com/erigontech/erigon/commit/5abd032c4d0ff93f0d820f35ad35b6fe6e98ebea) - 2026-10-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

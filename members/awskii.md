@@ -287,6 +287,22 @@ Team: Erigon
 * [Commit] [execution/state: reuse one VersionedWrite per write-view iterator call (#25499)](https://github.com/erigontech/erigon/commit/b629107e63df71db8a2eeb7010b74a384deb72dc) - 2026-10-29
 * [Commit] [execution: treat state ahead of TxNums as TooFarAway in ValidateChain (#25472)](https://github.com/erigontech/erigon/commit/49398092927170e959c2a39b875dbc183bc58a86) - 2026-10-29
 * [Commit] [db/state/execctx, execution/exec: keep the lent code buffer across a worker's tasks (#25497)](https://github.com/erigontech/erigon/commit/586bbc0f6b166af4badc2245254581a73fd44c2a) - 2026-10-29
+* [Review] [Review on: cmd/utils/app: prune ChangeSets3 in seg retire](https://github.com/erigontech/erigon/pull/25516#pullrequestreview-5713057509) - 2026-10-30
+* [Review] [Review on: db/seg: return an error instead of a nil decompressor for corrupt files](https://github.com/erigontech/erigon/pull/25561#pullrequestreview-5713059265) - 2026-10-30
+* [Review] [Review on: db/downloader: reject snapshot names that escape the snapshot dir](https://github.com/erigontech/erigon/pull/25562#pullrequestreview-5713059653) - 2026-10-30
+* [Pull Request] [db/state/execctx: do not fill by-hash code or code size from a codeHash read out of the uncommitted batch](https://github.com/erigontech/erigon/pull/25600) - 2026-10-30
+* [Pull Request] [execution/engineapi: cache a fork choice BadBlock from the block downloader](https://github.com/erigontech/erigon/pull/25589) - 2026-10-30
+* [Pull Request] [execution/execmodule: revert attaching the state cache to ProcessFrozenBlocks (#25555)](https://github.com/erigontech/erigon/pull/25597) - 2026-10-30
+* [Review] [Review on: p2p/protocols/eth: stop GetBlockBodies answer at the first unknown block](https://github.com/erigontech/erigon/pull/25568#pullrequestreview-5713060715) - 2026-10-30
+* [Review] [Review on: execution/exec, execution/stagedsync: fix READ_AHEAD_WAIT deadlock on validation with unwind](https://github.com/erigontech/erigon/pull/25532#pullrequestreview-5713057839) - 2026-10-30
+* [Review] [Review on: rpc/jsonrpc: resolve fromBlock=latest to the head block in erigon_getLogs](https://github.com/erigontech/erigon/pull/25575#pullrequestreview-5713060259) - 2026-10-30
+* [Review] [Review on: rpc/jsonrpc: reject non-canonical hashes in debug_getModifiedAccountsByHash](https://github.com/erigontech/erigon/pull/25574#pullrequestreview-5713059906) - 2026-10-30
+* [Review] [Review on: cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557#pullrequestreview-5713060991) - 2026-10-30
+* [Review] [Review on: execution/protocol: decide the service-tx fee exemption per application, not on the message](https://github.com/erigontech/erigon/pull/25558#pullrequestreview-5713061310) - 2026-10-30
+* [Pull Request] [execution/stagedsync: run txs on a pause-free worker pool that owns its read txs](https://github.com/erigontech/erigon/pull/25560) - 2026-10-30
+* [Review] [Review on: cl/das: compute the cells of EL blobs in parallel](https://github.com/erigontech/erigon/pull/25514#pullrequestreview-5713199428) - 2026-10-30
+* [Issue] [execution/execmodule: retained side-block follow-ups from #24049](https://github.com/erigontech/erigon/issues/25584) - 2026-10-30
+* [Commit] [execution/execmodule: attach the state cache to ProcessFrozenBlocks SharedDomains (#25555)](https://github.com/erigontech/erigon/commit/889655d4ef0001254b16dd32c3939712c80d8448) - 2026-10-30
 ## Q3 2026
 
 

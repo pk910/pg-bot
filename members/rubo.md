@@ -116,6 +116,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(zkevm): look up the ADDMOD fast path's next handler through HandlerAt (#15402)](https://github.com/NethermindEth/nethermind/commit/a7ab42efd28f1597eb7840b201d472cab3fcf67a) - 2026-10-29
 * [Commit] [refactor(network)!: serialize RLPx handshake messages into spans instead of DotNetty buffers (#15369)](https://github.com/NethermindEth/nethermind/commit/ec9d4253a0324fe918ed75cba50961e8d4a72ade) - 2026-10-29
 * [Commit] [chore(deps): update RocksDB to 11.12 (#15366)](https://github.com/NethermindEth/nethermind/commit/d97e12bb201fe6b65c526a17e4e9fa55be945a48) - 2026-10-29
+* [Pull Request] [build: drop the unused dotnet-tools NuGet feed](https://github.com/NethermindEth/nethermind/pull/15447) - 2026-10-30
+* [Pull Request] [refactor(network)!: serialize eth status and new block messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15445) - 2026-10-30
+* [Review] [Review on: refactor(network)!: serialize eth status and new block messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15445#pullrequestreview-5719214373) - 2026-10-30
+* [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408#pullrequestreview-5719113246) - 2026-10-30
+* [Commit] [build: drop the unused dotnet-tools NuGet feed (#15447)](https://github.com/NethermindEth/nethermind/commit/1ef83f6aa39f6f347ae8be85ca3319e7e3cc1516) - 2026-10-30
+* [Commit] [refactor(network)!: serialize base p2p messages into spans instead of DotNetty buffers (#15395)](https://github.com/NethermindEth/nethermind/commit/44ad61076db14fa29969679a4e73440ca2ff7ef8) - 2026-10-30
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

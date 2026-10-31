@@ -79,6 +79,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: support and test node 26](https://github.com/ChainSafe/lodestar/pull/10516) - 2026-10-30
 * [Pull Request] [refactor: add native component seams for fork choice, state engine and validation](https://github.com/ChainSafe/lodestar/pull/10512) - 2026-10-29
 * [Review] [Review on: feat: reject gossip envelopes if payload does not match its block hash](https://github.com/ChainSafe/lodestar/pull/10490#pullrequestreview-5699876833) - 2026-10-29
+* [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5712129419) - 2026-10-30
+* [Pull Request] [fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525) - 2026-10-30
+* [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5713597272) - 2026-10-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -109,6 +112,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5698929592) - 2026-10-29
 * [Pull Request] [Run fast confirmation each slot in recently activated validator test](https://github.com/ethereum/consensus-specs/pull/5783) - 2026-10-29
 * [Commit] [Run fast confirmation each slot in recently activated validator test (#5783)](https://github.com/ethereum/consensus-specs/commit/8e7f4dc7128ac850299599a548dcd06a1ca0a8cd) - 2026-10-29
+* [Review] [Review on: Assert support_discount <= maximum_support in FCR](https://github.com/ethereum/consensus-specs/pull/5788#pullrequestreview-5709765684) - 2026-10-30
 ## Q3 2026
 
 

@@ -168,6 +168,16 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the sync storage on Forest (#11791)](https://github.com/besu-eth/besu/commit/4a268c9e403d78c9bf635eb872c3080fcf95030a) - 2026-10-29
 * [Commit] [SNAP2: Add the state download (#11788)](https://github.com/besu-eth/besu/commit/d68a1dce2cf5dfbf106c38d2c8fcf20d5db6bab5) - 2026-10-29
 * [Commit] [SNAP2: Ignore the abort of a batch whose commit has started (#11792)](https://github.com/besu-eth/besu/commit/150512c659dc96bbde492f73a4f2babe43e4abb5) - 2026-10-29
+* [Pull Request] [Import QBFT blocks proposed after a round change without executing them again](https://github.com/besu-eth/besu/pull/11817) - 2026-10-30
+* [Review] [Review on: Import QBFT blocks proposed after a round change without executing them again](https://github.com/besu-eth/besu/pull/11817#pullrequestreview-5712783401) - 2026-10-30
+* [Review] [Review on: SNAP2: Add --sync-mode=SNAP2](https://github.com/besu-eth/besu/pull/11803#pullrequestreview-5712316046) - 2026-10-30
+* [Review] [Review on: SNAP2: Add the SNAP2 sync](https://github.com/besu-eth/besu/pull/11805#pullrequestreview-5708727498) - 2026-10-30
+* [Review] [Review on: SNAP2: Store the block access lists and the floor of a sync](https://github.com/besu-eth/besu/pull/11804#pullrequestreview-5708730474) - 2026-10-30
+* [Commit] [Import QBFT blocks proposed after a round change without executing them again (#11817)](https://github.com/besu-eth/besu/commit/6be0cda9b69cdd3d3bfa908e894b148003657bd0) - 2026-10-30
+* [Commit] [SNAP2: Add --sync-mode=SNAP2 (#11803)](https://github.com/besu-eth/besu/commit/3e5c7c11183f13ba8d12ad72ba6efb90d04d10b8) - 2026-10-30
+* [Commit] [SNAP2: Add the SNAP2 sync (#11805)](https://github.com/besu-eth/besu/commit/42dc0e723af056a0985217656218443f0d9844e1) - 2026-10-30
+* [Commit] [SNAP2: Add the pivot moves of the state download (#11789)](https://github.com/besu-eth/besu/commit/ae0112565ab47ce52dc9d13d2db80e85dc176519) - 2026-10-30
+* [Commit] [Do not rerun a failed BAL-parallel block sequentially (#11802)](https://github.com/besu-eth/besu/commit/4e24ea013306d1bbb262617a133f7e6c43fbf8a1) - 2026-10-30
 ## Q3 2026
 
 

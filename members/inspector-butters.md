@@ -29,6 +29,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [Lc gloas db (#17755)](https://github.com/OffchainLabs/prysm/commit/fbd54f2f3ff08b82b0e0580120be35fe845c41ea) - 2026-10-23
 * [Commit] [Lc gloas api (#17772)](https://github.com/OffchainLabs/prysm/commit/4ccffee97f3c5938c70b2cba64629484d09fc094) - 2026-10-26
 * [Commit] [gloas light client p2p configs (#17773)](https://github.com/OffchainLabs/prysm/commit/6578e372ce6f99b22c52ab9cddb3ee643f30269f) - 2026-10-27
+* [Pull Request] [fix light client fork boundary digest bug](https://github.com/OffchainLabs/prysm/pull/17801) - 2026-10-30
 ## Q3 2026
 
 

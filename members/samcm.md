@@ -88,6 +88,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(clickhouse): describe canonical_execution_transaction value as wei (#931)](https://github.com/ethpandaops/xatu/commit/e8f1dcdfd824f4e9688e02b8690456a0bd3ed435) - 2026-10-26
 * [Pull Request] [feat: detect the Silver consensus client](https://github.com/ethpandaops/xatu/pull/932) - 2026-10-30
 * [Commit] [feat: detect the Silver consensus client (#932)](https://github.com/ethpandaops/xatu/commit/580fb942cacddf159af7623ff7a087019e911aa8) - 2026-10-30
+* [Pull Request] [fix(cannon): only treat a block 404 as a missed slot when the chain proves it](https://github.com/ethpandaops/xatu/pull/934) - 2026-10-30
+* [Pull Request] [feat(cannon): backfill attestation rewards for the last phase0 epoch](https://github.com/ethpandaops/xatu/pull/935) - 2026-10-30
+* [Pull Request] [feat(cannon): derive phase0 attestation and block rewards from beacon states](https://github.com/ethpandaops/xatu/pull/933) - 2026-10-30
+* [Commit] [fix(cannon): only treat a block 404 as a missed slot when the chain proves it (#934)](https://github.com/ethpandaops/xatu/commit/37fb52f0e1587b287c04e855de0bcef1731d890f) - 2026-10-30
+* [Commit] [feat(cannon): backfill attestation rewards for the last phase0 epoch (#935)](https://github.com/ethpandaops/xatu/commit/672e5bba7cf92d2d33921225a2561c1652f08254) - 2026-10-30
+* [Commit] [feat(cannon): derive phase0 attestation and block rewards from beacon states (#933)](https://github.com/ethpandaops/xatu/commit/7dd274b1fefbc34d2a848002e8e67aeae5f71ede) - 2026-10-30
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -144,6 +150,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [style: design system polish (cards, radius, controls, type, surfaces, charts) (#458)](https://github.com/ethpandaops/lab/commit/a1819fb1df7dfd2d4a676a638e1cabe4a211d60a) - 2026-10-22
 * [Pull Request] [feat(ethereum): add the Silver consensus client](https://github.com/ethpandaops/lab/pull/459) - 2026-10-30
 * [Commit] [feat(ethereum): add the Silver consensus client (#459)](https://github.com/ethpandaops/lab/commit/8b36190526c78f87959fdc69464c56db2acd7411) - 2026-10-30
+* [Pull Request] [feat(execution): Performance as its own page, plus a mobile layout pass](https://github.com/ethpandaops/lab/pull/465) - 2026-10-31
+* [Pull Request] [feat(execution): Performance tab on the timings page](https://github.com/ethpandaops/lab/pull/463) - 2026-10-30
+* [Pull Request] [feat(validators): load weekly rows from the xatu-cbt weekly tables](https://github.com/ethpandaops/lab/pull/462) - 2026-10-30
+* [Pull Request] [style: status colour means good, warning or bad; earthy status and data palettes](https://github.com/ethpandaops/lab/pull/461) - 2026-10-30
+* [Pull Request] [feat(validators): network overview and validator inspect page](https://github.com/ethpandaops/lab/pull/460) - 2026-10-30
+* [Commit] [feat(execution): Performance as its own page, plus a mobile layout pass (#465)](https://github.com/ethpandaops/lab/commit/1b3d631802e22f98fc93d11ad4a8d1cf17e3c2f6) - 2026-10-31
+* [Commit] [feat(execution): Performance tab on the timings page (#463)](https://github.com/ethpandaops/lab/commit/a6c965f0745afdd2d94eaa2e7e87af074351d745) - 2026-10-30
+* [Commit] [feat(validators): load weekly rows from the xatu-cbt weekly tables (#462)](https://github.com/ethpandaops/lab/commit/d1b42d3bd4ac2f9b7925e1b08adba45cea375e0a) - 2026-10-30
+* [Commit] [style: status colour means good, warning or bad; earthy status and data palettes (#461)](https://github.com/ethpandaops/lab/commit/7aeebc4173942622a48d0590db3a36f35dbdf02e) - 2026-10-30
+* [Commit] [feat(validators): network overview and validator inspect page (#460)](https://github.com/ethpandaops/lab/commit/ecb98691060db1f2c95e0ec88e4920ff41f25fe7) - 2026-10-30
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 
