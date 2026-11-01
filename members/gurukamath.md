@@ -37,6 +37,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936) - 2026-10-29
 * [Review] [Review on: chore(specs): Add meta-EIP to BPO1 fork](https://github.com/ethereum/execution-specs/pull/3932#pullrequestreview-5696000476) - 2026-10-29
 * [Review] [Review on: feat(tests): add EIP-8141 VERIFY-frame static context and transient storage tests](https://github.com/ethereum/execution-specs/pull/3939#pullrequestreview-5712043599) - 2026-10-30
+* [Review] [Review on: feat(test-forks,tests): list the EIP-7906 instructions as valid opcodes from Bogota](https://github.com/ethereum/execution-specs/pull/3923#pullrequestreview-5725638522) - 2026-11-01
+* [Review] [Review on: feat(spec-specs,test-forks,tests): implement EIP-8141 frame transactions](https://github.com/ethereum/execution-specs/pull/3936#pullrequestreview-5723804062) - 2026-10-31
+* [Review] [Review on: feat(tests): add EIP-8141 VERIFY-frame static context and transient storage tests](https://github.com/ethereum/execution-specs/pull/3939#pullrequestreview-5721284198) - 2026-10-31
 ## Q3 2026
 
 

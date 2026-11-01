@@ -82,6 +82,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: sync engine apis and forkchoice](https://github.com/ChainSafe/lodestar/pull/10442#pullrequestreview-5712129419) - 2026-10-30
 * [Pull Request] [fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525) - 2026-10-30
 * [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5713597272) - 2026-10-30
+* [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5722602598) - 2026-10-31
+* [Review] [Review on: fix(api): keep timeout signals local to retry attempts](https://github.com/ChainSafe/lodestar/pull/10526#pullrequestreview-5722526370) - 2026-10-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02

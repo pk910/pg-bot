@@ -111,6 +111,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [A missing slashing-protection record makes the validator client sign a conflicting attestation](https://github.com/Consensys-Incorporated/teku/issues/11601) - 2026-10-29
 * [Issue] [Builder bid `blob_kzg_commitments` above `max_blobs_per_block` is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11599) - 2026-10-29
 * [Issue] [Doppelganger detection ends all-clear after zero liveness probes when the beacon node is unreachable](https://github.com/Consensys-Incorporated/teku/issues/11598) - 2026-10-29
+* [Issue] [Concurrent-access slashing protector swallows IOException on record read and signs against an empty history](https://github.com/Consensys-Incorporated/teku/issues/11605) - 2026-10-31
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

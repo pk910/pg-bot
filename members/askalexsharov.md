@@ -627,6 +627,27 @@ Team: Erigon
 * [Commit] [db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB) (#23844)](https://github.com/erigontech/erigon/commit/85b2122a29367098afa6da7f9836b39f72729ee7) - 2026-10-30
 * [Commit] [db/kv, db/migrations: drop the unused CodeCache table (#25463)](https://github.com/erigontech/erigon/commit/39cba791fa996366e86299c478bb7b08cff13406) - 2026-10-30
 * [Commit] [Revert "execution/stagedsync: keep pruning ChangeSets3 under --exec.no-prune" (#25548)](https://github.com/erigontech/erigon/commit/5abd032c4d0ff93f0d820f35ad35b6fe6e98ebea) - 2026-10-30
+* [Pull Request] [execution: credit a code-less recipient of a value transfer at validation](https://github.com/erigontech/erigon/pull/25609) - 2026-10-31
+* [Review] [Review on: execution: credit a code-less recipient of a value transfer at validation](https://github.com/erigontech/erigon/pull/25609#pullrequestreview-5722957084) - 2026-10-31
+* [Pull Request] [cmd/evm: enginextest --fgprof survives a request shorter than one sample](https://github.com/erigontech/erigon/pull/25610) - 2026-10-31
+* [Review] [Review on: cmd/evm: enginextest --fgprof survives a request shorter than one sample](https://github.com/erigontech/erigon/pull/25610#pullrequestreview-5722532317) - 2026-10-31
+* [Pull Request] [execution/state: notify balance and nonce writes from their keys, not their resolved values](https://github.com/erigontech/erigon/pull/25633) - 2026-10-31
+* [Pull Request] [execution/types: hash the large transactions' leaves in parallel when deriving the transactions root](https://github.com/erigontech/erigon/pull/25634) - 2026-10-31
+* [Review] [Review on: execution/types: hash the large transactions' leaves in parallel when deriving the transactions root](https://github.com/erigontech/erigon/pull/25634#pullrequestreview-5726005949) - 2026-11-01
+* [Pull Request] [execution/state: mark committed writes Done under the entry's read lock](https://github.com/erigontech/erigon/pull/25631) - 2026-10-31
+* [Review] [Review on: execution/state: mark committed writes Done under the entry's read lock](https://github.com/erigontech/erigon/pull/25631#pullrequestreview-5726009856) - 2026-11-01
+* [Pull Request] [execution/state: back VersionMap account and origin-account lookups with xsync.Map](https://github.com/erigontech/erigon/pull/25627) - 2026-10-31
+* [Review] [Review on: cl/das, cl/rpc: ban peers serving invalid columns and blocks below the grace threshold](https://github.com/erigontech/erigon/pull/25557#pullrequestreview-5722542455) - 2026-10-31
+* [Pull Request] [execution/stagedsync: take calcState's base account from the versionMap origin when the block seeded it](https://github.com/erigontech/erigon/pull/25636) - 2026-11-01
+* [Review] [Review on: execution/stagedsync: take calcState's base account from the versionMap origin when the block seeded it](https://github.com/erigontech/erigon/pull/25636#pullrequestreview-5726004000) - 2026-11-01
+* [Pull Request] [db/state: shard the in-memory latest state by key so writes stop waiting for readers of other keys](https://github.com/erigontech/erigon/pull/25624) - 2026-10-31
+* [Pull Request] [execution/stagedsync: dispatch a bounded window for blocks without a BAL too](https://github.com/erigontech/erigon/pull/25621) - 2026-10-31
+* [Commit] [execution/vm: cache point additions (#25606)](https://github.com/erigontech/erigon/commit/ea2c5a99bca6c5357222baf053274d96ccb576cc) - 2026-10-31
+* [Commit] [db/state, execution: shorten lock holds on the exec read path (#25608)](https://github.com/erigontech/erigon/commit/539fc5b5e3f06ad87f6f8e2eb64ab5c3f3504cc3) - 2026-10-31
+* [Commit] [common/crypto: keccak cache hits only load the bucket (#25607)](https://github.com/erigontech/erigon/commit/91c158d66687d28aad358e5fc82df00fd6bad9fa) - 2026-10-31
+* [Commit] [execution: charge the sender of a zero-value creation at validation (#25599)](https://github.com/erigontech/erigon/commit/153dda90c47a23ee9c77be39815de2b10d697fe3) - 2026-10-31
+* [Commit] [lint: enable more bug-finding checks; fix IPv6 listeners (#25549)](https://github.com/erigontech/erigon/commit/1d1ebaa7509141db2532559a8ad6f6f8708fba83) - 2026-10-31
+* [Commit] [execution/protocol: decide the service-tx fee exemption per application, not on the message (#25558)](https://github.com/erigontech/erigon/commit/b1e8ca261542839ed7387113875adcd3753989e6) - 2026-10-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

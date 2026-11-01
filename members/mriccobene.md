@@ -39,6 +39,7 @@ Team: Erigon
 * [Review] [Review on: rpc_pattern_convert: convert Vegeta patterns to JSONL](https://github.com/erigontech/rpc-tests/pull/634#pullrequestreview-5610385542) - 2026-10-22
 * [Review] [Review on: .claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637#pullrequestreview-5610390993) - 2026-10-22
 * [Review] [Review on: integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step](https://github.com/erigontech/rpc-tests/pull/642#pullrequestreview-5664017784) - 2026-10-27
+* [Review] [Review on: rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644#pullrequestreview-5722002226) - 2026-10-31
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -56,6 +57,8 @@ Team: Erigon
 * [Commit] [qa-tests: simplify RPC integration and performance tests on the latest block removing serial/parallel commitment mode (#25431)](https://github.com/erigontech/erigon/commit/fac3dfde06f6cec9b72be5921005136e28b7096b) - 2026-10-27
 * [Commit] [qa-tests: upload goroutine stacks on workflow failure (#25434)](https://github.com/erigontech/erigon/commit/b33bb3ee16179e730fd1637a2d8d82088f53b5e3) - 2026-10-29
 * [Commit] [qa-tests: run Geth in RPC performance tests daily (#25580)](https://github.com/erigontech/erigon/commit/ff9dd98a10385046ea5de4b0cd7b93c4296beac8) - 2026-10-30
+* [Pull Request] [qa-tests: simplifiy and improve rpc perf test workflow](https://github.com/erigontech/erigon/pull/25616) - 2026-10-31
+* [Commit] [qa-tests: simplifiy and improve rpc perf test workflow (#25616)](https://github.com/erigontech/erigon/commit/3f3d25765ebae14a4a883f136384482f054c22ce) - 2026-10-31
 ## Q3 2026
 
 

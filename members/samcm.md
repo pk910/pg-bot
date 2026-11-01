@@ -94,6 +94,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(cannon): only treat a block 404 as a missed slot when the chain proves it (#934)](https://github.com/ethpandaops/xatu/commit/37fb52f0e1587b287c04e855de0bcef1731d890f) - 2026-10-30
 * [Commit] [feat(cannon): backfill attestation rewards for the last phase0 epoch (#935)](https://github.com/ethpandaops/xatu/commit/672e5bba7cf92d2d33921225a2561c1652f08254) - 2026-10-30
 * [Commit] [feat(cannon): derive phase0 attestation and block rewards from beacon states (#933)](https://github.com/ethpandaops/xatu/commit/7dd274b1fefbc34d2a848002e8e67aeae5f71ede) - 2026-10-30
+* [Pull Request] [perf(cannon): run phase0 reward backfill batches with parallel workers](https://github.com/ethpandaops/xatu/pull/937) - 2026-10-31
+* [Commit] [perf(cannon): run phase0 reward backfill batches with parallel workers (#937)](https://github.com/ethpandaops/xatu/commit/fca771c89e4bf3db71768c14193308bdf5a3fd60) - 2026-10-31
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -160,6 +162,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(validators): load weekly rows from the xatu-cbt weekly tables (#462)](https://github.com/ethpandaops/lab/commit/d1b42d3bd4ac2f9b7925e1b08adba45cea375e0a) - 2026-10-30
 * [Commit] [style: status colour means good, warning or bad; earthy status and data palettes (#461)](https://github.com/ethpandaops/lab/commit/7aeebc4173942622a48d0590db3a36f35dbdf02e) - 2026-10-30
 * [Commit] [feat(validators): network overview and validator inspect page (#460)](https://github.com/ethpandaops/lab/commit/ecb98691060db1f2c95e0ec88e4920ff41f25fe7) - 2026-10-30
+* [Pull Request] [feat(clients): show every client with its logo and colour, including legends](https://github.com/ethpandaops/lab/pull/466) - 2026-10-31
+* [Commit] [feat(clients): show every client with its logo and colour, including legends (#466)](https://github.com/ethpandaops/lab/commit/3ac237949bf4a8fc79383355043e76119f7cc867) - 2026-10-31
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

@@ -178,6 +178,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [SNAP2: Add the SNAP2 sync (#11805)](https://github.com/besu-eth/besu/commit/42dc0e723af056a0985217656218443f0d9844e1) - 2026-10-30
 * [Commit] [SNAP2: Add the pivot moves of the state download (#11789)](https://github.com/besu-eth/besu/commit/ae0112565ab47ce52dc9d13d2db80e85dc176519) - 2026-10-30
 * [Commit] [Do not rerun a failed BAL-parallel block sequentially (#11802)](https://github.com/besu-eth/besu/commit/4e24ea013306d1bbb262617a133f7e6c43fbf8a1) - 2026-10-30
+* [Pull Request] [SNAP2: Refuse a paginated receipts answer that brings no receipt](https://github.com/besu-eth/besu/pull/11822) - 2026-10-31
 ## Q3 2026
 
 

@@ -70,6 +70,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [release: Build the linux-x64 target of bflat](https://github.com/NethermindEth/dotnet-riscv/commit/17b697273ecc3aec60eb6b5a7faa8a0dec89ec22) - 2026-10-27
 * [Commit] [release: Sign in the reusable workflow of bflat-riscv64](https://github.com/NethermindEth/dotnet-riscv/commit/7fbadddf1a1a462e5ea75438f5aea894214fe169) - 2026-10-27
 * [Commit] [release: Sign the release assets for bflat](https://github.com/NethermindEth/dotnet-riscv/commit/81e2e536cadca2b56500fbd19d20f7084140d31a) - 2026-10-27
+* [Review] [Review on: fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37#pullrequestreview-5724971874) - 2026-10-31
+* [Pull Request] [riscv32: The RV32IM target for the Airbender zkVM](https://github.com/NethermindEth/dotnet-riscv/pull/38) - 2026-10-31
+* [Commit] [Merge pull request #38 from NethermindEth/feature/riscv32-clean](https://github.com/NethermindEth/dotnet-riscv/commit/69b95a916c60473ac73cdd67ca938ca017e7febd) - 2026-10-31
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -130,6 +133,20 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [modules: require BFLAT_DOTNET instead of defaulting a .NET line](https://github.com/NethermindEth/bflat-riscv64/commit/a61ad8c2eb2a7d89b00070f0f538711ae9935ea4) - 2026-10-27
 * [Commit] [modules: drop security-stub and share zkvm_zisk entry with zisk_sim](https://github.com/NethermindEth/bflat-riscv64/commit/fffce40a0eea8b0edfd8089477107cf53d65bb75) - 2026-10-27
 * [Pull Request] [riscv32: Airbender guests on the platform architecture, and an image with the riscv32 SDK](https://github.com/NethermindEth/bflat-riscv64/pull/67) - 2026-10-31
+* [Pull Request] [variant: Take the riscv32 target from the release of dotnet-riscv main](https://github.com/NethermindEth/bflat-riscv64/pull/70) - 2026-10-31
+* [Pull Request] [IsaVerifier: Read ELF32 images](https://github.com/NethermindEth/bflat-riscv64/pull/69) - 2026-10-31
+* [Pull Request] [ci: Run bflat-ts on zk-testing with the image of a pull request](https://github.com/NethermindEth/bflat-riscv64/pull/68) - 2026-10-31
+* [Commit] [Merge pull request #70 from NethermindEth/feature/sdk-r423](https://github.com/NethermindEth/bflat-riscv64/commit/57fdc49684ff6518892b3ef45d362ca32ebb5c91) - 2026-10-31
+* [Commit] [variant: Take the riscv32 target from the release of dotnet-riscv main](https://github.com/NethermindEth/bflat-riscv64/commit/7dd3f289c71ce6768be674c9bb12f81f44e17419) - 2026-10-31
+* [Commit] [Merge pull request #69 from NethermindEth/feature/isa-gates-elf32](https://github.com/NethermindEth/bflat-riscv64/commit/85b38dfa34545b23c0d3809c546b8597235a31dc) - 2026-10-31
+* [Commit] [IsaVerifier: Read ELF32 images](https://github.com/NethermindEth/bflat-riscv64/commit/180b20a36f2a7a822aa731195c24bfc6469a935a) - 2026-10-31
+* [Commit] [patch_elf: Rewrite the SYSTEM encodings of an ELF32 image to UNIMP](https://github.com/NethermindEth/bflat-riscv64/commit/d5d7e31644b76260537c3614d8c529e75057961a) - 2026-10-31
+* [Commit] [Dockerfile: Take the system's llvm-objcopy](https://github.com/NethermindEth/bflat-riscv64/commit/fde49cd9c90aaf135c8019d63e6f4c3ce970fa6d) - 2026-10-31
+* [Commit] [stdcppshim: Define __cxa_pure_virtual for riscv32](https://github.com/NethermindEth/bflat-riscv64/commit/63f5aeb52255517dcf35b5c5828101b428056ae5) - 2026-10-31
+* [Commit] [CI: Build an image with the riscv32 SDK, and run Airbender guests](https://github.com/NethermindEth/bflat-riscv64/commit/b2ef7ec0bc2e3a03475fb5d60ead87222b8b8ad7) - 2026-10-31
+* [Commit] [bflat: Add the riscv32 target](https://github.com/NethermindEth/bflat-riscv64/commit/9141fed9dcd172d744d772f0c016f05b3003a4bb) - 2026-10-31
+* [Commit] [manifest: riscv32 platforms, platforms without unwind tables, flat images](https://github.com/NethermindEth/bflat-riscv64/commit/ec2eb529174105ce809efc7124dabaa07b1ff747) - 2026-10-31
+* [Commit] [modules: Build every module for riscv32 too](https://github.com/NethermindEth/bflat-riscv64/commit/c08d8ed4c13bf9b8edd7451abfaff7e9afd21f8b) - 2026-10-31
 ## Q3 2026
 
 

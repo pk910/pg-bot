@@ -367,6 +367,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test(rpc): pin eth_config 64-bit activations, unknown filter blockHash and log index forward progress (#15417)](https://github.com/NethermindEth/nethermind/commit/13b66e8d7cf4ca0f9697cf6be7511b79af851a1b) - 2026-10-30
 * [Commit] [fix(logindex): key the receipts-barrier target on the tree sync pivot (#15414)](https://github.com/NethermindEth/nethermind/commit/d5dc3854f3e5e39470230f5546d9d5fa04015ed2) - 2026-10-30
 * [Commit] [fix(sync): ignore a snap checkpoint that outlived a wipe by an older version (#15401)](https://github.com/NethermindEth/nethermind/commit/81c45d36564ce9f7902eb39b7bf0d4ea562684e4) - 2026-10-30
+* [Review] [Review on: test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip](https://github.com/NethermindEth/nethermind/pull/15416#pullrequestreview-5721102089) - 2026-10-31
+* [Commit] [test(taiko,shutter): pin the preconf id check, the built block hash and the outdated-event skip (#15416)](https://github.com/NethermindEth/nethermind/commit/36a931cee42383e939093ea1a91aae03640db0e2) - 2026-11-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [v26.9.1 Sepolia: discovery finds no peers (discovered_nodes=0) while the discv5 routing table holds 300+ nodes](https://github.com/status-im/nimbus-eth2/issues/9177) - 2026-10-03
 ## Q3 2026

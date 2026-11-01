@@ -168,6 +168,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [.github/workflows: run several peer clients in RPC Performance Tests Latest (#25541)](https://github.com/erigontech/erigon/commit/76252cce0f82fa46d3e0c647712ca7948c304c8e) - 2026-10-30
 * [Commit] [tracers/native, rpc/jsonstream: stream prestateTracer result (#25545)](https://github.com/erigontech/erigon/commit/a74d2b8646db47baba851deae2943005644e7da3) - 2026-10-30
 * [Commit] [cl/beacon/handler: fix flaky timing in wait tests (#25492)](https://github.com/erigontech/erigon/commit/51efdcb8bc78db9954283aa7eff65274d3c9e0b4) - 2026-10-30
+* [Review] [Review on: rlp, types: parse stored logs in place](https://github.com/erigontech/erigon/pull/25399#pullrequestreview-5725599348) - 2026-11-01
+* [Pull Request] [common/hexutil, rpc/jsonstream: format hex quantities without strconv](https://github.com/erigontech/erigon/pull/25635) - 2026-10-31
+* [Pull Request] [db/kv/remotedb, db/kv/remotedbserver, node: run IndexJoin on the KV server](https://github.com/erigontech/erigon/pull/25632) - 2026-10-31
+* [Pull Request] [.github/workflows: add debug_traceBlockByNumber to the RPC performance latest test, generate latest patterns as jsonl](https://github.com/erigontech/erigon/pull/25614) - 2026-10-31
+* [Pull Request] [node, cmd/rpcdaemon, cmd/utils: skip HTTP-RPC compression for loopback clients](https://github.com/erigontech/erigon/pull/25626) - 2026-10-31
+* [Pull Request] [execution/tracing/tracers/logger: reuse a stack slot's hex while its value is unchanged](https://github.com/erigontech/erigon/pull/25613) - 2026-10-31
+* [Pull Request] [rpc/gasprice, rpc/jsonrpc: eth_gasPrice reads the base fee from the tip's head](https://github.com/erigontech/erigon/pull/25612) - 2026-10-31
+* [Review] [Review on: qa-tests: simplifiy and improve rpc perf test workflow](https://github.com/erigontech/erigon/pull/25616#pullrequestreview-5722675603) - 2026-10-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -226,6 +234,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643#pullrequestreview-5665812638) - 2026-10-27
 * [Commit] [integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step (#642)](https://github.com/erigontech/rpc-tests/commit/f717015b0abcb0f1a423fc5aed97749dd33ac404) - 2026-10-27
 * [Pull Request] [rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644) - 2026-10-28
+* [Pull Request] [rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645) - 2026-10-31
+* [Commit] [rpc_pattern_gen: generate debug_traceBlockByNumber requests (#644)](https://github.com/erigontech/rpc-tests/commit/31e3bd31e8ae1df6fcb8cad4b4323c16801f3c0c) - 2026-10-31
 ## Q3 2026
 
 

@@ -855,6 +855,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): lean world state for zkVM guests (#15341)](https://github.com/NethermindEth/nethermind/commit/c965ffc141a47c32d46a924c98dd67962426ec3f) - 2026-10-30
 * [Commit] [fix(zkevm): look up the ADDMOD fast path's next handler with HandlerAt (#15396)](https://github.com/NethermindEth/nethermind/commit/1d4145f8ccdf16c88a68ce63c7f5ffbf35c254dd) - 2026-10-30
 * [Commit] [perf(zkevm): align the word loads of the zero-byte count (#15393)](https://github.com/NethermindEth/nethermind/commit/7b8eca63f96631e83f9ab2cae58983f601bf1371) - 2026-10-30
+* [Pull Request] [perf(zkevm): call memmove directly and write the first Keccak block lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/15451) - 2026-10-31
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -937,6 +938,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(riscv64): perf-83 - opt-in JitZkNoGcMustInit drops GC-only prolog zeroing](https://github.com/NethermindEth/dotnet-riscv/commit/0277c7439b50990636f16244fa3d7c280af16cee) - 2026-10-21
 * [Pull Request] [riscv32: the RV32IM target for the Airbender zkVM (RISCV32=1 on upstream-perf)](https://github.com/NethermindEth/dotnet-riscv/pull/36) - 2026-10-27
 * [Pull Request] [fixup/11/upstream: perf-84 - strict alignment proves accesses through fields of promoted structs aligned](https://github.com/NethermindEth/dotnet-riscv/pull/37) - 2026-10-28
+* [Commit] [tests: Check the RV32 ilp32 argument boundary on Airbender](https://github.com/NethermindEth/dotnet-riscv/commit/e709a27338546e97d54992a2789867de80486c1b) - 2026-10-31
+* [Commit] [riscv32: Long codegen, delegation calls, handler convention and zkVM codegen knobs](https://github.com/NethermindEth/dotnet-riscv/commit/cbb4b72aa9438f858a68566e32c1be61793cfb2e) - 2026-10-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Glamsterdam Coordinators](https://github.com/ethereum/pm/pull/2255) - 2026-10-05
 * [Commit] [Update Nethermind contributors with GitHub links](https://github.com/ethereum/pm/commit/722f11b2ec53da6bb53b83f0a39663f9ff581612) - 2026-10-05

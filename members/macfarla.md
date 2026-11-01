@@ -160,6 +160,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Test stalled WebSocket responses against a real Vert.x server (#11785)](https://github.com/besu-eth/besu/commit/a8c2fa924d60e11837262028c74096c216adcca7) - 2026-10-28
 * [Review] [Review on: fix: preserve nonce-too-low details in eth_sendRawTransaction](https://github.com/besu-eth/besu/pull/11799#pullrequestreview-5692559868) - 2026-10-29
 * [Review] [Review on: [neutral] Extract TopLevelTransactionSupport from MainnetTransactionProcessor](https://github.com/besu-eth/besu/pull/11735#pullrequestreview-5692489288) - 2026-10-29
+* [Review] [Review on: Limit the size of the debug_standardTrace*ToFile trace directory](https://github.com/besu-eth/besu/pull/11816#pullrequestreview-5722267535) - 2026-10-31
+* [Review] [Review on: Check gasUsed of empty Amsterdam blocks in light body validation](https://github.com/besu-eth/besu/pull/11800#pullrequestreview-5722245580) - 2026-10-31
+* [Review] [Review on: EIP-8070: Serve pooled blob transactions with their blobs elided](https://github.com/besu-eth/besu/pull/11763#pullrequestreview-5722292921) - 2026-10-31
+* [Review] [Review on: [behaviour change: byte 0x06 maps to FRAME] Frame transaction model and wire codec (EIP-8141 + EIP-8250)](https://github.com/besu-eth/besu/pull/11736#pullrequestreview-5722227234) - 2026-10-31
+* [Review] [Review on: SNAP2: Refuse a paginated receipts answer that brings no receipt](https://github.com/besu-eth/besu/pull/11822#pullrequestreview-5722204359) - 2026-10-31
+* [Review] [Review on: Stop sync target retries from keeping every attempt in memory](https://github.com/besu-eth/besu/pull/11760#pullrequestreview-5722150716) - 2026-10-31
+* [Review] [Review on: fix(rpc): reject malformed trace_filter members and legacy calls for another chain](https://github.com/besu-eth/besu/pull/11439#pullrequestreview-5721674855) - 2026-10-31
+* [Review] [Review on: fix(rpc): reject precompile moves to the same address](https://github.com/besu-eth/besu/pull/11820#pullrequestreview-5721499521) - 2026-10-31
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Bump net.ltgt.errorprone plugin to 4.4.0](https://github.com/Consensys-Incorporated/tuweni/pull/74) - 2026-10-01
 * [Review] [Review on: Update Gradle to v8.14.5](https://github.com/Consensys-Incorporated/tuweni/pull/70#pullrequestreview-5375357315) - 2026-10-01

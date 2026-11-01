@@ -223,6 +223,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Run the devnet tests on standard runners](https://github.com/besu-eth/besu/pull/11819#pullrequestreview-5712665264) - 2026-10-30
 * [Review] [Review on: SNAP2: Add --sync-mode=SNAP2](https://github.com/besu-eth/besu/pull/11803#pullrequestreview-5711816679) - 2026-10-30
 * [Review] [Review on: Run the reference tests on standard runners](https://github.com/besu-eth/besu/pull/11818#pullrequestreview-5711921388) - 2026-10-30
+* [Pull Request] [Cut the overhead of importing large BAL blocks of transfers](https://github.com/besu-eth/besu/pull/11821) - 2026-10-31
+* [Commit] [Check gasUsed of empty Amsterdam blocks in light body validation (#11800)](https://github.com/besu-eth/besu/commit/1a2ef1b759daf4573f1eec1591a7e7c6b6352be7) - 2026-10-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

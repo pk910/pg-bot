@@ -55,6 +55,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: test: reuse one node pool across Zig spec test cases](https://github.com/ChainSafe/lodestar/pull/10524#pullrequestreview-5710673247) - 2026-10-30
 * [Review] [Review on: chore: merge lodestar-z into lodestar](https://github.com/ChainSafe/lodestar/pull/10513#pullrequestreview-5708069907) - 2026-10-30
 * [Review] [Review on: fix: allow builders to raise their bid by a minimum increment](https://github.com/ChainSafe/lodestar/pull/10504#pullrequestreview-5707657234) - 2026-10-30
+* [Review] [Review on: chore(ci): key the Zig cache by host glibc and kernel](https://github.com/ChainSafe/lodestar/pull/10528#pullrequestreview-5722294693) - 2026-10-31
+* [Review] [Review on: chore: let Lerna publish the native wrapper package](https://github.com/ChainSafe/lodestar/pull/10527#pullrequestreview-5721468485) - 2026-10-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01
