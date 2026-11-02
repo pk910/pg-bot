@@ -112,6 +112,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Builder bid `blob_kzg_commitments` above `max_blobs_per_block` is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11599) - 2026-10-29
 * [Issue] [Doppelganger detection ends all-clear after zero liveness probes when the beacon node is unreachable](https://github.com/Consensys-Incorporated/teku/issues/11598) - 2026-10-29
 * [Issue] [Concurrent-access slashing protector swallows IOException on record read and signs against an empty history](https://github.com/Consensys-Incorporated/teku/issues/11605) - 2026-10-31
+* [Issue] [Auto-generated Engine API JWT secret file is created world-readable](https://github.com/Consensys-Incorporated/teku/issues/11608) - 2026-11-02
+* [Issue] [Builder bid with a gas limit outside the EIP-1559 bound is accepted and the slot is missed](https://github.com/Consensys-Incorporated/teku/issues/11607) - 2026-11-02
+* [Issue] [Interchange import of a future attestation `source_epoch` permanently wedges all attestations](https://github.com/Consensys-Incorporated/teku/issues/11606) - 2026-11-02
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73) - 2026-10-01
 * [Review] [Review on: Speed up ConcatenatedBytes random access and fix slice](https://github.com/Consensys-Incorporated/tuweni/pull/73#pullrequestreview-5378978076) - 2026-10-01

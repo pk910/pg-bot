@@ -376,6 +376,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/phase1/forkchoice: read column availability before taking the fork-choice lock](https://github.com/erigontech/erigon/pull/25594) - 2026-10-30
 * [Commit] [db/kv/mdbx: assert the in-commit deadline sync by its fsync, not by wall-clock (#25520)](https://github.com/erigontech/erigon/commit/8f2a51e3b9c85eeefcabf4c1ba3b3dd8c87c529d) - 2026-10-30
 * [Commit] [cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict (#25469)](https://github.com/erigontech/erigon/commit/f2f545aadeda115dd8a273ac924cb14cebd3a688) - 2026-10-30
+* [Review] [Review on: cl/beacon/handler: filter validators and balances by id through a set](https://github.com/erigontech/erigon/pull/25619#pullrequestreview-5730090402) - 2026-11-01
+* [Pull Request] [cl/beacon/handler: encode head validators off the head-state lock](https://github.com/erigontech/erigon/pull/25660) - 2026-11-01
+* [Review] [Review on: cl/beacon/handler: return 404 for a validator index past the registry](https://github.com/erigontech/erigon/pull/25585#pullrequestreview-5730079894) - 2026-11-01
+* [Review] [Review on: cl/beacon/builder: fix admission test maximum counter](https://github.com/erigontech/erigon/pull/25656#pullrequestreview-5730034645) - 2026-11-01
+* [Review] [Review on: cl/phase1/network/services: relay valid Fulu data column sidecars outside custody](https://github.com/erigontech/erigon/pull/25587#pullrequestreview-5730176941) - 2026-11-01
+* [Review] [Review on: cl/antiquary: merge beaconblocks into 100k segments with EL's Merger](https://github.com/erigontech/erigon/pull/25519#pullrequestreview-5730182703) - 2026-11-01
+* [Review] [Review on: db/snapshotsync: open every caplin segment as EL does](https://github.com/erigontech/erigon/pull/25488#pullrequestreview-5730182494) - 2026-11-01
+* [Review] [Review on: cl/phase1/network/services: start one EL column import per proposer and slot](https://github.com/erigontech/erigon/pull/25615#pullrequestreview-5730053333) - 2026-11-01
+* [Commit] [cl, cmd/caplin: precompute the next-epoch state off the fork-choice lock (#25473)](https://github.com/erigontech/erigon/commit/30be251f8a652f37cbeabed831818977b653edcd) - 2026-11-01
+* [Commit] [txnprovider/txpool: delete pool DB rows that validateTx rejects on reload (#25598)](https://github.com/erigontech/erigon/commit/c2536e4b783ad430501f6c64853282521c4d6fd8) - 2026-11-01
+* [Commit] [cl/phase1/forkchoice/fork_graph: skip re-dumping an already dumped head state (#25539)](https://github.com/erigontech/erigon/commit/3d7abd924010619895130098ecfe128eca39723d) - 2026-11-01
+* [Commit] [cl/utils/bls: aggregate public keys with blst batch addition (#25542)](https://github.com/erigontech/erigon/commit/5d38a046a29e899db139dd44f7c83691e5ca5244) - 2026-11-01
 ## Q3 2026
 
 

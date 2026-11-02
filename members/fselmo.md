@@ -89,6 +89,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(test-benchmark): add invalid-point and state-root benchmarks](https://github.com/ethereum/execution-specs/pull/3942) - 2026-10-29
 * [Commit] [feat(tests): fit a tx after a 7702 existing-authority refund (#3943)](https://github.com/ethereum/execution-specs/commit/b758df2bcaaa95c04d31e25c94fbfb8d6de756e7) - 2026-10-29
 * [Commit] [feat(tests): pad forged BALs to the item cap and past it (#3944)](https://github.com/ethereum/execution-specs/commit/02aafd78ceb70a15fb75195048dc693b536bd938) - 2026-10-29
+* [Review] [Review on: feat(test-consume): ask clients for a fast KZG setup](https://github.com/ethereum/execution-specs/pull/3949#pullrequestreview-5728496443) - 2026-11-01
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 
@@ -100,6 +101,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 ## Q3 2026
 
 

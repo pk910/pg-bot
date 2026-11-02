@@ -856,6 +856,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(zkevm): look up the ADDMOD fast path's next handler with HandlerAt (#15396)](https://github.com/NethermindEth/nethermind/commit/1d4145f8ccdf16c88a68ce63c7f5ffbf35c254dd) - 2026-10-30
 * [Commit] [perf(zkevm): align the word loads of the zero-byte count (#15393)](https://github.com/NethermindEth/nethermind/commit/7b8eca63f96631e83f9ab2cae58983f601bf1371) - 2026-10-30
 * [Pull Request] [perf(zkevm): call memmove directly and write the first Keccak block lane by lane on OpenVM](https://github.com/NethermindEth/nethermind/pull/15451) - 2026-10-31
+* [Pull Request] [perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15457) - 2026-11-01
+* [Pull Request] [refactor(rlp): replace the old RLP core with FluentRlp](https://github.com/NethermindEth/nethermind/pull/15458) - 2026-11-01
+* [Pull Request] [perf(zkevm): hold the SP1 guest's paired handlers in 32 bits](https://github.com/NethermindEth/nethermind/pull/15455) - 2026-11-01
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

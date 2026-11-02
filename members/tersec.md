@@ -124,6 +124,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix envelope backfilling](https://github.com/status-im/nimbus-eth2/pull/9334#pullrequestreview-5692491683) - 2026-10-29
 * [Review] [Review on: extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413#pullrequestreview-5711106625) - 2026-10-30
 * [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5707978143) - 2026-10-30
+* [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5726283625) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

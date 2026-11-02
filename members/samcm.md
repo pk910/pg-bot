@@ -96,6 +96,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(cannon): derive phase0 attestation and block rewards from beacon states (#933)](https://github.com/ethpandaops/xatu/commit/7dd274b1fefbc34d2a848002e8e67aeae5f71ede) - 2026-10-30
 * [Pull Request] [perf(cannon): run phase0 reward backfill batches with parallel workers](https://github.com/ethpandaops/xatu/pull/937) - 2026-10-31
 * [Commit] [perf(cannon): run phase0 reward backfill batches with parallel workers (#937)](https://github.com/ethpandaops/xatu/commit/fca771c89e4bf3db71768c14193308bdf5a3fd60) - 2026-10-31
+* [Pull Request] [fix(clickhouse): keep Prysm's agent commit in remote_agent_platform](https://github.com/ethpandaops/xatu/pull/940) - 2026-11-02
+* [Pull Request] [perf(cannon): run reward deriver backfill batches with parallel workers](https://github.com/ethpandaops/xatu/pull/938) - 2026-11-02
+* [Pull Request] [refactor: use ethcore's client detection](https://github.com/ethpandaops/xatu/pull/939) - 2026-11-02
+* [Commit] [perf(cannon): run reward deriver backfill batches with parallel workers (#938)](https://github.com/ethpandaops/xatu/commit/7a8a1fafa22154a0dd3073c3e80d972934cb6196) - 2026-11-02
+* [Commit] [refactor: use ethcore's client detection (#939)](https://github.com/ethpandaops/xatu/commit/e33c18c713910691d251495060afa919d1b09d00) - 2026-11-02
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -107,6 +112,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/contributoor/pull/258#pullrequestreview-5596854590) - 2026-10-21
 * [Pull Request] [feat: detect the Silver consensus client](https://github.com/ethpandaops/contributoor/pull/259) - 2026-10-30
 * [Commit] [Merge pull request #259 from ethpandaops/feat/silver-client](https://github.com/ethpandaops/contributoor/commit/a4a8e99c218405240dbb8a0b5dc76132c3d97b66) - 2026-10-30
+* [Pull Request] [feat: report unlisted consensus clients by name](https://github.com/ethpandaops/contributoor/pull/260) - 2026-11-02
+* [Commit] [feat: report unlisted consensus clients by name (#260)](https://github.com/ethpandaops/contributoor/commit/2a69bcf3a01e5f5e8903c25417670807d037e2d5) - 2026-11-02
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(hoodi): add tysm v1.1.3 to gloas min client versions](https://github.com/ethpandaops/cartographoor/pull/116) - 2026-10-19
 * [Pull Request] [feat(hoodi): schedule gloas at epoch 132352](https://github.com/ethpandaops/cartographoor/pull/115) - 2026-10-19
@@ -164,6 +171,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(validators): network overview and validator inspect page (#460)](https://github.com/ethpandaops/lab/commit/ecb98691060db1f2c95e0ec88e4920ff41f25fe7) - 2026-10-30
 * [Pull Request] [feat(clients): show every client with its logo and colour, including legends](https://github.com/ethpandaops/lab/pull/466) - 2026-10-31
 * [Commit] [feat(clients): show every client with its logo and colour, including legends (#466)](https://github.com/ethpandaops/lab/commit/3ac237949bf4a8fc79383355043e76119f7cc867) - 2026-10-31
+* [Pull Request] [fix(validators): default inspect to the last 30 days and accept quoted indices](https://github.com/ethpandaops/lab/pull/471) - 2026-11-02
+* [Pull Request] [feat(timings): EL Client Duration for 90d, 6mo and 1y](https://github.com/ethpandaops/lab/pull/470) - 2026-11-02
+* [Pull Request] [feat(ethereum): add the ethlambda consensus client](https://github.com/ethpandaops/lab/pull/468) - 2026-11-02
+* [Pull Request] [fix(performance): handle networks without reference nodes and missing resource gas](https://github.com/ethpandaops/lab/pull/469) - 2026-11-02
+* [Pull Request] [feat(validators): show only real data on the validators pages](https://github.com/ethpandaops/lab/pull/467) - 2026-11-02
+* [Commit] [fix(validators): default inspect to the last 30 days and accept quoted indices (#471)](https://github.com/ethpandaops/lab/commit/7ad5d6d05f3381621314f99b7a373db4d37d45e8) - 2026-11-02
+* [Commit] [feat(timings): EL Client Duration for 90d, 6mo and 1y (#470)](https://github.com/ethpandaops/lab/commit/a8801163970c9c393ec361adf625c12307435d87) - 2026-11-02
+* [Commit] [feat(ethereum): add the ethlambda consensus client (#468)](https://github.com/ethpandaops/lab/commit/4f01de625c643fe2ec9d95bc37c27c6b6da096a4) - 2026-11-02
+* [Commit] [fix(performance): handle networks without reference nodes and missing resource gas (#469)](https://github.com/ethpandaops/lab/commit/344fbc95a6cc3ed6cb15eb8466adc4a51f08bc89) - 2026-11-02
+* [Commit] [feat(validators): show only real data on the validators pages (#467)](https://github.com/ethpandaops/lab/commit/bdb4c348da06d39aee463b61f96258014905d7f9) - 2026-11-02
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

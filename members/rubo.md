@@ -122,6 +122,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408#pullrequestreview-5719113246) - 2026-10-30
 * [Commit] [build: drop the unused dotnet-tools NuGet feed (#15447)](https://github.com/NethermindEth/nethermind/commit/1ef83f6aa39f6f347ae8be85ca3319e7e3cc1516) - 2026-10-30
 * [Commit] [refactor(network)!: serialize base p2p messages into spans instead of DotNetty buffers (#15395)](https://github.com/NethermindEth/nethermind/commit/44ad61076db14fa29969679a4e73440ca2ff7ef8) - 2026-10-30
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/15454#pullrequestreview-5728065407) - 2026-11-01
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15453#pullrequestreview-5728061778) - 2026-11-01
+* [Commit] [refactor(network)!: serialize eth status and new block messages into spans instead of DotNetty buffers (#15445)](https://github.com/NethermindEth/nethermind/commit/76d74ba001c9e36044d1c0703b77d80bb30e3374) - 2026-11-01
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Push NuGet package to v3 service index to include symbols](https://github.com/ethereum/c-kzg-4844/pull/672) - 2026-10-06
 * [Commit] [Push NuGet package to v3 service index to include symbols (#672)](https://github.com/ethereum/c-kzg-4844/commit/a751e2d92abcd63b01d1400789789f5ea289a8b0) - 2026-10-06

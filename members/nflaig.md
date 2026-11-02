@@ -393,6 +393,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: let Lerna publish the native wrapper package](https://github.com/ChainSafe/lodestar/pull/10527) - 2026-10-31
 * [Commit] [chore(ci): key the Zig cache by host glibc and kernel (#10528)](https://github.com/ChainSafe/lodestar/commit/8d8efcbf5fab80e26f2700d1197154541e1d2f9f) - 2026-10-31
 * [Commit] [chore: let Lerna publish the native wrapper package (#10527)](https://github.com/ChainSafe/lodestar/commit/9bcbf1838a2c166c52b79c0bbf222a8db6e07db9) - 2026-10-31
+* [Pull Request] [chore(ci): build release binary bindings for an explicit glibc target](https://github.com/ChainSafe/lodestar/pull/10529) - 2026-11-01
+* [Pull Request] [chore: resolve pnpm catalog dependencies when publishing](https://github.com/ChainSafe/lodestar/pull/10530) - 2026-11-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01

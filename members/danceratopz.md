@@ -89,6 +89,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-rpc,test-consume): sign each engine api retry anew and bound wirex engine requests (#3933)](https://github.com/ethereum/execution-specs/commit/bc95a31e98a8ebdcb6d2f3d6f456c64d5fe58f74) - 2026-10-29
 * [Commit] [feat(test-consume): omit the genesis alloc from enginex and wirex client logs (#3937)](https://github.com/ethereum/execution-specs/commit/a6e74f3c5020c2ef3fb8d83d7f0b0b1873f358e3) - 2026-10-29
 * [Commit] [feat(test-consume): fail a wirex test once a fully served client stalls (#3938)](https://github.com/ethereum/execution-specs/commit/11ca5f3641f9efb1646c525fa156e9dcc368777c) - 2026-10-29
+* [Pull Request] [feat(test-consume): ask clients for a fast KZG setup](https://github.com/ethereum/execution-specs/pull/3949) - 2026-11-01
+* [Pull Request] [fix(test-tests): reset the default chain id around every unit test](https://github.com/ethereum/execution-specs/pull/3950) - 2026-11-01
+* [Commit] [feat(test-consume): ask clients for a fast KZG setup (#3949)](https://github.com/ethereum/execution-specs/commit/fd9298410ec7218838c8348f69c1eb633f1797dc) - 2026-11-01
+* [Commit] [fix(test-tests): reset the default chain id around every unit test (#3950)](https://github.com/ethereum/execution-specs/commit/9a9e1e49c11268e326544d62033151d1ba53b2bc) - 2026-11-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/pull/12466) - 2026-10-09
 * [Commit] [Update EIP-7906: say that a failed assertion reverts the execution body](https://github.com/ethereum/EIPs/commit/fedcaf7ffbbcaa3e98326d3f9a3b2264e39e85f3) - 2026-10-09
@@ -118,6 +122,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/besu: turn off the default flight recording (#1644)](https://github.com/ethereum/hive/commit/db1ad92b2c60799b5fd332123a40b02197ff5474) - 2026-10-29
 * [Commit] [clients: omit the genesis alloc from the dump when HIVE_OMIT_GENESIS_ALLOC is set (#1643)](https://github.com/ethereum/hive/commit/bbe551b23306a27cc359dcbd58b0149c81fb60bc) - 2026-10-29
 * [Pull Request] [clients/nethermind: turn off dynamic PGO](https://github.com/ethereum/hive/pull/1646) - 2026-10-30
+* [Pull Request] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set](https://github.com/ethereum/hive/pull/1647) - 2026-11-01
+* [Commit] [clients/go-ethereum: initialize the KZG library on first use when HIVE_KZG_FAST_SETUP is set (#1647)](https://github.com/ethereum/hive/commit/3d26047788251bba5beb7ffcf84d05be9cf3e4bb) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: docs: keep unmerged EIPs off calls and default unsupported PFIs to DFI](https://github.com/ethereum/pm/pull/2275#pullrequestreview-5550585793) - 2026-10-16
 
@@ -126,6 +132,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Commit] [params: allow BPO forks to activate after Amsterdam (#35975)](https://github.com/ethereum/go-ethereum/commit/748cca24b5ece979f709f38b311f0cb993e10838) - 2026-10-21
 * [Pull Request] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy](https://github.com/ethereum/go-ethereum/pull/36025) - 2026-10-27
+* [Commit] [cmd/geth, cmd/utils, crypto/kzg4844: add --crypto.kzg.lazy (#36025)](https://github.com/ethereum/go-ethereum/commit/5f7750c60a41fb7df3342283c5d4484c537694d4) - 2026-11-01
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Allow BPO forks to activate after Amsterdam](https://github.com/besu-eth/besu/pull/11646) - 2026-10-19
 

@@ -412,6 +412,13 @@ Team: Reth
 * [Review] [Review on: fix(rpc): return -32001 for eth_getBlockAccessList before Amsterdam](https://github.com/paradigmxyz/reth/pull/28189#pullrequestreview-5695475153) - 2026-10-29
 * [Review] [Review on: ci: send nightly docker and scheduled bench failures to incident.io](https://github.com/paradigmxyz/reth/pull/28185#pullrequestreview-5718344541) - 2026-10-30
 * [Commit] [fix(net): promote known peers on hostname trust (#28199)](https://github.com/paradigmxyz/reth/commit/f97f603f6dc8fee5103b880e7a8041a61bd05f67) - 2026-10-30
+* [Review] [Review on: ci: pin nightly to 2026-10-31](https://github.com/paradigmxyz/reth/pull/28220#pullrequestreview-5727958460) - 2026-11-01
+* [Pull Request] [feat(discv4): limit table entries per subnet](https://github.com/paradigmxyz/reth/pull/28223) - 2026-11-01
+* [Pull Request] [feat(net): limit pending dials per IP](https://github.com/paradigmxyz/reth/pull/28224) - 2026-11-01
+* [Pull Request] [fix(era): handle multibyte separator in era index listing](https://github.com/paradigmxyz/reth/pull/28222) - 2026-11-01
+* [Review] [Review on: fix(rpc): report mev_simBundle refundable value before payouts](https://github.com/paradigmxyz/reth/pull/28218#pullrequestreview-5727006746) - 2026-11-01
+* [Pull Request] [fix(engine): retain parent spans for payload tasks](https://github.com/paradigmxyz/reth/pull/28221) - 2026-11-01
+* [Commit] [fix(era): handle multibyte separator in era index listing (#28222)](https://github.com/paradigmxyz/reth/commit/79d222b795b0eb0d5a80067cc1451b68b443d269) - 2026-11-01
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(ci): use vendored dtolnay/rust-toolchain](https://github.com/paradigmxyz/revmc/pull/422) - 2026-10-03
 * [Commit] [chore(ci): use vendored dtolnay/rust-toolchain (#422)](https://github.com/paradigmxyz/revmc/commit/5fba0216ed6bb3c73c4ce214b58c8e434a948e98) - 2026-10-03

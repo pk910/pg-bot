@@ -51,6 +51,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15439) - 2026-10-30
 * [Review] [Review on: fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15439#pullrequestreview-5712617906) - 2026-10-30
 * [Review] [Review on: fix(network): reject truncated ENR values as malformed records](https://github.com/NethermindEth/nethermind/pull/15438#pullrequestreview-5710826623) - 2026-10-30
+* [Review] [Review on: Add Light Client](https://github.com/NethermindEth/nethermind/pull/14457#pullrequestreview-5729954173) - 2026-11-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

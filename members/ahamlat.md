@@ -47,6 +47,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: FOCIL: Validate inclusion lists during block processing](https://github.com/besu-eth/besu/pull/11768#pullrequestreview-5670267266) - 2026-10-27
 * [Review] [Review on: Import QBFT blocks proposed after a round change without executing them again](https://github.com/besu-eth/besu/pull/11817#pullrequestreview-5712620750) - 2026-10-30
 * [Commit] [Import committed QBFT blocks without executing them again (#11469)](https://github.com/besu-eth/besu/commit/3a6a6a7658b3775c65f515d5c5f2378aecc0b4c2) - 2026-10-30
+* [Review] [Review on: Use the AES cipher of the JDK for RLPx frames](https://github.com/besu-eth/besu/pull/11823#pullrequestreview-5727549055) - 2026-11-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558) - 2026-10-05
 * [Review] [Review on: Reduce siladu weighting](https://github.com/protocolguild/documentation/pull/557#pullrequestreview-5410980411) - 2026-10-05

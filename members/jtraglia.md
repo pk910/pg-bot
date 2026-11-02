@@ -94,6 +94,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5698109174) - 2026-10-29
 * [Review] [Review on: Clarify envelope backfill handling](https://github.com/ethereum/consensus-specs/pull/5771#pullrequestreview-5698661821) - 2026-10-29
 * [Review] [Review on: Allow builders to raise their bid by a minimum increment](https://github.com/ethereum/consensus-specs/pull/5776#pullrequestreview-5718994899) - 2026-10-30
+* [Review] [Review on: Add initial fork choice specs for decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791#pullrequestreview-5726311466) - 2026-11-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #100, October 12, 2026](https://github.com/ethereum/pm/issues/2264) - 2026-10-07
 

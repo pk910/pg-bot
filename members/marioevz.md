@@ -80,6 +80,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-rpc,test-consume): sign each engine api retry anew and bound wirex engine requests](https://github.com/ethereum/execution-specs/pull/3933#pullrequestreview-5702022624) - 2026-10-29
 * [Review] [Review on: feat(test-consume): omit the genesis alloc from enginex and wirex client logs](https://github.com/ethereum/execution-specs/pull/3937#pullrequestreview-5698780896) - 2026-10-29
 * [Commit] [chore(specs): Add meta-EIP to BPO1 fork (#3932)](https://github.com/ethereum/execution-specs/commit/7d0dd1433a7ad436e42061960b91941a6ff7f677) - 2026-10-29
+* [Review] [Review on: fix(test-tests): reset the default chain id around every unit test](https://github.com/ethereum/execution-specs/pull/3950#pullrequestreview-5728251159) - 2026-11-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building](https://github.com/ethereum/hive/pull/1610#pullrequestreview-5435808997) - 2026-10-06
 

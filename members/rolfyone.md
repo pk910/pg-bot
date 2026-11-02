@@ -168,6 +168,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Buffer pending RPC bytes in a single growable buffer](https://github.com/Consensys-Incorporated/teku/pull/11589#pullrequestreview-5689500634) - 2026-10-28
 * [Review] [Review on: Move payload bodies request to a separate EL request queue ](https://github.com/Consensys-Incorporated/teku/pull/11564#pullrequestreview-5677474364) - 2026-10-28
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5721366715) - 2026-10-31
+* [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5731583671) - 2026-11-02
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

@@ -350,6 +350,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/execution_client: reject RLP-wrapped typed transactions (#25529)](https://github.com/erigontech/erigon/commit/e304051f5cfc9671ff6be7672c37bb14efd4d684) - 2026-10-30
 * [Commit] [execution/stagedsync: join scheduler before draining workers (#25535)](https://github.com/erigontech/erigon/commit/4dbfdcf86102ef4ede8c68de5a3400002ce7c695) - 2026-10-30
 * [Commit] [db, execution: keep embedded state-cache reads on the selected view (#23485)](https://github.com/erigontech/erigon/commit/198678df9c2250d7c6bada1611a7a8659d49db28) - 2026-10-31
+* [Review] [Review on: execution/stagedsync: re-check only readers of the written paths](https://github.com/erigontech/erigon/pull/25590#pullrequestreview-5727589933) - 2026-11-01
+* [Pull Request] [cl/beacon/builder: fix admission test maximum counter](https://github.com/erigontech/erigon/pull/25656) - 2026-11-01
+* [Commit] [cl/beacon/builder: fix admission test maximum counter (#25656)](https://github.com/erigontech/erigon/commit/774c4379239282a6959ce695f194434e175dd5ae) - 2026-11-01
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

@@ -49,6 +49,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Verify execution block hashes of gossiped payloads locally](https://github.com/OffchainLabs/prysm/pull/17786) - 2026-10-27
 * [Pull Request] [Ignore proposer preferences on long forks](https://github.com/OffchainLabs/prysm/pull/17787) - 2026-10-27
 * [Pull Request] [Use cached fork tip states to validate proposer preferences](https://github.com/OffchainLabs/prysm/pull/17788) - 2026-10-27
+* [Review] [Review on: Use randomized aggregation for same-message signature batches](https://github.com/OffchainLabs/prysm/pull/17763#pullrequestreview-5729879465) - 2026-11-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/pull/12553) - 2026-10-20
 * [Commit] [Update EIP-7732: align with current consensus specs](https://github.com/ethereum/EIPs/commit/ed9b712690ba810f652d2ec76293ec5c299e2069) - 2026-10-20
