@@ -44,6 +44,9 @@ Team: Nimbus
 * [Commit] [Snap2 maint update plus bal forward fix (#5119)](https://github.com/status-im/nimbus-eth1/commit/19a57e7bfa0ee71804e3edfa9b0d3b771511f061) - 2026-10-29
 * [Pull Request] [Snap2 some corrections](https://github.com/status-im/nimbus-eth1/pull/5121) - 2026-10-30
 * [Commit] [Snap2 some corrections (#5121)](https://github.com/status-im/nimbus-eth1/commit/84ea322400576bf346a726d2c2515c38450c1371) - 2026-10-30
+* [Pull Request] [Beacon syncer hive timing updates](https://github.com/status-im/nimbus-eth1/pull/5131) - 2026-11-02
+* [Pull Request] [Snap2 update accounts bookkeeping](https://github.com/status-im/nimbus-eth1/pull/5130) - 2026-11-02
+* [Commit] [Snap2 update accounts bookkeeping (#5130)](https://github.com/status-im/nimbus-eth1/commit/3d1f37689e2f60687cfefc4be84d620610baf956) - 2026-11-02
 ## Q3 2026
 
 

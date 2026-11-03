@@ -126,6 +126,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [snap sync: reject a ByteCodes reply with more codes than requested (#5105)](https://github.com/status-im/nimbus-eth1/commit/1d38f5e5a52988453065b2c643bbd3dc371b73a0) - 2026-10-28
 * [Pull Request] [stateless: Move the stateless collapse checks out of the ledger](https://github.com/status-im/nimbus-eth1/pull/5122) - 2026-10-31
 * [Commit] [stateless: Move the stateless collapse checks out of the ledger (#5122)](https://github.com/status-im/nimbus-eth1/commit/1bdd9f2256a11edd3a946c657bbbab1caa57fd75) - 2026-11-01
+* [Review] [Review on: Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124#pullrequestreview-5735427958) - 2026-11-02
+* [Pull Request] [stateless: Align NewPayloadRequest and result SSZ types with Gloas](https://github.com/status-im/nimbus-eth1/pull/5129) - 2026-11-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-eth & adapt to discv5 API changes (deprecations)](https://github.com/status-im/nimbus-eth2/pull/9269) - 2026-10-12
 * [Pull Request] [Use strictParse for REST UInt256 decimal values](https://github.com/status-im/nimbus-eth2/pull/9349) - 2026-10-22

@@ -86,6 +86,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add ASAN/UBSAN/TSAN to CI](https://github.com/status-im/nimbus-eth2/pull/9411) - 2026-10-29
 * [Pull Request] [Init deltas in fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9409) - 2026-10-29
 * [Pull Request] [Replace forks templates with staticCase](https://github.com/status-im/nimbus-eth2/pull/9408) - 2026-10-29
+* [Pull Request] [Align quota measurement for light client](https://github.com/status-im/nimbus-eth2/pull/9419) - 2026-11-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix LC logic when ALTAIR_FORK_EPOCH = 0 and initial epochs all empty](https://github.com/ethereum/consensus-specs/pull/5707) - 2026-10-02
 

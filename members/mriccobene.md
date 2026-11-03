@@ -40,6 +40,9 @@ Team: Erigon
 * [Review] [Review on: .claude/skills: add perf-pattern-add, rpc-perf-run and rpc-int-run](https://github.com/erigontech/rpc-tests/pull/637#pullrequestreview-5610390993) - 2026-10-22
 * [Review] [Review on: integration: debug_traceTransaction test_109 has no storage on the halted SSTORE step](https://github.com/erigontech/rpc-tests/pull/642#pullrequestreview-5664017784) - 2026-10-27
 * [Review] [Review on: rpc_pattern_gen: generate debug_traceBlockByNumber requests](https://github.com/erigontech/rpc-tests/pull/644#pullrequestreview-5722002226) - 2026-10-31
+* [Review] [Review on: perf/pattern: add the debug_traceBlockByNumber callTracer and structLog profiles](https://github.com/erigontech/rpc-tests/pull/647#pullrequestreview-5742844610) - 2026-11-02
+* [Review] [Review on: rpc_pattern_gen: generate eth_createAccessList requests](https://github.com/erigontech/rpc-tests/pull/646#pullrequestreview-5736809747) - 2026-11-02
+* [Review] [Review on: rpc_pattern_gen: add tag=latest to eth_getLogs and the eth_getLogs_latest profile](https://github.com/erigontech/rpc-tests/pull/645#pullrequestreview-5736806351) - 2026-11-02
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5426655801) - 2026-10-06
 * [Review] [Review on: QA: read the rpc-tests version from rpc_version.env in the RPC perf workflows; run the latest perf test with rpc_perf](https://github.com/erigontech/erigon/pull/24539#pullrequestreview-5440541702) - 2026-10-07
@@ -59,6 +62,7 @@ Team: Erigon
 * [Commit] [qa-tests: run Geth in RPC performance tests daily (#25580)](https://github.com/erigontech/erigon/commit/ff9dd98a10385046ea5de4b0cd7b93c4296beac8) - 2026-10-30
 * [Pull Request] [qa-tests: simplifiy and improve rpc perf test workflow](https://github.com/erigontech/erigon/pull/25616) - 2026-10-31
 * [Commit] [qa-tests: simplifiy and improve rpc perf test workflow (#25616)](https://github.com/erigontech/erigon/commit/3f3d25765ebae14a4a883f136384482f054c22ce) - 2026-10-31
+* [Review] [Review on: .github/workflows: add debug_traceBlockByNumber, eth_createAccessList and eth_getLogs latest to the RPC performance latest test, summarize the client comparison](https://github.com/erigontech/erigon/pull/25614#pullrequestreview-5738750996) - 2026-11-02
 ## Q3 2026
 
 

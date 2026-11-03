@@ -120,6 +120,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Run the reference tests on standard runners](https://github.com/besu-eth/besu/pull/11818#pullrequestreview-5712179593) - 2026-10-30
 * [Commit] [Run the devnet tests on standard runners (#11819)](https://github.com/besu-eth/besu/commit/b32c6a8953d15d21eb7bc8d064f07416acb6ae4b) - 2026-10-30
 * [Commit] [Run the reference tests on standard runners (#11818)](https://github.com/besu-eth/besu/commit/6bf36fa477a2640845fd0671c6c596f9fef346a8) - 2026-10-30
+* [Review] [Review on: EIP-8070: Serve pooled blob transactions with their blobs elided](https://github.com/besu-eth/besu/pull/11763#pullrequestreview-5735564416) - 2026-11-02
+* [Review] [Review on: Start transaction announcement batches empty](https://github.com/besu-eth/besu/pull/11827#pullrequestreview-5738230370) - 2026-11-02
+* [Pull Request] [Rotate CHANGELOG for 26.11.0](https://github.com/besu-eth/besu/pull/11849) - 2026-11-02
+* [Commit] [Rotate CHANGELOG for 26.11.0 (#11849)](https://github.com/besu-eth/besu/commit/781f2e524f3ebbe302065ed2d27e3fbf36550735) - 2026-11-02
+* [Commit] [Stop newPayload signature precomputation once the payload is executed (#223)](https://github.com/besu-eth/besu/commit/21d488e5cb26fef700f97001cab47a18bcd699db) - 2026-11-02
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.1.0](https://github.com/besu-eth/besu-native/pull/326#pullrequestreview-5571547768) - 2026-10-19
 

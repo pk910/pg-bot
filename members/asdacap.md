@@ -67,6 +67,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(rlp): encode through a length list populated in encode order](https://github.com/NethermindEth/nethermind/pull/15405) - 2026-10-30
 * [Commit] [test(merge): wait for the resent block's commit before building on it (#15379)](https://github.com/NethermindEth/nethermind/commit/5fc80d9c89deac748ee6a5f56a1db4d7031076f9) - 2026-10-29
 * [Commit] [perf(bal): pool plain-transfer BAL slices separately (#15380)](https://github.com/NethermindEth/nethermind/commit/8bf058380b848dbf8dbd61d96d0d2f4165e06341) - 2026-10-29
+* [Pull Request] [perf(flat): visit tries by following node record pointers](https://github.com/NethermindEth/nethermind/pull/15491) - 2026-11-03
+* [Review] [Review on: perf(flat): visit tries by following node record pointers](https://github.com/NethermindEth/nethermind/pull/15491#pullrequestreview-5745774571) - 2026-11-03
+* [Commit] [refactor(db): open RocksDB in the factory and stop ColumnsDb inheriting DbOnTheRocks (#15407)](https://github.com/NethermindEth/nethermind/commit/bbf9b1a5955b9e9190cef07a3b5e9a92638c1c21) - 2026-11-02
+* [Commit] [test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines (#15376)](https://github.com/NethermindEth/nethermind/commit/cb4a7807e46d8434d3d8044b612f1bc18ba2702d) - 2026-11-02
 ## Q3 2026
 
 

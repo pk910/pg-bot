@@ -48,6 +48,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Update changelog for v7.3.1 (#17766)](https://github.com/OffchainLabs/prysm/commit/373c32bdc7383497b588f2a24c01fd1285e9672f) - 2026-10-23
 * [Pull Request] [Harden filesystem slashing-protection decoding and persistence](https://github.com/OffchainLabs/prysm/pull/17790) - 2026-10-27
 * [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5701957648) - 2026-10-29
+* [Review] [Review on: Disable the partial data columns (cell-level PeerDAS dissemination) by default.](https://github.com/OffchainLabs/prysm/pull/17810#pullrequestreview-5740090154) - 2026-11-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: rm Kasey](https://github.com/protocolguild/documentation/pull/554#pullrequestreview-5461266019) - 2026-10-08
 ## Q3 2026

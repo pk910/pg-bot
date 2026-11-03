@@ -216,6 +216,18 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(sync): reject snap range proofs that leave a boundary extension unexpanded (#15431)](https://github.com/NethermindEth/nethermind/commit/51583bcae0ffbd0222d846d51678cfe82d1965be) - 2026-10-30
 * [Commit] [perf(producers): benchmark a long single-sender queue through the tx source and picker (#15403)](https://github.com/NethermindEth/nethermind/commit/1ec64b1a840e02507599e6d2c7de6e116e1e47ff) - 2026-10-30
 * [Commit] [fix(producers): count a pool tx that has not run at its base cost in the sender chain (#15391)](https://github.com/NethermindEth/nethermind/commit/60ad16d1abb35e501ee1944fa36fe69cb352410a) - 2026-10-30
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5744404615) - 2026-11-02
+* [Review] [Review on: fix(sync): cap the GetNodeData response size](https://github.com/NethermindEth/nethermind/pull/15467#pullrequestreview-5742060737) - 2026-11-02
+* [Review] [Review on: refactor(network)!: serialize eth request and response messages into spans instead of DotNetty buffers](https://github.com/NethermindEth/nethermind/pull/15470#pullrequestreview-5744236766) - 2026-11-02
+* [Pull Request] [fix(rpc): render JavaScript tracer results without recursion](https://github.com/NethermindEth/nethermind/pull/15482) - 2026-11-02
+* [Review] [Review on: fix(txpool): let another copy replace a blob tx rejected for its sidecar](https://github.com/NethermindEth/nethermind/pull/15466#pullrequestreview-5742036979) - 2026-11-02
+* [Review] [Review on: perf(evm): trace only inspected opcodes in the frame validation prefix](https://github.com/NethermindEth/nethermind/pull/15448#pullrequestreview-5734168335) - 2026-11-02
+* [Review] [Review on: refactor(json-rpc): decouple deferred errors and test batch item rollback](https://github.com/NethermindEth/nethermind/pull/15335#pullrequestreview-5743218804) - 2026-11-02
+* [Review] [Review on: perf(zkevm): re-encode only the branch slots that writes reached on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15457#pullrequestreview-5734662929) - 2026-11-02
+* [Review] [Review on: perf(zkevm): keep the witness state nodes in the input on the SP1 guest](https://github.com/NethermindEth/nethermind/pull/15450#pullrequestreview-5735267422) - 2026-11-02
+* [Commit] [perf(producers): format the block-production picker's gas and nonce skip reasons only when read (#15444)](https://github.com/NethermindEth/nethermind/commit/3e7effa9c7fcd58771cc9b19972042d918985b1f) - 2026-11-02
+* [Commit] [test(state-tests): check the fixture's logs hash next to the post-state root (#15443)](https://github.com/NethermindEth/nethermind/commit/c6d0763370b54526f3d9a752f2267367de44942f) - 2026-11-02
+* [Commit] [test(merge): wait for commits in the V7 empty-block helper and bound WaitForCommitted by the test timeout (#15441)](https://github.com/NethermindEth/nethermind/commit/2e7b78b737ee7fb29f849d4c58dc29db450429b6) - 2026-11-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

@@ -146,6 +146,10 @@ Team: Reth
 * [Review] [Review on: chore: backport CI fixes from main to tempo/v1.16.0](https://github.com/paradigmxyz/reth/pull/28179#pullrequestreview-5679958151) - 2026-10-28
 * [Commit] [chore(deps): bump evm2 (#28169)](https://github.com/paradigmxyz/reth/commit/966010c905449163ef161530a5ee95ac1e0c8487) - 2026-10-28
 * [Review] [Review on: feat(evm)!: pass state changes to the commit-condition callback](https://github.com/paradigmxyz/reth/pull/28207#pullrequestreview-5700396116) - 2026-10-29
+* [Pull Request] [refactor(evm): run Ethereum blocks on evm2::block](https://github.com/paradigmxyz/reth/pull/28238) - 2026-11-02
+* [Pull Request] [fix(prune): run bodies pruning before tx lookup](https://github.com/paradigmxyz/reth/pull/28240) - 2026-11-02
+* [Pull Request] [fix(download): reject link entries in snapshot archives](https://github.com/paradigmxyz/reth/pull/28239) - 2026-11-02
+* [Review] [Review on: fix(examples): keep custom precompile after Prague](https://github.com/paradigmxyz/reth/pull/28237#pullrequestreview-5735931812) - 2026-11-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(bytecode): avoid refcounting empty bytecode](https://github.com/bluealloy/revm/pull/3963#pullrequestreview-5444951270) - 2026-10-07
 

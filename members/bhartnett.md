@@ -68,6 +68,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Add debug cli option to toggle storage static vid lookups (#5106)](https://github.com/status-im/nimbus-eth1/commit/0ba2bc1fc5bd12f37cefed763f0d54ae1c579608) - 2026-10-28
 * [Pull Request] [Cached acc leaf layout](https://github.com/status-im/nimbus-eth1/pull/5117) - 2026-10-29
 * [Commit] [Cached acc leaf layout (#5117)](https://github.com/status-im/nimbus-eth1/commit/ce27bc5afc9b6a4058d0c3d3ab39303dbc7d8a09) - 2026-10-29
+* [Pull Request] [Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124) - 2026-11-02
+* [Commit] [Time out rlpx transport sendMsg (#5124)](https://github.com/status-im/nimbus-eth1/commit/a66ea6134f1aca5b31a223415a164e49a517e782) - 2026-11-02
 ## Q3 2026
 
 

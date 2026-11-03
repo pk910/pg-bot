@@ -95,6 +95,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 * [Pull Request] [Report the head's inclusion list verdict in `engine_forkchoiceUpdatedV5`](https://github.com/besu-eth/besu/pull/11532) - 2026-10-08
 * [Pull Request] [Check blob inclusion list entries for appendability (FOCIL)](https://github.com/besu-eth/besu/pull/11553) - 2026-10-10
+* [Pull Request] [Align evmtool block-test and engine-test with the client runner spec](https://github.com/besu-eth/besu/pull/11842) - 2026-11-02
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/stagedsync: run a single exec worker when one is configured](https://github.com/erigontech/erigon/pull/24594) - 2026-10-05
 * [Commit] [execution/stagedsync: run a single exec worker when one is configured (#24594)](https://github.com/erigontech/erigon/commit/83e0334e1dad7ea949e1c3c87c6ff0d565df1bb1) - 2026-10-07
@@ -102,6 +103,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(deps): restore Nethermind.MclBindings 2.0.0](https://github.com/NethermindEth/nethermind/pull/14640) - 2026-10-14
 
+* [Pull Request] [feat(nethtest): align nethtest with the client test runner interface](https://github.com/NethermindEth/nethermind/pull/15463) - 2026-11-02
+* [Review] [Review on: feat(nethtest): align nethtest with the client test runner interface](https://github.com/NethermindEth/nethermind/pull/15463#pullrequestreview-5740149302) - 2026-11-02
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(ef-tests): add the Osaka, BPO and Amsterdam transition networks](https://github.com/paradigmxyz/reth/pull/28226) - 2026-11-01
 ## Q3 2026

@@ -54,6 +54,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Add an `Env` retention span to `das.CurrentNeeds` (#17675)](https://github.com/OffchainLabs/prysm/commit/ab15ff70c72a568c870b2de662474685a95de294) - 2026-10-28
 * [Review] [Review on: Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394#pullrequestreview-5711919204) - 2026-10-30
 * [Commit] [Backfill Gloas execution payload envelopes alongside blocks (#17394)](https://github.com/OffchainLabs/prysm/commit/90704af22f60312f7263f7828864d0e1868ae93b) - 2026-10-30
+* [Review] [Review on: `--disable-ephemeral-log-file`: Fix help message](https://github.com/OffchainLabs/prysm/pull/17807#pullrequestreview-5739766766) - 2026-11-02
+* [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5735460873) - 2026-11-02
 ## Q3 2026
 
 

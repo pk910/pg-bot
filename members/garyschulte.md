@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: bump plugins baseline for 26.10.0](https://github.com/besu-eth/besu/pull/11693#pullrequestreview-5631661733) - 2026-10-23
 * [Review] [Review on: discovery: bound the DiscV5 dispatch path](https://github.com/besu-eth/besu/pull/11672#pullrequestreview-5657739816) - 2026-10-26
 * [Review] [Review on: Remove redundant arity = "1" from non-boolean CLI options](https://github.com/besu-eth/besu/pull/11798#pullrequestreview-5691471741) - 2026-10-29
+* [Commit] [deter-7702+ delegation attack mitigation (#146)](https://github.com/besu-eth/besu/commit/bda7433c4f42e0e1cec5b74518f534d176f39c94) - 2026-11-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558#pullrequestreview-5432630857) - 2026-10-06
 

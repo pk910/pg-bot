@@ -118,6 +118,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Bound RocksDB range seeks and skip pruned data column slots (#11585)](https://github.com/Consensys-Incorporated/teku/commit/65f2772aa29a7e8037f5c1f7f4136c53e63d73cc) - 2026-10-28
 * [Pull Request] [Read the validator registry from packed bytes in epoch processing](https://github.com/Consensys-Incorporated/teku/pull/11597) - 2026-10-29
 * [Review] [Review on: Make sidecar archival safe during custody backfill](https://github.com/Consensys-Incorporated/teku/pull/11595#pullrequestreview-5698769948) - 2026-10-29
+* [Commit] [Buffer pending RPC bytes in a single growable buffer (#11589)](https://github.com/Consensys-Incorporated/teku/commit/b23a950993decdaa296949dee48afe179b2d7cc6) - 2026-11-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Settle builder payment before parent requests](https://github.com/ethereum/consensus-specs/pull/5695#pullrequestreview-5394087729) - 2026-10-02
 

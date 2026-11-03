@@ -55,6 +55,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Valid blocks rejected as NotFinalizedDescendant after an unclean shutdown](https://github.com/sigp/lighthouse/issues/10456) - 2026-10-27
 * [Issue] [EIP-7805: FOCIL - tracking issue](https://github.com/sigp/lighthouse/issues/10485) - 2026-10-28
 * [Issue] [Heze (Hegotá) tracking issue](https://github.com/sigp/lighthouse/issues/10484) - 2026-10-28
+* [Pull Request] [Export timer-driven fork choice traces](https://github.com/sigp/lighthouse/pull/10512) - 2026-11-02
+* [Issue] [Reduce per-feature plumbing](https://github.com/sigp/lighthouse/issues/10513) - 2026-11-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 

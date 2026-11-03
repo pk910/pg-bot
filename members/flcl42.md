@@ -52,6 +52,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(network)!: use blob-major cell order in eth/72 Cells](https://github.com/NethermindEth/nethermind/pull/15439#pullrequestreview-5712617906) - 2026-10-30
 * [Review] [Review on: fix(network): reject truncated ENR values as malformed records](https://github.com/NethermindEth/nethermind/pull/15438#pullrequestreview-5710826623) - 2026-10-30
 * [Review] [Review on: Add Light Client](https://github.com/NethermindEth/nethermind/pull/14457#pullrequestreview-5729954173) - 2026-11-01
+* [Review] [Review on: perf(consensus)!: pass the next block's base fee to the tx filters with the call](https://github.com/NethermindEth/nethermind/pull/15442#pullrequestreview-5739838636) - 2026-11-02
+* [Review] [Review on: ci(docs): author docs commits as the GitHub app](https://github.com/NethermindEth/nethermind/pull/15473#pullrequestreview-5743621936) - 2026-11-02
+* [Commit] [fix(network)!: use blob-major cell order in eth/72 Cells (#15439)](https://github.com/NethermindEth/nethermind/commit/45a695b01abf3a280a0d06621a7fe51a0bb2f6de) - 2026-11-02
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

@@ -33,6 +33,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153](https://github.com/NethermindEth/nethermind/pull/15408) - 2026-10-30
 * [Commit] [zkvm: Build the guests with the new bflat and the signed runtime packages (#15295)](https://github.com/NethermindEth/nethermind/commit/347f5df2deeb4eaf4edd147e3d1d672d76d3c036) - 2026-10-29
 * [Commit] [build(zkevm): bump ZiskOS.Runtime to 1.4.0-alpha.153 (#15408)](https://github.com/NethermindEth/nethermind/commit/9c885a92a7d5318e05872261514f11f6f78ba66a) - 2026-10-30
+* [Pull Request] [build(zkevm): build the Airbender guest in the published bflat riscv32 image](https://github.com/NethermindEth/nethermind/pull/15469) - 2026-11-02
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 

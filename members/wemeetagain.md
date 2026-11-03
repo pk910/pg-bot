@@ -122,6 +122,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove Gemini configuration and style guide](https://github.com/ChainSafe/lodestar/commit/9ec3537a1aa1c893a4f605059d30dd1695f23fd8) - 2026-10-30
 * [Commit] [docs: consolidate Zig contribution guidelines](https://github.com/ChainSafe/lodestar/commit/97b7fed0741ded75d9ba83a28b2d5db680f7d620) - 2026-10-30
 * [Review] [Review on: chore(ci): key the Zig cache by host glibc and kernel](https://github.com/ChainSafe/lodestar/pull/10528#pullrequestreview-5721970323) - 2026-10-31
+* [Review] [Review on: chore(ci): build release binary bindings for an explicit glibc target](https://github.com/ChainSafe/lodestar/pull/10529#pullrequestreview-5736223743) - 2026-11-02
+* [Review] [Review on: chore: resolve pnpm catalog dependencies when publishing](https://github.com/ChainSafe/lodestar/pull/10530#pullrequestreview-5735960423) - 2026-11-02
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Commit] [fix: stage composite child roots (#747)](https://github.com/ChainSafe/lodestar-z/commit/b70e8f5662a08a0d177b2f7c96e2c16e5b1b6cce) - 2026-10-01
 * [Commit] [chore(deps): bump hashtree revision (#743)](https://github.com/ChainSafe/lodestar-z/commit/fa5056811dab729ccdf10f54898bab68a7af9bd5) - 2026-10-01
