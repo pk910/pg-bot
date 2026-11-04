@@ -56,6 +56,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Backfill Gloas execution payload envelopes alongside blocks (#17394)](https://github.com/OffchainLabs/prysm/commit/90704af22f60312f7263f7828864d0e1868ae93b) - 2026-10-30
 * [Review] [Review on: `--disable-ephemeral-log-file`: Fix help message](https://github.com/OffchainLabs/prysm/pull/17807#pullrequestreview-5739766766) - 2026-11-02
 * [Review] [Review on: Validator Exit: Detect the network from the beacon node for the beaconcha.in links.](https://github.com/OffchainLabs/prysm/pull/17759#pullrequestreview-5735460873) - 2026-11-02
+* [Pull Request] [[EIP-8383] Reduce CL block retention window](https://github.com/OffchainLabs/prysm/pull/17814) - 2026-11-03
+* [Review] [Review on: Fix `sync: negative WaitGroup counter` panic in `TestStatusRPCRequest_BadPeerHandshake` when the status stream handler is invoked more than once.](https://github.com/OffchainLabs/prysm/pull/17813#pullrequestreview-5751079323) - 2026-11-03
 ## Q3 2026
 
 

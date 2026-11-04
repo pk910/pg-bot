@@ -47,6 +47,7 @@ Team: Grandine
 * [Commit] [Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/commit/ffeed873c72570b1fcddf13222cfb3c45a25021b) - 2026-10-29
 * [Review] [Review on: Implement aggregate-level greedy attestation packing for Gloas](https://github.com/grandinetech/grandine/pull/1003#pullrequestreview-5713030455) - 2026-10-30
 * [Review] [Review on: Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/pull/1022#pullrequestreview-5714191839) - 2026-10-30
+* [Review] [Review on: Query parent payload envelope from cache and storage in block production](https://github.com/grandinetech/grandine/pull/1023#pullrequestreview-5752039939) - 2026-11-03
 ## Q3 2026
 
 

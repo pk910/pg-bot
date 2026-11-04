@@ -84,6 +84,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5713597272) - 2026-10-30
 * [Review] [Review on: fix: compute exact committee weight in fast confirmation](https://github.com/ChainSafe/lodestar/pull/10525#pullrequestreview-5722602598) - 2026-10-31
 * [Review] [Review on: fix(api): keep timeout signals local to retry attempts](https://github.com/ChainSafe/lodestar/pull/10526#pullrequestreview-5722526370) - 2026-10-31
+* [Pull Request] [fix: discount pending parent support in fast confirmation empty slots](https://github.com/ChainSafe/lodestar/pull/10539) - 2026-11-03
+* [Review] [Review on: fix: use runtime genesis metadata for ephemery](https://github.com/ChainSafe/lodestar/pull/10278#pullrequestreview-5751707499) - 2026-11-03
+* [Review] [Review on: fix: correct availability timing metrics](https://github.com/ChainSafe/lodestar/pull/10470#pullrequestreview-5751691517) - 2026-11-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: perf: stream progressive tree reads](https://github.com/ChainSafe/lodestar-z/pull/745#pullrequestreview-5393219120) - 2026-10-02
 * [Review] [Review on: perf: stream progressive hashing](https://github.com/ChainSafe/lodestar-z/pull/744#pullrequestreview-5393108737) - 2026-10-02
@@ -115,6 +118,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Run fast confirmation each slot in recently activated validator test](https://github.com/ethereum/consensus-specs/pull/5783) - 2026-10-29
 * [Commit] [Run fast confirmation each slot in recently activated validator test (#5783)](https://github.com/ethereum/consensus-specs/commit/8e7f4dc7128ac850299599a548dcd06a1ca0a8cd) - 2026-10-29
 * [Review] [Review on: Assert support_discount <= maximum_support in FCR](https://github.com/ethereum/consensus-specs/pull/5788#pullrequestreview-5709765684) - 2026-10-30
+* [Review] [Review on: Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789#pullrequestreview-5751955155) - 2026-11-03
 ## Q3 2026
 
 

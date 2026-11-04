@@ -42,6 +42,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: SNAP2: Add the chain of a sync attempt](https://github.com/besu-eth/besu/pull/11783#pullrequestreview-5677646266) - 2026-10-28
 * [Review] [Review on: SNAP2: Set the chain head of a sync](https://github.com/besu-eth/besu/pull/11782#pullrequestreview-5677294776) - 2026-10-28
 * [Review] [Review on: Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673#pullrequestreview-5678552728) - 2026-10-28
+* [Review] [Review on: bump plugins baseline for 26.11.0](https://github.com/besu-eth/besu/pull/11851#pullrequestreview-5751788132) - 2026-11-03
 ## Q3 2026
 
 

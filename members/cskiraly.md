@@ -46,11 +46,14 @@ Team: Codex DAS
 * [Commit] [internal/build: ask git for the commit, with fallback to reading .git (#35965)](https://github.com/ethereum/go-ethereum/commit/a0cba163b1f17f6044df84502ff13036dffb5de1) - 2026-10-29
 * [Commit] [p2p/discover: compare the traffic meters after closing the nodes (#36043)](https://github.com/ethereum/go-ethereum/commit/2321bba45b7ff7d3f453b96700074148306a8bb8) - 2026-10-30
 * [Review] [Review on: core: compute the state root alongside the block's other digests](https://github.com/ethereum/go-ethereum/pull/36040#pullrequestreview-5724361651) - 2026-10-31
+* [Pull Request] [triedb/pathdb: revert storage tries concurrently](https://github.com/ethereum/go-ethereum/pull/36067) - 2026-11-04
+* [Pull Request] [triedb/pathdb: merge state histories in deep rollbacks](https://github.com/ethereum/go-ethereum/pull/36068) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139#pullrequestreview-5457690315) - 2026-10-08
 * [Pull Request] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/pull/12459) - 2026-10-08
 * [Commit] [Update EIP-8077: typo fixes](https://github.com/ethereum/EIPs/commit/d298b6d416a233e9369a7c705a5abf0a246d6124) - 2026-10-08
 * [Pull Request] [Add EIP: Engine API proposal lookahead](https://github.com/ethereum/EIPs/pull/12547) - 2026-10-19
+* [Commit] [Add EIP: Engine API Proposal Lookahead](https://github.com/ethereum/EIPs/commit/46976b2a9bf99f727fb87dc8c809e3a3cdc6b445) - 2026-11-03
 ## Q3 2026
 
 

@@ -95,6 +95,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/state: remove an earlier run's cell when a net-zero storage write is flushed (#25450)](https://github.com/erigontech/erigon/commit/f2b4dfd6f3de6fa6c255af211d3c7908bbd01bd3) - 2026-10-28
 * [Commit] [execution/state: do not keep an absence recorded at a destruct that kept the balance (#25410)](https://github.com/erigontech/erigon/commit/27f65f93cf5f88ca710f2ef6973ee60724d73b82) - 2026-10-28
 * [Commit] [execution/state: keep the access list's value of a slot that a re-run writes net-zero (#25466)](https://github.com/erigontech/erigon/commit/253e8e5d4ccb965d4e1f0044cd9f0f2ce2001a3a) - 2026-10-29
+* [Pull Request] [.github: build release binaries with GCC 14.2](https://github.com/erigontech/erigon/pull/25742) - 2026-11-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -210,6 +211,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Fix the modexp AMM comment and explain the bound (#1797)](https://github.com/ipsilon/evmone/commit/1775e4d5f3fed19a94b37343b5a9bf2ef21b6b7e) - 2026-11-01
 * [Pull Request] [crypto: Use unsigned __int128 in multiply-accumulate with GCC](https://github.com/ipsilon/evmone/pull/1803) - 2026-11-02
 * [Commit] [AGENTS: Extend review, writing, commit and build guidelines (#1802)](https://github.com/ipsilon/evmone/commit/e0ce62b0f7bdbeffb61ca3d58c13de17257a2fe6) - 2026-11-02
+* [Pull Request] [crypto: Multiply by 9 with a single reduction in the ksi product](https://github.com/ipsilon/evmone/pull/1804) - 2026-11-03
+* [Commit] [crypto: Specialize the Fq2 multiplication by ksi (#1648)](https://github.com/ipsilon/evmone/commit/d018ceebb24da8571e29b85ec51899085c2245f7) - 2026-11-03
+* [Commit] [crypto: Use INTX_REQUIRE for modexp preconditions (#1794)](https://github.com/ipsilon/evmone/commit/291889f49e7e99e27472d88e330b42fc38358a48) - 2026-11-03
+* [Commit] [ci: Run CodSpeed with GCC 15 on Ubuntu 26.04 (#1798)](https://github.com/ipsilon/evmone/commit/7ca3b5a014c748e10640d26c104206865838da7c) - 2026-11-03
+* [Commit] [crypto: Use unsigned __int128 in multiply-accumulate with GCC (#1803)](https://github.com/ipsilon/evmone/commit/07f5d5a2f9362f411398f73153ce920c10af9108) - 2026-11-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(test-benchmark): add stacked storage commit benchmark](https://github.com/ethereum/execution-specs/pull/3811) - 2026-10-13
 

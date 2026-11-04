@@ -78,6 +78,8 @@ Team: Grandine
 * [Review] [Review on: Fix empty and wrong panels in Grafana dashboards](https://github.com/grandinetech/grandine/pull/1021#pullrequestreview-5699515377) - 2026-10-29
 * [Pull Request] [Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/pull/1022) - 2026-10-30
 * [Commit] [Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/commit/48ec7eb99184c37ef29ade716255b1baac7693aa) - 2026-10-30
+* [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5755014418) - 2026-11-03
+* [Commit] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/commit/0ea729e6ab1bcc2cf128279cef3544326d0729eb) - 2026-11-03
 ## Q3 2026
 
 

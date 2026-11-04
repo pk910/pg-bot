@@ -102,6 +102,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [perf(cannon): run reward deriver backfill batches with parallel workers (#938)](https://github.com/ethpandaops/xatu/commit/7a8a1fafa22154a0dd3073c3e80d972934cb6196) - 2026-11-02
 * [Commit] [refactor: use ethcore's client detection (#939)](https://github.com/ethpandaops/xatu/commit/e33c18c713910691d251495060afa919d1b09d00) - 2026-11-02
 * [Pull Request] [ci: fix cryo and Go build cache misses in PR workflows](https://github.com/ethpandaops/xatu/pull/941) - 2026-11-03
+* [Pull Request] [ci: drop the gha layer cache from the smoke tests](https://github.com/ethpandaops/xatu/pull/943) - 2026-11-03
+* [Pull Request] [[do not merge] CI cache timing probe](https://github.com/ethpandaops/xatu/pull/942) - 2026-11-03
+* [Commit] [ci: drop the gha layer cache from the smoke tests (#943)](https://github.com/ethpandaops/xatu/commit/094c0a43e55ff875831e6a675c9506877bbb051b) - 2026-11-03
+* [Commit] [ci: fix cryo and Go build cache misses in PR workflows (#941)](https://github.com/ethpandaops/xatu/commit/775400cdde3943bd76aa9c770a5a7409226d5460) - 2026-11-03
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Move ingress credentials into ingress.sops.yaml](https://github.com/ethpandaops/template-devnets/pull/195) - 2026-10-08
 * [Commit] [Move ingress credentials into ingress.sops.yaml (#195)](https://github.com/ethpandaops/template-devnets/commit/02ffbb1f5f92ed53943fef7c6aac7ec6568a7bca) - 2026-10-08
@@ -220,6 +224,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(clients): labelled diversity bars, entity version charts, clearer client links (#476)](https://github.com/ethpandaops/lab/commit/6ee8aa642e8926a8e1a6cbc77ebf027065a86437) - 2026-11-02
 * [Commit] [fix(clients): label every value, Xatu nodes, full history, client-based outdated check (#474)](https://github.com/ethpandaops/lab/commit/478da5fb861f631fc9c2b257314d53f7b89e7180) - 2026-11-02
 * [Commit] [feat: link clients, versions, entities, validators, nodes and forks across pages (#473)](https://github.com/ethpandaops/lab/commit/096db67003ed368d574f2647fb8ee6d1ba9f36a5) - 2026-11-02
+* [Pull Request] [ci: split Test into unit and sharded Storybook jobs](https://github.com/ethpandaops/lab/pull/494) - 2026-11-03
+* [Pull Request] [docs(llms): point agents at the table index and xatu-data](https://github.com/ethpandaops/lab/pull/493) - 2026-11-03
+* [Pull Request] [feat: add llms.txt describing the Lab API for agents](https://github.com/ethpandaops/lab/pull/492) - 2026-11-03
+* [Commit] [ci: split Test into unit and sharded Storybook jobs (#494)](https://github.com/ethpandaops/lab/commit/827174148af6a34c8b4feee330426b5ca4439608) - 2026-11-03
+* [Commit] [docs(llms): point agents at the table index and xatu-data (#493)](https://github.com/ethpandaops/lab/commit/7bcc1fb30a7e615ac3e64634ec62372d74cc3d4d) - 2026-11-03
+* [Commit] [feat: add llms.txt describing the Lab API for agents (#492)](https://github.com/ethpandaops/lab/commit/a4a832900b0d7708de99100cf1dd6c32234a0dfa) - 2026-11-03
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

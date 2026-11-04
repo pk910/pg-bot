@@ -170,6 +170,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5721366715) - 2026-10-31
 * [Review] [Review on: Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603#pullrequestreview-5731583671) - 2026-11-02
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5745279962) - 2026-11-03
+* [Review] [Review on: Skip aggregates whose signature is the point at infinity](https://github.com/Consensys-Incorporated/teku/pull/11610#pullrequestreview-5750065575) - 2026-11-03
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026
