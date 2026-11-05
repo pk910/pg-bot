@@ -118,6 +118,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(tooling,test-client-clis): stop fill-pypy running out of memory and map geth's frame RLP rejections](https://github.com/ethereum/execution-specs/pull/3941) - 2026-10-29
 * [Pull Request] [fix(test-client-clis): map ethrex and Nethermind max fee rejections](https://github.com/ethereum/execution-specs/pull/3940) - 2026-10-29
 * [Review] [Review on: feat(test-consume): fail a wirex test once a fully served client stalls](https://github.com/ethereum/execution-specs/pull/3938#pullrequestreview-5697079447) - 2026-10-29
+* [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5770313337) - 2026-11-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06

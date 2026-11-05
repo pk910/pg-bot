@@ -37,6 +37,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rpc): treat an empty transactionHashes list as no filter in transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/15333#pullrequestreview-5684603234) - 2026-10-28
 * [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5695660936) - 2026-10-29
 * [Review] [Review on: test(bal): raise genesis gas limit so the parallel execution test fits on many-core machines](https://github.com/NethermindEth/nethermind/pull/15376#pullrequestreview-5697478114) - 2026-10-29
+* [Pull Request] [fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595) - 2026-11-04
+* [Review] [Review on: fix(tracing): report SELFDESTRUCT's Geth cost on out-of-gas and JavaScript steps](https://github.com/NethermindEth/nethermind/pull/15595#pullrequestreview-5768525668) - 2026-11-04
 ## Q3 2026
 
 

@@ -18,6 +18,7 @@ Team: Erigon
 * [Commit] [execution: Block-STM parallel execution + write-side finalization (2/2, split of #23967) (#24133)](https://github.com/erigontech/erigon/commit/69816a3bf9bc4ce36617ad49280908206e469359) - 2026-10-25
 * [Pull Request] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState](https://github.com/erigontech/erigon/pull/25491) - 2026-10-28
 * [Review] [Review on: execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage](https://github.com/erigontech/erigon/pull/25330#pullrequestreview-5702518781) - 2026-10-29
+* [Commit] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState (#25491)](https://github.com/erigontech/erigon/commit/6ac9c93bbeb499238be7a74b589a2f86fd8f7440) - 2026-11-05
 ## Q3 2026
 
 

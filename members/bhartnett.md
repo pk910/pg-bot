@@ -70,6 +70,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Cached acc leaf layout (#5117)](https://github.com/status-im/nimbus-eth1/commit/ce27bc5afc9b6a4058d0c3d3ab39303dbc7d8a09) - 2026-10-29
 * [Pull Request] [Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124) - 2026-11-02
 * [Commit] [Time out rlpx transport sendMsg (#5124)](https://github.com/status-im/nimbus-eth1/commit/a66ea6134f1aca5b31a223415a164e49a517e782) - 2026-11-02
+* [Pull Request] [Update nim-eth to latest and remove deprecated imports](https://github.com/status-im/nimbus-eth1/pull/5133) - 2026-11-04
+* [Commit] [Update nim-eth to latest and remove deprecated imports (#5133)](https://github.com/status-im/nimbus-eth1/commit/249e34c81fac7ef68488780f5396933ed992fc22) - 2026-11-05
 ## Q3 2026
 
 
