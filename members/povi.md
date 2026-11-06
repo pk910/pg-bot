@@ -80,6 +80,8 @@ Team: Grandine
 * [Commit] [Reject attestations that conflict with any stored attestation, not just the first match](https://github.com/grandinetech/grandine/commit/48ec7eb99184c37ef29ade716255b1baac7693aa) - 2026-10-30
 * [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5755014418) - 2026-11-03
 * [Commit] [Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/commit/0ea729e6ab1bcc2cf128279cef3544326d0729eb) - 2026-11-03
+* [Pull Request] [Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/pull/1025) - 2026-11-05
+* [Commit] [Make sync forget data column sidecars ignored as too far in the future so they can be fetched again](https://github.com/grandinetech/grandine/commit/0025d0f580e3c5daa3c7a885461c46f5b8d5a93a) - 2026-11-05
 ## Q3 2026
 
 

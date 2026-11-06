@@ -30,6 +30,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/pull/12599) - 2026-10-30
 * [Review] [Review on: Update EIP-8450: BLS-authorized key changes, builders, crypto interface](https://github.com/ethereum/EIPs/pull/12592#pullrequestreview-5712564925) - 2026-10-30
 * [Commit] [Update EIP-8450: BLS-authorized key changes, builders, crypto interface](https://github.com/ethereum/EIPs/commit/c1ff0a992ef65c0321b098a890b6d1c44b3fdb93) - 2026-10-30
+* [Commit] [Update EIP-8450: Address post-merge review](https://github.com/ethereum/EIPs/commit/e51d38a636dddbc9d823dd3ba66357fb61e85db6) - 2026-11-05
 ## Q3 2026
 
 

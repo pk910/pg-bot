@@ -29,6 +29,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Don't query mev-boost status after Gloas upgrade](https://github.com/Consensys-Incorporated/teku/pull/11583) - 2026-10-27
 * [Commit] [Don't query mev-boost status after Gloas upgrade (#11583)](https://github.com/Consensys-Incorporated/teku/commit/23ce83cc645509b8f1fde376dacbaf609871399b) - 2026-10-27
 * [Pull Request] [Fine-tune builder bid rankings](https://github.com/Consensys-Incorporated/teku/pull/11603) - 2026-10-30
+* [Review] [Review on: Reject builder bids exceeding the slot’s blob limit](https://github.com/Consensys-Incorporated/teku/pull/11614#pullrequestreview-5781870555) - 2026-11-05
+* [Pull Request] [Ban builder URLs temporarily when circuit breaker is triggered](https://github.com/Consensys-Incorporated/teku/pull/11616) - 2026-11-05
 ## Q3 2026
 
 

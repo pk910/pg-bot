@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [persist aristo frames into KVT](https://github.com/status-im/nimbus-eth1/pull/5104) - 2026-10-27
 * [Pull Request] [remember rejected txs and later skip announcements](https://github.com/status-im/nimbus-eth1/pull/5116) - 2026-10-29
 * [Review] [Review on: Time out rlpx transport sendMsg](https://github.com/status-im/nimbus-eth1/pull/5124#pullrequestreview-5734133441) - 2026-11-02
+* [Commit] [persist aristo frames into KVT (#5104)](https://github.com/status-im/nimbus-eth1/commit/1c7dad7d787669be31afd093bfbb073bb162f422) - 2026-11-05
 ## Q3 2026
 
 

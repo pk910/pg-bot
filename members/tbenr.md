@@ -145,6 +145,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Close a QUIC stream once both sides have finished writing](https://github.com/libp2p/jvm-libp2p/pull/548) - 2026-10-23
 * [Issue] [Track upstream netty/quiche fixes for QUIC streams after STOP_SENDING](https://github.com/libp2p/jvm-libp2p/issues/549) - 2026-10-27
 * [Pull Request] [Log remote-triggered QUIC failures at debug instead of error](https://github.com/libp2p/jvm-libp2p/pull/550) - 2026-10-29
+
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Pull Request] [Read longs and ints in ArrayWrappingBytes through VarHandles](https://github.com/Consensys-Incorporated/tuweni/pull/78) - 2026-11-05
 ## Q3 2026
 
 
