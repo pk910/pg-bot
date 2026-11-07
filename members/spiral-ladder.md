@@ -73,6 +73,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554) - 2026-11-05
 * [Review] [Review on: refactor(stf): reprioritize signature verification and stf](https://github.com/ChainSafe/lodestar/pull/10554#pullrequestreview-5780445113) - 2026-11-05
 * [Review] [Review on: perf: reuse epoch transition buffers](https://github.com/ChainSafe/lodestar/pull/10523#pullrequestreview-5779865727) - 2026-11-05
+* [Review] [Review on: feat: pre-verify deposit signatures in zig](https://github.com/ChainSafe/lodestar/pull/10556#pullrequestreview-5797718030) - 2026-11-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: chore: release 2.0.0](https://github.com/ChainSafe/lodestar-z/pull/692#pullrequestreview-5382084532) - 2026-10-01
 * [Review] [Review on: fix: stage composite child roots](https://github.com/ChainSafe/lodestar-z/pull/747#pullrequestreview-5382070388) - 2026-10-01

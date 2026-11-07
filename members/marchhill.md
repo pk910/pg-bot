@@ -299,6 +299,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Update EIP-8288: Validate recursive inputs and mempool wrappers](https://github.com/ethereum/EIPs/pull/12590#pullrequestreview-5704514264) - 2026-10-29
 * [Pull Request] [Update EIP-8288: reuse proofs before recursive aggregation](https://github.com/ethereum/EIPs/pull/12595) - 2026-10-29
 * [Pull Request] [Update EIP-8288: aggregate only executable transactions](https://github.com/ethereum/EIPs/pull/12628) - 2026-11-05
+* [Pull Request] [Update EIP-8288: place dependency frames around protocol verifier frames](https://github.com/ethereum/EIPs/pull/12632) - 2026-11-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

@@ -30,6 +30,9 @@ Team: Reth
 * [Review] [Review on: feat(tracing): export OTLP spans to local files](https://github.com/paradigmxyz/reth/pull/28215#pullrequestreview-5715893569) - 2026-10-30
 * [Pull Request] [chore: rename dst feature to fuzz](https://github.com/paradigmxyz/reth/pull/28211) - 2026-10-30
 * [Commit] [chore: rename dst feature to fuzz (#28211)](https://github.com/paradigmxyz/reth/commit/df4777824b6672f5a57c1c1f13bb8fc4ff639f0c) - 2026-10-30
+* [Review] [Review on: ci: build macOS release binaries on macos-15](https://github.com/paradigmxyz/reth/pull/28321#pullrequestreview-5805196691) - 2026-11-06
+* [Review] [Review on: chore: bump version to 2.10.1](https://github.com/paradigmxyz/reth/pull/28319#pullrequestreview-5805065219) - 2026-11-06
+* [Review] [Review on: chore(deps): bump evm2 to baf0d38](https://github.com/paradigmxyz/reth/pull/28318#pullrequestreview-5804764822) - 2026-11-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [docs: remove Alexey Shekhirin](https://github.com/protocolguild/documentation/pull/562) - 2026-10-06
 * [Review] [Review on: docs: remove Matthias Seitz](https://github.com/protocolguild/documentation/pull/561#pullrequestreview-5432547831) - 2026-10-06

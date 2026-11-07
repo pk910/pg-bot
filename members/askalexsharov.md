@@ -826,6 +826,30 @@ Team: Erigon
 * [Commit] [cl/clparams/initial_state: embed genesis states zstd-compressed (#25301)](https://github.com/erigontech/erigon/commit/2d97df6761ce1dcf55d905c5c90e5a7928bd6f30) - 2026-11-05
 * [Commit] [p2p/protocols/eth: bound GetReceipts re-execution with a deadline (#25569)](https://github.com/erigontech/erigon/commit/04b48fe0fa09859354ecf85349f99f16194c2acb) - 2026-11-05
 * [Commit] [execution/stagedsync: history-mode tasks read at the block's first executed txNum (#25759)](https://github.com/erigontech/erigon/commit/bdc3723efd97cf1f235738be7652874818c0e2e6) - 2026-11-05
+* [Review] [Review on: cl/sentinel: prevent request cost overflow and duplicate work](https://github.com/erigontech/erigon/pull/25809#pullrequestreview-5809779903) - 2026-11-07
+* [Review] [Review on: engineapi: mark oversized synced blocks as bad](https://github.com/erigontech/erigon/pull/25855#pullrequestreview-5809779084) - 2026-11-07
+* [Review] [Review on: p2p: discard committed invalid BALs without peer penalties](https://github.com/erigontech/erigon/pull/25856#pullrequestreview-5809776903) - 2026-11-07
+* [Pull Request] [execution/cache: fill the state cache on a key's second exec miss](https://github.com/erigontech/erigon/pull/25866) - 2026-11-06
+* [Review] [Review on: execution/cache: fill the state cache on a key's second exec miss](https://github.com/erigontech/erigon/pull/25866#pullrequestreview-5804495506) - 2026-11-06
+* [Pull Request] [execution/state: release the account lock on a version-map flush panic](https://github.com/erigontech/erigon/pull/25850) - 2026-11-06
+* [Pull Request] [execution/state: no EIP-161 view for created-then-destructed accounts](https://github.com/erigontech/erigon/pull/25877) - 2026-11-06
+* [Review] [Review on: execution/state: no EIP-161 view for created-then-destructed accounts](https://github.com/erigontech/erigon/pull/25877#pullrequestreview-5807494962) - 2026-11-06
+* [Pull Request] [execution/state: keep ReadResult in registers on version-map reads](https://github.com/erigontech/erigon/pull/25864) - 2026-11-06
+* [Review] [Review on: execution: fold only keys touched since the last step edge](https://github.com/erigontech/erigon/pull/25801#pullrequestreview-5799377547) - 2026-11-06
+* [Pull Request] [execution/stagedsync/stageloop: throttle catch-up block range updates](https://github.com/erigontech/erigon/pull/25853) - 2026-11-06
+* [Pull Request] [db/state: lock the TemporalMemBatch storage btree under shard 0](https://github.com/erigontech/erigon/pull/25830) - 2026-11-06
+* [Review] [Review on: execution/state: no tx dependency on a created-empty account removal](https://github.com/erigontech/erigon/pull/25821#pullrequestreview-5797667514) - 2026-11-06
+* [Review] [Review on: execution: fail a BLOCKHASH lookup that finds no ancestor header](https://github.com/erigontech/erigon/pull/25835#pullrequestreview-5797261517) - 2026-11-06
+* [Review] [Review on: execution, node/privateapi: record a failed BLOCKHASH header read as a state read error](https://github.com/erigontech/erigon/pull/25834#pullrequestreview-5797266010) - 2026-11-06
+* [Issue] [#25491 follow-ups: regressions](https://github.com/erigontech/erigon/issues/25831) - 2026-11-06
+* [Issue] [eth_call fixed per-call overhead](https://github.com/erigontech/erigon/issues/25838) - 2026-11-06
+* [Issue] [TemporalMemBatch: lock-free single-writer reads (shards from #25828 are temporary)](https://github.com/erigontech/erigon/issues/25829) - 2026-11-06
+* [Commit] [p2p/sentry: rate-limit BlockRangeUpdate; fix statusData race in PenalizePeer (#25848)](https://github.com/erigontech/erigon/commit/173dbc5854392d0970bb512f22013d765b33a976) - 2026-11-06
+* [Commit] [execution/vm: skip Transfer on a zero-value call to a code account (#25824)](https://github.com/erigontech/erigon/commit/4130722d23415e88c4eeb87e245df3cc8b5363b6) - 2026-11-06
+* [Commit] [db/state: share the inverted index's last DB txNum per snapshot (#25655)](https://github.com/erigontech/erigon/commit/c562d2b4152eaedf9b2eb8d8ba2a5399b4ed7f38) - 2026-11-06
+* [Commit] [node/cli: fail on --tls without --tls.cert or --tls.key (#25818)](https://github.com/erigontech/erigon/commit/23c995e019fc842082eac150afebf05451b8eb28) - 2026-11-06
+* [Commit] [execution/exec: gate the BAL trie prefetch (#25746)](https://github.com/erigontech/erigon/commit/8f5bae567d1b88a638054be4bdd4c548c6a74130) - 2026-11-06
+* [Commit] [execution/cache: GenericCache on the lock-free byte-bounded layer (#24792)](https://github.com/erigontech/erigon/commit/030cad5b24f063f5f12f612aec2b5f49d323119f) - 2026-11-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26
