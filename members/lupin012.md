@@ -207,6 +207,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] db/kv/rawdbv3, rpc/jsonrpc: map the first log txNum from the range's first block](https://github.com/erigontech/erigon/pull/25839) - 2026-11-06
 * [Pull Request] [[WIP] execution/types, rpc/jsonrpc: serve cached logs without a copy in eth_getLogs](https://github.com/erigontech/erigon/pull/25861) - 2026-11-06
 * [Commit] [.github/workflows: drop Nethermind from QA - RPC Integration Tests (Other Clients) (#25812)](https://github.com/erigontech/erigon/commit/ed2bc7b130856eb9dc73b852e042ccf4ad11b51d) - 2026-11-06
+* [Review] [Review on: rpc: reject a batch over the limit before allocating its messages](https://github.com/erigontech/erigon/pull/25873#pullrequestreview-5811253518) - 2026-11-07
+* [Commit] [cmd/rpcdaemon: authenticate /health on the engine port and cap its body (#25871)](https://github.com/erigontech/erigon/commit/c31a5ea55e52aa9a50717d5524db300289ad1241) - 2026-11-08
+* [Commit] [cmd/rpcdaemon: apply --rpc.batch.limit on the engine port (#25872)](https://github.com/erigontech/erigon/commit/dc5994e540f8622df15131e89bd6c2e90a2c130f) - 2026-11-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03

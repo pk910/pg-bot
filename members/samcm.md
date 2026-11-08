@@ -352,6 +352,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(custody): drop the gossip caveat now the grid counts custody probes only (#546)](https://github.com/ethpandaops/lab/commit/f15d3919625b9c268174b982e67f8e7d8fefb11f) - 2026-11-06
 * [Commit] [feat(payloads): open slowest first within a bounded window; live mode goes (#547)](https://github.com/ethpandaops/lab/commit/00c41f3c0123af6f516434586a583acec29c28c3) - 2026-11-06
 * [Commit] [fix(charts): heatmap drops series removed from its option (#545)](https://github.com/ethpandaops/lab/commit/d3382f1b1adec89d8e369d584f1df18cd9f69802) - 2026-11-06
+* [Pull Request] [fix(slots): say missed or orphaned for missed slots before 2025-05-14](https://github.com/ethpandaops/lab/pull/556) - 2026-11-07
+* [Pull Request] [fix(proposals): show orphaned proposals before 2025-05-14 as unknown; merge Missed Slot Rate into Block Proposal Status](https://github.com/ethpandaops/lab/pull/555) - 2026-11-07
+* [Pull Request] [feat(slots): read attestation vote counts from the block-root rollup; fall back on bad execution search params](https://github.com/ethpandaops/lab/pull/554) - 2026-11-07
+* [Commit] [fix(slots): say missed or orphaned for missed slots before the head table (#556)](https://github.com/ethpandaops/lab/commit/145d062daba5d4ea928ea2e1fe56eabdb7b8454c) - 2026-11-07
+* [Commit] [fix(proposals): show orphaned proposals before the head table as unknown (#555)](https://github.com/ethpandaops/lab/commit/2f42342c4eb7791e8b0aeddce8e172c60590c75f) - 2026-11-07
+* [Commit] [feat(slots): read attestation vote counts from fct_attestation_vote_by_block_root (#554)](https://github.com/ethpandaops/lab/commit/3d67953272e8338e3f20ea9b5f9fa763875ef8ad) - 2026-11-07
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix: build with Go 1.26.10 for the eMudhra CA compromise](https://github.com/ethpandaops/dora/pull/916#pullrequestreview-5596799262) - 2026-10-21
 

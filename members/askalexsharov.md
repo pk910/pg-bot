@@ -850,6 +850,42 @@ Team: Erigon
 * [Commit] [node/cli: fail on --tls without --tls.cert or --tls.key (#25818)](https://github.com/erigontech/erigon/commit/23c995e019fc842082eac150afebf05451b8eb28) - 2026-11-06
 * [Commit] [execution/exec: gate the BAL trie prefetch (#25746)](https://github.com/erigontech/erigon/commit/8f5bae567d1b88a638054be4bdd4c548c6a74130) - 2026-11-06
 * [Commit] [execution/cache: GenericCache on the lock-free byte-bounded layer (#24792)](https://github.com/erigontech/erigon/commit/030cad5b24f063f5f12f612aec2b5f49d323119f) - 2026-11-06
+* [Pull Request] [rpc, execution: remove CALL_NO_MATERIALIZE, versioned state is the only call path](https://github.com/erigontech/erigon/pull/25915) - 2026-11-08
+* [Review] [Review on: diagnostics/diskutils: remove unused disk lookup helpers](https://github.com/erigontech/erigon/pull/24481#pullrequestreview-5815762453) - 2026-11-08
+* [Review] [Review on: cmd/rlpdump: reject malformed reverse input without panicking](https://github.com/erigontech/erigon/pull/25870#pullrequestreview-5810365139) - 2026-11-07
+* [Review] [Review on: cmd/rpcdaemon: authenticate /health on the engine port and cap its body](https://github.com/erigontech/erigon/pull/25871#pullrequestreview-5809979035) - 2026-11-07
+* [Pull Request] [common/dbg, cmd/utils: BAL batch prefetch on by default](https://github.com/erigontech/erigon/pull/25886) - 2026-11-07
+* [Review] [Review on: execution/types: remove the 10 MiB BAL RLP size cap](https://github.com/erigontech/erigon/pull/25912#pullrequestreview-5815702750) - 2026-11-08
+* [Review] [Review on: [r3.8] execution/state: release the account lock when a version map flush panics](https://github.com/erigontech/erigon/pull/25910#pullrequestreview-5815700879) - 2026-11-08
+* [Review] [Review on: [r3.8] cl/phase1/network: let forward sync range requests cross fork boundaries](https://github.com/erigontech/erigon/pull/25909#pullrequestreview-5815707463) - 2026-11-08
+* [Review] [Review on: execution/state: stop BAL-seeded cells tripping the Done->Estimate assert](https://github.com/erigontech/erigon/pull/25862#pullrequestreview-5809798477) - 2026-11-07
+* [Review] [Review on: execution/vm: inline CALLDATALOAD and move it into the cold switch](https://github.com/erigontech/erigon/pull/25907#pullrequestreview-5815723968) - 2026-11-08
+* [Pull Request] [execution/protocol: tracers see tx writes at tx end on NoMaterialize](https://github.com/erigontech/erigon/pull/25913) - 2026-11-08
+* [Review] [Review on: execution/protocol: tracers see tx writes at tx end on NoMaterialize](https://github.com/erigontech/erigon/pull/25913#pullrequestreview-5815732244) - 2026-11-08
+* [Pull Request] [db/state: GetAsOf reads latest first for keys unchanged since the step](https://github.com/erigontech/erigon/pull/25911) - 2026-11-07
+* [Review] [Review on: db/state: GetAsOf reads latest first for keys unchanged since the step](https://github.com/erigontech/erigon/pull/25911#pullrequestreview-5815521084) - 2026-11-07
+* [Pull Request] [db/state: TemporalMemBatch.Merge validates before moving data](https://github.com/erigontech/erigon/pull/25900) - 2026-11-07
+* [Review] [Review on: [r3.8] cl/phase1/network/services, cl/phase1/forkchoice: accept execution payload envelopes before the EL verdict, with follow-ups (#25469, #25805, #25817)](https://github.com/erigontech/erigon/pull/25890#pullrequestreview-5815708778) - 2026-11-08
+* [Pull Request] [db/state: a cached file-lookup miss stays not found](https://github.com/erigontech/erigon/pull/25899) - 2026-11-07
+* [Pull Request] [rpc: simulateV1 overrides on NoMaterialize, drop the Prepare state](https://github.com/erigontech/erigon/pull/25888) - 2026-11-07
+* [Pull Request] [db/snapshotsync: remove unused helper, merge log covers all ranges](https://github.com/erigontech/erigon/pull/25904) - 2026-11-07
+* [Pull Request] [db/integrity: torrent verify rejects a file longer than the torrent](https://github.com/erigontech/erigon/pull/25903) - 2026-11-07
+* [Pull Request] [db/downloader: read the active download request count under its lock](https://github.com/erigontech/erigon/pull/25901) - 2026-11-07
+* [Review] [Review on: execution/state: release the account lock when a version map flush panics](https://github.com/erigontech/erigon/pull/25827#pullrequestreview-5810374559) - 2026-11-07
+* [Review] [Review on: [r3.8] execution/commitment: sync an account cell's navigation path on a propagate fold](https://github.com/erigontech/erigon/pull/25847#pullrequestreview-5810365999) - 2026-11-07
+* [Pull Request] [execution/vm: route MODEXP to evmone for a 256-bit modulus and an exponent above 255](https://github.com/erigontech/erigon/pull/25859) - 2026-11-07
+* [Review] [Review on: execution/vm: route MODEXP to evmone for a 256-bit modulus and an exponent above 255](https://github.com/erigontech/erigon/pull/25859#pullrequestreview-5811737704) - 2026-11-07
+* [Pull Request] [db/downloader: reading a peer's chain.toml keeps the locally seeded torrent](https://github.com/erigontech/erigon/pull/25902) - 2026-11-07
+* [Review] [Review on: db/etl, common/dir: write ETL spill files with RWF_DONTCACHE](https://github.com/erigontech/erigon/pull/25874#pullrequestreview-5811746326) - 2026-11-07
+* [Commit] [execution/vm: route MODEXP to evmone for a 256-bit modulus and an exponent above 255 (#25859)](https://github.com/erigontech/erigon/commit/7c1d8507c3d845e530b32367d5447589c895a4ab) - 2026-11-07
+* [Commit] [execution/state: keep ReadResult in registers on version-map reads (#25864)](https://github.com/erigontech/erigon/commit/718299cf9abc0b09ba676969d988349ce271e396) - 2026-11-07
+* [Commit] [txnprovider/txpool: verify blob KZG proofs outside the pool lock (#25570)](https://github.com/erigontech/erigon/commit/4563524eaeb286da7e9f1f4d5861e47805d824c7) - 2026-11-07
+* [Commit] [execution/stagedsync: validate every arrival again (#25798)](https://github.com/erigontech/erigon/commit/4c2e48bf50e9698ef99199b7986ab3b37a396431) - 2026-11-07
+* [Commit] [execution: fold only keys touched since the last step edge (#25801)](https://github.com/erigontech/erigon/commit/524845d9558d0261d772c90b4d5e66441161d83f) - 2026-11-07
+* [Commit] [db/snapshotsync: remove a failed merge range's built outputs (#25823)](https://github.com/erigontech/erigon/commit/c8ce4daad7e73735bab32a4e0b124d7e19592ab6) - 2026-11-07
+* [Commit] [db/state: lock the TemporalMemBatch storage btree under shard 0 (#25830)](https://github.com/erigontech/erigon/commit/870bb3a375b55c28f16fc9b630477173fd4ec603) - 2026-11-07
+* [Commit] [tools: dump goroutines when an EEST evm run hangs (#25842)](https://github.com/erigontech/erigon/commit/2c779b92d32e584ec3a4792570c041c28f6dc2c7) - 2026-11-07
+* [Commit] [execution/stagedsync/stageloop: throttle catch-up block range updates (#25853)](https://github.com/erigontech/erigon/commit/4645a8624f2bf639f305cf7210ac0f01454cc9c8) - 2026-11-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

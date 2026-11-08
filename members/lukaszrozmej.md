@@ -926,6 +926,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(sync): cap the GetNodeData response size (#15467)](https://github.com/NethermindEth/nethermind/commit/db7699a2da69c5e8d6f4b74d7995c6aa3c67bac6) - 2026-11-06
 * [Commit] [perf(zkevm): run ADDMOD and MULMOD in their stack slots with less work on the guests (#15567)](https://github.com/NethermindEth/nethermind/commit/48cede8baaf94bfb0aa38a1a1a370d7ea5e8af17) - 2026-11-06
 * [Commit] [perf(zkevm): test the SP1 guest's address mask without a byte loop (#15599)](https://github.com/NethermindEth/nethermind/commit/e31e82a7a433ddef362a91503ab759630e38fdbd) - 2026-11-06
+* [Review] [Review on: feat(flat): default new flat DBs to FlatInTrie on low-memory machines](https://github.com/NethermindEth/nethermind/pull/15699#pullrequestreview-5813495630) - 2026-11-07
+* [Review] [Review on: perf(ssz): decode span-built byte list items straight into their slot](https://github.com/NethermindEth/nethermind/pull/15668#pullrequestreview-5813344770) - 2026-11-07
+* [Pull Request] [build: run the Cilica IL optimizer on every assembly](https://github.com/NethermindEth/nethermind/pull/15716) - 2026-11-07
+* [Commit] [perf(ssz): decode span-built byte list items straight into their slot (#15668)](https://github.com/NethermindEth/nethermind/commit/a3a208b5e36ed2097eef7aa098f47ce7ea8cea88) - 2026-11-07
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02

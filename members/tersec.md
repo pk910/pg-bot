@@ -42,6 +42,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [switch Nim version check to simple >=](https://github.com/status-im/nimbus-eth1/pull/5108) - 2026-10-28
 * [Commit] [update to Nim 2.2.14 (#5111)](https://github.com/status-im/nimbus-eth1/commit/64523a79401c581b03bb32f7c9a373edccd7a4e5) - 2026-10-28
 * [Commit] [switch Nim version check to simple >= (#5108)](https://github.com/status-im/nimbus-eth1/commit/a37448affff0ccde0cdf3299348490e73ef37361) - 2026-10-28
+* [Review] [Review on: proxy: abstract storage to store checkpoints](https://github.com/status-im/nimbus-eth1/pull/5103#pullrequestreview-5815537278) - 2026-11-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159) - 2026-10-01
 * [Review] [Review on: loosen Nim development version requirements](https://github.com/status-im/nimbus-eth2/pull/9159#pullrequestreview-5377368273) - 2026-10-01
