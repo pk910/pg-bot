@@ -79,6 +79,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(simulate): build on the requested base header instead of the canonical one](https://github.com/NethermindEth/nethermind/pull/15682#pullrequestreview-5812444261) - 2026-11-07
 * [Review] [Review on: fix(tracing): match Geth file trace field order, root error and error escaping](https://github.com/NethermindEth/nethermind/pull/15677#pullrequestreview-5811522547) - 2026-11-07
 * [Review] [Review on: fix(tracing): let the request timeout interrupt JavaScript tracer creation](https://github.com/NethermindEth/nethermind/pull/15669#pullrequestreview-5811098136) - 2026-11-07
+* [Review] [Review on: docs: remove duplicated words in comments and StatsAnalyzer docs](https://github.com/NethermindEth/nethermind/pull/15734#pullrequestreview-5821105773) - 2026-11-09
+* [Review] [Review on: fix(rpc): reject non-array params](https://github.com/NethermindEth/nethermind/pull/15722#pullrequestreview-5819120732) - 2026-11-08
+* [Review] [Review on: perf(txpool): drop changed accounts from the account cache in a plain loop](https://github.com/NethermindEth/nethermind/pull/15723#pullrequestreview-5820125427) - 2026-11-08
+* [Review] [Review on: perf(proofs): find requested storage keys by binary search in eth_getProof](https://github.com/NethermindEth/nethermind/pull/15717#pullrequestreview-5816388060) - 2026-11-08
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5818166152) - 2026-11-08
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15719#pullrequestreview-5817105395) - 2026-11-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

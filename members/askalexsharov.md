@@ -886,6 +886,32 @@ Team: Erigon
 * [Commit] [db/state: lock the TemporalMemBatch storage btree under shard 0 (#25830)](https://github.com/erigontech/erigon/commit/870bb3a375b55c28f16fc9b630477173fd4ec603) - 2026-11-07
 * [Commit] [tools: dump goroutines when an EEST evm run hangs (#25842)](https://github.com/erigontech/erigon/commit/2c779b92d32e584ec3a4792570c041c28f6dc2c7) - 2026-11-07
 * [Commit] [execution/stagedsync/stageloop: throttle catch-up block range updates (#25853)](https://github.com/erigontech/erigon/commit/4645a8624f2bf639f305cf7210ac0f01454cc9c8) - 2026-11-07
+* [Review] [Review on: cl/antiquary: retire complete blob segments below a backfill gap](https://github.com/erigontech/erigon/pull/25889#pullrequestreview-5817953393) - 2026-11-08
+* [Review] [Review on: docs/site: document the null result of overlay_callConstructor](https://github.com/erigontech/erigon/pull/25947#pullrequestreview-5821009718) - 2026-11-09
+* [Review] [Review on: rpc/rpchelper: make TestConcurrentTouchAndEviction deterministic](https://github.com/erigontech/erigon/pull/25948#pullrequestreview-5821007896) - 2026-11-09
+* [Review] [Review on: db/kv/rawdbv3, rpc/jsonrpc: map the first log txNum from the range's first block](https://github.com/erigontech/erigon/pull/25839#pullrequestreview-5821070787) - 2026-11-09
+* [Review] [Review on: execution/stagedsync: drop per-transaction allocations in the publish loop](https://github.com/erigontech/erigon/pull/25945#pullrequestreview-5821040178) - 2026-11-09
+* [Review] [Review on: rpc/rpchelper, rpc/jsonrpc: answer cached eth_gasPrice without a temporal tx](https://github.com/erigontech/erigon/pull/25936#pullrequestreview-5821012972) - 2026-11-09
+* [Review] [Review on: .github/workflows: add eth_getBlockReceipts and eth_getBlockByNumber, on latest and on block numbers, to RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/25867#pullrequestreview-5821023356) - 2026-11-09
+* [Pull Request] [db/state: slow-block log no longer times every file read](https://github.com/erigontech/erigon/pull/25949) - 2026-11-08
+* [Review] [Review on: db/state: slow-block log no longer times every file read](https://github.com/erigontech/erigon/pull/25949#pullrequestreview-5820866312) - 2026-11-09
+* [Review] [Review on: docs/site: document transactionHash in trace_replayTransaction responses](https://github.com/erigontech/erigon/pull/25938#pullrequestreview-5821010759) - 2026-11-09
+* [Pull Request] [cl/sentinel: refuse a fixed-size request with an oversized prefix](https://github.com/erigontech/erigon/pull/25918) - 2026-11-08
+* [Pull Request] [[r3.8] db/snapshotsync: skip a merge span below the lowest file](https://github.com/erigontech/erigon/pull/25955) - 2026-11-09
+* [Review] [Review on: execution/stagedsync, execution/exec: one senders path for every block, cached on the tx](https://github.com/erigontech/erigon/pull/25920#pullrequestreview-5816991796) - 2026-11-08
+* [Pull Request] [cl/sentinel/handlers: test the rate-limit cost of a huge Count](https://github.com/erigontech/erigon/pull/25917) - 2026-11-08
+* [Review] [Review on: cl/sentinel/handlers: test the rate-limit cost of a huge Count](https://github.com/erigontech/erigon/pull/25917#pullrequestreview-5816967794) - 2026-11-08
+* [Review] [Review on: execution: notify logs of blocks missing from the receipt cache](https://github.com/erigontech/erigon/pull/25882#pullrequestreview-5820370104) - 2026-11-09
+* [Review] [Review on: cl/sentinel: log the subnet search summary with how its walk ended](https://github.com/erigontech/erigon/pull/25932#pullrequestreview-5817963560) - 2026-11-08
+* [Commit] [db/downloader: read the active download request count under its lock (#25901)](https://github.com/erigontech/erigon/commit/d54107bd765ec4f8715e5fbbf51c30ce40b00d5d) - 2026-11-09
+* [Commit] [execution/protocol: tracers see tx writes at tx end on NoMaterialize (#25913)](https://github.com/erigontech/erigon/commit/7f2df48d2c2ecc3c28f0a472ac626b158ae534a1) - 2026-11-08
+* [Commit] [execution/state: release the account lock on a version-map flush panic (#25850)](https://github.com/erigontech/erigon/commit/428dd1606d8743e7a2a0ec4fb76138079bdca6ef) - 2026-11-08
+* [Commit] [db/state: TemporalMemBatch.Merge validates before moving data (#25900)](https://github.com/erigontech/erigon/commit/afe26ce95d2918c6e8dc47104be6df1b31bd66d8) - 2026-11-08
+* [Commit] [common/dbg, cmd/utils: BAL batch prefetch on by default (#25886)](https://github.com/erigontech/erigon/commit/cc3b24e1103d5923f31ba17dc8ae1e49012c70cd) - 2026-11-08
+* [Commit] [db/snapshotsync: drop a failed merge's index that replaced an input's (#25883)](https://github.com/erigontech/erigon/commit/6b775c9c92aeabfa79a5753a1da846bbb32063c7) - 2026-11-08
+* [Commit] [db/snapshotsync: remove unused helper, merge log covers all ranges (#25904)](https://github.com/erigontech/erigon/commit/76999cd3ef526324788623b452650c1883c2b1d3) - 2026-11-08
+* [Commit] [txnprovider/txpool: revalidate duplicate P2P replies after a new block (#25892)](https://github.com/erigontech/erigon/commit/4b9c9a55d6870f49aa009f1f55420908511d3700) - 2026-11-08
+* [Commit] [rpc: simulateV1 overrides on NoMaterialize, drop the Prepare state (#25888)](https://github.com/erigontech/erigon/commit/2765ea4ee250ff09e24ef22f9dac963dcb34c03c) - 2026-11-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

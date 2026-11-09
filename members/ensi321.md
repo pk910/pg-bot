@@ -70,6 +70,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Review] [Review on: Validate and select bids on the inclusion list view at the deadline](https://github.com/ethereum/consensus-specs/pull/5741#pullrequestreview-5665981455) - 2026-10-27
 * [Review] [Review on: Do not activate 0x00 validators](https://github.com/ethereum/consensus-specs/pull/5744#pullrequestreview-5702193881) - 2026-10-29
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5817230694) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/pull/12390#pullrequestreview-5510656753) - 2026-10-13
 * [Commit] [Add EIP: Retire 0x00 Validators](https://github.com/ethereum/EIPs/commit/a53ca05661e55cb4326a7ece19c444d324e3d420) - 2026-10-14

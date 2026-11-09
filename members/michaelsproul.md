@@ -97,6 +97,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Slow fork choice persistence causes block proposal timeouts](https://github.com/sigp/lighthouse/issues/10490) - 2026-10-29
 * [Review] [Review on: Bump libz-sys to 1.1.31](https://github.com/sigp/lighthouse/pull/10499#pullrequestreview-5706308734) - 2026-10-29
 * [Review] [Review on: Export timer-driven fork choice traces](https://github.com/sigp/lighthouse/pull/10512#pullrequestreview-5733438033) - 2026-11-02
+* [Review] [Review on: Suggest --purge-db-force in the "Refusing to checkpoint sync" log](https://github.com/sigp/lighthouse/pull/10531#pullrequestreview-5820314411) - 2026-11-09
+* [Review] [Review on: Report nightly test failures in GitHub issues](https://github.com/sigp/lighthouse/pull/10222#pullrequestreview-5821136874) - 2026-11-09
+* [Review] [Review on: Log the first TimeLatch event instead of swallowing it](https://github.com/sigp/lighthouse/pull/10479#pullrequestreview-5821083994) - 2026-11-09
+* [Review] [Review on: Build slasher tests as C17 to fix mdbx on GCC 15](https://github.com/sigp/lighthouse/pull/10518#pullrequestreview-5820337057) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

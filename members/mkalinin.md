@@ -24,6 +24,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Initial fork choice spec for EIP8453: Decoupled consensus](https://github.com/ethereum/consensus-specs/pull/5791) - 2026-10-30
 * [Pull Request] [Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789) - 2026-10-30
 * [Commit] [Assert support_discount <= maximum_support in FCR (#5788)](https://github.com/ethereum/consensus-specs/commit/f993cf2108f7061a0b7c59a194d60d2f40fc299e) - 2026-10-30
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5818675800) - 2026-11-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958#pullrequestreview-5653413928) - 2026-10-26
 ## Q3 2026

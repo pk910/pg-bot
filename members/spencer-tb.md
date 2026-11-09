@@ -119,6 +119,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-client-clis): map ethrex and Nethermind max fee rejections](https://github.com/ethereum/execution-specs/pull/3940) - 2026-10-29
 * [Review] [Review on: feat(test-consume): fail a wirex test once a fully served client stalls](https://github.com/ethereum/execution-specs/pull/3938#pullrequestreview-5697079447) - 2026-10-29
 * [Review] [Review on: feat(test-consume): start the next client while the current group runs in enginex and wirex](https://github.com/ethereum/execution-specs/pull/3952#pullrequestreview-5770313337) - 2026-11-04
+* [Review] [Review on: feat(tests): add a new trie leaf between a skipped subtree and a deeper stored branch](https://github.com/ethereum/execution-specs/pull/3964#pullrequestreview-5817979805) - 2026-11-08
+* [Review] [Review on: chore(test-client-clis): map besu's unrecoverable signature and gas used errors](https://github.com/ethereum/execution-specs/pull/3966#pullrequestreview-5817969619) - 2026-11-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7906: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12444) - 2026-10-06
 * [Pull Request] [Update EIP-8250: small clarifications for alignment](https://github.com/ethereum/EIPs/pull/12440) - 2026-10-06
@@ -177,6 +179,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix block access list hash in EL block hash test helper](https://github.com/ethereum/consensus-specs/pull/5773#pullrequestreview-5670305724) - 2026-10-27
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [eth: require eth_estimateGas not to starve nested calls](https://github.com/ethereum/execution-apis/pull/971) - 2026-11-08
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/gasestimator, core/vm: do not settle on gas limits that starve a nested call](https://github.com/ethereum/go-ethereum/pull/36084) - 2026-11-08
 ## Q3 2026
 
 
