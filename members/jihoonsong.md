@@ -50,6 +50,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Type-3 transactions SHOULD NOT be included, rather than MUST NOT](https://github.com/ethereum/execution-apis/pull/957) - 2026-10-26
 * [Commit] [Type-3 transactions SHOULD NOT be included, rather than MUST NOT (#957)](https://github.com/ethereum/execution-apis/commit/f82b7e37fa1640915df4bfc6f918144c4d6e353e) - 2026-10-26
 * [Pull Request] [feat(engine): support FOCIL and Frames interaction](https://github.com/ethereum/execution-apis/pull/960) - 2026-10-27
+* [Review] [Review on: ✨ feat(engine): Simplify inclusion list type](https://github.com/ethereum/execution-apis/pull/956#pullrequestreview-5829260846) - 2026-11-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470) - 2026-10-09
 

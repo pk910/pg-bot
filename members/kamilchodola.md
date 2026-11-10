@@ -91,6 +91,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(receipts): store compact receipts with the registered storage decoder](https://github.com/NethermindEth/nethermind/pull/15397) - 2026-10-29
 * [Review] [Review on: fix(receipts): store compact receipts with the registered storage decoder](https://github.com/NethermindEth/nethermind/pull/15397#pullrequestreview-5703103229) - 2026-10-29
 * [Review] [Review on: feat(evm): name the external request a frame runs for](https://github.com/NethermindEth/nethermind/pull/15244#pullrequestreview-5702981878) - 2026-10-29
+* [Review] [Review on: fix(receipts): store compact receipts with the registered storage decoder](https://github.com/NethermindEth/nethermind/pull/15397#pullrequestreview-5832016092) - 2026-11-09
+* [Review] [Review on: Use one trace module instance per logical processor](https://github.com/NethermindEth/nethermind/pull/15000#pullrequestreview-5831584325) - 2026-11-09
+* [Review] [Review on: perf: experiment with configurable GC pacing](https://github.com/NethermindEth/nethermind/pull/15381#pullrequestreview-5831094356) - 2026-11-09
+* [Review] [Review on: fix(runner): name the unrecognized option and drop the help dump on parse errors](https://github.com/NethermindEth/nethermind/pull/15342#pullrequestreview-5830975511) - 2026-11-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584) - 2026-10-15
 ## Q3 2026

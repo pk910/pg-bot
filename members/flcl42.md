@@ -85,6 +85,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(proofs): find requested storage keys by binary search in eth_getProof](https://github.com/NethermindEth/nethermind/pull/15717#pullrequestreview-5816388060) - 2026-11-08
 * [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5818166152) - 2026-11-08
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/15719#pullrequestreview-5817105395) - 2026-11-08
+* [Review] [Review on: ci: add LukaszRozmej as a /.agents, /.github and /scripts code owner](https://github.com/NethermindEth/nethermind/pull/15743#pullrequestreview-5831495626) - 2026-11-09
+* [Review] [Review on: perf(history): clean only the accounts each replayed block cleared](https://github.com/NethermindEth/nethermind/pull/15726#pullrequestreview-5823560783) - 2026-11-09
+* [Review] [Review on: fix(debug): prefix buffered invalid-transaction trace errors with "tracing failed:"](https://github.com/NethermindEth/nethermind/pull/15733#pullrequestreview-5830394963) - 2026-11-09
+* [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5830346529) - 2026-11-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

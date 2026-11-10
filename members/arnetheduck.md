@@ -30,6 +30,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: persist aristo frames into KVT](https://github.com/status-im/nimbus-eth1/pull/5104#pullrequestreview-5700116049) - 2026-10-29
 * [Pull Request] [git: fetch submodules in parallel](https://github.com/status-im/nimbus-eth1/pull/5120) - 2026-10-30
 * [Commit] [git: fetch submodules in parallel (#5120)](https://github.com/status-im/nimbus-eth1/commit/e81d8c589a84662e9687a654344843c23d2a7f0c) - 2026-10-30
+* [Review] [Review on: Use manually allocated EVM memory](https://github.com/status-im/nimbus-eth1/pull/5135#pullrequestreview-5822919221) - 2026-11-09
+* [Review] [Review on: Add parity trace api](https://github.com/status-im/nimbus-eth1/pull/4993#pullrequestreview-5825376118) - 2026-11-09
+* [Commit] [ledger: simplify updates (#5118)](https://github.com/status-im/nimbus-eth1/commit/8383f14c5c75c551db845ebfc74173c307f0c3ea) - 2026-11-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22

@@ -174,6 +174,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys-Incorporated/teku/pull/10132#pullrequestreview-5778170013) - 2026-11-05
 * [Review] [Review on: Fix data columns missing from custody after custody grows to all groups](https://github.com/Consensys-Incorporated/teku/pull/11609#pullrequestreview-5778064922) - 2026-11-05
 * [Review] [Review on: Validate remote peer head slot](https://github.com/Consensys-Incorporated/teku/pull/11615#pullrequestreview-5777588358) - 2026-11-04
+* [Pull Request] [Create missing slashing protection records in repair](https://github.com/Consensys-Incorporated/teku/pull/11622) - 2026-11-10
+* [Pull Request] [Keep genesis root and check network in slashing protection repair](https://github.com/Consensys-Incorporated/teku/pull/11621) - 2026-11-09
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 ## Q3 2026

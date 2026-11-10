@@ -36,6 +36,8 @@ Team: Grandine
 * [Commit] [Updated crates](https://github.com/grandinetech/grandine/commit/1ef133830f087ac7bec0c52690032ebe44420711) - 2026-10-28
 * [Commit] [Improved Eth Docker section in the book](https://github.com/grandinetech/grandine/commit/3051737a6836f859cdd075a53cd8870011a6ca37) - 2026-10-28
 * [Pull Request] [Try imbl](https://github.com/grandinetech/grandine/pull/1019) - 2026-10-29
+* [Issue] [Fallback mechanism for artifact processing](https://github.com/grandinetech/grandine/issues/1028) - 2026-11-09
+* [Issue] [Attestation aggregation performance improvement](https://github.com/grandinetech/grandine/issues/1027) - 2026-11-09
 ## Q3 2026
 
 
