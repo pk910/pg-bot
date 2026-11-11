@@ -467,6 +467,24 @@ Team: Erigon
 * [Commit] [cl: allocate known-length slices up front and assign by index (#25970)](https://github.com/erigontech/erigon/commit/dc93503a239d34cd0ea3159b020ed3db1b28cb10) - 2026-11-09
 * [Commit] [execution/engineapi/engine_helpers: remove unused ForkValidator (#25981)](https://github.com/erigontech/erigon/commit/6e0df53d675b33740cf47c3953da9792b06d7857) - 2026-11-09
 * [Commit] [execution/stagedsync: drop per-transaction allocations in the publish loop (#25945)](https://github.com/erigontech/erigon/commit/ebb4958d722140b1ec26d6ee6d70c53646518ebc) - 2026-11-09
+* [Review] [Review on: rpc/jsonrpc: serve eth_blockNumber and erigon_blockNumber on a plain db tx](https://github.com/erigontech/erigon/pull/26024#pullrequestreview-5853347653) - 2026-11-11
+* [Review] [Review on: execution/types: test BAL Equal indexes and extra list elements](https://github.com/erigontech/erigon/pull/26077#pullrequestreview-5853343702) - 2026-11-11
+* [Review] [Review on: execution/stagedsync: copy the writes of a charged tx once](https://github.com/erigontech/erigon/pull/26060#pullrequestreview-5839518450) - 2026-11-10
+* [Review] [Review on: rpc/jsonrpc: a huge timeoutMs must not time out at once](https://github.com/erigontech/erigon/pull/26051#pullrequestreview-5839497589) - 2026-11-10
+* [Review] [Review on: execution/exec: a failed write set must not crash the node](https://github.com/erigontech/erigon/pull/26054#pullrequestreview-5839510300) - 2026-11-10
+* [Review] [Review on: execution/bal: check the access list against its decoded sidecar](https://github.com/erigontech/erigon/pull/26008#pullrequestreview-5839444638) - 2026-11-10
+* [Review] [Review on: db/seg, common/iouring: write no-pattern segment output through io_uring with linked fsync](https://github.com/erigontech/erigon/pull/25935#pullrequestreview-5843292975) - 2026-11-10
+* [Review] [Review on: cl/sentinel: reject trailing data in bounded SSZ request decoding](https://github.com/erigontech/erigon/pull/26026#pullrequestreview-5845703216) - 2026-11-10
+* [Review] [Review on: rpc: answer a malformed GET request with a parse error](https://github.com/erigontech/erigon/pull/26052#pullrequestreview-5839501596) - 2026-11-10
+* [Review] [Review on: rpc, execution: remove the CALL_NO_MATERIALIZE kill switch](https://github.com/erigontech/erigon/pull/25915#pullrequestreview-5839433808) - 2026-11-10
+* [Review] [Review on: rpc: limit the calls in flight on one WebSocket connection](https://github.com/erigontech/erigon/pull/26059#pullrequestreview-5839472993) - 2026-11-10
+* [Review] [Review on: cl/p2p: accept gossip subscriptions only for known topics](https://github.com/erigontech/erigon/pull/26058#pullrequestreview-5839514424) - 2026-11-10
+* [Review] [Review on: ci: keep fuzz corpus in artifacts so nightly runs compound](https://github.com/erigontech/erigon/pull/26065#pullrequestreview-5839468246) - 2026-11-10
+* [Review] [Review on: execution/state: take a slot's prev value from its write record](https://github.com/erigontech/erigon/pull/26041#pullrequestreview-5839485267) - 2026-11-10
+* [Commit] [ci: split the slow hive-eest shards by test directory (#26047)](https://github.com/erigontech/erigon/commit/f925e0d4f00888310663c49a1a37d4d8f8858e20) - 2026-11-10
+* [Commit] [execution/state: mark validated and sealed writes without the entry lock (#25979)](https://github.com/erigontech/erigon/commit/4d93319caf108ff5bd0c6b31f619047e387baf2d) - 2026-11-10
+* [Commit] [Dockerfile: fall back to direct module fetch on Go proxy errors (#26043)](https://github.com/erigontech/erigon/commit/533f1011cc1d1b91a6223fce10b33f00d5ea4a24) - 2026-11-10
+* [Commit] [ci: retry the actionlint download (#26042)](https://github.com/erigontech/erigon/commit/01e7245dfa41b1494613c25f8e3cf4972cc02249) - 2026-11-10
 ## Q3 2026
 
 

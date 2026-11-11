@@ -63,6 +63,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Improved Eth Docker section in the book](https://github.com/grandinetech/grandine/pull/1009#pullrequestreview-5682294892) - 2026-10-28
 * [Review] [Review on: Derive tick times from `*_DUE_BPS` config values instead of a fixed slot split](https://github.com/grandinetech/grandine/pull/1020#pullrequestreview-5696367120) - 2026-10-29
 * [Review] [Review on: Accept comma-separated and repeated list query parameters for blobs and sidecars](https://github.com/grandinetech/grandine/pull/1016#pullrequestreview-5695657642) - 2026-10-29
+* [Pull Request] [Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/pull/1032) - 2026-11-10
+* [Pull Request] [Revert unstable pre-release publishing](https://github.com/grandinetech/grandine/pull/1033) - 2026-11-10
+* [Commit] [Optimize BLS public key aggregation](https://github.com/grandinetech/grandine/commit/65f942833ab6f358775bffff457ed7c504d188ed) - 2026-11-10
+* [Commit] [Revert unstable pre-release publishing](https://github.com/grandinetech/grandine/commit/2084719229f33d6fc2a9cceeb09bb5d091e7df8d) - 2026-11-10
 ## Q3 2026
 
 

@@ -86,6 +86,16 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [Upgrade to ere-guests v0.19.0](https://github.com/eth-act/zkboost/issues/90) - 2026-10-26
 * [Pull Request] [fix: update ere-guests to v0.19.1](https://github.com/eth-act/zkboost/pull/99) - 2026-10-30
 * [Commit] [fix: update ere-guests to v0.19.1 (#99)](https://github.com/eth-act/zkboost/commit/31b9151b164a2e442884d2deabf977c8dc75318c) - 2026-10-30
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/engineapi, execution/execmodule, rpc/jsonrpc: add POST /engine/v1/payloads/witness](https://github.com/erigontech/erigon/pull/26085) - 2026-11-10
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(engine): close execution-apis#885 SSZ gaps](https://github.com/paradigmxyz/reth/pull/28417) - 2026-11-10
+* [Commit] [fix(engine): close execution-apis#885 SSZ gaps (#28417)](https://github.com/paradigmxyz/reth/commit/15200acbe75f5aee8df82b8d81622cb370d79395) - 2026-11-10
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [fix(rpc): return INVALID for REST+SSZ payloads that fail RLP decoding](https://github.com/status-im/nimbus-eth1/pull/5145) - 2026-11-10
 ## Q3 2026
 
 

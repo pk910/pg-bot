@@ -61,6 +61,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-execution): verify block access lists against the network](https://github.com/ethereum/execution-specs/pull/3915) - 2026-10-27
 * [Review] [Review on: feat(test-execution): verify block access lists against the network](https://github.com/ethereum/execution-specs/pull/3915#pullrequestreview-5663382934) - 2026-10-27
 * [Review] [Review on: feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911#pullrequestreview-5663312645) - 2026-10-27
+* [Pull Request] [refactor(test-benchmark): give `test_blockhash` its own pre-alloc group](https://github.com/ethereum/execution-specs/pull/3972) - 2026-11-10
 ## Q3 2026
 
 
