@@ -59,6 +59,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Reduce per-feature plumbing](https://github.com/sigp/lighthouse/issues/10513) - 2026-11-02
 * [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5853361194) - 2026-11-11
 * [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5839074738) - 2026-11-10
+* [Review] [Review on: Only request column reconstruction once half the columns are cached](https://github.com/sigp/lighthouse/pull/10561#pullrequestreview-5853970364) - 2026-11-11
+* [Review] [Review on: Add an event topic for attestation weight per block](https://github.com/sigp/lighthouse/pull/10517#pullrequestreview-5854004308) - 2026-11-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 

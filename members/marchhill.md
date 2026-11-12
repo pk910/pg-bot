@@ -272,6 +272,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Enforce grouped NUnit assertions (#15245)](https://github.com/NethermindEth/nethermind/commit/26ed2374168943fd6a318a7a087b6aef94f2fd88) - 2026-10-28
 * [Review] [Review on: feat(rlp): add declarative FluentRlp encoding and decoding](https://github.com/NethermindEth/nethermind/pull/15387#pullrequestreview-5697413870) - 2026-10-29
 * [Review] [Review on: perf(zkevm): call memmove directly from Bytes.Copy on SP1](https://github.com/NethermindEth/nethermind/pull/15388#pullrequestreview-5697429209) - 2026-10-29
+* [Review] [Review on: fix(rpc): replay copies of block transactions in trace and debug replays with overrides](https://github.com/NethermindEth/nethermind/pull/15770#pullrequestreview-5858420442) - 2026-11-11
+* [Review] [Review on: perf(evm): read ADDMOD and MULMOD operands in place and write the result into the slot](https://github.com/NethermindEth/nethermind/pull/15790#pullrequestreview-5858830401) - 2026-11-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Proof Object Transport over devp2p](https://github.com/ethereum/EIPs/pull/12423) - 2026-10-05
 * [Pull Request] [Update EIP-8298: Add public mempool rules](https://github.com/ethereum/EIPs/pull/12427) - 2026-10-05
@@ -300,6 +302,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8288: reuse proofs before recursive aggregation](https://github.com/ethereum/EIPs/pull/12595) - 2026-10-29
 * [Pull Request] [Update EIP-8288: aggregate only executable transactions](https://github.com/ethereum/EIPs/pull/12628) - 2026-11-05
 * [Pull Request] [Update EIP-8288: place dependency frames around protocol verifier frames](https://github.com/ethereum/EIPs/pull/12632) - 2026-11-06
+* [Pull Request] [Add EIP: eth/73 - Proof wrapper propagation](https://github.com/ethereum/EIPs/pull/12655) - 2026-11-11
+* [Pull Request] [Update EIP-8288: Batch generic signature claims](https://github.com/ethereum/EIPs/pull/12654) - 2026-11-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,test-specs,tests): support FOCIL frame inclusion claims](https://github.com/ethereum/execution-specs/pull/3777) - 2026-10-12
 * [Pull Request] [feat(spec-specs,tests): implement EIP-4758 SENDALL in Bogota](https://github.com/ethereum/execution-specs/pull/3778) - 2026-10-12

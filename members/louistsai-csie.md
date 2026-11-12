@@ -62,6 +62,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-execution): verify block access lists against the network](https://github.com/ethereum/execution-specs/pull/3915#pullrequestreview-5663382934) - 2026-10-27
 * [Review] [Review on: feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911#pullrequestreview-5663312645) - 2026-10-27
 * [Pull Request] [refactor(test-benchmark): give `test_blockhash` its own pre-alloc group](https://github.com/ethereum/execution-specs/pull/3972) - 2026-11-10
+* [Pull Request] [perf(test-benchmark): cache precompile inputs and use optimized bn128](https://github.com/ethereum/execution-specs/pull/3973) - 2026-11-11
+* [Review] [Review on: ✨ feat(test-types): P256 signing utility](https://github.com/ethereum/execution-specs/pull/3961#pullrequestreview-5854395917) - 2026-11-11
+* [Review] [Review on: refactor(test-execute): widen the `Initcode` deploy code offset push for long prefixes](https://github.com/ethereum/execution-specs/pull/3922#pullrequestreview-5855075425) - 2026-11-11
+* [Review] [Review on: fix(test-execute): make execute deploy-required-contracts --help work](https://github.com/ethereum/execution-specs/pull/3870#pullrequestreview-5855594612) - 2026-11-11
+* [Review] [Review on: feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963#pullrequestreview-5854184439) - 2026-11-11
+* [Commit] [perf(test-benchmark): give `test_blockhash` its own pre-alloc group (#3972)](https://github.com/ethereum/execution-specs/commit/996e458207469d3d59a82b321ae0fdad6c6b6d58) - 2026-11-11
 ## Q3 2026
 
 

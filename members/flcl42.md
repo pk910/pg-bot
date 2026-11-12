@@ -89,6 +89,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(history): clean only the accounts each replayed block cleared](https://github.com/NethermindEth/nethermind/pull/15726#pullrequestreview-5823560783) - 2026-11-09
 * [Review] [Review on: fix(debug): prefix buffered invalid-transaction trace errors with "tracing failed:"](https://github.com/NethermindEth/nethermind/pull/15733#pullrequestreview-5830394963) - 2026-11-09
 * [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5830346529) - 2026-11-09
+* [Review] [Review on: fix(discovery): keep a node at the endpoint it was verified at](https://github.com/NethermindEth/nethermind/pull/15781#pullrequestreview-5860433050) - 2026-11-11
+* [Review] [Review on: fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777#pullrequestreview-5859239266) - 2026-11-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

@@ -48,6 +48,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Propagate Bonsai account proof failures instead of returning empty](https://github.com/besu-eth/besu/pull/11673#pullrequestreview-5836184917) - 2026-11-10
 * [Review] [Review on: [1/5] snap/2 sorted ingest: let RocksDB add sorted files to a segment](https://github.com/besu-eth/besu/pull/11852#pullrequestreview-5835367294) - 2026-11-10
 * [Review] [Review on: [1/5] snap/2 sorted ingest: let RocksDB add sorted files to a segment](https://github.com/besu-eth/besu/pull/11852#pullrequestreview-5837544176) - 2026-11-10
+* [Review] [Review on: [2/5] snap/2 sorted ingest: hold back RocksDB compaction during a bulk load](https://github.com/besu-eth/besu/pull/11853#pullrequestreview-5856936969) - 2026-11-11
 ## Q3 2026
 
 

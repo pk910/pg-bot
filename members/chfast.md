@@ -261,6 +261,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark](https://github.com/ethereum/execution-specs/pull/3911) - 2026-10-26
 * [Commit] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark (#3911)](https://github.com/ethereum/execution-specs/commit/01358ac29ed1bb44bddb608a05bfe8466497cb8b) - 2026-10-27
 * [Pull Request] [feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963) - 2026-11-06
+* [Commit] [feat(test-benchmark): fill test_mod with distinct MOD chains (#3963)](https://github.com/ethereum/execution-specs/commit/f47bb994ec299410ba8a790e4fa486ea393aaa6e) - 2026-11-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 ## Q3 2026

@@ -38,6 +38,7 @@ Team: Grandine
 * [Pull Request] [Try imbl](https://github.com/grandinetech/grandine/pull/1019) - 2026-10-29
 * [Issue] [Fallback mechanism for artifact processing](https://github.com/grandinetech/grandine/issues/1028) - 2026-11-09
 * [Issue] [Attestation aggregation performance improvement](https://github.com/grandinetech/grandine/issues/1027) - 2026-11-09
+* [Issue] [Improve validator message when beacon node is not accessible](https://github.com/grandinetech/grandine/issues/1037) - 2026-11-11
 ## Q3 2026
 
 
