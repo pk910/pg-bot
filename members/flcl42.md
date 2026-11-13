@@ -91,6 +91,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(eip8288): stop implicitly enabling EIP-7843 on Prague devnets](https://github.com/NethermindEth/nethermind/pull/15721#pullrequestreview-5830346529) - 2026-11-09
 * [Review] [Review on: fix(discovery): keep a node at the endpoint it was verified at](https://github.com/NethermindEth/nethermind/pull/15781#pullrequestreview-5860433050) - 2026-11-11
 * [Review] [Review on: fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777#pullrequestreview-5859239266) - 2026-11-11
+* [Review] [Review on: feat(db): add rewrite-db and compact-db commands to apply RocksDB config changes](https://github.com/NethermindEth/nethermind/pull/15406#pullrequestreview-5884718519) - 2026-11-13
+* [Review] [Review on: fix(rpc): report a pending frame tx's gas at the next block's spec](https://github.com/NethermindEth/nethermind/pull/15780#pullrequestreview-5879233205) - 2026-11-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

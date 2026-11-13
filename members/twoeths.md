@@ -117,6 +117,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: stop the network processor and remove all listeners on network close](https://github.com/ChainSafe/lodestar/pull/10575#pullrequestreview-5857586517) - 2026-11-11
 * [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5857665221) - 2026-11-11
 * [Commit] [feat: pack SingleAttestation for block production (#10567)](https://github.com/ChainSafe/lodestar/commit/ab8f3f63810984e3c74b2d711d0de82002eebfb5) - 2026-11-11
+* [Pull Request] [fix: unset execution_payload_availability at fork slot](https://github.com/ChainSafe/lodestar/pull/10615) - 2026-11-13
+* [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5872158304) - 2026-11-12
+* [Commit] [fix: harden sync committee gossip validation (#10607)](https://github.com/ChainSafe/lodestar/commit/cda05d18f1870dbe2373ef82ea69fb9d102a1552) - 2026-11-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

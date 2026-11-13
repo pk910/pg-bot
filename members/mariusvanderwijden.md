@@ -39,6 +39,7 @@ Team: Geth
 * [Commit] [eth/tracers/native: add Stop() to KeccakTracer (#35858)](https://github.com/ethereum/go-ethereum/commit/88c3a09744b2704f77d45c1b4c105d3c1059f7ec) - 2026-10-30
 * [Pull Request] [tests/fuzzers/bls12381: fix a dormant harness issue](https://github.com/ethereum/go-ethereum/pull/36069) - 2026-11-04
 * [Commit] [tests/fuzzers/bls12381: fix a dormant harness issue (#36069)](https://github.com/ethereum/go-ethereum/commit/27218ebe340e0e796673410eefe25ee51a2af7df) - 2026-11-05
+* [Review] [Review on: accounts/keystore: fix race between key scan and delete](https://github.com/ethereum/go-ethereum/pull/35846#pullrequestreview-5873150134) - 2026-11-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Milos Stankovic](https://github.com/protocolguild/documentation/pull/553#pullrequestreview-5376973346) - 2026-10-01
 ## Q3 2026

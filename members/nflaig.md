@@ -467,6 +467,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5795941163) - 2026-11-06
 * [Review] [Review on: Align execution payload gossip validation with fork choice](https://github.com/ethereum/consensus-specs/pull/5770#pullrequestreview-5809965493) - 2026-11-07
 * [Commit] [Return early for a known payload in `on_execution_payload_envelope` (#5784)](https://github.com/ethereum/consensus-specs/commit/c3e16117a66523902fd21d6ba708d987b56bd4a4) - 2026-11-11
+* [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5875209544) - 2026-11-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
