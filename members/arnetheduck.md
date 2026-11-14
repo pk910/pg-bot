@@ -36,6 +36,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [ci: speed up eest tests](https://github.com/status-im/nimbus-eth1/pull/5148) - 2026-11-11
 * [Commit] [ci: speed up eest tests (#5148)](https://github.com/status-im/nimbus-eth1/commit/73d55cd65c5a186f12a2e6176751ab49787836a2) - 2026-11-11
 * [Pull Request] [ledger: simplify account handling](https://github.com/status-im/nimbus-eth1/pull/5153) - 2026-11-12
+* [Commit] [ledger: simplify account handling (#5153)](https://github.com/status-im/nimbus-eth1/commit/c7911c786f4c0a7e6a9b79c550dd815cb0fd32a7) - 2026-11-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [fix regular payloads not being sent](https://github.com/status-im/nimbus-eth2/pull/9330) - 2026-10-20
 * [Pull Request] [unified client docs](https://github.com/status-im/nimbus-eth2/pull/9339) - 2026-10-22
@@ -43,6 +44,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [docs: unified quick start updates](https://github.com/status-im/nimbus-eth2/pull/9394) - 2026-10-27
 * [Pull Request] [mdbook: bump](https://github.com/status-im/nimbus-eth2/pull/9407) - 2026-10-28
 * [Pull Request] [fix invalid log lines resulting from nested log calls](https://github.com/status-im/nimbus-eth2/pull/9399) - 2026-10-28
+* [Pull Request] [docs: refresh architectural docs](https://github.com/status-im/nimbus-eth2/pull/9441) - 2026-11-13
 ## Q3 2026
 
 

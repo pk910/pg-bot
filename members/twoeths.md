@@ -120,6 +120,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: unset execution_payload_availability at fork slot](https://github.com/ChainSafe/lodestar/pull/10615) - 2026-11-13
 * [Review] [Review on: fix: settle all BLS worker pool jobs on close](https://github.com/ChainSafe/lodestar/pull/10577#pullrequestreview-5872158304) - 2026-11-12
 * [Commit] [fix: harden sync committee gossip validation (#10607)](https://github.com/ChainSafe/lodestar/commit/cda05d18f1870dbe2373ef82ea69fb9d102a1552) - 2026-11-13
+* [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-5886029148) - 2026-11-13
+* [Pull Request] [fix: harden gloas attestation validation at fork boundary](https://github.com/ChainSafe/lodestar/pull/10619) - 2026-11-13
+* [Commit] [fix: harden gloas attestation validation at fork boundary (#10619)](https://github.com/ChainSafe/lodestar/commit/1b22218e602f6bc8999ce0772389f8748b900144) - 2026-11-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026

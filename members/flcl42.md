@@ -93,6 +93,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(rpc): cancel queued module rentals on transport abort](https://github.com/NethermindEth/nethermind/pull/15777#pullrequestreview-5859239266) - 2026-11-11
 * [Review] [Review on: feat(db): add rewrite-db and compact-db commands to apply RocksDB config changes](https://github.com/NethermindEth/nethermind/pull/15406#pullrequestreview-5884718519) - 2026-11-13
 * [Review] [Review on: fix(rpc): report a pending frame tx's gas at the next block's spec](https://github.com/NethermindEth/nethermind/pull/15780#pullrequestreview-5879233205) - 2026-11-12
+* [Review] [Review on: refactor(network)!: serialize sent packets in the DotNetty packet sender instead of the serialization service](https://github.com/NethermindEth/nethermind/pull/15874#pullrequestreview-5901154647) - 2026-11-14
+* [Review] [Review on: fix(merge): rebuild the payload once the tx pool has processed the parent block](https://github.com/NethermindEth/nethermind/pull/15873#pullrequestreview-5899294798) - 2026-11-13
+* [Review] [Review on: fix(flat): guard each CompactSized boundary and observe a stop between them](https://github.com/NethermindEth/nethermind/pull/15869#pullrequestreview-5896434476) - 2026-11-13
+* [Review] [Review on: perf(eip8288): fold a whole wrapper of signatures into one direct leaf](https://github.com/NethermindEth/nethermind/pull/15870#pullrequestreview-5899165811) - 2026-11-13
+* [Review] [Review on: fix(rpc): run a signed eth_sendTransaction request as its signer](https://github.com/NethermindEth/nethermind/pull/15823#pullrequestreview-5886937085) - 2026-11-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

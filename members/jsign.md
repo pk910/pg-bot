@@ -41,6 +41,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934) - 2026-10-28
 * [Review] [Review on: feat(zkevm): check witness trie nodes only when the block reaches them](https://github.com/ethereum/execution-specs/pull/3934#pullrequestreview-5690133103) - 2026-10-28
 * [Pull Request] [fix(ci): skip the genesis download for zkevm-benchmark releases](https://github.com/ethereum/execution-specs/pull/3985) - 2026-11-12
+* [Pull Request] [refactor(zkevm): move generic stateless code out of the amsterdam fork folder](https://github.com/ethereum/execution-specs/pull/3995) - 2026-11-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add GET /payloads/{payloadId}/witness to REST + SSZ proposal](https://github.com/ethereum/execution-apis/pull/917) - 2026-10-05
 

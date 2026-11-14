@@ -127,6 +127,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5707978143) - 2026-10-30
 * [Review] [Review on: Validate queuing envelopes](https://github.com/status-im/nimbus-eth2/pull/9317#pullrequestreview-5726283625) - 2026-11-01
 * [Review] [Review on: Speedup attestation key aggregation with cached committee sums](https://github.com/status-im/nimbus-eth2/pull/9420#pullrequestreview-5735223337) - 2026-11-02
+* [Review] [Review on: feat: get payloads from EL](https://github.com/status-im/nimbus-eth2/pull/9444#pullrequestreview-5900551159) - 2026-11-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nimbus incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2250) - 2026-10-03
 

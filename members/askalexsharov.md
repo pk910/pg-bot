@@ -1089,6 +1089,23 @@ Team: Erigon
 * [Commit] [execution/state: depend on an in-flight destruct on a committed read (#26153)](https://github.com/erigontech/erigon/commit/df8748708b0b2072677439e8e98acf89496d10c9) - 2026-11-13
 * [Commit] [execution: a call that cannot pay its precompile does not wait on it (#26088)](https://github.com/erigontech/erigon/commit/51c276f8366f7c1013b91b209cc33b042a937a81) - 2026-11-13
 * [Commit] [execution/stagedsync: a write the BAL holds leaves readers clean (#26080)](https://github.com/erigontech/erigon/commit/d9d65c3292af6321ca9d6668104410f1ae765d62) - 2026-11-13
+* [Review] [Review on: execution/vm: EXTCODECOPY reads a code segment](https://github.com/erigontech/erigon/pull/25986#pullrequestreview-5888383248) - 2026-11-13
+* [Pull Request] [rlp: one cheaper header path makes every decoder 11-24% faster](https://github.com/erigontech/erigon/pull/26248) - 2026-11-13
+* [Pull Request] [execution/types: BAL decode allocates once per kind, not per change](https://github.com/erigontech/erigon/pull/26244) - 2026-11-13
+* [Pull Request] [execution/exec: BAL warmup skips cache work exec already did](https://github.com/erigontech/erigon/pull/26269) - 2026-11-13
+* [Pull Request] [execution/engineapi: wait tests no longer fail on slow race runners](https://github.com/erigontech/erigon/pull/26282) - 2026-11-13
+* [Pull Request] [ci: a failed test fails the job at once, without a cold rerun](https://github.com/erigontech/erigon/pull/26263) - 2026-11-13
+* [Review] [Review on: execution/stagedsync: fold no longer waits on the commitment flush](https://github.com/erigontech/erigon/pull/26236#pullrequestreview-5889503661) - 2026-11-13
+* [Review] [Review on: execution/state: seed the version map from the BAL in parallel](https://github.com/erigontech/erigon/pull/26215#pullrequestreview-5887201108) - 2026-11-13
+* [Pull Request] [execution/engineapi: count calls, not time, in the wait budget test](https://github.com/erigontech/erigon/pull/26235) - 2026-11-13
+* [Pull Request] [go.mod: upgrade bubbletea, pyroscope, goupnp, golang.org/x](https://github.com/erigontech/erigon/pull/26241) - 2026-11-13
+* [Commit] [execution/stagedsync: exec-loop panic is not an invalid block (#26237)](https://github.com/erigontech/erigon/commit/50c2507858e3d79058bbcfda51fa548fa8a8b2e3) - 2026-11-14
+* [Commit] [rlp: one cheaper header path makes every decoder 11-24% faster (#26248)](https://github.com/erigontech/erigon/commit/c339a28f2a558ebb153a2f9373c49a8ac6c1384f) - 2026-11-14
+* [Commit] [execution/exec: BAL warmup skips code-hash seeds of codeless accounts (#26217)](https://github.com/erigontech/erigon/commit/3956cef6506e8df54346eb06e88099ff03098140) - 2026-11-14
+* [Commit] [execution/tests/testutil: run state tests on the versioned state (#26238)](https://github.com/erigontech/erigon/commit/a52174a5dbcd4159b3bd9713f87acdeffd6d9da8) - 2026-11-13
+* [Commit] [go.mod: upgrade bubbletea, pyroscope, goupnp, golang.org/x (#26241)](https://github.com/erigontech/erigon/commit/33709dd8a5d4bbc8c8ddff57122ebcf3c7d6e123) - 2026-11-13
+* [Commit] [execution/engineapi: count calls, not time, in the wait budget test (#26235)](https://github.com/erigontech/erigon/commit/6b30832ecf2cae024a0e2c0f6781d6ef5495163b) - 2026-11-13
+* [Commit] [execution/exec: block warmup no longer re-reads keys the state cache holds (#26104)](https://github.com/erigontech/erigon/commit/0d73e1ec083d8433a62d976e50de32732586e0cf) - 2026-11-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

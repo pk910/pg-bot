@@ -71,6 +71,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5874737736) - 2026-11-12
 * [Review] [Review on: perf(test-benchmark): cache precompile inputs and use optimized bn128](https://github.com/ethereum/execution-specs/pull/3973#pullrequestreview-5869299811) - 2026-11-12
 * [Commit] [perf(test-benchmark): cache precompile inputs and use optimized bn128 (#3973)](https://github.com/ethereum/execution-specs/commit/8d1fe459f98ce0ed7522e4cacfbc6f9ec302bfd5) - 2026-11-12
+* [Review] [Review on: chore(doc,ci): move links to specs.ethereum.foundation](https://github.com/ethereum/execution-specs/pull/3992#pullrequestreview-5890652595) - 2026-11-13
+* [Review] [Review on: fix(test-client-clis): map reth floor gas and cap messages](https://github.com/ethereum/execution-specs/pull/3994#pullrequestreview-5891952661) - 2026-11-13
+* [Review] [Review on: feat(test-benchmark): support invalid-block benchmarks](https://github.com/ethereum/execution-specs/pull/3823#pullrequestreview-5888327536) - 2026-11-13
 ## Q3 2026
 
 

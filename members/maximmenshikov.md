@@ -80,6 +80,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #39 from NethermindEth/feature/musl-mirrors](https://github.com/NethermindEth/dotnet-riscv/commit/3bc3fe4987578807b19e5b13c4750365f43e0e79) - 2026-11-07
 * [Commit] [Merge pull request #37 from NethermindEth/perf/riscv64-strict-align-promoted-fields](https://github.com/NethermindEth/dotnet-riscv/commit/23991c4edb9b3248a38fc7e1d74e9c35c942a55b) - 2026-11-07
 * [Pull Request] [perf-85: IlcZkNoGcInfo leaves the GC info out of the LSDA](https://github.com/NethermindEth/dotnet-riscv/pull/40) - 2026-11-11
+* [Commit] [rootfs: move runtime's apk-tools-static pin to 3.0.9-r0](https://github.com/NethermindEth/dotnet-riscv/commit/b80502c399158554b7fce8aaa2b89268cd814485) - 2026-11-13
+* [Commit] [Merge pull request #40 from NethermindEth/feat/ilc-zk-no-gc-info](https://github.com/NethermindEth/dotnet-riscv/commit/dc34e49fee906914b6a87b7099f1a181d0ef5972) - 2026-11-13
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
