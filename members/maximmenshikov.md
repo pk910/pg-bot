@@ -36,6 +36,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [build(zkevm): build the Airbender guest in the published bflat riscv32 image](https://github.com/NethermindEth/nethermind/pull/15469) - 2026-11-02
 * [Pull Request] [fix(zkevm): address the review of the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15580) - 2026-11-03
 * [Pull Request] [feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799) - 2026-11-11
+* [Review] [Review on: feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799#pullrequestreview-5904195221) - 2026-11-14
+* [Commit] [feat(stateless): catch exceptions in the Airbender guest (#15799)](https://github.com/NethermindEth/nethermind/commit/9ae1cd11094717278616f7563144aae05cff9c82) - 2026-11-15
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -175,6 +177,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #75 from NethermindEth/chore/dotnet-11.0.101](https://github.com/NethermindEth/bflat-riscv64/commit/d6bed5d544aa04ac2d2edf2474e205283c7aa484) - 2026-11-08
 * [Pull Request] [test: Images with the IlcZkNoGcInfo runtime](https://github.com/NethermindEth/bflat-riscv64/pull/77) - 2026-11-11
 * [Pull Request] [riscv32: Exception handling on Airbender](https://github.com/NethermindEth/bflat-riscv64/pull/76) - 2026-11-11
+* [Commit] [Merge pull request #76 from NethermindEth/feat/riscv32-unwind-tables](https://github.com/NethermindEth/bflat-riscv64/commit/80f97933b93f86c20aad5a5edbfc08cb9cd9b2b4) - 2026-11-14
 ## Q3 2026
 
 
