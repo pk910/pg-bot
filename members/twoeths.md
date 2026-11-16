@@ -123,6 +123,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: skip the 1ms timer delay on the two gossip block hops](https://github.com/ChainSafe/lodestar/pull/10610#pullrequestreview-5886029148) - 2026-11-13
 * [Pull Request] [fix: harden gloas attestation validation at fork boundary](https://github.com/ChainSafe/lodestar/pull/10619) - 2026-11-13
 * [Commit] [fix: harden gloas attestation validation at fork boundary (#10619)](https://github.com/ChainSafe/lodestar/commit/1b22218e602f6bc8999ce0772389f8748b900144) - 2026-11-13
+* [Review] [Review on: fix: detect bit supersets that leave a byte empty](https://github.com/ChainSafe/lodestar/pull/10629#pullrequestreview-5914489547) - 2026-11-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: support progressive ssz views](https://github.com/ChainSafe/lodestar-z/pull/763#pullrequestreview-5514105870) - 2026-10-14
 ## Q3 2026
