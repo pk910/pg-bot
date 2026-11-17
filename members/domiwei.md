@@ -498,6 +498,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/handler, cl/phase1/network/services: do not gossip unverified voluntary exits from the API (#26279)](https://github.com/erigontech/erigon/commit/79445646b6e987894341f3f017637d21405f5f6b) - 2026-11-14
 * [Commit] [cl/phase1/network/services: wake the block service when a published block is queued (#26329)](https://github.com/erigontech/erigon/commit/c32780ffc698f07d896a05d8e270a66a8f563401) - 2026-11-15
 * [Commit] [cl/phase1/stages: wake the chain-tip wait when a block index is committed (#26330)](https://github.com/erigontech/erigon/commit/e34fedc2a528f433d1ca748e7589722dd43fdea1) - 2026-11-15
+* [Review] [Review on: cl: batch Fulu blob backfill recovery (#26351)](https://github.com/erigontech/erigon/pull/26355#pullrequestreview-5916968265) - 2026-11-16
+* [Review] [Review on: cl/beacon: reject attester slashings with disjoint indices](https://github.com/erigontech/erigon/pull/26392#pullrequestreview-5924694163) - 2026-11-16
+* [Review] [Review on: cl/cltypes: retain progressive root caches in payload bid copies and clones](https://github.com/erigontech/erigon/pull/26391#pullrequestreview-5924874735) - 2026-11-16
+* [Review] [Review on: cl/beacon: bound JSON block publishing request bodies](https://github.com/erigontech/erigon/pull/26321#pullrequestreview-5917121500) - 2026-11-16
+* [Review] [Review on: cl/cltypes/solid: invalidate cached roots on progressive conversion](https://github.com/erigontech/erigon/pull/26320#pullrequestreview-5916987943) - 2026-11-16
+* [Review] [Review on: cl/beacon: honor Eth-Consensus-Version for v2 attester slashings](https://github.com/erigontech/erigon/pull/26338#pullrequestreview-5916990100) - 2026-11-16
+* [Review] [Review on: cltypes: honor configured limits during nested attester slashing SSZ decoding](https://github.com/erigontech/erigon/pull/26390#pullrequestreview-5924967504) - 2026-11-16
+* [Review] [Review on: cl/beacon: publish only validated attester slashings](https://github.com/erigontech/erigon/pull/26322#pullrequestreview-5917086244) - 2026-11-16
+* [Pull Request] [cl/das, cl/phase1/network/services: mark Gloas columns built from EL blobs as seen before writing them](https://github.com/erigontech/erigon/pull/26403) - 2026-11-16
+* [Pull Request] [[r3.8] cl/beacon/handler: backport Gloas envelope POST fixes](https://github.com/erigontech/erigon/pull/26401) - 2026-11-16
+* [Commit] [cl/beacon/beaconevents, cl/beacon/handler: give execution_payload and execution_payload_available feeds of their own (#26354)](https://github.com/erigontech/erigon/commit/1c790153dad3be88a62c76a708531cf4fabb01da) - 2026-11-16
+* [Commit] [cl/beacon/handler, cl/persistence/blob_storage: write the columns of a self-built block and a posted envelope in one batch (#26347)](https://github.com/erigontech/erigon/commit/b6cd92d416b9a37772f8ae5831d136b620f1c4f3) - 2026-11-16
+* [Commit] [cl/das: fetch missing columns by root before FK20 and publish them (#26331)](https://github.com/erigontech/erigon/commit/5b89c80fd788a26407ee82a760c2b975286ca6b1) - 2026-11-16
 ## Q3 2026
 
 

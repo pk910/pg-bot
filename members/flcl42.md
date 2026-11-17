@@ -123,6 +123,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(network): add the RLPx TRACE LoggingHandler only when TRACE is enabled](https://github.com/NethermindEth/nethermind/pull/15898#pullrequestreview-5909357195) - 2026-11-15
 * [Review] [Review on: perf(network): size eth/69 receipts responses without blooms](https://github.com/NethermindEth/nethermind/pull/15887#pullrequestreview-5909109024) - 2026-11-15
 * [Review] [Review on: perf(logindex): reuse one buffer for the values an enumerator reads](https://github.com/NethermindEth/nethermind/pull/15900#pullrequestreview-5909659245) - 2026-11-15
+* [Review] [Review on: fix(rpc): write socket responses to the stream only asynchronously](https://github.com/NethermindEth/nethermind/pull/15996#pullrequestreview-5933379941) - 2026-11-17
+* [Review] [Review on: test(evm): cover cached call frames across transactions with different tracers](https://github.com/NethermindEth/nethermind/pull/15992#pullrequestreview-5932945083) - 2026-11-17
+* [Review] [Review on: fix(rpc): queue eth_call executions above a concurrency limit](https://github.com/NethermindEth/nethermind/pull/15995#pullrequestreview-5932904778) - 2026-11-17
+* [Review] [Review on: test(trie): check SecuredTrieNodeValidator against a reference written from the spec](https://github.com/NethermindEth/nethermind/pull/15991#pullrequestreview-5932590318) - 2026-11-17
+* [Review] [Review on: chore(deps): update Nethermind.Numerics.Int256 to 1.15.0](https://github.com/NethermindEth/nethermind/pull/15990#pullrequestreview-5932283324) - 2026-11-17
+* [Review] [Review on: fix(trie): finish the batched trie walk past a missing node and stop every worker when one fails](https://github.com/NethermindEth/nethermind/pull/15986#pullrequestreview-5932081168) - 2026-11-17
+* [Review] [Review on: fix(consensus): validate the header number before the seal](https://github.com/NethermindEth/nethermind/pull/15983#pullrequestreview-5931727109) - 2026-11-17
+* [Review] [Review on: perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer](https://github.com/NethermindEth/nethermind/pull/15981#pullrequestreview-5931661362) - 2026-11-17
+* [Review] [Review on: fix(evm): keep only code within the largest size limit in the code cache](https://github.com/NethermindEth/nethermind/pull/15982#pullrequestreview-5931578691) - 2026-11-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

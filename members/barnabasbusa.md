@@ -114,6 +114,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: run watchtower every 15 min with per-host staggered offset](https://github.com/ethpandaops/template-devnets/commit/e045b158886d827a465d206bfef993c6da15a686) - 2026-10-13
 * [Pull Request] [chore: derive ingress usernames from the network name](https://github.com/ethpandaops/template-devnets/pull/199) - 2026-10-29
 * [Commit] [chore: derive ingress usernames from the network name (#199)](https://github.com/ethpandaops/template-devnets/commit/43769c9a91067859b864e4a305e163dc8ca9b17d) - 2026-10-29
+* [Pull Request] [feat: authorize team GitHub SSH keys for root on new nodes](https://github.com/ethpandaops/template-devnets/pull/201) - 2026-11-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 

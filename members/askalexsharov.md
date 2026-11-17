@@ -1167,6 +1167,49 @@ Team: Erigon
 * [Pull Request] [execution/execmodule: always keep live in-memory history](https://github.com/erigontech/erigon/pull/26339) - 2026-11-15
 * [Review] [Review on: common/background: handle zero totals in progress percentages](https://github.com/erigontech/erigon/pull/26333#pullrequestreview-5914223196) - 2026-11-16
 * [Commit] [engineapi: build payload witnesses outside the engine locks (#26335)](https://github.com/erigontech/erigon/commit/3e428d56a65b6d5e48b747716c3da3a41a685a33) - 2026-11-16
+* [Review] [Review on: cl/merkle_tree, cl/cltypes/solid: reject over-limit input in DecodeSSZ and intermediate-level merkleization](https://github.com/erigontech/erigon/pull/26278#pullrequestreview-5931978811) - 2026-11-17
+* [Review] [Review on: ci: add consume-wirex to the daily hive run](https://github.com/erigontech/erigon/pull/26352#pullrequestreview-5920863214) - 2026-11-16
+* [Review] [Review on: db/state: reject a history merge whose source files start late](https://github.com/erigontech/erigon/pull/26366#pullrequestreview-5917397611) - 2026-11-16
+* [Review] [Review on: db/state: step rebase refuses to delete unindexed files](https://github.com/erigontech/erigon/pull/26368#pullrequestreview-5916298722) - 2026-11-16
+* [Pull Request] [AGENTS.md: cut to the core guidelines](https://github.com/erigontech/erigon/pull/26372) - 2026-11-16
+* [Review] [Review on: AGENTS.md: cut to the core guidelines](https://github.com/erigontech/erigon/pull/26372#pullrequestreview-5930521061) - 2026-11-17
+* [Pull Request] [db/state: Retire through an older view no longer skips merged files](https://github.com/erigontech/erigon/pull/26374) - 2026-11-16
+* [Review] [Review on: db/state: Retire through an older view no longer skips merged files](https://github.com/erigontech/erigon/pull/26374#pullrequestreview-5920765932) - 2026-11-16
+* [Pull Request] [cl/beacon/handler: synctest ](https://github.com/erigontech/erigon/pull/26413) - 2026-11-17
+* [Pull Request] [cl/phase1/network: synctest](https://github.com/erigontech/erigon/pull/26414) - 2026-11-17
+* [Pull Request] [p2p, txpool: synctest](https://github.com/erigontech/erigon/pull/26415) - 2026-11-17
+* [Pull Request] [cmd/rpcdaemon/graphql: cap fields per request at --rpc.batch.limit](https://github.com/erigontech/erigon/pull/26393) - 2026-11-16
+* [Pull Request] [execution/state: faster EIP-7702 delegation to empty accounts](https://github.com/erigontech/erigon/pull/26411) - 2026-11-16
+* [Review] [Review on: execution/state: faster EIP-7702 delegation to empty accounts](https://github.com/erigontech/erigon/pull/26411#pullrequestreview-5930598398) - 2026-11-17
+* [Pull Request] [execution/types/accounts: faster concurrent reads of new storage slots](https://github.com/erigontech/erigon/pull/26404) - 2026-11-16
+* [Pull Request] [db/state: a missing accessor no longer stops the node at startup](https://github.com/erigontech/erigon/pull/26386) - 2026-11-16
+* [Review] [Review on: db/state: a missing accessor no longer stops the node at startup](https://github.com/erigontech/erigon/pull/26386#pullrequestreview-5920626747) - 2026-11-16
+* [Review] [Review on: execution/types: decode blob transactions with empty hash lists](https://github.com/erigontech/erigon/pull/26402#pullrequestreview-5931307728) - 2026-11-17
+* [Review] [Review on: db/kv/membatchwithdb: keep cursors moving after deleting the current entry](https://github.com/erigontech/erigon/pull/26399#pullrequestreview-5931309610) - 2026-11-17
+* [Review] [Review on: execution/stagedsync: fold window BAL blocks ahead](https://github.com/erigontech/erigon/pull/26267#pullrequestreview-5931923623) - 2026-11-17
+* [Review] [Review on: db/kv/membatchwithdb: follow the MDBX contract after DeleteCurrent](https://github.com/erigontech/erigon/pull/26417#pullrequestreview-5932986104) - 2026-11-17
+* [Review] [Review on: cl/beacon: reject attester slashings with disjoint indices](https://github.com/erigontech/erigon/pull/26392#pullrequestreview-5931140863) - 2026-11-17
+* [Review] [Review on: cl/cltypes: retain progressive root caches in payload bid copies and clones](https://github.com/erigontech/erigon/pull/26391#pullrequestreview-5931150572) - 2026-11-17
+* [Review] [Review on: cl/beacon: bound JSON block publishing request bodies](https://github.com/erigontech/erigon/pull/26321#pullrequestreview-5931214940) - 2026-11-17
+* [Review] [Review on: rpc, ci: align zkEVM witnesses with execution-specs v21.0.7](https://github.com/erigontech/erigon/pull/26405#pullrequestreview-5931094788) - 2026-11-17
+* [Review] [Review on: cl/utils/bls: hash and pair each distinct message once in batch verification](https://github.com/erigontech/erigon/pull/26406#pullrequestreview-5931768593) - 2026-11-17
+* [Review] [Review on: execution/stagedsync: reset stage cursor after pruning](https://github.com/erigontech/erigon/pull/26409#pullrequestreview-5931384221) - 2026-11-17
+* [Review] [Review on: caplin: fail blob dump when a canonical slot is missing from the block segment](https://github.com/erigontech/erigon/pull/26294#pullrequestreview-5920552184) - 2026-11-16
+* [Pull Request] [ci: skip code checks for docs-only merge groups](https://github.com/erigontech/erigon/pull/26419) - 2026-11-17
+* [Review] [Review on: ci: skip code checks for docs-only merge groups](https://github.com/erigontech/erigon/pull/26419#pullrequestreview-5932205448) - 2026-11-17
+* [Review] [Review on: txpool, shutter: simplify startup and block waits](https://github.com/erigontech/erigon/pull/26387#pullrequestreview-5932035350) - 2026-11-17
+* [Review] [Review on: cmd/utils/app: return state snapshot confirmation errors](https://github.com/erigontech/erigon/pull/26349#pullrequestreview-5932046594) - 2026-11-17
+* [Review] [Review on: execution/state, execution/stagedsync: keep the access list's value of a write that a re-run drops](https://github.com/erigontech/erigon/pull/26395#pullrequestreview-5932043012) - 2026-11-17
+* [Review] [Review on: cltypes: honor configured limits during nested attester slashing SSZ decoding](https://github.com/erigontech/erigon/pull/26390#pullrequestreview-5931170813) - 2026-11-17
+* [Review] [Review on: cl/beacon: bound attester slashing submissions](https://github.com/erigontech/erigon/pull/26142#pullrequestreview-5931762246) - 2026-11-17
+* [Review] [Review on: cl/das, cl/phase1/network/services: mark Gloas columns built from EL blobs as seen before writing them](https://github.com/erigontech/erigon/pull/26403#pullrequestreview-5931281963) - 2026-11-17
+* [Review] [Review on: cl/beacon/beaconevents, cl/phase1/forkchoice, cl/phase1/stages: retry a Gloas envelope that waits for columns as soon as a column is stored](https://github.com/erigontech/erigon/pull/26334#pullrequestreview-5931291668) - 2026-11-17
+* [Review] [Review on: node/interfaces: remove orphan block access list proto definitions](https://github.com/erigontech/erigon/pull/26181#pullrequestreview-5920574818) - 2026-11-16
+* [Commit] [execution/state: a repeated EXTCODECOPY of one address copies from the read record (#26383)](https://github.com/erigontech/erigon/commit/41553814ffb2524f9fb2567421fc0e80fa4d8b53) - 2026-11-16
+* [Commit] [tests: run timer waits under synctest (#26364)](https://github.com/erigontech/erigon/commit/628f2e3c456cb5f526e726429fdde0417f7c2056) - 2026-11-16
+* [Commit] [cl: run more real-time tests in synctest bubbles (#26365)](https://github.com/erigontech/erigon/commit/483ac45284741a7cd450728cc77943c9cb0ec4a3) - 2026-11-16
+* [Commit] [db/state: guard history merges, retirement, rebase and startup checks (#26340)](https://github.com/erigontech/erigon/commit/3ab341d5073d82ea2b6b80fc17b9e0e4088acf4b) - 2026-11-16
+* [Commit] [db/state, cmd, node: remove the serial-commitment switch (#26336)](https://github.com/erigontech/erigon/commit/88082080a6fc0a0d8c2ed49c9bc0bf519f2b9fdc) - 2026-11-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

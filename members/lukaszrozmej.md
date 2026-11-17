@@ -1123,6 +1123,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(network): serve block headers from their stored encoding (#15910)](https://github.com/NethermindEth/nethermind/commit/3a86ad604736b513054032e2e2052aa3c160b4ed) - 2026-11-15
 * [Commit] [fix(optimism): skip Superchain devnets and treat a blank sequencer URL as unset (#15909)](https://github.com/NethermindEth/nethermind/commit/819a5feee8801f792d3198b1fd188f5b36c84733) - 2026-11-15
 * [Commit] [perf(sync): keep block bodies encoded between the network and the block store (#15879)](https://github.com/NethermindEth/nethermind/commit/11ec9f26f74718908e89c4b8bcb4ee6f0c5a8d9f) - 2026-11-15
+* [Pull Request] [perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer](https://github.com/NethermindEth/nethermind/pull/15981) - 2026-11-16
+* [Pull Request] [perf(rpc): skip call tracing in eth_simulateV1 when the result does not need it](https://github.com/NethermindEth/nethermind/pull/15935) - 2026-11-16
+* [Review] [Review on: perf(rpc): skip call tracing in eth_simulateV1 when the result does not need it](https://github.com/NethermindEth/nethermind/pull/15935#pullrequestreview-5920593317) - 2026-11-16
+* [Review] [Review on: chore(deps): update RocksDB package](https://github.com/NethermindEth/nethermind/pull/15985#pullrequestreview-5926915318) - 2026-11-16
+* [Review] [Review on: chore(deps): update Nethermind.Libp2p to 1.2.0 and match the OP Stack gossip message ID](https://github.com/NethermindEth/nethermind/pull/15931#pullrequestreview-5923167980) - 2026-11-16
+* [Commit] [refactor(rpc): remove the unused Account constructor of AccountForRpc (#15950)](https://github.com/NethermindEth/nethermind/commit/c443ae3216020933e146672d78bbb5a50f11dcaf) - 2026-11-16
+* [Commit] [perf(trie): reuse the account address in the storage visit context (#15949)](https://github.com/NethermindEth/nethermind/commit/38a62bf8f716d18f9aef1b4bea65db593b48a65f) - 2026-11-16
+* [Commit] [test(getlogs): take the fewest bytes of several rounds in the per-instance allocation check (#15946)](https://github.com/NethermindEth/nethermind/commit/871b426ba4b38a9dcb0a4e34ca9f8d58915b0ec9) - 2026-11-16
+* [Commit] [perf(consensus): compare header and block access list hashes without allocating (#15933)](https://github.com/NethermindEth/nethermind/commit/012d4d59731b742d10e442ea5d27608e3583b5cd) - 2026-11-16
+* [Commit] [perf(rpc): skip the state restore of eth_call and copy the output only for runs that read it (#15941)](https://github.com/NethermindEth/nethermind/commit/e6d81b969c5575c515be49d46a6af70fc961d716) - 2026-11-16
+* [Commit] [ci(benchmark): run any benchmark of the benchmark runner, base against head (#15936)](https://github.com/NethermindEth/nethermind/commit/c24ef49d5b00af507075f3b5da4bb393d57230b5) - 2026-11-16
+* [Commit] [perf(zkevm): do not hash large transactions at decoding in the guest (#15932)](https://github.com/NethermindEth/nethermind/commit/08f4bf155ae2664ec31995d53ef1cdc27816d3a7) - 2026-11-16
+* [Commit] [perf(sync): keep receipts encoded when syncing and serving them (#15896)](https://github.com/NethermindEth/nethermind/commit/dacdcd248c775cf124302d1980a460562f1f4e47) - 2026-11-16
+* [Commit] [fix(test): pass the RLP bytes of the block number to the transaction index (#15943)](https://github.com/NethermindEth/nethermind/commit/a7d6ca0c1e4b4dd3a25bf66cc584893d71c820a8) - 2026-11-16
+* [Commit] [fix(test): pass the RLP-encoded block number as bytes in the pruned-history receipt test (#15945)](https://github.com/NethermindEth/nethermind/commit/861231a5d08f62490f20c226037ef58e2d0c80a5) - 2026-11-16
+* [Commit] [test(network): cover block body serving leases and fix the serving benchmark (#15930)](https://github.com/NethermindEth/nethermind/commit/b33c5c41fbba119e06b5bc138e1bda240c81ce91) - 2026-11-16
+* [Commit] [perf(snap): serve account and storage ranges as encoded entries in pooled memory (#15912)](https://github.com/NethermindEth/nethermind/commit/f16779610ba29850b17b8af3aa1d2a3801f0cc85) - 2026-11-16
+* [Commit] [perf(txpool): serve stored blob transactions in PooledTransactions without decoding them (#15911)](https://github.com/NethermindEth/nethermind/commit/9649aa890a5dd59d2b14448b74d8b0b849960ef9) - 2026-11-16
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Review] [Review on: Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38#pullrequestreview-5390617911) - 2026-10-02
 * [Commit] [Require explicit guest success in the ZisK regression test](https://github.com/NethermindEth/bflat-riscv64/commit/4d155d507bce510a52f01b64e679605fe346fc85) - 2026-10-02
@@ -1156,6 +1174,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/pull/62) - 2026-10-21
 * [Commit] [perf(zkvm): drop GC-only prolog zeroing on the zkVM targets](https://github.com/NethermindEth/bflat-riscv64/commit/c77bba88e92a83f3f3242aaf9976aaf9110db909) - 2026-10-21
 * [Pull Request] [riscv32: build Airbender guests (--arch riscv32 --libc airbender)](https://github.com/NethermindEth/bflat-riscv64/pull/66) - 2026-10-27
+* [Review] [Review on: ci: build the image with the runtime of a dotnet-riscv run](https://github.com/NethermindEth/bflat-riscv64/pull/78#pullrequestreview-5923298323) - 2026-11-16
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Commit] [fixup/11/upstream: track extension state on RISC-V; no LSRA kills at fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/1530c35e40cedb27e0a7f1716f759fbe7ae3cec2) - 2026-10-02
 * [Commit] [fixup/11/upstream: elide the RA save in methods whose only calls are fast tail calls](https://github.com/NethermindEth/dotnet-riscv/commit/750f71ab589ecb6b139359ba7a16b63089cb2de9) - 2026-10-02

@@ -388,6 +388,19 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix(tracing): run block replays on copies of the block's transactions (#15770)](https://github.com/NethermindEth/nethermind/commit/59813e138d9d401ad0e03bf7b27484a4a31b7733) - 2026-11-13
 * [Commit] [perf(flat): compact the persisted snapshots a restart reloads (#15858)](https://github.com/NethermindEth/nethermind/commit/dce158631373e23c1feddbc26739d497f3d15b46) - 2026-11-13
 * [Commit] [test(flat): move the shared-bloom tests into the compactor and loader fixtures (#15832)](https://github.com/NethermindEth/nethermind/commit/8cd019e0ba635578f6c23320ab2d5195b1b341f3) - 2026-11-13
+* [Pull Request] [test(evm): cover cached call frames across transactions with different tracers](https://github.com/NethermindEth/nethermind/pull/15992) - 2026-11-16
+* [Pull Request] [test(trie): check SecuredTrieNodeValidator against a reference written from the spec](https://github.com/NethermindEth/nethermind/pull/15991) - 2026-11-16
+* [Pull Request] [fix(trie): finish the batched trie walk past a missing node and stop every worker when one fails](https://github.com/NethermindEth/nethermind/pull/15986) - 2026-11-16
+* [Review] [Review on: fix(trie): finish the batched trie walk past a missing node and stop every worker when one fails](https://github.com/NethermindEth/nethermind/pull/15986#pullrequestreview-5927322953) - 2026-11-16
+* [Review] [Review on: perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer](https://github.com/NethermindEth/nethermind/pull/15981#pullrequestreview-5927333152) - 2026-11-16
+* [Pull Request] [test(sync): fail state-sync tests on a faulted round or a tree mismatch](https://github.com/NethermindEth/nethermind/pull/15993) - 2026-11-16
+* [Pull Request] [test(flat): assert a dropped node buffer generation misses lookups](https://github.com/NethermindEth/nethermind/pull/15989) - 2026-11-16
+* [Pull Request] [fix(evm): report the code of an account at a precompile address in EXTCODESIZE and EXTCODECOPY](https://github.com/NethermindEth/nethermind/pull/15988) - 2026-11-16
+* [Pull Request] [test(db): cover readahead misses between stored keys](https://github.com/NethermindEth/nethermind/pull/15987) - 2026-11-16
+* [Review] [Review on: chore(deps): update Nethermind.Libp2p to 1.2.0 and match the OP Stack gossip message ID](https://github.com/NethermindEth/nethermind/pull/15931#pullrequestreview-5921444976) - 2026-11-16
+* [Commit] [test(sync): run the non-Flat E2E sync fixtures on Patricia storage (#15960)](https://github.com/NethermindEth/nethermind/commit/8ca675e7ad3940b9f5fea88e10767554be519b4e) - 2026-11-16
+* [Commit] [fix(flat): guard each CompactSized boundary and observe a stop between them (#15869)](https://github.com/NethermindEth/nethermind/commit/89edb709e6da0d75cf1bfacb9f0a24bf80afe559) - 2026-11-16
+* [Commit] [fix(rpc)!: let the stored block decide 4444 for a missing transaction receipt (#15857)](https://github.com/NethermindEth/nethermind/commit/0901a792fb6cd05c8e0830f90cbb62b78b6911b6) - 2026-11-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Marcos Maceo's contribution from 0.5 to 1](https://github.com/protocolguild/documentation/pull/584#pullrequestreview-5540159463) - 2026-10-15
 ## Q3 2026

@@ -42,6 +42,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add logs about Gloas payload bids](https://github.com/sigp/lighthouse/pull/10474#pullrequestreview-5676776232) - 2026-10-28
 * [Review] [Review on: Bump libz-sys to 1.1.31](https://github.com/sigp/lighthouse/pull/10499#pullrequestreview-5706474686) - 2026-10-29
 * [Issue] [`lighthouse vm move` cannot move web3signer keys](https://github.com/sigp/lighthouse/issues/10501) - 2026-10-30
+* [Review] [Review on: Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641#pullrequestreview-5916837007) - 2026-11-16
+* [Pull Request] [Add builder related fields in config/spec](https://github.com/sigp/lighthouse/pull/10601) - 2026-11-17
+* [Pull Request] [Delete duplication in metrics.rs](https://github.com/sigp/lighthouse/pull/10492) - 2026-11-17
 ## Q3 2026
 
 

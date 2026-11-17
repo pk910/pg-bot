@@ -100,6 +100,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5898968338) - 2026-11-13
 * [Commit] [fix(test-specs): keep state tests' excess blob gas in blockchain form (#3983)](https://github.com/ethereum/execution-specs/commit/7fd35fca7113d061122b2bc1f8eedb15fb9d5502) - 2026-11-13
 * [Review] [Review on: feat(test-specs): check chain invariants while filling](https://github.com/ethereum/execution-specs/pull/3982#pullrequestreview-5908871183) - 2026-11-15
+* [Review] [Review on: fix(ci): skip authors with write access in the outside contributor gate](https://github.com/ethereum/execution-specs/pull/4010#pullrequestreview-5923802237) - 2026-11-16
+* [Commit] [feat(test-specs): check chain invariants while filling (#3982)](https://github.com/ethereum/execution-specs/commit/d15ecf40062fcfe20d23b7b5ff1c078bcbe251c3) - 2026-11-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Fix system calls in block access lists and contract creation (#11397)](https://github.com/besu-eth/besu/commit/a95be45c9f872f72901a05b50dfeee330c6ffc7a) - 2026-10-02
 

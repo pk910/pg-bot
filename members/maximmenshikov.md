@@ -39,6 +39,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: feat(stateless): catch exceptions in the Airbender guest](https://github.com/NethermindEth/nethermind/pull/15799#pullrequestreview-5904195221) - 2026-11-14
 * [Commit] [feat(stateless): catch exceptions in the Airbender guest (#15799)](https://github.com/NethermindEth/nethermind/commit/9ae1cd11094717278616f7563144aae05cff9c82) - 2026-11-15
 * [Pull Request] [build(zkevm): bump Nethermind.Sp1.Runtime to 6.9.0.87 and Nethermind.OpenVM.Runtime to 2.1.0.70](https://github.com/NethermindEth/nethermind/pull/15916) - 2026-11-15
+* [Commit] [build(zkevm): bump Nethermind.Sp1.Runtime to 6.9.0.87 and Nethermind.OpenVM.Runtime to 2.1.0.70 (#15916)](https://github.com/NethermindEth/nethermind/commit/9ff17b219b338ebed575a8b06f3d392888458bb9) - 2026-11-16
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Various patches](https://github.com/NethermindEth/dotnet-riscv/pull/15) - 2026-10-01
 
@@ -85,6 +86,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [perf-85: IlcZkNoGcInfo leaves the GC info out of the LSDA](https://github.com/NethermindEth/dotnet-riscv/pull/40) - 2026-11-11
 * [Commit] [rootfs: move runtime's apk-tools-static pin to 3.0.9-r0](https://github.com/NethermindEth/dotnet-riscv/commit/b80502c399158554b7fce8aaa2b89268cd814485) - 2026-11-13
 * [Commit] [Merge pull request #40 from NethermindEth/feat/ilc-zk-no-gc-info](https://github.com/NethermindEth/dotnet-riscv/commit/dc34e49fee906914b6a87b7099f1a181d0ef5972) - 2026-11-13
+* [Pull Request] [ci: Sign the assets of every run, not only of a release](https://github.com/NethermindEth/dotnet-riscv/pull/41) - 2026-11-16
+* [Commit] [Merge pull request #41 from NethermindEth/ci/sign-every-run](https://github.com/NethermindEth/dotnet-riscv/commit/8512e891988ef26cb1a8994526225e8a0898043a) - 2026-11-16
+* [Commit] [ci: Sign the assets of every run, not only of a release](https://github.com/NethermindEth/dotnet-riscv/commit/31ee04fe6a6a7f4c9885bd2c5d134c85b2b68c00) - 2026-11-16
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Commit] [Merge pull request #43 from NethermindEth/zisk-bitmanip-extensions](https://github.com/NethermindEth/bflat-riscv64/commit/0eefff0d1a6d9ddefe4e63758d41436be6c4617a) - 2026-10-02
 * [Commit] [Merge pull request #44 from NethermindEth/tls-get-addr-leaf](https://github.com/NethermindEth/bflat-riscv64/commit/e2d3461a945088c9e17b4eada2e5ecff52c63982) - 2026-10-02
@@ -179,6 +183,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [test: Images with the IlcZkNoGcInfo runtime](https://github.com/NethermindEth/bflat-riscv64/pull/77) - 2026-11-11
 * [Pull Request] [riscv32: Exception handling on Airbender](https://github.com/NethermindEth/bflat-riscv64/pull/76) - 2026-11-11
 * [Commit] [Merge pull request #76 from NethermindEth/feat/riscv32-unwind-tables](https://github.com/NethermindEth/bflat-riscv64/commit/80f97933b93f86c20aad5a5edbfc08cb9cd9b2b4) - 2026-11-14
+* [Review] [Review on: ci: build the image with the runtime of a dotnet-riscv run](https://github.com/NethermindEth/bflat-riscv64/pull/78#pullrequestreview-5929482281) - 2026-11-16
 ## Q3 2026
 
 

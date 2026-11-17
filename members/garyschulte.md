@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: Remove redundant arity = "1" from non-boolean CLI options](https://github.com/besu-eth/besu/pull/11798#pullrequestreview-5691471741) - 2026-10-29
 * [Commit] [deter-7702+ delegation attack mitigation (#146)](https://github.com/besu-eth/besu/commit/bda7433c4f42e0e1cec5b74518f534d176f39c94) - 2026-11-02
 * [Pull Request] [Pluggable protocol schedule customization](https://github.com/besu-eth/besu/pull/11887) - 2026-11-07
+* [Review] [Review on: Pluggable protocol schedule customization](https://github.com/besu-eth/besu/pull/11887#pullrequestreview-5930177482) - 2026-11-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Change my weight from 1 to 0.5 (partial)](https://github.com/protocolguild/documentation/pull/558#pullrequestreview-5432630857) - 2026-10-06
 
