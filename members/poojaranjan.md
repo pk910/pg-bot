@@ -20,6 +20,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #118, October 27, 2026](https://github.com/ethereum/pm/issues/2287) - 2026-10-26
 * [Issue] [EIPIP Meeting #132, Nov 18, 2026](https://github.com/ethereum/pm/issues/2288) - 2026-10-26
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #119, November 10, 2026](https://github.com/ethereum/pm/issues/2297) - 2026-11-09
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #120, November 24, 2026](https://github.com/ethereum/pm/issues/2307) - 2026-11-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/commit/cd7b26d2cf39d2eb071a26e1890e331f58767079) - 2026-10-20
 * [Pull Request] [Update EIP-1: Update EIP-1 with EIP Coordinator details](https://github.com/ethereum/EIPs/pull/12643) - 2026-11-10

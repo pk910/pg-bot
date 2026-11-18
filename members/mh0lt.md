@@ -20,6 +20,7 @@ Team: Erigon
 * [Review] [Review on: execution/state, execution/stagedsync: parallel-exec follow-up — scope BAL cold-read exemption, version+valStatus validation, test coverage](https://github.com/erigontech/erigon/pull/25330#pullrequestreview-5702518781) - 2026-10-29
 * [Commit] [execution/stagedsync, execution/state: fold commitment from the version map; delete calcState (#25491)](https://github.com/erigontech/erigon/commit/6ac9c93bbeb499238be7a74b589a2f86fd8f7440) - 2026-11-05
 * [Review] [Review on: execution/stagedsync: a named re-run waits for its writer to validate](https://github.com/erigontech/erigon/pull/25785#pullrequestreview-5783941086) - 2026-11-05
+* [Pull Request] [execution/stagedsync: intra-block commitment checkpoints (COMMITMENT_INTRABLOCK_TXS)](https://github.com/erigontech/erigon/pull/26472) - 2026-11-17
 ## Q3 2026
 
 

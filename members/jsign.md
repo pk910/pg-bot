@@ -82,6 +82,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [ci: re-enable zisk in the zkVM version check](https://github.com/eth-act/ere/pull/469) - 2026-10-30
 * [Issue] [Upgrade Zisk to v1.4.0-alpha](https://github.com/eth-act/ere/issues/468) - 2026-10-30
 * [Commit] [ci: re-enable zisk in the zkVM version check (#469)](https://github.com/eth-act/ere/commit/6a3f76ebb7bcd0d5b7d793dc1d695f2ec464ca0b) - 2026-10-31
+* [Pull Request] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478) - 2026-11-17
+* [Review] [Review on: feat(openvm): build `rust-customized` guests with `openvm-1.97.1`](https://github.com/eth-act/ere/pull/478#pullrequestreview-5943904132) - 2026-11-17
+* [Commit] [feat(openvm): build `rust-customized` guests with `openvm-1.97.1` (#478)](https://github.com/eth-act/ere/commit/503ad51a861d88ccbb3aa840cb42320f577c36ab) - 2026-11-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #09, October 14, 2026](https://github.com/ethereum/pm/issues/2269) - 2026-10-12
 

@@ -44,6 +44,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Return early for a known payload in `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5784#pullrequestreview-5718057165) - 2026-10-30
 * [Review] [Review on: Do not prefer an unsatisfied payload as head during its own slot](https://github.com/ethereum/consensus-specs/pull/5769#pullrequestreview-5717013892) - 2026-10-30
 * [Pull Request] [Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792) - 2026-10-31
+* [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5934379277) - 2026-11-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
@@ -59,6 +60,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #44, October 13, 2026](https://github.com/ethereum/pm/issues/2268) - 2026-10-12
 * [Issue] [FOCIL Breakout #45, October 27, 2026](https://github.com/ethereum/pm/issues/2286) - 2026-10-26
 * [Issue] [FOCIL Breakout #46, November 17, 2026](https://github.com/ethereum/pm/issues/2289) - 2026-10-27
+* [Issue] [FOCIL Breakout #47, November 24, 2026](https://github.com/ethereum/pm/issues/2308) - 2026-11-17
 ## Q3 2026
 
 

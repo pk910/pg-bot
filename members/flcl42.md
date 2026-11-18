@@ -132,6 +132,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(consensus): validate the header number before the seal](https://github.com/NethermindEth/nethermind/pull/15983#pullrequestreview-5931727109) - 2026-11-17
 * [Review] [Review on: perf(txpool): hold the blob proofs of a sidecar in one contiguous buffer](https://github.com/NethermindEth/nethermind/pull/15981#pullrequestreview-5931661362) - 2026-11-17
 * [Review] [Review on: fix(evm): keep only code within the largest size limit in the code cache](https://github.com/NethermindEth/nethermind/pull/15982#pullrequestreview-5931578691) - 2026-11-17
+* [Review] [Review on: perf(snap): size the served access lists buffers up front and read little past the limit](https://github.com/NethermindEth/nethermind/pull/16034#pullrequestreview-5950833426) - 2026-11-18
+* [Review] [Review on: perf(sync): serve GetBlockHeaders requests with a skip from batched reads](https://github.com/NethermindEth/nethermind/pull/15978#pullrequestreview-5944211127) - 2026-11-17
+* [Review] [Review on: perf(merge): read payload bodies in batches](https://github.com/NethermindEth/nethermind/pull/15973#pullrequestreview-5934774468) - 2026-11-17
+* [Review] [Review on: fix(rpc): report why a debug_traceCall txIndex fails to parse](https://github.com/NethermindEth/nethermind/pull/15957#pullrequestreview-5946668500) - 2026-11-17
+* [Review] [Review on: fix(tracing): close JavaScript and standard-file tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5945259648) - 2026-11-17
+* [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5945747259) - 2026-11-17
+* [Review] [Review on: fix(db): dispose read options and snapshots only after pinned reads end](https://github.com/NethermindEth/nethermind/pull/16028#pullrequestreview-5946228637) - 2026-11-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

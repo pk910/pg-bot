@@ -63,6 +63,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Add an event topic for attestation weight per block](https://github.com/sigp/lighthouse/pull/10517#pullrequestreview-5854004308) - 2026-11-11
 * [Review] [Review on: Only request column reconstruction once half the columns are cached](https://github.com/sigp/lighthouse/pull/10561#pullrequestreview-5922861022) - 2026-11-16
 * [Pull Request] [Log the first TimeLatch event instead of swallowing it](https://github.com/sigp/lighthouse/pull/10479) - 2026-11-17
+* [Review] [Review on: Extend beacon block streamer test through Gloas](https://github.com/sigp/lighthouse/pull/10375#pullrequestreview-5938784221) - 2026-11-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove the EIP-8025 payload dependency](https://github.com/ethereum/consensus-specs/pull/5729) - 2026-10-11
 
