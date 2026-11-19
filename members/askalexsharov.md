@@ -1236,6 +1236,50 @@ Team: Erigon
 * [Commit] [db/state: a missing accessor no longer stops the node at startup (#26386)](https://github.com/erigontech/erigon/commit/90e0d66aef3e21554e030cb0829b19ea6e83552a) - 2026-11-17
 * [Commit] [cl/beacon/handler: synctest  (#26413)](https://github.com/erigontech/erigon/commit/bb557d4b0fbe5c12bfcc6fdef49a299a70709187) - 2026-11-17
 * [Commit] [cl/phase1/network: synctest (#26414)](https://github.com/erigontech/erigon/commit/506f5faeaf9f4fe7b03f1f47ea83e9fa99f9f013) - 2026-11-17
+* [Pull Request] [db/kv/membatchwithdb: match MDBX for DupSort point reads, NextDup/NextNoDup and descending range bounds](https://github.com/erigontech/erigon/pull/26532) - 2026-11-19
+* [Pull Request] [synctest: run more goroutine-coordination tests in bubbles (common/event, node/workerpool)](https://github.com/erigontech/erigon/pull/26526) - 2026-11-19
+* [Review] [Review on: synctest: run more goroutine-coordination tests in bubbles (common/event, node/workerpool)](https://github.com/erigontech/erigon/pull/26526#pullrequestreview-5969282229) - 2026-11-19
+* [Pull Request] [db/kv/mdbx: return an error from ClearTable for an unknown table name](https://github.com/erigontech/erigon/pull/26530) - 2026-11-19
+* [Review] [Review on: db/integrity: run-wide integrity budget; a cut check fails the run](https://github.com/erigontech/erigon/pull/26509#pullrequestreview-5968140965) - 2026-11-19
+* [Pull Request] [db/kv/membatchwithdb: overlay deletions as tombstones, COW read views](https://github.com/erigontech/erigon/pull/26487) - 2026-11-18
+* [Review] [Review on: db/kv/membatchwithdb: overlay deletions as tombstones, COW read views](https://github.com/erigontech/erigon/pull/26487#pullrequestreview-5952558515) - 2026-11-18
+* [Pull Request] [db/kv/mdbx: start a descending RangeDupSort at the last dup when fromPrefix has no successor](https://github.com/erigontech/erigon/pull/26529) - 2026-11-19
+* [Pull Request] [rpc/transactions: ComputeBlockContext builds the versioned state](https://github.com/erigontech/erigon/pull/26504) - 2026-11-18
+* [Pull Request] [cmd/evm: write the t8n pre-state through the versioned state](https://github.com/erigontech/erigon/pull/26503) - 2026-11-18
+* [Review] [Review on: cmd/evm: write the t8n pre-state through the versioned state](https://github.com/erigontech/erigon/pull/26503#pullrequestreview-5957854689) - 2026-11-18
+* [Pull Request] [execution/state: keep createdContract after a reverted SELFDESTRUCT](https://github.com/erigontech/erigon/pull/26499) - 2026-11-18
+* [Pull Request] [execution/execmodule: setHead clears stale safe and finalized markers](https://github.com/erigontech/erigon/pull/26497) - 2026-11-18
+* [Review] [Review on: execution/execmodule: setHead clears stale safe and finalized markers](https://github.com/erigontech/erigon/pull/26497#pullrequestreview-5954929570) - 2026-11-18
+* [Pull Request] [docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498) - 2026-11-18
+* [Pull Request] [execution/stagedsync: consume the unwind request when RunUnwind fails](https://github.com/erigontech/erigon/pull/26496) - 2026-11-18
+* [Review] [Review on: execution/stagedsync: consume the unwind request when RunUnwind fails](https://github.com/erigontech/erigon/pull/26496#pullrequestreview-5954207059) - 2026-11-18
+* [Pull Request] [node/direct: no panic or hang in log/receipt streams at shutdown](https://github.com/erigontech/erigon/pull/26485) - 2026-11-18
+* [Review] [Review on: node/direct: no panic or hang in log/receipt streams at shutdown](https://github.com/erigontech/erigon/pull/26485#pullrequestreview-5952027023) - 2026-11-18
+* [Pull Request] [db/state: prefix scans see slots restored by an in-memory unwind](https://github.com/erigontech/erigon/pull/26495) - 2026-11-18
+* [Pull Request] [db/kv/temporal, db/state: close MDBX before unmapping state files](https://github.com/erigontech/erigon/pull/26484) - 2026-11-18
+* [Review] [Review on: db/kv/temporal, db/state: close MDBX before unmapping state files](https://github.com/erigontech/erigon/pull/26484#pullrequestreview-5952026575) - 2026-11-18
+* [Pull Request] [db/state: bound the v3 fold's reorder backlog](https://github.com/erigontech/erigon/pull/26489) - 2026-11-18
+* [Review] [Review on: [r3.8] docs, db/version: prepare 3.8.2](https://github.com/erigontech/erigon/pull/26522#pullrequestreview-5968658689) - 2026-11-19
+* [Review] [Review on: execution/state: publish the net effect of a create and destruct over an existing account](https://github.com/erigontech/erigon/pull/26491#pullrequestreview-5952981658) - 2026-11-18
+* [Pull Request] [execution/commitment/v3: stop storage work when an account read fails](https://github.com/erigontech/erigon/pull/26488) - 2026-11-18
+* [Review] [Review on: execution/commitment/v3: stop storage work when an account read fails](https://github.com/erigontech/erigon/pull/26488#pullrequestreview-5952112427) - 2026-11-18
+* [Review] [Review on: execution/stagedsync: count in-pool re-runs and wasted run time](https://github.com/erigontech/erigon/pull/26048#pullrequestreview-5952170101) - 2026-11-18
+* [Review] [Review on: db/kv: honor pair deletions in SeekBothExact](https://github.com/erigontech/erigon/pull/26508#pullrequestreview-5967857557) - 2026-11-19
+* [Review] [Review on: rpc: limit the calls in flight on one WebSocket connection](https://github.com/erigontech/erigon/pull/26059#pullrequestreview-5952641862) - 2026-11-18
+* [Pull Request] [.github/workflows: take sonar and bench out of the merge queue](https://github.com/erigontech/erigon/pull/26482) - 2026-11-18
+* [Review] [Review on: execution/state: grow the journal by doubling](https://github.com/erigontech/erigon/pull/26475#pullrequestreview-5957852186) - 2026-11-18
+* [Pull Request] [rpc: check the run flag after registering the codec, so Stop closes it](https://github.com/erigontech/erigon/pull/26486) - 2026-11-18
+* [Pull Request] [rpc/jsonrpc: trace_* builds its states with a version map](https://github.com/erigontech/erigon/pull/26505) - 2026-11-18
+* [Commit] [execution/commitment/v3: stop storage work when an account read fails (#26488)](https://github.com/erigontech/erigon/commit/b743ff8cb32564de769456d9dee76baf428cf6c3) - 2026-11-19
+* [Commit] [execution/state: grow the journal by doubling (#26475)](https://github.com/erigontech/erigon/commit/aec1bfb629e07dbdec4e5e4fd91eb7bdb2595902) - 2026-11-19
+* [Commit] [.github/workflows: take sonar and bench out of the merge queue (#26482)](https://github.com/erigontech/erigon/commit/01a74ae3279df27acb3019a8e6012bfaaf77ef33) - 2026-11-19
+* [Commit] [rpc: check the run flag after registering the codec, so Stop closes it (#26486)](https://github.com/erigontech/erigon/commit/d29725ce6301e5e4c99de8803c9ce16d61c1aa99) - 2026-11-19
+* [Commit] [node/eth, execution/stagedsync, db/state: test missed-accessor builds (#26442)](https://github.com/erigontech/erigon/commit/db170f416672c8025619254b3b535892253ebcce) - 2026-11-18
+* [Commit] [common/concurrent: run the timer-gated tests in synctest bubbles (#26481)](https://github.com/erigontech/erigon/commit/40db3c32654b39b24b27605527bd03fe0beed542) - 2026-11-18
+* [Commit] [AGENTS.md: cut to the core guidelines (#26372)](https://github.com/erigontech/erigon/commit/ab1c64f69af0951918adce58b30875e0dd124210) - 2026-11-18
+* [Commit] [cl/phase1/network: fix a flaky HTTP fallback test on loaded runners (#26480)](https://github.com/erigontech/erigon/commit/f62c396572b331c2a1018269c6dfd672d56df759) - 2026-11-18
+* [Commit] [execution/stagedsync: the commitment flush no longer blocks the fold (#26462)](https://github.com/erigontech/erigon/commit/9b1d2e2c0076bd9171076c573967b82f19df48a6) - 2026-11-18
+* [Commit] [db/state: a gap in one list's files no longer gives stale reads (#25965)](https://github.com/erigontech/erigon/commit/3b72e0b9531b2b02bca844c229475bb0c693e83b) - 2026-11-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

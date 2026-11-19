@@ -529,6 +529,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon/beaconevents, cl/phase1/forkchoice, cl/phase1/stages: retry a Gloas envelope that waits for columns as soon as a column is stored (#26334)](https://github.com/erigontech/erigon/commit/51c25bf3fc588c044af6a751dd426c1b7edc0a9c) - 2026-11-17
 * [Commit] [cl/das: write recovered columns in one batch, and columns one at a time after a failed batch (#26425)](https://github.com/erigontech/erigon/commit/7d78fdecacf7494cfb0cb19839398aadaef9706c) - 2026-11-17
 * [Commit] [cl/phase1/network/services, cl/beacon/beaconevents, cl/beacon/handler: retry the Gloas EL blob import once when the envelope arrives (#26348)](https://github.com/erigontech/erigon/commit/2ef2092779d6fc48d99b0b035296a5cd485b2c62) - 2026-11-17
+* [Commit] [cl/persistence/blob_storage, cl/beacon/handler: store a batch of columns in one pack file per block (#26457)](https://github.com/erigontech/erigon/commit/713ef83cd7b63023e22a423fabec0ae08c988b68) - 2026-11-18
 ## Q3 2026
 
 

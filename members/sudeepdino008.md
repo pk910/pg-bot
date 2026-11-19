@@ -23,6 +23,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[tiering v2 - 16] db/state, node: --tiering.cold-io-max-mbps caps demotion copies and cold merges](https://github.com/erigontech/erigon/pull/25443) - 2026-10-27
 * [Commit] [execution/stagedsync: raise ancient blocks prune limit on initial cycle (#25367)](https://github.com/erigontech/erigon/commit/6d800751a3c8b3ab32f1e8870d1ccabe9fccfabe) - 2026-10-27
 * [Review] [Review on: db/kv/backup: auto-compact at 3x bloat and 5 GB free](https://github.com/erigontech/erigon/pull/25493#pullrequestreview-5692080866) - 2026-10-29
+* [Pull Request] [agents: add erigon-snapshot-pr-review skill](https://github.com/erigontech/erigon/pull/26531) - 2026-11-19
 ## Q3 2026
 
 

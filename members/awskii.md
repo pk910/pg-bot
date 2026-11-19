@@ -675,6 +675,26 @@ Team: Erigon
 * [Commit] [rpc, ci: align zkEVM witnesses with execution-specs v21.0.7 (#26405)](https://github.com/erigontech/erigon/commit/f5896161835cec052bc60b7c4bd83cd1db411441) - 2026-11-17
 * [Commit] [db/kv/membatchwithdb: follow the MDBX contract after DeleteCurrent (#26417)](https://github.com/erigontech/erigon/commit/14374dfe1fe44d07f4df7cc33f770a180783a22e) - 2026-11-17
 * [Commit] [execution/stagedsync: fold window BAL blocks ahead (#26267)](https://github.com/erigontech/erigon/commit/38945132534c4be266603f8fda72f80a0a144974) - 2026-11-17
+* [Pull Request] [db/integrity: run-wide integrity budget; a cut check fails the run](https://github.com/erigontech/erigon/pull/26509) - 2026-11-18
+* [Review] [Review on: db/integrity: run-wide integrity budget; a cut check fails the run](https://github.com/erigontech/erigon/pull/26509#pullrequestreview-5960728522) - 2026-11-18
+* [Review] [Review on: rpc/transactions: ComputeBlockContext builds the versioned state](https://github.com/erigontech/erigon/pull/26504#pullrequestreview-5969243603) - 2026-11-19
+* [Review] [Review on: cmd/evm: write the t8n pre-state through the versioned state](https://github.com/erigontech/erigon/pull/26503#pullrequestreview-5969241079) - 2026-11-19
+* [Review] [Review on: execution/state: keep createdContract after a reverted SELFDESTRUCT](https://github.com/erigontech/erigon/pull/26499#pullrequestreview-5969238701) - 2026-11-19
+* [Review] [Review on: execution/execmodule: setHead clears stale safe and finalized markers](https://github.com/erigontech/erigon/pull/26497#pullrequestreview-5969208051) - 2026-11-19
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5969210659) - 2026-11-19
+* [Review] [Review on: execution/stagedsync: consume the unwind request when RunUnwind fails](https://github.com/erigontech/erigon/pull/26496#pullrequestreview-5969197041) - 2026-11-19
+* [Review] [Review on: db/state: prefix scans see slots restored by an in-memory unwind](https://github.com/erigontech/erigon/pull/26495#pullrequestreview-5969185945) - 2026-11-19
+* [Review] [Review on: db/kv/temporal, db/state: close MDBX before unmapping state files](https://github.com/erigontech/erigon/pull/26484#pullrequestreview-5969183390) - 2026-11-19
+* [Review] [Review on: db/state: bound the v3 fold's reorder backlog](https://github.com/erigontech/erigon/pull/26489#pullrequestreview-5969154828) - 2026-11-19
+* [Pull Request] [exec: V3_PREEXEC pre-executes block txs to warm state and commitment](https://github.com/erigontech/erigon/pull/26521) - 2026-11-18
+* [Review] [Review on: exec: V3_PREEXEC pre-executes block txs to warm state and commitment](https://github.com/erigontech/erigon/pull/26521#pullrequestreview-5965202029) - 2026-11-18
+* [Issue] [execution/execmodule: SetHead does not quiesce background block retire and state file builds](https://github.com/erigontech/erigon/issues/26528) - 2026-11-19
+* [Issue] [execution/state: SLOAD after SELFDESTRUCT of a contract created over storage reads pre-creation storage](https://github.com/erigontech/erigon/issues/26527) - 2026-11-19
+* [Issue] [node/direct: Subscribe stream handler can block for good in Send after cancel](https://github.com/erigontech/erigon/issues/26525) - 2026-11-19
+* [Issue] [cmd/capcli: chain download fails at start on a Gloas head whose payload is not revealed](https://github.com/erigontech/erigon/issues/26513) - 2026-11-18
+* [Commit] [db/integrity: run-wide integrity budget; a cut check fails the run (#26509)](https://github.com/erigontech/erigon/commit/dfa41b1657b6da40bccb70646765bf1bac8fc52d) - 2026-11-19
+* [Commit] [cmd/capcli: take the walk's expected blob count from the child it came from (#26506)](https://github.com/erigontech/erigon/commit/ecd128a6fcdce8de7168fceeb13fc7d9270b2386) - 2026-11-18
+* [Commit] [cmd/utils/app: publishable lists each snapshot dir once and honors ctx (#26431)](https://github.com/erigontech/erigon/commit/29d3efcdfc8469df71bb940cd40f645a01330d0e) - 2026-11-18
 ## Q3 2026
 
 

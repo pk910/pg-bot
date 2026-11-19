@@ -139,6 +139,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(tracing): close JavaScript and standard-file tracer Low parity gaps](https://github.com/NethermindEth/nethermind/pull/15958#pullrequestreview-5945259648) - 2026-11-17
 * [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5945747259) - 2026-11-17
 * [Review] [Review on: fix(db): dispose read options and snapshots only after pinned reads end](https://github.com/NethermindEth/nethermind/pull/16028#pullrequestreview-5946228637) - 2026-11-17
+* [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5957391162) - 2026-11-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 
