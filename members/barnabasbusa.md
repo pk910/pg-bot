@@ -87,6 +87,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: count remaining slots as scheduled in the epoch API (#926)](https://github.com/ethpandaops/dora/commit/9e8ac527d1ec7d6312bed933f9d7bcf145d74716) - 2026-10-26
 * [Review] [Review on: Execution proofs: fix signature hashing and Prysm events, allow mock proofs on devnets](https://github.com/ethpandaops/dora/pull/929#pullrequestreview-5668197082) - 2026-10-27
 * [Review] [Review on: Bump spamoor for bogota-devnet-2 frame transactions (max_fee, ASSERT)](https://github.com/ethpandaops/dora/pull/920#pullrequestreview-5697031867) - 2026-10-29
+* [Pull Request] [feat: support the consensus-specs pq fork](https://github.com/ethpandaops/dora/pull/939) - 2026-11-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 

@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [wire in EngineAPI for heze fork choice + adopt new heze fork choice tests](https://github.com/status-im/nimbus-eth2/pull/9397) - 2026-10-28
 * [Pull Request] [extend database to heze](https://github.com/status-im/nimbus-eth2/pull/9413) - 2026-10-29
 * [Pull Request] [Speedup attestation key aggregation with cached committee sums](https://github.com/status-im/nimbus-eth2/pull/9420) - 2026-11-02
+* [Pull Request] [Pq devnet 0](https://github.com/status-im/nimbus-eth2/pull/9459) - 2026-11-19
 ## Q3 2026
 
 

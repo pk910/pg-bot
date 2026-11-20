@@ -1280,6 +1280,45 @@ Team: Erigon
 * [Commit] [cl/phase1/network: fix a flaky HTTP fallback test on loaded runners (#26480)](https://github.com/erigontech/erigon/commit/f62c396572b331c2a1018269c6dfd672d56df759) - 2026-11-18
 * [Commit] [execution/stagedsync: the commitment flush no longer blocks the fold (#26462)](https://github.com/erigontech/erigon/commit/9b1d2e2c0076bd9171076c573967b82f19df48a6) - 2026-11-18
 * [Commit] [db/state: a gap in one list's files no longer gives stale reads (#25965)](https://github.com/erigontech/erigon/commit/3b72e0b9531b2b02bca844c229475bb0c693e83b) - 2026-11-18
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5987527729) - 2026-11-20
+* [Review] [Review on: execution/state: collapse the version-map account readers onto one interpreter](https://github.com/erigontech/erigon/pull/26555#pullrequestreview-5986393992) - 2026-11-20
+* [Review] [Review on: db/integrity, cmd/utils/app: report a skipped integrity check as skipped, not done](https://github.com/erigontech/erigon/pull/26597#pullrequestreview-5987387853) - 2026-11-20
+* [Pull Request] [execution/state/genesiswrite: drop alloc storage for a constructor account, as before #26588](https://github.com/erigontech/erigon/pull/26595) - 2026-11-20
+* [Review] [Review on: execution/state/genesiswrite: drop alloc storage for a constructor account, as before #26588](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-5987337950) - 2026-11-20
+* [Review] [Review on: stagedsync: v3 branch prefetch no longer pauses at the commitment round start](https://github.com/erigontech/erigon/pull/26596#pullrequestreview-5987285094) - 2026-11-20
+* [Pull Request] [execution/state: seed a large BAL's version map on several goroutines](https://github.com/erigontech/erigon/pull/26583) - 2026-11-19
+* [Review] [Review on: execution/state: seed a large BAL's version map on several goroutines](https://github.com/erigontech/erigon/pull/26583#pullrequestreview-5986366972) - 2026-11-20
+* [Pull Request] [execution/state: wipe storage on a preserved SELFDESTRUCT, report every view read error](https://github.com/erigontech/erigon/pull/26593) - 2026-11-20
+* [Review] [Review on: execution/state: wipe storage on a preserved SELFDESTRUCT, report every view read error](https://github.com/erigontech/erigon/pull/26593#pullrequestreview-5986799021) - 2026-11-20
+* [Review] [Review on: node/workerpool: run TestMaxWorkers in a synctest bubble](https://github.com/erigontech/erigon/pull/26526#pullrequestreview-5969680992) - 2026-11-19
+* [Review] [Review on: execution/exec: set BlobGasUsed on receipts built by parallel execution](https://github.com/erigontech/erigon/pull/26590#pullrequestreview-5986549696) - 2026-11-20
+* [Review] [Review on: execution, rpc: commit genesis through the apply path and compute its root from the version map](https://github.com/erigontech/erigon/pull/26588#pullrequestreview-5986422183) - 2026-11-20
+* [Review] [Review on: docs, .claude/rules: port the 3.8.1 and 3.8.2 release notes to main](https://github.com/erigontech/erigon/pull/26577#pullrequestreview-5986449389) - 2026-11-20
+* [Review] [Review on: execution/vm: share CREATE/CREATE2 metering and enforce the size limit for opt-in EIP-3860](https://github.com/erigontech/erigon/pull/26572#pullrequestreview-5986684230) - 2026-11-20
+* [Review] [Review on: cmd: drop commitment-regime; backtester and branch refuse commitment v3](https://github.com/erigontech/erigon/pull/26510#pullrequestreview-5986556710) - 2026-11-20
+* [Review] [Review on: execution/state: make the version-map interpreter balance self-destruct/revival-consistent](https://github.com/erigontech/erigon/pull/26573#pullrequestreview-5986416669) - 2026-11-20
+* [Review] [Review on: execution/state, node/privateapi: add versioned IBS constructors](https://github.com/erigontech/erigon/pull/26576#pullrequestreview-5986331364) - 2026-11-20
+* [Review] [Review on: rpc/jsonrpc: construct tracing state via the versioned IBS constructors](https://github.com/erigontech/erigon/pull/26580#pullrequestreview-5986331932) - 2026-11-20
+* [Review] [Review on: rpc/jsonrpc: construct eth/overlay/witness state via the versioned IBS constructors](https://github.com/erigontech/erigon/pull/26582#pullrequestreview-5986425748) - 2026-11-20
+* [Review] [Review on: txpool: requeue unwound transactions from senders above the slot limit](https://github.com/erigontech/erigon/pull/26571#pullrequestreview-5985932116) - 2026-11-20
+* [Pull Request] [execution/vm/runtime, cmd/evm, tests: run on the versioned state](https://github.com/erigontech/erigon/pull/26541) - 2026-11-19
+* [Review] [Review on: execution/vm/runtime, cmd/evm, tests: run on the versioned state](https://github.com/erigontech/erigon/pull/26541#pullrequestreview-5985900370) - 2026-11-20
+* [Pull Request] [execution, rpc, node: build the versioned state in one call](https://github.com/erigontech/erigon/pull/26540) - 2026-11-19
+* [Review] [Review on: execution, rpc, node: build the versioned state in one call](https://github.com/erigontech/erigon/pull/26540#pullrequestreview-5985901336) - 2026-11-20
+* [Pull Request] [db/kv/temporal: test that a second Close waits while a tx is open](https://github.com/erigontech/erigon/pull/26533) - 2026-11-19
+* [Pull Request] [db/snapcfg, cmd: take the webseeds from the snapshot manifest's branch](https://github.com/erigontech/erigon/pull/26547) - 2026-11-19
+* [Review] [Review on: db/snapcfg, cmd: take the webseeds from the snapshot manifest's branch](https://github.com/erigontech/erigon/pull/26547#pullrequestreview-5985901662) - 2026-11-20
+* [Pull Request] [db/state: refuse a v3 convert in seconds, not after hours](https://github.com/erigontech/erigon/pull/26544) - 2026-11-19
+* [Commit] [db/kv/mdbx: descending RangeDupSort from a max prefix returns no rows (#26529)](https://github.com/erigontech/erigon/commit/487958ca130c9bdabc31c1642462d44743c3708f) - 2026-11-20
+* [Commit] [db/kv/mdbx: return an error from ClearTable for an unknown table name (#26530)](https://github.com/erigontech/erigon/commit/44dd647e4b7a3487ecd6b574b29a0f2464f69073) - 2026-11-20
+* [Commit] [db/kv/temporal: test that a second Close waits while a tx is open (#26533)](https://github.com/erigontech/erigon/commit/305105af2df63938344166322167791ac7f134a5) - 2026-11-20
+* [Commit] [execution, rpc, node: build the versioned state in one call (#26540)](https://github.com/erigontech/erigon/commit/22cc9ed3afd3706edb9231786bba0c8817d28bb0) - 2026-11-20
+* [Commit] [rpc/transactions: ComputeBlockContext builds the versioned state (#26504)](https://github.com/erigontech/erigon/commit/4bff4676463360d986a2b10e3c5c449ed597a290) - 2026-11-19
+* [Commit] [execution/state: keep createdContract after a reverted SELFDESTRUCT (#26499)](https://github.com/erigontech/erigon/commit/3d1f004f3293c02f6072af1d71963a2c8ea34d94) - 2026-11-19
+* [Commit] [execution/execmodule: setHead clears stale safe and finalized markers (#26497)](https://github.com/erigontech/erigon/commit/2c1010bcff045197edfc5baf8cd4e0046f3ea9e6) - 2026-11-19
+* [Commit] [node/direct: no panic or hang in log/receipt streams at shutdown (#26485)](https://github.com/erigontech/erigon/commit/aa76d08a786c49b2a204c0c37d6d795cc0f739df) - 2026-11-19
+* [Commit] [execution/stagedsync: consume the unwind request when RunUnwind fails (#26496)](https://github.com/erigontech/erigon/commit/f10e686d5af65d90ce2f71be2e019c3836638708) - 2026-11-19
+* [Commit] [cmd/evm: write the t8n pre-state through the versioned state (#26503)](https://github.com/erigontech/erigon/commit/dc3991d80a0c3bcaadaab8231a7dadb0a76822ff) - 2026-11-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

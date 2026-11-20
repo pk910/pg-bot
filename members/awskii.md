@@ -695,6 +695,23 @@ Team: Erigon
 * [Commit] [db/integrity: run-wide integrity budget; a cut check fails the run (#26509)](https://github.com/erigontech/erigon/commit/dfa41b1657b6da40bccb70646765bf1bac8fc52d) - 2026-11-19
 * [Commit] [cmd/capcli: take the walk's expected blob count from the child it came from (#26506)](https://github.com/erigontech/erigon/commit/ecd128a6fcdce8de7168fceeb13fc7d9270b2386) - 2026-11-18
 * [Commit] [cmd/utils/app: publishable lists each snapshot dir once and honors ctx (#26431)](https://github.com/erigontech/erigon/commit/29d3efcdfc8469df71bb940cd40f645a01330d0e) - 2026-11-18
+* [Review] [Review on: docs: keep admin namespaces off public listeners in examples](https://github.com/erigontech/erigon/pull/26498#pullrequestreview-5986726110) - 2026-11-20
+* [Pull Request] [db/integrity, cmd/utils/app: report a skipped integrity check as skipped, not done](https://github.com/erigontech/erigon/pull/26597) - 2026-11-20
+* [Pull Request] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start](https://github.com/erigontech/erigon/pull/26596) - 2026-11-20
+* [Review] [Review on: execution/state: wipe storage on a preserved SELFDESTRUCT, report every view read error](https://github.com/erigontech/erigon/pull/26593#pullrequestreview-5986751278) - 2026-11-20
+* [Pull Request] [execution/exec: set BlobGasUsed on receipts built by parallel execution](https://github.com/erigontech/erigon/pull/26590) - 2026-11-19
+* [Review] [Review on: docs, .claude/rules: port the 3.8.1 and 3.8.2 release notes to main](https://github.com/erigontech/erigon/pull/26577#pullrequestreview-5980784125) - 2026-11-19
+* [Pull Request] [exec, stagedsync: v3 branch prefetcher reuses its read txs and drains its backlog at fold start](https://github.com/erigontech/erigon/pull/26584) - 2026-11-19
+* [Review] [Review on: exec, stagedsync: v3 branch prefetcher reuses its read txs and drains its backlog at fold start](https://github.com/erigontech/erigon/pull/26584#pullrequestreview-5986279429) - 2026-11-20
+* [Review] [Review on: cmd: drop commitment-regime; backtester and branch refuse commitment v3](https://github.com/erigontech/erigon/pull/26510#pullrequestreview-5977498029) - 2026-11-19
+* [Review] [Review on: execution/vm/runtime, cmd/evm, tests: run on the versioned state](https://github.com/erigontech/erigon/pull/26541#pullrequestreview-5980765213) - 2026-11-19
+* [Review] [Review on: execution, rpc, node: build the versioned state in one call](https://github.com/erigontech/erigon/pull/26540#pullrequestreview-5980760407) - 2026-11-19
+* [Review] [Review on: db/kv/temporal: test that a second Close waits while a tx is open](https://github.com/erigontech/erigon/pull/26533#pullrequestreview-5980663566) - 2026-11-19
+* [Review] [Review on: db/kv/mdbx: return an error from ClearTable for an unknown table name](https://github.com/erigontech/erigon/pull/26530#pullrequestreview-5980654149) - 2026-11-19
+* [Review] [Review on: db/kv/mdbx: descending RangeDupSort from a max prefix returns no rows](https://github.com/erigontech/erigon/pull/26529#pullrequestreview-5980645846) - 2026-11-19
+* [Issue] [cl/phase1/network/services: attestation tests leave batch verifier workers running](https://github.com/erigontech/erigon/issues/26589) - 2026-11-19
+* [Issue] [execution/stagedsync: Run and RunNoInterrupt keep the unwind request after a failed stage unwind](https://github.com/erigontech/erigon/issues/26536) - 2026-11-19
+* [Commit] [execution/exec: set BlobGasUsed on receipts built by parallel execution (#26590)](https://github.com/erigontech/erigon/commit/99eef8820ba72903015066db48d8b40e9a007c65) - 2026-11-20
 ## Q3 2026
 
 
