@@ -1319,6 +1319,29 @@ Team: Erigon
 * [Commit] [node/direct: no panic or hang in log/receipt streams at shutdown (#26485)](https://github.com/erigontech/erigon/commit/aa76d08a786c49b2a204c0c37d6d795cc0f739df) - 2026-11-19
 * [Commit] [execution/stagedsync: consume the unwind request when RunUnwind fails (#26496)](https://github.com/erigontech/erigon/commit/f10e686d5af65d90ce2f71be2e019c3836638708) - 2026-11-19
 * [Commit] [cmd/evm: write the t8n pre-state through the versioned state (#26503)](https://github.com/erigontech/erigon/commit/dc3991d80a0c3bcaadaab8231a7dadb0a76822ff) - 2026-11-19
+* [Review] [Review on: db/snapcfg, cmd: take the webseeds from the snapshot manifest's branch](https://github.com/erigontech/erigon/pull/26547#pullrequestreview-5989540732) - 2026-11-20
+* [Review] [Review on: execution/state: fix the genesis root of allocs with a constructor](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-6002150355) - 2026-11-21
+* [Pull Request] [cmd/integration: refuse commitment rebuild on an unretired datadir](https://github.com/erigontech/erigon/pull/26643) - 2026-11-21
+* [Pull Request] [db/rawdb, execution/execmodule: purge the whole bad block, not only its header](https://github.com/erigontech/erigon/pull/26644) - 2026-11-21
+* [Review] [Review on: cl/phase1/network/services: return the head committee without copying it](https://github.com/erigontech/erigon/pull/26640#pullrequestreview-6002460250) - 2026-11-21
+* [Review] [Review on: txnprovider/txpool: make parent block waits directly cancellable](https://github.com/erigontech/erigon/pull/26633#pullrequestreview-6002156769) - 2026-11-21
+* [Pull Request] [db/state: size commitment rebuild shards by key count](https://github.com/erigontech/erigon/pull/26642) - 2026-11-21
+* [Review] [Review on: db/integrity: MADV_SEQUENTIAL for blob segments in CaplinBlobSidecars](https://github.com/erigontech/erigon/pull/26634#pullrequestreview-6001719222) - 2026-11-21
+* [Pull Request] [execution/state: state.New builds a versioned state](https://github.com/erigontech/erigon/pull/26617) - 2026-11-20
+* [Review] [Review on: execution/state: state.New builds a versioned state](https://github.com/erigontech/erigon/pull/26617#pullrequestreview-6000615869) - 2026-11-20
+* [Review] [Review on: execution/state, execution/vm: follow EIP-7702 delegation only from Prague](https://github.com/erigontech/erigon/pull/26520#pullrequestreview-6002310895) - 2026-11-21
+* [Pull Request] [cmd/evm: lower blocktest peak RAM by streaming fixtures](https://github.com/erigontech/erigon/pull/26619) - 2026-11-20
+* [Review] [Review on: cmd/evm: lower blocktest peak RAM by streaming fixtures](https://github.com/erigontech/erigon/pull/26619#pullrequestreview-6002242220) - 2026-11-21
+* [Pull Request] [cmd/evm: lower enginextest peak RAM by decoding tests lazily](https://github.com/erigontech/erigon/pull/26618) - 2026-11-20
+* [Pull Request] [cmd/evm: cut zkevmtest peak RAM by 32% by streaming fixtures](https://github.com/erigontech/erigon/pull/26614) - 2026-11-20
+* [Review] [Review on: cmd/evm: cut zkevmtest peak RAM by 32% by streaming fixtures](https://github.com/erigontech/erigon/pull/26614#pullrequestreview-5988433979) - 2026-11-20
+* [Review] [Review on: Limit ethstats NodeInfo call with timeout](https://github.com/erigontech/erigon/pull/18730#pullrequestreview-6002167601) - 2026-11-21
+* [Pull Request] [db/integrity: CommitmentRoot fails when no commitment file is visible](https://github.com/erigontech/erigon/pull/26615) - 2026-11-20
+* [Commit] [execution/state: fix the genesis root of allocs with a constructor (#26595)](https://github.com/erigontech/erigon/commit/8ad3a7569e6c5d4aac9c00717c25f00579fcee72) - 2026-11-21
+* [Commit] [execution/state: state.New builds a versioned state (#26617)](https://github.com/erigontech/erigon/commit/761706638f10ea7c3d992ad30dc913f9922a400f) - 2026-11-21
+* [Commit] [docs: keep admin namespaces off public listeners in examples (#26498)](https://github.com/erigontech/erigon/commit/4feb5b1c1d424be67abecd67ff50c8b8724cb47e) - 2026-11-20
+* [Commit] [node/workerpool: run TestMaxWorkers in a synctest bubble (#26526)](https://github.com/erigontech/erigon/commit/d480d87c3f0c45f79cb806d73a89ff341a2d1d3f) - 2026-11-20
+* [Commit] [execution/vm/runtime, cmd/evm, tests: run on the versioned state (#26541)](https://github.com/erigontech/erigon/commit/a3f30d5bf8c735c91a10b7579fb9d21b9ee888c8) - 2026-11-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

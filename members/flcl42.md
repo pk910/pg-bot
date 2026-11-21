@@ -140,6 +140,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(benchmark): give the runner a .NET 11 job](https://github.com/NethermindEth/nethermind/pull/16024#pullrequestreview-5945747259) - 2026-11-17
 * [Review] [Review on: fix(db): dispose read options and snapshots only after pinned reads end](https://github.com/NethermindEth/nethermind/pull/16028#pullrequestreview-5946228637) - 2026-11-17
 * [Review] [Review on: fix(rpc): stop debug_getBadBlocks file writes on timeout and document the relative path difference from Geth](https://github.com/NethermindEth/nethermind/pull/16052#pullrequestreview-5957391162) - 2026-11-18
+* [Review] [Review on: fix(tracing): report the struct-log refund before the step and stop the state gas gasCost overflow](https://github.com/NethermindEth/nethermind/pull/16175#pullrequestreview-5997599291) - 2026-11-20
+* [Review] [Review on: fix(sync): forget nodes found saved when healing moves to a new root](https://github.com/NethermindEth/nethermind/pull/16127#pullrequestreview-5989352423) - 2026-11-20
+* [Review] [Review on: fix(tracing): align timeout diagnostics and validation order](https://github.com/NethermindEth/nethermind/pull/16102#pullrequestreview-5996602085) - 2026-11-20
+* [Review] [Review on: perf(zkevm): take the empty-input digest for an empty KECCAK256 range inside memory](https://github.com/NethermindEth/nethermind/pull/16197#pullrequestreview-5998333631) - 2026-11-20
+* [Pull Request] [build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171) - 2026-11-20
+* [Review] [Review on: fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202#pullrequestreview-5999312578) - 2026-11-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

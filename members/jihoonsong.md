@@ -45,6 +45,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Do not prefer an unsatisfied payload as head during its own slot](https://github.com/ethereum/consensus-specs/pull/5769#pullrequestreview-5717013892) - 2026-10-30
 * [Pull Request] [Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792) - 2026-10-31
 * [Review] [Review on: Retain inclusion lists one slot past the request window](https://github.com/ethereum/consensus-specs/pull/5785#pullrequestreview-5934379277) - 2026-11-17
+* [Review] [Review on: Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792#pullrequestreview-5992279443) - 2026-11-20
+* [Commit] [Clarify honest validator's IL proposal (#5792)](https://github.com/ethereum/consensus-specs/commit/45fba517b6beb562f2b9d7a58f8eeece318ba64a) - 2026-11-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920#pullrequestreview-5441369877) - 2026-10-07
 
@@ -56,6 +58,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470) - 2026-10-09
 
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5648081896) - 2026-10-26
+* [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5992463980) - 2026-11-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #44, October 13, 2026](https://github.com/ethereum/pm/issues/2268) - 2026-10-12
 * [Issue] [FOCIL Breakout #45, October 27, 2026](https://github.com/ethereum/pm/issues/2286) - 2026-10-26

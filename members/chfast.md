@@ -157,6 +157,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [execution/state: an equal-value flush keeps a seeded cell Done and rewrites its status](https://github.com/erigontech/erigon/issues/26514) - 2026-11-18
 * [Commit] [execution/state: publish the net effect of a create and destruct over an existing account (#26491)](https://github.com/erigontech/erigon/commit/e4a847f68fbb992d2b6739eead9b372d42460963) - 2026-11-19
 * [Commit] [execution/state: merge the creation's storage checks and extract validateBalanceAtDestruct (#26492)](https://github.com/erigontech/erigon/commit/9df95f25f47ba9c216cd6f90413b4778d55cb0ab) - 2026-11-18
+* [Review] [Review on: execution/state: fix the genesis root of allocs with a constructor](https://github.com/erigontech/erigon/pull/26595#pullrequestreview-5991581041) - 2026-11-20
+* [Commit] [execution/state: put back the deleted balance of a derived removal when a re-run drops a write (#26447)](https://github.com/erigontech/erigon/commit/dc3f34f36c65c56b34daa3cf56d7046614524efa) - 2026-11-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-8037: add Gary Rong as co-author](https://github.com/ethereum/EIPs/commit/5d012887e611d295d800a2031f6af9119f4f0737) - 2026-10-02
 * [Commit] [Update EIP-8037: add Spencer Taylor-Brown as co-author](https://github.com/ethereum/EIPs/commit/eb9f828d6d80800c9823b34d47b0c8e46e06c463) - 2026-10-02
@@ -313,6 +315,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(test-benchmark): add chained partial-word CALLDATALOAD benchmark (#3911)](https://github.com/ethereum/execution-specs/commit/01358ac29ed1bb44bddb608a05bfe8466497cb8b) - 2026-10-27
 * [Pull Request] [feat(test-benchmark): fill test_mod with distinct MOD chains](https://github.com/ethereum/execution-specs/pull/3963) - 2026-11-06
 * [Commit] [feat(test-benchmark): fill test_mod with distinct MOD chains (#3963)](https://github.com/ethereum/execution-specs/commit/f47bb994ec299410ba8a790e4fa486ea393aaa6e) - 2026-11-11
+* [Pull Request] [fix(spec-specs,test-evm-tools,test-specs,test-types,tests): skip IL txs that would exceed the block size limit](https://github.com/ethereum/execution-specs/pull/4041) - 2026-11-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Slow block import: StackedUpdater.commit with nested self-DELEGATECALL storage writes](https://github.com/besu-eth/besu/issues/11627) - 2026-10-16
 

@@ -448,6 +448,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: always verify proposer signature before publishing a block (#10684)](https://github.com/ChainSafe/lodestar/commit/eea81beb7c1272ec4f45ff457c2207aa3097bef8) - 2026-11-19
 * [Commit] [fix: compute native genesis anchor root from latest block header (#10681)](https://github.com/ChainSafe/lodestar/commit/9c81d25e01e934965b0247b24ced230edd8e75ef) - 2026-11-19
 * [Commit] [fix: retain inclusion lists one slot past the request window (#10507)](https://github.com/ChainSafe/lodestar/commit/693981c543aa56fc27510ccf739448200e387169) - 2026-11-19
+* [Pull Request] [feat: use `engine_getBlobsV4` when the execution client supports it](https://github.com/ChainSafe/lodestar/pull/10700) - 2026-11-20
+* [Pull Request] [fix: reject uint64 values above `Number.MAX_SAFE_INTEGER` on deserialization](https://github.com/ChainSafe/lodestar/pull/10688) - 2026-11-20
+* [Pull Request] [fix: preverify late builder prefixes before Gloas](https://github.com/ChainSafe/lodestar/pull/10687) - 2026-11-20
+* [Pull Request] [builder](https://github.com/ChainSafe/lodestar/pull/10694) - 2026-11-20
+* [Pull Request] [fix: treat early inclusion lists within clock disparity as timely](https://github.com/ChainSafe/lodestar/pull/10690) - 2026-11-20
+* [Review] [Review on: fix: allow heze upgrade with an unset deposit requests start index](https://github.com/ChainSafe/lodestar/pull/10685#pullrequestreview-5990334095) - 2026-11-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Exclude slashed validators from `calculate_committee_fraction`](https://github.com/ethereum/consensus-specs/pull/5679#pullrequestreview-5378408103) - 2026-10-01
 * [Review] [Review on: Clarify `next_fork_version` when a BPO fork is next](https://github.com/ethereum/consensus-specs/pull/5706#pullrequestreview-5378845419) - 2026-10-01
@@ -484,6 +490,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add optimistic sync spec for Gloas](https://github.com/ethereum/consensus-specs/pull/5781#pullrequestreview-5875209544) - 2026-11-12
 * [Commit] [Retain inclusion lists one slot past the request window (#5785)](https://github.com/ethereum/consensus-specs/commit/2ea9d96a420927eb1a35d7c9399c8b3691c69f6a) - 2026-11-17
 * [Review] [Review on: Ignore execution payload bids a proposer cannot select](https://github.com/ethereum/consensus-specs/pull/5803#pullrequestreview-5972962252) - 2026-11-19
+* [Review] [Review on: Clarify honest validator's IL proposal](https://github.com/ethereum/consensus-specs/pull/5792#pullrequestreview-5991906941) - 2026-11-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8333: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/12413#pullrequestreview-5380054054) - 2026-10-01
 
@@ -511,6 +518,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [engine_getBlobsV2 stops serving a transaction's blobs once it is included](https://github.com/status-im/nimbus-eth1/issues/4947) - 2026-10-09
 
+* [Issue] [custodyColumns and engine_getBlobsV4 rejected before Amsterdam](https://github.com/status-im/nimbus-eth1/issues/5188) - 2026-11-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [perf: expose sync committee indices](https://github.com/ChainSafe/lodestar-z/pull/768) - 2026-10-10
 * [Pull Request] [fix: include commit in block timing](https://github.com/ChainSafe/lodestar-z/pull/767) - 2026-10-10
@@ -550,6 +558,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: fix: remove getPayload timeout and require an immediate response](https://github.com/ethereum/execution-apis/pull/958#pullrequestreview-5655404769) - 2026-10-26
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Engine REST `/blobs/v4` returns compact cell lists instead of 128 indexed entries](https://github.com/paradigmxyz/reth/issues/28625) - 2026-11-20
 ## Q3 2026
 
 

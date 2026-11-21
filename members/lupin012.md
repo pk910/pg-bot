@@ -259,6 +259,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: check the run flag after registering the codec, so Stop closes it](https://github.com/erigontech/erigon/pull/26486#pullrequestreview-5965505055) - 2026-11-18
 * [Review] [Review on: rpc/jsonrpc: trace_* builds its states with a version map](https://github.com/erigontech/erigon/pull/26505#pullrequestreview-5965546670) - 2026-11-18
 * [Commit] [rpc/jsonrpc, db/rawdb: read eth_getBlockReceipts cached receipts while the block is read (#26420)](https://github.com/erigontech/erigon/commit/6bf4671193461f107607b5a2f6ee2c3752de51d4) - 2026-11-18
+* [Pull Request] [[WIP] rpc/rpchelper, rpc/jsonrpc: resolve the block and check execution in one helper](https://github.com/erigontech/erigon/pull/26641) - 2026-11-20
+* [Pull Request] [[WIP] rpc/jsonrpc, rpc/contracts: cache the head block's logs for eth_getLogs](https://github.com/erigontech/erigon/pull/26631) - 2026-11-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
