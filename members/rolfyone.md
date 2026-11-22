@@ -260,6 +260,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Check PQ proposer slashings with XMSS](https://github.com/Consensys-Incorporated/teku/pull/11679) - 2026-11-20
 * [Pull Request] [Validate PQ single attestations and aggregates in gossip](https://github.com/Consensys-Incorporated/teku/pull/11678) - 2026-11-20
 * [Pull Request] [Validate PQ blocks, envelopes, bids and preferences with XMSS in gossip](https://github.com/Consensys-Incorporated/teku/pull/11677) - 2026-11-20
+* [Pull Request] [Add leanVM sidecar benchmark](https://github.com/Consensys-Incorporated/teku/pull/11707) - 2026-11-21
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 

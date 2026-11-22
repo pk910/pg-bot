@@ -733,6 +733,7 @@ Team: Erigon
 * [Commit] [cmd: drop commitment-regime; backtester and branch refuse commitment v3 (#26510)](https://github.com/erigontech/erigon/commit/44234e5673d5e698a65e265a139d0a4837db8b41) - 2026-11-20
 * [Commit] [db/integrity, cmd/utils/app: report a skipped integrity check as skipped, not done (#26597)](https://github.com/erigontech/erigon/commit/01fac2889587307f7f077c2e45632739c3c1997e) - 2026-11-20
 * [Commit] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start (#26596)](https://github.com/erigontech/erigon/commit/5b7ef5c1311d408660a39b52db16e85203bfd4aa) - 2026-11-20
+* [Review] [Review on: cl/phase1/network: warn about an unfinished blob backfill while a pass runs](https://github.com/erigontech/erigon/pull/26621#pullrequestreview-6004692163) - 2026-11-21
 ## Q3 2026
 
 

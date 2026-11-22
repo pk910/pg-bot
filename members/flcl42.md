@@ -146,6 +146,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(zkevm): take the empty-input digest for an empty KECCAK256 range inside memory](https://github.com/NethermindEth/nethermind/pull/16197#pullrequestreview-5998333631) - 2026-11-20
 * [Pull Request] [build(bootnode): use the chiseled ASP.NET runtime image](https://github.com/NethermindEth/nethermind/pull/16171) - 2026-11-20
 * [Review] [Review on: fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202#pullrequestreview-5999312578) - 2026-11-20
+* [Commit] [build(bootnode): use the chiseled ASP.NET runtime image (#16171)](https://github.com/NethermindEth/nethermind/commit/003cb47d60621222fa5700d622b03a9b41a8ea10) - 2026-11-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 
