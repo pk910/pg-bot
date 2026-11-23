@@ -35,6 +35,7 @@ Team: Erigon
 * [Pull Request] [execution/state: delete the materialized stateObject type](https://github.com/erigontech/erigon/pull/26658) - 2026-11-21
 * [Pull Request] [execution: remove dead/redundant materialized finalize machinery](https://github.com/erigontech/erigon/pull/26657) - 2026-11-21
 * [Pull Request] [db/kv/membatchwithdb: arena-allocate membatch keys/values](https://github.com/erigontech/erigon/pull/26661) - 2026-11-21
+* [Pull Request] [execution/state: bind the version map at construction, not via a public setter](https://github.com/erigontech/erigon/pull/26680) - 2026-11-22
 ## Q3 2026
 
 

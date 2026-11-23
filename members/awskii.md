@@ -734,6 +734,17 @@ Team: Erigon
 * [Commit] [db/integrity, cmd/utils/app: report a skipped integrity check as skipped, not done (#26597)](https://github.com/erigontech/erigon/commit/01fac2889587307f7f077c2e45632739c3c1997e) - 2026-11-20
 * [Commit] [stagedsync: v3 branch prefetch no longer pauses at the commitment round start (#26596)](https://github.com/erigontech/erigon/commit/5b7ef5c1311d408660a39b52db16e85203bfd4aa) - 2026-11-20
 * [Review] [Review on: cl/phase1/network: warn about an unfinished blob backfill while a pass runs](https://github.com/erigontech/erigon/pull/26621#pullrequestreview-6004692163) - 2026-11-21
+* [Pull Request] [execution/execmodule: run a due GC right after a block commit](https://github.com/erigontech/erigon/pull/26691) - 2026-11-23
+* [Pull Request] [diagnostics/mem: cap the smaps_rollup read in the [mem] logger](https://github.com/erigontech/erigon/pull/26690) - 2026-11-23
+* [Review] [Review on: cmd/integration: refuse commitment rebuild on an unretired datadir](https://github.com/erigontech/erigon/pull/26643#pullrequestreview-6010559911) - 2026-11-22
+* [Review] [Review on: cl/p2p, cl/sentinel: keep one connection when two peers dial each other](https://github.com/erigontech/erigon/pull/26629#pullrequestreview-6010562933) - 2026-11-22
+* [Review] [Review on: db/state: unexport IntegrateDirtyFiles and DebugBeginDirtyFilesRo](https://github.com/erigontech/erigon/pull/26616#pullrequestreview-6010543338) - 2026-11-22
+* [Review] [Review on: cmd/integration: commitment verify runs without chaindata](https://github.com/erigontech/erigon/pull/26656#pullrequestreview-6010627809) - 2026-11-22
+* [Review] [Review on: cl/p2p, cl/sentinel, cl/phase1/network/gossip: evict peers idle for an hour when at the peer cap](https://github.com/erigontech/erigon/pull/26664#pullrequestreview-6010632011) - 2026-11-22
+* [Issue] [diagnostics/mem: the [mem] logger reads /proc/self/smaps_rollup, which holds mmap_lock up to 492 ms; read /proc/self/status instead](https://github.com/erigontech/erigon/issues/26687) - 2026-11-23
+* [Issue] [cmd/integration: commitment visualize panics when it can not write its output](https://github.com/erigontech/erigon/issues/26671) - 2026-11-22
+* [Issue] [db/seg: DisableReadAhead resets the advice while other readers still hold readahead](https://github.com/erigontech/erigon/issues/26670) - 2026-11-22
+* [Issue] [cmd/evm: runners fail on a piped /dev/stdin on Linux](https://github.com/erigontech/erigon/issues/26669) - 2026-11-22
 ## Q3 2026
 
 

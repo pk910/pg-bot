@@ -127,6 +127,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [REST engine draft drops expected_blob_versioned_hashes: no commitment check](https://github.com/ethereum/execution-apis/issues/959) - 2026-10-27
+* [Review] [Review on: engine: specify bit ordering for the 16-byte custody and cell bitarrays](https://github.com/ethereum/execution-apis/pull/856#pullrequestreview-6011766852) - 2026-11-22
 ## Q3 2026
 
 

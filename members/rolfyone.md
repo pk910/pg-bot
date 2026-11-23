@@ -261,6 +261,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Validate PQ single attestations and aggregates in gossip](https://github.com/Consensys-Incorporated/teku/pull/11678) - 2026-11-20
 * [Pull Request] [Validate PQ blocks, envelopes, bids and preferences with XMSS in gossip](https://github.com/Consensys-Incorporated/teku/pull/11677) - 2026-11-20
 * [Pull Request] [Add leanVM sidecar benchmark](https://github.com/Consensys-Incorporated/teku/pull/11707) - 2026-11-21
+* [Pull Request] [Flush the open PQ timing chunk with every status](https://github.com/Consensys-Incorporated/teku/pull/11712) - 2026-11-23
+* [Pull Request] [Prove no PQ committees at block production when merging ahead](https://github.com/Consensys-Incorporated/teku/pull/11713) - 2026-11-23
+* [Pull Request] [Prove PQ aggregates at the collection cutoff and merge block proofs ahead](https://github.com/Consensys-Incorporated/teku/pull/11711) - 2026-11-22
+* [Pull Request] [Record PQ gossip and proving timings for the PQ devnets](https://github.com/Consensys-Incorporated/teku/pull/11709) - 2026-11-22
+* [Pull Request] [Cache leanXMSS signing trees in the validator client](https://github.com/Consensys-Incorporated/teku/pull/11710) - 2026-11-22
+* [Pull Request] [Merge block proofs incrementally and ahead of proposals](https://github.com/Consensys-Incorporated/teku/pull/11708) - 2026-11-22
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 
