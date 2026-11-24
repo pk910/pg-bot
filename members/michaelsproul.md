@@ -122,6 +122,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Remove MDBX slasher backend](https://github.com/sigp/lighthouse/pull/10521#pullrequestreview-5933656326) - 2026-11-17
 * [Pull Request] [Verified block packing/op pool](https://github.com/sigp/lighthouse/pull/10613) - 2026-11-17
 * [Pull Request] [Update jsonwebtoken](https://github.com/sigp/lighthouse/pull/10574) - 2026-11-17
+* [Pull Request] [Update ssz_types and use 0-limit list for Gloas deposits](https://github.com/sigp/lighthouse/pull/10637) - 2026-11-23
+* [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-6033308904) - 2026-11-24
+* [Review] [Review on: Fix HTTP API TLS startup panic](https://github.com/sigp/lighthouse/pull/10599#pullrequestreview-6031842267) - 2026-11-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Jimmy](https://github.com/protocolguild/documentation/pull/560#pullrequestreview-5423932168) - 2026-10-06
 

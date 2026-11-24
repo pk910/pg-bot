@@ -47,6 +47,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [eez,cmd/erigon: sign and verify App. D.6 unsafe-block announcements](https://github.com/erigontech/erigon/pull/26502) - 2026-11-20
 * [Review] [Review on: eez,cmd/erigon: sign and verify App. D.6 unsafe-block announcements](https://github.com/erigontech/erigon/pull/26502#pullrequestreview-5992015093) - 2026-11-20
 * [Pull Request] [eez: settle the sequencer's blocks with anchor-only batches](https://github.com/erigontech/erigon/pull/26686) - 2026-11-22
+* [Review] [Review on: eez: settle the sequencer's blocks with anchor-only batches](https://github.com/erigontech/erigon/pull/26686#pullrequestreview-6020751867) - 2026-11-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: rpc_pattern_gen: eth_getLogs filter families and or-lists, profiles drawn from the window](https://github.com/erigontech/rpc-tests/pull/624#pullrequestreview-5556942658) - 2026-10-17
 * [Review] [Review on: rpc_pattern_gen: gzip the output tar when --out ends in .tar.gz or .tgz](https://github.com/erigontech/rpc-tests/pull/625#pullrequestreview-5556945322) - 2026-10-17

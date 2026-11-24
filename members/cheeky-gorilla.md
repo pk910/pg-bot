@@ -28,6 +28,15 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Delete src/assets/images/donors/aligned-white.png](https://github.com/protocolguild/protocol-guild-site/commit/f5a8b7dbc65d811e69e9d091f4f1a5cac2f0bf1d) - 2026-10-30
 * [Commit] [Update quote](https://github.com/protocolguild/protocol-guild-site/commit/a969bf8bfd5bafd0e5990cb343a9d8cebd7fa125) - 2026-10-30
 * [Commit] [Add Aligned logos](https://github.com/protocolguild/protocol-guild-site/commit/0d6a2a8eb4e5e81c1b4c52df965609fc5d77069c) - 2026-10-30
+* [Commit] [Update link](https://github.com/protocolguild/protocol-guild-site/commit/4b9accead22d285b399cf9bcf8804d1a4ee89e51) - 2026-11-23
+* [Commit] [Update text](https://github.com/protocolguild/protocol-guild-site/commit/80df9975da13a42a7b1bb93ae31853a7955da62d) - 2026-11-23
+* [Commit] [Q4 repo update fix 2](https://github.com/protocolguild/protocol-guild-site/commit/9f399b0f1b0b0bd4c46c1bcc8b1d6cbea21af734) - 2026-11-23
+* [Commit] [Q4 member count](https://github.com/protocolguild/protocol-guild-site/commit/fd9c21d86430575db1c6ad50fb4c66d25b7a4c80) - 2026-11-23
+* [Commit] [Q4 member count](https://github.com/protocolguild/protocol-guild-site/commit/9bee0be37fac075ca6532cbb2d9f1dc1adb29ae7) - 2026-11-23
+* [Commit] [Q4 member count](https://github.com/protocolguild/protocol-guild-site/commit/7b87b4eae922fd5500d60bad1c2beae832acf684) - 2026-11-23
+* [Commit] [Q4 repo update fix](https://github.com/protocolguild/protocol-guild-site/commit/0325ad7ef258b1acc0301d4f70f9c1b9ac229a08) - 2026-11-23
+* [Commit] [Q4 member update](https://github.com/protocolguild/protocol-guild-site/commit/b949704bd4a2c1d39ccec7f761a48c23dd957144) - 2026-11-23
+* [Commit] [Q4 member repo update](https://github.com/protocolguild/protocol-guild-site/commit/d29b38d4d98b316db77182222c68a7e835048620) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Commit] [Merge pull request #577 from pgbot0101/fix-team-totals](https://github.com/protocolguild/documentation/commit/66458c7f972050b38375d54c6860be6d8b15f8e5) - 2026-10-13
 * [Commit] [Merge pull request #576 from luca-zanolini/update-luca-weight](https://github.com/protocolguild/documentation/commit/011de021bd6a9a4892830395b208120109239ba5) - 2026-10-13

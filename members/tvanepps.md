@@ -24,6 +24,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Pull Request] [Remove Scotty Poi](https://github.com/protocolguild/documentation/pull/590) - 2026-10-30
 * [Commit] [Merge pull request #590 from tvanepps/remove-scotty-poi](https://github.com/protocolguild/documentation/commit/2a1611ac0caee881a8604dd03e16c862f28a2b30) - 2026-10-30
 * [Commit] [Remove Scotty Poi](https://github.com/protocolguild/documentation/commit/651479324380d3ad38f2b8a6af75b54ebdfbab58) - 2026-10-30
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Pull Request] [Add Q4 2026 audit blog post](https://github.com/protocolguild/protocol-guild-site/pull/80) - 2026-11-23
+* [Commit] [Merge pull request #80 from protocolguild/q4-quarterly-audit](https://github.com/protocolguild/protocol-guild-site/commit/d46bb8e9da7bea97649b62330bd7a33b7e41afb2) - 2026-11-23
+* [Commit] [Add Q4 2026 audit blog post](https://github.com/protocolguild/protocol-guild-site/commit/9d0666d321dc7bc35135cfad4a253e0299d1a80f) - 2026-11-23
 ## Q3 2026
 
 

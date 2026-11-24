@@ -77,6 +77,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [fix: update ere and ere-guests to v0.18.2 (#324)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c73929dac38e0fcbfbc1a9e8104c9dc09ff44194) - 2026-10-26
 * [Pull Request] [fix: restore Zesu with ere-guests v0.19.1](https://github.com/eth-act/zkevm-benchmark-workload/pull/327) - 2026-10-30
 * [Commit] [fix: restore Zesu with ere-guests v0.19.1 (#327)](https://github.com/eth-act/zkevm-benchmark-workload/commit/a933977179204293dff0025561af0879c78a9e43) - 2026-10-30
+* [Pull Request] [feat: export batch archives in parallel](https://github.com/eth-act/zkevm-benchmark-workload/pull/332) - 2026-11-23
+* [Pull Request] [feat: migrate collected stateless inputs to tests-zkevm v21.0.7](https://github.com/eth-act/zkevm-benchmark-workload/pull/330) - 2026-11-23
+* [Pull Request] [feat: update ere-guests to v0.20.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/329) - 2026-11-23
+* [Commit] [feat: export batch archives in parallel (#332)](https://github.com/eth-act/zkevm-benchmark-workload/commit/532fd15d87f4e3f5ad1553a234efef9c53f17961) - 2026-11-23
+* [Commit] [feat: migrate collected stateless inputs to tests-zkevm v21.0.7 (#330)](https://github.com/eth-act/zkevm-benchmark-workload/commit/b1400ae43b89566a49fe73a6190de28734e99974) - 2026-11-23
+* [Commit] [feat: update ere-guests to v0.20.0 (#329)](https://github.com/eth-act/zkevm-benchmark-workload/commit/2ea2294969abe1da7176391a128bad5a3f70e2a5) - 2026-11-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Formal Verification (EF) team](https://github.com/protocolguild/documentation/pull/573) - 2026-10-08
 
