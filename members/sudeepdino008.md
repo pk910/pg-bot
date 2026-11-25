@@ -26,6 +26,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [agents: add erigon-snapshot-pr-review skill](https://github.com/erigontech/erigon/pull/26531) - 2026-11-19
 * [Pull Request] [[tiering v2 - 18] log per-block BAL batch prefetch stats](https://github.com/erigontech/erigon/pull/26728) - 2026-11-23
 * [Commit] [execution/exec: fewer allocations in balCommitmentWarmupKeys (#26712)](https://github.com/erigontech/erigon/commit/93c3211a21402ba80e7c562f500c1d1661e85069) - 2026-11-23
+* [Pull Request] [[r3.8] db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26796) - 2026-11-25
+* [Pull Request] [db/snapshotsync: fix nil deref when a merge range is not covered by every type](https://github.com/erigontech/erigon/pull/26795) - 2026-11-25
 ## Q3 2026
 
 

@@ -752,6 +752,31 @@ Team: Erigon
 * [Issue] [ci: the Bogota WireX Hive rows repeat the EngineX missing-EIP failures and can exceed the job timeout](https://github.com/erigontech/erigon/issues/26719) - 2026-11-23
 * [Issue] [execution/commitment: move HexPatriciaHashed into execution/commitment/v2](https://github.com/erigontech/erigon/issues/26718) - 2026-11-23
 * [Commit] [db/kv/mdbx: skip the reader-table scan in SpaceDirty for write txns (#26700)](https://github.com/erigontech/erigon/commit/a7a0bf4ce5dfdbf977d16450cc1ab5838540ab97) - 2026-11-23
+* [Review] [Review on: db/state: fix a file mapping leak in snapshot builds and merges](https://github.com/erigontech/erigon/pull/26551#pullrequestreview-6052485378) - 2026-11-25
+* [Review] [Review on: execution: implement SENDALL (EIP-4758) for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26458#pullrequestreview-6052463661) - 2026-11-25
+* [Pull Request] [execution/state: remove deprecated IntraBlockState.Release alias](https://github.com/erigontech/erigon/pull/26782) - 2026-11-24
+* [Review] [Review on: execution/commitment/backtester: run on commitment v3](https://github.com/erigontech/erigon/pull/26723#pullrequestreview-6040438478) - 2026-11-24
+* [Pull Request] [db/state: lock the two commitment files before the newest in memory](https://github.com/erigontech/erigon/pull/26781) - 2026-11-24
+* [Review] [Review on: db/state: lock the two commitment files before the newest in memory](https://github.com/erigontech/erigon/pull/26781#pullrequestreview-6051928707) - 2026-11-25
+* [Review] [Review on: cmd/evm: runners accept a piped input on Linux](https://github.com/erigontech/erigon/pull/26756#pullrequestreview-6040703709) - 2026-11-24
+* [Review] [Review on: txpool: fix flush races in transaction selection and lookup](https://github.com/erigontech/erigon/pull/26727#pullrequestreview-6040555243) - 2026-11-24
+* [Review] [Review on: rpcservices: subscribe waits until the server applies the filter](https://github.com/erigontech/erigon/pull/26716#pullrequestreview-6040344218) - 2026-11-24
+* [Review] [Review on: db/state: state files missing their first step are not read](https://github.com/erigontech/erigon/pull/26752#pullrequestreview-6040653910) - 2026-11-24
+* [Review] [Review on: node/direct: in-process stream sends stop when the caller's context ends](https://github.com/erigontech/erigon/pull/26748#pullrequestreview-6040597900) - 2026-11-24
+* [Review] [Review on: execution/stagedsync: a failed fork-validation unwind drops its request](https://github.com/erigontech/erigon/pull/26747#pullrequestreview-6040574531) - 2026-11-24
+* [Pull Request] [execution/types: remove deprecated NewReceipt](https://github.com/erigontech/erigon/pull/26779) - 2026-11-24
+* [Pull Request] [execution/protocol/rules/aura: remove unused checkFirstValidatorSetProof stub](https://github.com/erigontech/erigon/pull/26780) - 2026-11-24
+* [Review] [Review on: cl/beacon/handler: report when block production collected the payload, and failed payload polls](https://github.com/erigontech/erigon/pull/26757#pullrequestreview-6040725962) - 2026-11-24
+* [Issue] [cmd/evm: TestLoadEngineXGroupsReadsAPipeOnce passes with an empty groups map](https://github.com/erigontech/erigon/issues/26771) - 2026-11-24
+* [Issue] [cmd/evm: zkevmtest and the readability check open a piped input more than once](https://github.com/erigontech/erigon/issues/26770) - 2026-11-24
+* [Issue] [db/state: commitment rebuild in resume mode can skip a missing first commitment range](https://github.com/erigontech/erigon/issues/26769) - 2026-11-24
+* [Issue] [txpool: a failed flush leaves an ordinary transaction unwritten until restart loses it](https://github.com/erigontech/erigon/issues/26768) - 2026-11-24
+* [Issue] [execution/state: the SeedEmptyRemovals base-read error test covers only the final removal check](https://github.com/erigontech/erigon/issues/26767) - 2026-11-24
+* [Issue] [execution/state: a SeedEmptyRemovals test lists the funded account's balance writes out of index order](https://github.com/erigontech/erigon/issues/26766) - 2026-11-24
+* [Issue] [execution/commitment/backtester: a failed fold leaves the CPU profiler and fgprof running](https://github.com/erigontech/erigon/issues/26765) - 2026-11-24
+* [Issue] [execution/commitment/backtester: --from past the tip passes the range check](https://github.com/erigontech/erigon/issues/26764) - 2026-11-24
+* [Issue] [execution/execmodule: forkchoice indexes another branch over executed state when the canonical index lags Finish](https://github.com/erigontech/erigon/issues/26763) - 2026-11-24
+* [Commit] [AGENTS.md: vendor two Ponytail skills, drop the plugin install (#26751)](https://github.com/erigontech/erigon/commit/00f67e868c7244edc6b8b8b97ed3f48790986149) - 2026-11-24
 ## Q3 2026
 
 

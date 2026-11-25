@@ -278,6 +278,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Run validator duty timers on their own thread](https://github.com/Consensys-Incorporated/teku/pull/11720) - 2026-11-23
 * [Pull Request] [Find XMSS cache records by the cache's key list, and read them in blocks](https://github.com/Consensys-Incorporated/teku/pull/11719) - 2026-11-23
 * [Pull Request] [Send each PQ attestation and aggregate once it is signed](https://github.com/Consensys-Incorporated/teku/pull/11714) - 2026-11-23
+* [Review] [Review on: Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728#pullrequestreview-6050428300) - 2026-11-25
+* [Pull Request] [Update the PQ spec to consensus-specs pq 4c296784](https://github.com/Consensys-Incorporated/teku/pull/11737) - 2026-11-25
+* [Review] [Review on: Add light client SSE topics and merge the light client flags](https://github.com/Consensys-Incorporated/teku/pull/11651#pullrequestreview-6050147232) - 2026-11-25
+* [Pull Request] [Stagger PQ aggregators and skip redundant aggregates](https://github.com/Consensys-Incorporated/teku/pull/11734) - 2026-11-24
+* [Pull Request] [Cache JSON type definitions' hash codes](https://github.com/Consensys-Incorporated/teku/pull/11735) - 2026-11-24
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 

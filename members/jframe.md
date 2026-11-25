@@ -62,6 +62,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [[2/5] Bonsai archive ongoing sync: capture final blocks (#11951)](https://github.com/besu-eth/besu/commit/2eccef0e4bed0958fb940ec7057638113095ffa1) - 2026-11-19
 * [Pull Request] [[3/5] Bonsai archive ongoing sync: trailing trie-node archiver](https://github.com/besu-eth/besu/pull/12009) - 2026-11-19
 * [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6033419574) - 2026-11-24
+* [Review] [Review on: Sync with SNAP when SNAP2 starts before Amsterdam](https://github.com/besu-eth/besu/pull/11983#pullrequestreview-6034500196) - 2026-11-24
 ## Q3 2026
 
 

@@ -1432,6 +1432,30 @@ Team: Erigon
 * [Commit] [db/downloader: serve the torrent status through gzhttp (#26711)](https://github.com/erigontech/erigon/commit/5e97aa216578e5a8907c9fdbbb61002f75e5a47c) - 2026-11-23
 * [Commit] [cl/phase1/network: run the HTTP preference test in synctest (#26704)](https://github.com/erigontech/erigon/commit/3a974b66b478485584838099a5fdceac6a3e3f61) - 2026-11-23
 * [Commit] [db/kv/mdbx: scan no readers while the write transaction is open (#26695)](https://github.com/erigontech/erigon/commit/e109ca891593cbc228e10639d03317694ad8da98) - 2026-11-23
+* [Review] [Review on: db/state: fix a file mapping leak in snapshot builds and merges](https://github.com/erigontech/erigon/pull/26551#pullrequestreview-6051778600) - 2026-11-25
+* [Review] [Review on: execution: implement SENDALL (EIP-4758) for Bogota devnet-2](https://github.com/erigontech/erigon/pull/26458#pullrequestreview-6051800125) - 2026-11-25
+* [Review] [Review on: execution: simplify and de-version the IntraBlockState](https://github.com/erigontech/erigon/pull/26659#pullrequestreview-6035319260) - 2026-11-24
+* [Review] [Review on: db/snapshotsync: reject merges with missing input segments](https://github.com/erigontech/erigon/pull/26776#pullrequestreview-6052144638) - 2026-11-25
+* [Review] [Review on: execution/commitment/backtester: run on commitment v3](https://github.com/erigontech/erigon/pull/26723#pullrequestreview-6051506252) - 2026-11-25
+* [Review] [Review on: txpool: bound remote EIP-7702 authorization recovery](https://github.com/erigontech/erigon/pull/26777#pullrequestreview-6051750027) - 2026-11-25
+* [Review] [Review on: execution/p2p: match BAL replies before decoding their entries](https://github.com/erigontech/erigon/pull/26778#pullrequestreview-6051778493) - 2026-11-25
+* [Review] [Review on: execution, rpc: simplify witness parent lookups and test helpers](https://github.com/erigontech/erigon/pull/26759#pullrequestreview-6051778273) - 2026-11-25
+* [Review] [Review on: execution, txpool: return final admission results in batch order](https://github.com/erigontech/erigon/pull/26720#pullrequestreview-6051832686) - 2026-11-25
+* [Review] [Review on: cmd/evm: runners accept a piped input on Linux](https://github.com/erigontech/erigon/pull/26756#pullrequestreview-6051177492) - 2026-11-25
+* [Review] [Review on: txpool: fix flush races in transaction selection and lookup](https://github.com/erigontech/erigon/pull/26727#pullrequestreview-6051778166) - 2026-11-25
+* [Review] [Review on: rpc/jsonrpc: accept a positional state override map in trace_call and trace_callMany](https://github.com/erigontech/erigon/pull/26785#pullrequestreview-6051771985) - 2026-11-25
+* [Review] [Review on: rpcservices: subscribe waits until the server applies the filter](https://github.com/erigontech/erigon/pull/26716#pullrequestreview-6051590762) - 2026-11-25
+* [Review] [Review on: node/direct: in-process stream sends stop when the caller's context ends](https://github.com/erigontech/erigon/pull/26748#pullrequestreview-6051320728) - 2026-11-25
+* [Review] [Review on: execution/stagedsync: a failed fork-validation unwind drops its request](https://github.com/erigontech/erigon/pull/26747#pullrequestreview-6051233121) - 2026-11-25
+* [Review] [Review on: rpc/ethapi: return invalid params for unsupported block overrides](https://github.com/erigontech/erigon/pull/26772#pullrequestreview-6051169619) - 2026-11-25
+* [Review] [Review on: execution/types: remove deprecated NewReceipt](https://github.com/erigontech/erigon/pull/26779#pullrequestreview-6051180237) - 2026-11-25
+* [Review] [Review on: cmd/rpcdaemon/graphql: skip TestGraphQLQueryBlock unless a GraphQL server answers](https://github.com/erigontech/erigon/pull/26789#pullrequestreview-6051154998) - 2026-11-25
+* [Review] [Review on: execution/protocol/rules/aura: remove unused checkFirstValidatorSetProof stub](https://github.com/erigontech/erigon/pull/26780#pullrequestreview-6051161494) - 2026-11-25
+* [Review] [Review on: db/state, db/seg: read ahead a contract's storage region after 64 file hits](https://github.com/erigontech/erigon/pull/26636#pullrequestreview-6035160854) - 2026-11-24
+* [Commit] [exec: lock-free interning  (#26404)](https://github.com/erigontech/erigon/commit/f166154ee1e0ee7dfaca4fa65b1d411c9995931f) - 2026-11-25
+* [Commit] [execution/commitment/backtester: run on commitment v3 (#26723)](https://github.com/erigontech/erigon/commit/1b7b07c83541a79b5276fd8e604e9e28366f16a7) - 2026-11-25
+* [Commit] [cmd/evm: runners accept a piped input on Linux (#26756)](https://github.com/erigontech/erigon/commit/93b62e1af21bd85caa1f7789378a7bbc006c42fb) - 2026-11-25
+* [Commit] [cl: flaky test fix (#26755)](https://github.com/erigontech/erigon/commit/f5c0caa159260a947f6253b74e11af538d838480) - 2026-11-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: expect nonce has max value for a max-nonce sender without validation](https://github.com/erigontech/rpc-tests/pull/628#pullrequestreview-5567278660) - 2026-10-19
 * [Pull Request] [mainnet/debug_traceCall: test_21 expects an out-of-range tx index error](https://github.com/erigontech/rpc-tests/pull/643) - 2026-10-26

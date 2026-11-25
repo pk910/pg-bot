@@ -558,6 +558,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6033433067) - 2026-11-24
 * [Review] [Review on: [r3.8] cl/p2p: backport #26058](https://github.com/erigontech/erigon/pull/26708#pullrequestreview-6020976331) - 2026-11-23
 * [Commit] [cl/das: write reconstructed columns before the blob sidecars (#26672)](https://github.com/erigontech/erigon/commit/94a739c4048bb86e6ff5e5b9f6c56bcf1977e647) - 2026-11-24
+* [Pull Request] [cl/das, cl/beacon/handler: build Fulu blobs from stored columns on request](https://github.com/erigontech/erigon/pull/26794) - 2026-11-25
+* [Review] [Review on: cl: cut the per-message cost of sync committee messages](https://github.com/erigontech/erigon/pull/26721#pullrequestreview-6044600218) - 2026-11-24
+* [Pull Request] [cl/das: check every stored column before blob recovery uses it](https://github.com/erigontech/erigon/pull/26783) - 2026-11-24
+* [Commit] [cl/das, common/crypto/kzg: recover PeerDAS cells and proofs through c-kzg (#26682)](https://github.com/erigontech/erigon/commit/40a8f25b1f0260114d8e234cc9fd0cbafe1d6150) - 2026-11-24
+* [Commit] [cl/phase1/network/services: verify gossip aggregates on nodes without validators (#26713)](https://github.com/erigontech/erigon/commit/ac7c516c690db7bb9d01b5b98f3d8794af0ef980) - 2026-11-24
 ## Q3 2026
 
 

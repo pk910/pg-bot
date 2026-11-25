@@ -148,6 +148,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(consensus): derive ExcessBlobGas for dev-produced blocks](https://github.com/NethermindEth/nethermind/pull/16202#pullrequestreview-5999312578) - 2026-11-20
 * [Commit] [build(bootnode): use the chiseled ASP.NET runtime image (#16171)](https://github.com/NethermindEth/nethermind/commit/003cb47d60621222fa5700d622b03a9b41a8ea10) - 2026-11-21
 * [Commit] [Add Light Client (#14457)](https://github.com/NethermindEth/nethermind/commit/8ed522cca267e9139bfc72bc24db16db7bdd84fe) - 2026-11-23
+* [Pull Request] [fix(light-client): improve execution peer recovery](https://github.com/NethermindEth/nethermind/pull/16311) - 2026-11-24
+* [Pull Request] [fix(light-client): extend verified state history to 128 blocks](https://github.com/NethermindEth/nethermind/pull/16309) - 2026-11-24
+* [Pull Request] [fix(light-client): use the authenticated head for pending EVM calls](https://github.com/NethermindEth/nethermind/pull/16310) - 2026-11-24
+* [Pull Request] [fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313) - 2026-11-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 
@@ -171,6 +175,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Update EIP-8038: qualify the ACCOUNT_WRITE rule and the worst-case-client claim](https://github.com/ethereum/EIPs/pull/12626) - 2026-11-04
 * [Pull Request] [Update EIP-7708: fix gas figures and state the creation-transaction and gas rules](https://github.com/ethereum/EIPs/pull/12623) - 2026-11-04
 * [Pull Request] [Update EIP-7928: align per-field recording rules and pseudocode with the change rule](https://github.com/ethereum/EIPs/pull/12620) - 2026-11-04
+* [Commit] [Update EIP-7778: remove the contradictory restore-to-original discount example](https://github.com/ethereum/EIPs/commit/ade9e9cab7e148bba4cd293f916a4a189cd7a8aa) - 2026-11-25
 ## Q3 2026
 
 

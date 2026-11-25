@@ -88,6 +88,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Execution proofs: fix signature hashing and Prysm events, allow mock proofs on devnets](https://github.com/ethpandaops/dora/pull/929#pullrequestreview-5668197082) - 2026-10-27
 * [Review] [Review on: Bump spamoor for bogota-devnet-2 frame transactions (max_fee, ASSERT)](https://github.com/ethpandaops/dora/pull/920#pullrequestreview-5697031867) - 2026-10-29
 * [Pull Request] [feat: support the consensus-specs pq fork](https://github.com/ethpandaops/dora/pull/939) - 2026-11-19
+* [Pull Request] [feat: fall back to the beacon nodes' single attestation events behind a flag](https://github.com/ethpandaops/dora/pull/947) - 2026-11-24
+* [Pull Request] [feat: show attestation arrivals per client on the slot propagation tab](https://github.com/ethpandaops/dora/pull/946) - 2026-11-24
+* [Review] [Review on: feat: show attestation arrivals per client on the slot propagation tab](https://github.com/ethpandaops/dora/pull/946#pullrequestreview-6041531763) - 2026-11-24
+* [Pull Request] [feat: recognize silver and ethlambda as consensus clients](https://github.com/ethpandaops/dora/pull/945) - 2026-11-24
+* [Pull Request] [feat: add a slot arrival endpoint to the API](https://github.com/ethpandaops/dora/pull/944) - 2026-11-24
+* [Review] [Review on: feat: add a slot arrival endpoint to the API](https://github.com/ethpandaops/dora/pull/944#pullrequestreview-6039083409) - 2026-11-24
+* [Commit] [feat: show attestation arrivals per client on the slot propagation tab (#946)](https://github.com/ethpandaops/dora/commit/03ab3367633406028a083ec4a50bc1c92ad509f1) - 2026-11-24
+* [Commit] [feat: recognize silver and ethlambda as consensus clients (#945)](https://github.com/ethpandaops/dora/commit/d9d5b78e31c9e58c0c624f3ff98aae3d7a5e1a2f) - 2026-11-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 

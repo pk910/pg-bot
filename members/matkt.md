@@ -191,6 +191,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Backward sync v2 on the Besu pipelines](https://github.com/besu-eth/besu/pull/12027) - 2026-11-23
 * [Pull Request] [Backward sync: add a BackwardSync interface for MergeCoordinator](https://github.com/besu-eth/besu/pull/12029) - 2026-11-23
 * [Review] [Review on: Recover each sender once during parallel block import](https://github.com/besu-eth/besu/pull/11922#pullrequestreview-6020955453) - 2026-11-23
+* [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6035242975) - 2026-11-24
 ## Q3 2026
 
 

@@ -19,6 +19,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-7870: update Glamsterdam min r/w spec](https://github.com/ethereum/EIPs/pull/12491#pullrequestreview-5588496733) - 2026-10-20
 * [Pull Request] [Update EIP-5069: Update EIP Coordinators' responsibilities](https://github.com/ethereum/EIPs/pull/12565) - 2026-10-21
 * [Review] [Review on: Add EIP: Versioned Opcodes for Gas Repricing](https://github.com/ethereum/EIPs/pull/12638#pullrequestreview-5845077040) - 2026-11-10
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [feat(specs,tests): Implement EIP-8141 - Frame Transactions (#3047)](https://github.com/ethereum/execution-specs/commit/f02dc362012fe814da6dc73a458d08304cb0de1b) - 2026-11-24
 ## Q3 2026
 
 
