@@ -152,6 +152,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [fix(light-client): extend verified state history to 128 blocks](https://github.com/NethermindEth/nethermind/pull/16309) - 2026-11-24
 * [Pull Request] [fix(light-client): use the authenticated head for pending EVM calls](https://github.com/NethermindEth/nethermind/pull/16310) - 2026-11-24
 * [Pull Request] [fix(light-client): accept large HTTP batches for EVM calls](https://github.com/NethermindEth/nethermind/pull/16313) - 2026-11-24
+* [Pull Request] [perf(light-client): reduce memory and metrics traffic](https://github.com/NethermindEth/nethermind/pull/16396) - 2026-11-25
+* [Commit] [fix(light-client): accept large HTTP batches for EVM calls (#16313)](https://github.com/NethermindEth/nethermind/commit/6db2cbce5a2783881ef5f9e84669ebe3646d8999) - 2026-11-25
+* [Commit] [refactor(network)!: move discovery dependencies out of Nethermind.Network to slim the bootnode (#16166)](https://github.com/NethermindEth/nethermind/commit/ea64afc26961d0573a26ffdaac22c25a19c15ba8) - 2026-11-25
+* [Commit] [fix(light-client): improve peer recovery and bulk downloads (#16311)](https://github.com/NethermindEth/nethermind/commit/8674e5637a704be8755e29dd8bac054aef0b13e5) - 2026-11-25
+* [Commit] [fix(light-client): use the authenticated head for pending EVM calls (#16310)](https://github.com/NethermindEth/nethermind/commit/955bed6e671a46e8d84ba56cbb4b61aab4d5ef91) - 2026-11-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/ethereum/engine: wait for sent tx to reach the pending pool before payload building (#1610)](https://github.com/ethereum/hive/commit/ae173f1ce15aed785e6c0945c2156a95819d21bf) - 2026-10-06
 

@@ -597,6 +597,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: implement EIP-8253 for Bogota devnet-2 (#26443)](https://github.com/erigontech/erigon/commit/72598b1a9c2e36c4c4835ff1f4cfcf08685ccfba) - 2026-11-24
 * [Commit] [txpool: skip transactions with unrecoverable senders (#26729)](https://github.com/erigontech/erigon/commit/399ec0051c54675eca32ca1c103b2d65eb1aca5c) - 2026-11-24
 * [Commit] [ci: export the Kurtosis BuildKit cache only in Cache Warming (#26730)](https://github.com/erigontech/erigon/commit/c2d70f9492fa6ede870ef0398844e8b7652b9a92) - 2026-11-24
+* [Pull Request] [txpool: simplify remote authorization budget tests](https://github.com/erigontech/erigon/pull/26804) - 2026-11-25
+* [Issue] [eth_getBlockByNumber("latest") can return a competing block after a rejected forkchoice](https://github.com/erigontech/erigon/issues/26824) - 2026-11-25
+* [Commit] [execution/p2p: match BAL replies before decoding their entries (#26778)](https://github.com/erigontech/erigon/commit/e91aca7f9bfd776d4986b770e3914fe0e997f383) - 2026-11-25
+* [Commit] [txpool: fix flush races in transaction selection and lookup (#26727)](https://github.com/erigontech/erigon/commit/c41b6456300bc7bea3e62283220e2cba919d57b4) - 2026-11-25
+* [Commit] [db/state: fix a file mapping leak in snapshot builds and merges (#26551)](https://github.com/erigontech/erigon/commit/aa79a40d5fdf9b96c2f0c25b8e2dba364e249be3) - 2026-11-25
+* [Commit] [execution, rpc: simplify witness parent lookups and test helpers (#26759)](https://github.com/erigontech/erigon/commit/0e3235af28087980a4b2e6f4c7bc8bf173e6d924) - 2026-11-25
+* [Commit] [execution: implement SENDALL (EIP-4758) for Bogota devnet-2 (#26458)](https://github.com/erigontech/erigon/commit/b5ee77b916882785cf7a24dde55956a0b5fe620e) - 2026-11-25
+* [Commit] [execution/state: avoid repeated BAL scans for empty-account removals (#26717)](https://github.com/erigontech/erigon/commit/5733b7897347388c5ab5baae87c5c0a544d5df9f) - 2026-11-25
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [db: share SQLite memory databases across connections](https://github.com/ethpandaops/assertoor/pull/236) - 2026-10-01
 

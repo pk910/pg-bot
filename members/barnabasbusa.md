@@ -96,6 +96,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: add a slot arrival endpoint to the API](https://github.com/ethpandaops/dora/pull/944#pullrequestreview-6039083409) - 2026-11-24
 * [Commit] [feat: show attestation arrivals per client on the slot propagation tab (#946)](https://github.com/ethpandaops/dora/commit/03ab3367633406028a083ec4a50bc1c92ad509f1) - 2026-11-24
 * [Commit] [feat: recognize silver and ethlambda as consensus clients (#945)](https://github.com/ethpandaops/dora/commit/d9d5b78e31c9e58c0c624f3ff98aae3d7a5e1a2f) - 2026-11-24
+* [Pull Request] [feat: attestation arrivals per epoch and after the attestation deadline](https://github.com/ethpandaops/dora/pull/948) - 2026-11-25
+* [Review] [Review on: feat: attestation arrivals per epoch and after the attestation deadline](https://github.com/ethpandaops/dora/pull/948#pullrequestreview-6058257603) - 2026-11-25
+* [Review] [Review on: feat: fall back to the beacon nodes' single attestation events behind a flag](https://github.com/ethpandaops/dora/pull/947#pullrequestreview-6058256782) - 2026-11-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356#pullrequestreview-5392476841) - 2026-10-02
 
@@ -124,6 +127,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: derive ingress usernames from the network name](https://github.com/ethpandaops/template-devnets/pull/199) - 2026-10-29
 * [Commit] [chore: derive ingress usernames from the network name (#199)](https://github.com/ethpandaops/template-devnets/commit/43769c9a91067859b864e4a305e163dc8ca9b17d) - 2026-10-29
 * [Pull Request] [feat: authorize team GitHub SSH keys for root on new nodes](https://github.com/ethpandaops/template-devnets/pull/201) - 2026-11-16
+* [Review] [Review on: toolchain: bump tool versions + python requirements (ansible 14.6 / core 2.21, python 3.14, terraform 1.17)](https://github.com/ethpandaops/template-devnets/pull/204#pullrequestreview-6058114325) - 2026-11-25
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Issue] [Outbound dials use QUIC only when a peer advertises it, with no TCP fallback, and failures are logged only at TRACE](https://github.com/Consensys-Incorporated/teku/issues/11403) - 2026-10-05
 
@@ -137,6 +141,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [test: run heze spec tests with the vector's slot duration schedule](https://github.com/ChainSafe/lodestar/pull/10418) - 2026-10-16
 * [Pull Request] [fix: pin ere.zig to a commit that exists upstream](https://github.com/ChainSafe/lodestar/pull/10686) - 2026-11-20
 * [Issue] [pq-devnet-0: validator XMSS cache fetches time out when key derivation takes over 10s](https://github.com/ChainSafe/lodestar/issues/10731) - 2026-11-23
+* [Issue] [pq-devnet-0: validator rebuilds all VRF trees on one thread after every restart despite --vrfStateUrl](https://github.com/ChainSafe/lodestar/issues/10790) - 2026-11-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [feat: add Bogota to the REST + SSZ engine spec](https://github.com/ethereum/execution-apis/pull/920) - 2026-10-06
 
@@ -236,6 +241,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(docker): include contrib in Docker build context (#28092)](https://github.com/paradigmxyz/reth/commit/21ee0fc8603b5c25ae8a2ffc6f29589ef4b90906) - 2026-10-23
 
 * [Pull Request] [fix(payload): respond to engine_getPayload immediately](https://github.com/paradigmxyz/reth/pull/28165) - 2026-10-27
+* [Commit] [fix(docker): bump Rust images to 1.100 (#28741)](https://github.com/paradigmxyz/reth/commit/7816b576f8544021408bcba400c1978cdf745ae0) - 2026-11-25
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: default --Xpos-block-finalization-timeout-ms to 0](https://github.com/besu-eth/besu/pull/11774) - 2026-10-27
 * [Commit] [fix: default --Xpos-block-finalization-timeout-ms to 0 (#11774)](https://github.com/besu-eth/besu/commit/aa06c4f8dfc461e483d46c6a1ac72b5bfef8d945) - 2026-10-27

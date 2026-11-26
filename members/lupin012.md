@@ -293,6 +293,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc, node: cut per-request work on the HTTP JSON-RPC path](https://github.com/erigontech/erigon/pull/26790) - 2026-11-24
 * [Pull Request] [cmd/rpcdaemon/graphql: skip TestGraphQLQueryBlock unless a GraphQL server answers](https://github.com/erigontech/erigon/pull/26789) - 2026-11-24
 * [Commit] [rpc: decode an optional self-unmarshalling argument without json.Unmarshal (#26741)](https://github.com/erigontech/erigon/commit/85b61a8acd0e9dd4d6a2b8095079e3cf61fadbd3) - 2026-11-24
+* [Review] [Review on: rpc, node: cut per-request work on the HTTP JSON-RPC path](https://github.com/erigontech/erigon/pull/26790#pullrequestreview-6065235218) - 2026-11-25
+* [Commit] [cmd/rpcdaemon/graphql: skip TestGraphQLQueryBlock unless a GraphQL server answers (#26789)](https://github.com/erigontech/erigon/commit/b62dd49998aa28fa6418f2c9d78e36d9b197f978) - 2026-11-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: count JSON-RPC errors in response bodies](https://github.com/erigontech/rpc-tests/pull/615) - 2026-10-03
 * [Pull Request] [rpc_pattern_gen: generate eth_call vegeta patterns from recent blocks](https://github.com/erigontech/rpc-tests/pull/614) - 2026-10-03
@@ -396,6 +398,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc_perf: measure logs and receipts against the first head on any connection](https://github.com/erigontech/rpc-tests/pull/669) - 2026-11-21
 * [Commit] [rpc_perf: measure logs and receipts against the first head on any connection (#669)](https://github.com/erigontech/rpc-tests/commit/704903174ef5646a01b9c78dfdbab3e2b992b57c) - 2026-11-21
 * [Commit] [rpc_perf: read the heavy eth_subscribe classes in a second process (#668)](https://github.com/erigontech/rpc-tests/commit/c7ed9d47688e4760e6949ddc120f813b2f5820f4) - 2026-11-21
+* [Pull Request] [integration: debug_traceCall test_25 expects -32602 for an unsupported block override](https://github.com/erigontech/rpc-tests/pull/670) - 2026-11-25
+* [Commit] [integration: debug_traceCall test_25 expects -32602 for an unsupported block override (#670)](https://github.com/erigontech/rpc-tests/commit/34796c5e1a51214a1cdff982c6ec3ddf883d982d) - 2026-11-26
 ## Q3 2026
 
 
