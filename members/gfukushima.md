@@ -37,6 +37,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [fix anchor reference (#11576)](https://github.com/Consensys-Incorporated/teku/commit/0f2bb08640ee8a62462e8d83aca2557f6fd342c6) - 2026-10-27
 * [Commit] [Reject RPC data column sidecars whose fork digest doesn't match their slot fork (#11575)](https://github.com/Consensys-Incorporated/teku/commit/126e9eaad62678d8c762136e9e54926881461085) - 2026-10-27
 * [Commit] [Move payload bodies request to a separate EL request queue  (#11564)](https://github.com/Consensys-Incorporated/teku/commit/b9f092ba1a86366dd80aa5f2cfddddb55038ef71) - 2026-11-26
+* [Pull Request] [Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762) - 2026-11-27
+* [Review] [Review on: Fix BlobSidecarsByRange handling of requests at the Deneb and Fulu fork boundaries](https://github.com/Consensys-Incorporated/teku/pull/11762#pullrequestreview-6083758547) - 2026-11-27
 ## Q3 2026
 
 

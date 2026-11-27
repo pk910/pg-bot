@@ -26,6 +26,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(proto): regenerate pkg/proto/clickhouse with clickhouse-proto-gen 0.0.29](https://github.com/ethpandaops/xatu/commit/94447aa4f29dd19cc0f497479fd3f9b6929bd79b) - 2026-10-08
 * [Commit] [Merge remote-tracking branch 'origin/master' into feat/event-spec-fields](https://github.com/ethpandaops/xatu/commit/cf452e238b12c071141f3cc16a568354b168e441) - 2026-10-08
 
+* [Pull Request] [fix(clickhouse): retry inserts that fail their quorum in place](https://github.com/ethpandaops/xatu/pull/983) - 2026-11-27
+* [Review] [Review on: fix(clickhouse): retry inserts that fail their quorum in place](https://github.com/ethpandaops/xatu/pull/983#pullrequestreview-6083648205) - 2026-11-27
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: feat: support Gloas beacon events](https://github.com/ethpandaops/contributoor/pull/257#pullrequestreview-5452271544) - 2026-10-08
 * [Commit] [Merge pull request #257 from ethpandaops/feat/gloas-events](https://github.com/ethpandaops/contributoor/commit/00f0f60160d87dc0a26b53278020ff12feb5cb10) - 2026-10-08

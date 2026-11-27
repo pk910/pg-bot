@@ -289,6 +289,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Align PQ validator REST endpoints with beacon-APIs #684](https://github.com/Consensys-Incorporated/teku/pull/11739) - 2026-11-25
 * [Commit] [Sync parent directory after durable file writes (#11648)](https://github.com/Consensys-Incorporated/teku/commit/a22381c2ffe292168177bf7bb2e510bec78bb329) - 2026-11-26
 * [Commit] [Compact pruned slot ranges of block and sidecar tables (#11640)](https://github.com/Consensys-Incorporated/teku/commit/471c9cd8c412d76329f58fae005d956bb01ebe79) - 2026-11-26
+* [Pull Request] [Apply released pending attestations to fork choice in batches](https://github.com/Consensys-Incorporated/teku/pull/11761) - 2026-11-26
+* [Review] [Review on: Apply released pending attestations to fork choice in batches](https://github.com/Consensys-Incorporated/teku/pull/11761#pullrequestreview-6081835818) - 2026-11-27
+* [Review] [Review on: Return 406 for unsupported Accept headers and remove GetExecutionPayloadBid](https://github.com/Consensys-Incorporated/teku/pull/11728#pullrequestreview-6081409621) - 2026-11-26
+* [Review] [Review on: Close the connection when a REST response body cannot be completed](https://github.com/Consensys-Incorporated/teku/pull/11753#pullrequestreview-6081396319) - 2026-11-26
+* [Review] [Review on: Load all-zero composite list elements in tree-mode storage](https://github.com/Consensys-Incorporated/teku/pull/11754#pullrequestreview-6081394586) - 2026-11-26
+* [Pull Request] [Log when leanXMSS bottom trees start and finish preparing](https://github.com/Consensys-Incorporated/teku/pull/11759) - 2026-11-26
+* [Pull Request] [Update lean-pq to 0.19.0](https://github.com/Consensys-Incorporated/teku/pull/11758) - 2026-11-26
+* [Pull Request] [Pack PQ validators in supernodes as earlier forks do](https://github.com/Consensys-Incorporated/teku/pull/11757) - 2026-11-26
+* [Issue] [make sure blobdb is on by default for new databases](https://github.com/Consensys-Incorporated/teku/issues/11760) - 2026-11-26
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [heze-devnet-2 on master raised an error](https://github.com/ethpandaops/dora/issues/900) - 2026-10-13
 

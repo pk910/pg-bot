@@ -341,6 +341,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Update stable reference tests to tests@v21.0.3 (#12046)](https://github.com/besu-eth/besu/commit/0a4a1909989680d4a33ef1397698ee4b14c4b772) - 2026-11-25
 * [Commit] [[4/5] snap/2 sorted ingest: write the downloaded accounts and slots as sorted files (#11855)](https://github.com/besu-eth/besu/commit/da89d7e87cb665326513f93f9f07845184d52950) - 2026-11-25
 * [Commit] [Fix Forest snap sync losing trie nodes (#12016)](https://github.com/besu-eth/besu/commit/6a3ae88e0a265c0a6e904d72222d4cbb98b676bc) - 2026-11-25
+* [Pull Request] [Schedule Amsterdam on Hoodi](https://github.com/besu-eth/besu/pull/12058) - 2026-11-26
+* [Review] [Review on: Carry balance changes over instead of conflicting in the optimistic parallel processor](https://github.com/besu-eth/besu/pull/11809#pullrequestreview-6072925472) - 2026-11-26
+* [Pull Request] [[2/5] Optimistic processor handoff: run transactions again on the values the block changed](https://github.com/besu-eth/besu/pull/12054) - 2026-11-26
+* [Commit] [Recover each sender once during parallel block import (#11922)](https://github.com/besu-eth/besu/commit/05484a6eda76ee99ef82a8eda75170c5e6e2c235) - 2026-11-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Besu incident response coordinators for Glamsterdam](https://github.com/ethereum/pm/pull/2246) - 2026-10-02
 

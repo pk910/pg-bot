@@ -74,6 +74,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Jump and Call Tables for the EVM](https://github.com/ethereum/EIPs/pull/12556#pullrequestreview-6018147640) - 2026-11-23
 * [Review] [Review on: Add EIP: AA Transaction Type](https://github.com/ethereum/EIPs/pull/12385#pullrequestreview-6018139283) - 2026-11-23
 * [Review] [Review on: Add EIP: CALLSTATUS instruction](https://github.com/ethereum/EIPs/pull/12586#pullrequestreview-6018129345) - 2026-11-23
+* [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-6082626375) - 2026-11-27
+* [Review] [Review on: Add EIP: 64-bit Opcodes for the EVM](https://github.com/ethereum/EIPs/pull/12504#pullrequestreview-6082618621) - 2026-11-27
+* [Review] [Review on: Add EIP: Permanent EOA Delegation Opt-Out](https://github.com/ethereum/EIPs/pull/12600#pullrequestreview-6082622547) - 2026-11-27
+* [Review] [Review on: Add EIP: Variable-Size Blobs](https://github.com/ethereum/EIPs/pull/12720#pullrequestreview-6081351355) - 2026-11-26
+* [Review] [Review on: Update EIP-8298: Defer code change, adopt only from own code](https://github.com/ethereum/EIPs/pull/12716#pullrequestreview-6080915358) - 2026-11-26
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Add EIP-8253 devnet prestate](https://github.com/ethpandaops/template-devnets/pull/197) - 2026-10-12
 ## Q3 2026
