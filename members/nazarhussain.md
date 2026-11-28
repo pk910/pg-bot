@@ -177,6 +177,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Run fast confirmation each slot in recently activated validator test (#5783)](https://github.com/ethereum/consensus-specs/commit/8e7f4dc7128ac850299599a548dcd06a1ca0a8cd) - 2026-10-29
 * [Review] [Review on: Assert support_discount <= maximum_support in FCR](https://github.com/ethereum/consensus-specs/pull/5788#pullrequestreview-5709765684) - 2026-10-30
 * [Review] [Review on: Add support of pending parent node to the discount in FCR](https://github.com/ethereum/consensus-specs/pull/5789#pullrequestreview-5751955155) - 2026-11-03
+* [Review] [Review on: Apply block messages before queued children in comptests](https://github.com/ethereum/consensus-specs/pull/5873#pullrequestreview-6092704625) - 2026-11-27
 ## Q3 2026
 
 

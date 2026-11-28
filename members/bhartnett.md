@@ -94,6 +94,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Parallel storage root computation (#5224)](https://github.com/status-im/nimbus-eth1/commit/f55715c9917ef2f2564a90bce6b13854fb58faa7) - 2026-11-25
 * [Pull Request] [BAL prefetch slot chunks](https://github.com/status-im/nimbus-eth1/pull/5225) - 2026-11-26
 * [Commit] [BAL prefetch slot chunks (#5225)](https://github.com/status-im/nimbus-eth1/commit/ea0c7e600b6745ca1a82c3da3e7f8071a97a26cb) - 2026-11-26
+* [Pull Request] [Store contract code with its jumpdest bitmap](https://github.com/status-im/nimbus-eth1/pull/5228) - 2026-11-27
 ## Q3 2026
 
 

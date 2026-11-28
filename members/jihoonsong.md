@@ -61,6 +61,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5648081896) - 2026-10-26
 * [Review] [Review on: Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/pull/12470#pullrequestreview-5992463980) - 2026-11-20
+* [Commit] [Update EIP-7805: Rebase and update EIP-7805](https://github.com/ethereum/EIPs/commit/fbc43ec3a187f0b3dd448e995a041227f4baa7b1) - 2026-11-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #44, October 13, 2026](https://github.com/ethereum/pm/issues/2268) - 2026-10-12
 * [Issue] [FOCIL Breakout #45, October 27, 2026](https://github.com/ethereum/pm/issues/2286) - 2026-10-26
